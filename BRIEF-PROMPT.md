@@ -102,9 +102,24 @@ Rank by how easily a thing passes without anyone noticing:
 
 ---
 
-## 5. Output
+## 5. Output — two places, every run
 
-Write to `briefs/<meeting-date>-<body>.md`. Structure:
+**a. Markdown in git, the durable record.** Write to `briefs/<meeting-date>-<body>.md` and commit
+it. This is the version that is diffable week to week and that survives everything else.
+
+**b. One rolling artifact, the shareable copy.** A single page at a stable URL covering the
+*upcoming* meetings, republished each run — not a new page per meeting. Its URL is recorded in
+`briefs/ARTIFACT.md`; pass that URL to the `Artifact` tool as `url` so the republish updates the
+existing page instead of claiming a new one, and keep the source at
+`briefs/agenda-watch.html` so the same file path redeploys. Keep the favicon and title stable.
+
+The rolling page shows what is *coming*. When a meeting has passed, drop it from the page — the
+markdown in git is where the history lives.
+
+If artifact publishing is unavailable in the run environment, **commit the markdown anyway and say
+in the run output that the artifact step was skipped.** Never silently drop half the deliverable.
+
+Structure, for both:
 
 1. **One-line bottom line** — the single thing worth acting on, or "nothing requiring input".
 2. **Act on this** — items needing a body in the room or a written comment, with the deadline and
@@ -114,6 +129,10 @@ Write to `briefs/<meeting-date>-<body>.md`. Structure:
 5. **Money and land** — the dollar figures and dispositions.
 6. **Noted** — routine items, listed so the reader can see nothing was hidden from them.
 7. **What I could not check** — unread attachments, unpublished agendas, dead links.
+
+Then notify: send a push notification when the run completes, carrying the bottom line and the
+artifact URL. If there is nothing worth acting on, say that in the notification rather than
+suppressing it — a silent week is indistinguishable from a broken routine.
 
 Keep it short enough to read before a meeting. If nothing on an agenda is relevant, the brief is
 three lines saying so. A brief that finds something important every single week is not being
