@@ -1,0 +1,7 @@
+# Downloaded meeting packets — large, and re-fetchable via
+# `python3 data/agenda_watch.py --fetch <agendaId>`
+briefs/raw/*.pdf
+briefs/raw/*.txt
+
+__pycache__/
+*.pyc
