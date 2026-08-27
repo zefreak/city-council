@@ -16,8 +16,11 @@ terminal artifact. The deliverable is a recurring brief in `briefs/`.
 | `data/agenda_watch.py` | working, ~15s per run, both sources |
 | `data/clark-county/fetch_clark_county.py` | working, Clark County only, more verbose output |
 | `BRIEF-PROMPT.md` | written — the lens and output structure |
-| Scheduling | **not set up** — see "Running it" below |
-| Briefs written | none yet |
+| `data/run_watch.sh` | written — local cron runner, gather + brief + notify |
+| Scheduling | local cron, twice weekly — see "Running it" |
+| Email notifications | **needs msmtp set up once** — see below |
+| Cloud routine | disabled — sandbox egress blocks both councils |
+| Briefs written | 3 — Vancouver 24 Aug, Clark County 26 Aug, Planning Commission 8 Sep |
 
 ## Layout
 
@@ -26,6 +29,7 @@ README.md                                 this file
 BRIEF-PROMPT.md                           how a digest becomes a brief
 data/
   agenda_watch.py                         both bodies -> briefs/raw/<date>-digest.md
+  run_watch.sh                            cron runner: gather + claude -p + notify
   .agenda-watch-state.json                seen-agenda fingerprints (auto)
   clark-county/
     fetch_clark_county.py                 Clark County listing walker
@@ -59,9 +63,75 @@ site outage and is not one. A policy denial is to be reported, not worked around
   Monday agenda posts about a week out.
 - **Friday** — Clark County Council Time additions are posted by Friday noon (Rules §VII.P).
 
-Nothing schedules this yet. Cloud routines (`/schedule`) cannot reach this directory, so
-unattended running needs either the repo pushed to git so a cloud agent can clone it, or a local
-cron entry.
+### Automated, twice a week
+
+`data/run_watch.sh` runs the whole job locally: gather, read attachments, write briefs, publish the
+artifact, commit, push, then notify by desktop popup and email. Add to `crontab -e`:
+
+```cron
+PATH=/home/scottr/sf/bin:/usr/local/bin:/usr/bin:/bin
+0 19 * * 3,5 /home/scottr/research/city-council/data/run_watch.sh >/dev/null 2>&1
+```
+
+Wednesday and Friday at 7pm local. The `PATH` line matters — cron's default does not include
+`~/sf/bin`, where `claude` lives.
+
+Test it without waiting for cron:
+
+```bash
+data/run_watch.sh          # full run
+tail -f briefs/raw/run-*.log
+```
+
+Exit codes: `0` work done or nothing to do, `1` setup problem, `2` the gather failed.
+
+### Email setup — required once
+
+`mail` and `mailx` are installed but have **no MTA behind them**, so they silently fail to deliver.
+`msmtp` is what actually sends. Until it is configured the script still runs and still notifies on
+the desktop, but it logs `EMAIL NOT SENT` and raises a critical desktop notice rather than failing
+quietly — a missed brief must never look like a quiet week.
+
+```bash
+sudo pacman -S --needed msmtp
+```
+
+Then create `~/.msmtprc` (Gmail needs an **app password**, not the account password — generate one
+at https://myaccount.google.com/apppasswords with 2FA enabled):
+
+```
+defaults
+auth           on
+tls            on
+tls_trust_file /etc/ssl/certs/ca-certificates.crt
+logfile        ~/.msmtp.log
+
+account        gmail
+host           smtp.gmail.com
+port           587
+from           zefreak@gmail.com
+user           zefreak@gmail.com
+password       <app-password>
+
+account default : gmail
+```
+
+`chmod 600 ~/.msmtprc` — msmtp refuses to use a world-readable file containing a password. Test
+with `printf 'Subject: test
+
+body
+' | msmtp zefreak@gmail.com`.
+
+### Why local rather than a cloud routine
+
+This ran first as a Claude Code cloud routine (`trig_01RT8WqXFyTLpGRsE8gHBGmp`, now disabled). The
+cloud sandbox sits behind an egress proxy that allowlists package registries and API hosts;
+`clark.wa.gov` and `vancouverwa.api.civicclerk.com` are not on it and answered 403 to CONNECT, so
+the gather could not run at all. Adding domains requires the Enterprise admin console. The failed
+run is recorded at `briefs/raw/2026-08-27-digest.md`. Re-enabling the routine is one API call if
+that ever changes.
+
+
 
 ## Meeting days
 

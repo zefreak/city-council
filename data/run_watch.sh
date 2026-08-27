@@ -1,0 +1,224 @@
+#!/usr/bin/env bash
+# Council agenda watch — local cron runner.
+#
+# Runs the whole job on this machine: gather, read attachments, write briefs,
+# publish the rolling artifact, commit and push, then notify by desktop popup
+# and email.
+#
+# WHY LOCAL. This ran as a Claude Code cloud routine first
+# (trig_01RT8WqXFyTLpGRsE8gHBGmp, now disabled). The cloud sandbox sits behind
+# an Anthropic-managed egress proxy that allowlists package registries and API
+# hosts; clark.wa.gov and vancouverwa.api.civicclerk.com are not on it and
+# answered 403 to CONNECT. There is no per-account setting to add them outside
+# the Enterprise admin console. See briefs/raw/2026-08-27-digest.md for the
+# failed run. Re-enabling the cloud routine is one API call if that ever
+# changes.
+#
+# WHEN. Wednesday and Friday evening — see README.md "Running it". Clark
+# County's Tuesday agenda is due 5pm Wednesday; Council Time additions by
+# Friday noon.
+#
+# EXIT CODES. 0 work done or nothing to do; 1 setup problem (missing claude,
+# bad repo); 2 the gather failed (usually network).
+
+set -uo pipefail
+
+PROJECT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$PROJECT" || exit 1
+
+EMAIL_TO="zefreak@gmail.com"
+CLAUDE_BIN="${CLAUDE_BIN:-$HOME/sf/bin/claude}"
+MODEL="${MODEL:-opus}"
+
+STAMP="$(date +%Y-%m-%d-%H%M)"
+LOGDIR="$PROJECT/briefs/raw"
+LOG="$LOGDIR/run-$STAMP.log"
+BOTTOM_LINE="$LOGDIR/.last-bottom-line.txt"
+mkdir -p "$LOGDIR"
+
+log() { printf '[%s] %s\n' "$(date +%H:%M:%S)" "$*" | tee -a "$LOG"; }
+
+# --------------------------------------------------------------- notify
+# cron has no desktop session, so notify-send needs to be told which bus to
+# talk to. Find the user's session bus from a running process rather than
+# assuming /run/user/$UID/bus exists.
+desktop_notify() {
+  local urgency="$1" title="$2" body="$3"
+  command -v notify-send >/dev/null 2>&1 || return 0
+  if [ -z "${DBUS_SESSION_BUS_ADDRESS:-}" ]; then
+    local bus="/run/user/$(id -u)/bus"
+    [ -S "$bus" ] && export DBUS_SESSION_BUS_ADDRESS="unix:path=$bus"
+  fi
+  [ -n "${DBUS_SESSION_BUS_ADDRESS:-}" ] || { log "no dbus session; skipped desktop notification"; return 0; }
+  notify-send --urgency="$urgency" --app-name="Agenda Watch" "$title" "$body" \
+    2>>"$LOG" || log "notify-send failed"
+}
+
+# Email needs an MTA. mail/mailx are installed but have nothing behind them,
+# so msmtp is what actually delivers. If it is missing or unconfigured, say so
+# loudly in the log and on the desktop rather than failing silently — a missed
+# brief must never look like a quiet week.
+email_notify() {
+  local subject="$1" body="$2"
+  if ! command -v msmtp >/dev/null 2>&1 || [ ! -f "$HOME/.msmtprc" ]; then
+    log "EMAIL NOT SENT — msmtp missing or ~/.msmtprc absent. See README.md."
+    desktop_notify critical "Agenda Watch — email not configured" \
+      "Brief was written but could not be emailed. Set up msmtp (README)."
+    return 0
+  fi
+  printf 'To: %s\nFrom: %s\nSubject: %s\nContent-Type: text/plain; charset=UTF-8\n\n%s\n' \
+    "$EMAIL_TO" "$EMAIL_TO" "$subject" "$body" \
+    | msmtp --read-recipients 2>>"$LOG" \
+    || { log "msmtp failed — see log"; desktop_notify critical \
+         "Agenda Watch — email failed" "See $LOG"; }
+}
+
+notify_both() {
+  local urgency="$1" subject="$2" body="$3"
+  desktop_notify "$urgency" "$subject" "$body"
+  email_notify "$subject" "$body"
+}
+
+# --------------------------------------------------------------- preflight
+[ -x "$CLAUDE_BIN" ] || { log "FATAL: claude not executable at $CLAUDE_BIN"; \
+  notify_both critical "Agenda Watch — setup error" \
+  "claude not found at $CLAUDE_BIN"; exit 1; }
+
+log "=== run start, project $PROJECT"
+
+# Pull first so a cloud run or a manual edit elsewhere does not cause a
+# conflict at push time.
+git pull --ff-only >>"$LOG" 2>&1 || log "warning: git pull --ff-only failed; continuing"
+
+# --------------------------------------------------------------- gather
+log "running agenda_watch.py"
+GATHER="$(timeout 900 python3 data/agenda_watch.py 2>&1)"
+GATHER_RC=$?
+printf '%s\n' "$GATHER" >>"$LOG"
+
+if [ $GATHER_RC -ne 0 ]; then
+  log "FATAL: gather failed (rc=$GATHER_RC)"
+  notify_both critical "Agenda Watch — gather FAILED" \
+"The agenda fetch failed and no brief was written. This is usually a network
+problem reaching clark.wa.gov or vancouverwa.api.civicclerk.com.
+
+Log: $LOG
+
+$(printf '%s' "$GATHER" | tail -15)"
+  exit 2
+fi
+
+if printf '%s' "$GATHER" | grep -q "No new or changed agendas"; then
+  log "nothing new; sending quiet notification"
+  notify_both low "Agenda Watch — nothing new" \
+"No new or changed agendas were published since the last run.
+
+This is the routine working, not failing. Next run per crontab.
+Log: $LOG"
+  exit 0
+fi
+
+DIGEST="$LOGDIR/$(date +%Y-%m-%d)-digest.md"
+log "digest written: $DIGEST"
+
+# --------------------------------------------------------------- brief
+# BRIEF-PROMPT.md is the instruction set; the prompt below only orchestrates.
+: > "$BOTTOM_LINE"
+
+read -r -d '' PROMPT <<PROMPT_EOF
+Run the council agenda watch brief for this repo. You are in $PROJECT.
+
+READ FIRST, in order: CLAUDE.md, BRIEF-PROMPT.md, README.md. BRIEF-PROMPT.md is
+the full instruction set — the lens, what to look for, the output structure and
+the accuracy rules. Follow it rather than improvising. README.md carries the
+gotchas; several cause silent wrong answers, not errors.
+
+The gather has already run. Its digest is at $DIGEST — read it; do not re-run
+the script.
+
+1. For every meeting in the digest, READ THE ATTACHMENTS. Do not brief from
+   agenda titles; titles are written to be uncontroversial and the substance is
+   in the staff reports, ordinances and presentations. Download with curl and
+   read with pdftotext -layout. 'python3 data/agenda_watch.py --fetch <agendaId>'
+   pulls Vancouver meeting-level files. If you flag an item without opening its
+   attachments, say so explicitly in the brief.
+
+2. Before briefing any housing, zoning, comprehensive plan, impact fee or
+   homelessness item, read context/README.md and consult the analysis in
+   context/. It already holds the local landscape and the counter-arguments.
+   Do not re-derive what is there and do not contradict it without saying so.
+   Those files are copies and may be stale — treat a figure there as a lead to
+   verify against the agenda's own attachments, not as current fact.
+
+3. Write one markdown brief per meeting to briefs/<meeting-date>-<body>.md per
+   BRIEF-PROMPT.md section 5. Every brief ends with 'What I could not check'.
+
+4. Update the rolling artifact. Read briefs/ARTIFACT.md for the URL and rules.
+   Edit briefs/agenda-watch.html, then call Artifact with file_path
+   briefs/agenda-watch.html, the url from ARTIFACT.md, and favicon the classical
+   building emoji. Passing the url is what updates the existing page instead of
+   creating a second one — do not omit it. Keep the title 'Council Agenda Watch'
+   unchanged. The page shows UPCOMING meetings; drop ones that have passed. If
+   publishing is unavailable, commit the markdown anyway and say the artifact
+   step was skipped — never silently drop half the deliverable.
+
+5. Commit and push: git add -A, commit with a message stating the findings not
+   just 'update briefs', then push to origin main. If the push is rejected
+   because the remote moved, pull --rebase and retry.
+   data/.agenda-watch-state.json is committed on purpose so seen-agenda state
+   persists between runs; if it conflicts, take the remote version.
+
+6. LAST STEP, REQUIRED: write a plain-text summary to $BOTTOM_LINE — first line
+   is a single sentence bottom line, then a blank line, then up to six bullet
+   lines for what needs action, each naming the body, the item and any deadline.
+   No markdown headers, no links. This file is the body of the notification the
+   user actually reads, so if it is empty they get nothing useful.
+
+JUDGEMENT: the reader is on the left and organises with DSA. Rank by how easily
+something passes unnoticed — consent items pass without debate unless pulled,
+work sessions take no public comment but shape proposals, special meetings need
+only 24 hours' notice. Do not manufacture urgency; if nothing is relevant the
+brief is three lines saying so. Where an item is genuinely good, say so.
+Flag public comment deadlines and sign-up mechanisms wherever comment is open.
+
+If you hit a blocker, still commit what you completed and state in
+$BOTTOM_LINE exactly what failed and what is missing.
+PROMPT_EOF
+
+log "invoking claude (model=$MODEL)"
+printf '%s' "$PROMPT" | timeout 3600 "$CLAUDE_BIN" -p \
+  --model "$MODEL" \
+  --permission-mode acceptEdits \
+  >>"$LOG" 2>&1
+CLAUDE_RC=$?
+log "claude exited rc=$CLAUDE_RC"
+
+# --------------------------------------------------------------- notify
+if [ -s "$BOTTOM_LINE" ]; then
+  SUMMARY="$(cat "$BOTTOM_LINE")"
+else
+  SUMMARY="The brief run produced no summary file. Something went wrong — check
+the log and the repo before assuming there was nothing to report.
+
+Log: $LOG"
+fi
+
+if [ $CLAUDE_RC -ne 0 ]; then
+  notify_both critical "Agenda Watch — brief run failed (rc=$CLAUDE_RC)" \
+"$SUMMARY
+
+Log: $LOG"
+  exit 0
+fi
+
+FIRSTLINE="$(head -1 "$BOTTOM_LINE" 2>/dev/null)"
+[ -n "$FIRSTLINE" ] || FIRSTLINE="Agenda watch ran — see log"
+
+notify_both normal "Agenda Watch — $(date +%a\ %d\ %b)" \
+"$SUMMARY
+
+Artifact: https://claude.ai/code/artifact/401e7202-daea-4512-8c70-0b8fe2b1cd51
+Log: $LOG"
+
+log "=== run complete"
+exit 0
