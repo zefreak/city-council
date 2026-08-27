@@ -19,7 +19,8 @@
 # Friday noon.
 #
 # EXIT CODES. 0 work done or nothing to do; 1 setup problem (missing claude,
-# bad repo); 2 the gather failed (usually network).
+# bad repo); 2 the gather failed (usually network); 3 the brief run died
+# part-way (session limit, timeout) — work may be uncommitted.
 
 set -uo pipefail
 
@@ -251,12 +252,17 @@ the log and the repo before assuming there was nothing to report.
 Log: $LOG"
 fi
 
+# Exit 3, not 0. A brief run that died — usually the account session limit, or
+# a timeout — must be distinguishable from success by anything watching exit
+# codes, not only by the notification. Work already written to disk is left in
+# place and committed on the next run.
 if [ $CLAUDE_RC -ne 0 ]; then
   notify_both critical "Agenda Watch — brief run failed (rc=$CLAUDE_RC)" \
 "$SUMMARY
 
+Uncommitted work may be sitting in the working tree — check 'git status'.
 Log: $LOG"
-  exit 0
+  exit 3
 fi
 
 FIRSTLINE="$(head -1 "$BOTTOM_LINE" 2>/dev/null)"

@@ -5,3 +5,11 @@ briefs/raw/*.txt
 
 __pycache__/
 *.pyc
+
+# Cached meeting attachments: keep the pdftotext output, not the PDFs.
+# A single meeting runs ~14MB of PDF against ~0.6MB of text, and at two
+# meetings a week that is ~1.5GB/year in git. The .txt is what gets read and
+# quoted; every brief records the source URL, so the PDF is re-fetchable.
+# This is a deliberate deviation from the parent repo's "cache every primary
+# source" rule, made for repo size. The PDFs still sit on disk locally.
+data/*/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/*.pdf
