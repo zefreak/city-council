@@ -77,6 +77,16 @@ cron entry.
   week ahead, posted the preceding Thursday. It is the earliest published notice of what is coming.
 - **Clark County filenames are not consistently formatted** (`8.19.26-ct-agenda.pdf` next to
   `08262026-ct-agenda.pdf`). Scrape the href; never construct one from a date.
+- **Meeting-level files use `GetMeetingFile`, item attachments use `GetAttachmentFile`.** The two
+  endpoints share a fileId namespace, so the wrong one returns *an unrelated document* with HTTP
+  200 and no error — fileId 2994 on `GetAttachmentFile` returns a Cultural Access deck from
+  October 2025 instead of the September 2026 Planning Commission agenda. Use the `url` field the
+  API supplies in `publishedFiles`. It returns JSON `{"blobUri": ...}`, not a PDF; fetch the
+  blobUri as a second step.
+- **`agendaIsPublish` and `agendaPacketIsPublish` are different things.** An agenda can be
+  published while the packet is not — which means the agenda titles are readable but every staff
+  report is still unavailable. Check the packet flag before concluding an item has no documents,
+  and re-run closer to the meeting.
 - **Vancouver's `fiscalImpactSummary` is empty on the public API.** A blank field is not evidence
   of no fiscal impact — the numbers are in the attachments.
 - **The CivicClerk API is slow**, roughly 5–10 seconds per request and one request per meeting.

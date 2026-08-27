@@ -76,6 +76,21 @@ def jget(url):
     return json.loads(get(url)[0])
 
 
+def fetch_meeting_file(url):
+    """Meeting-level files (agenda, packet, minutes) come back as
+    {"blobUri": "https://civicclerk.blob.core.windows.net/..."} rather than as
+    the file itself. Item attachments via GetAttachmentFile do NOT do this —
+    they return the PDF directly. Handle both."""
+    blob, _ = get(url, timeout=180)
+    if blob[:1] == b"{":
+        try:
+            uri = json.loads(blob)["blobUri"]
+        except (ValueError, KeyError):
+            return blob
+        return get(uri, timeout=180)[0]
+    return blob
+
+
 def text(fragment):
     t = re.sub(r"<(br|/p|/li|/div|/tr)[^>]*>", "\n", fragment, flags=re.I)
     t = html.unescape(re.sub(r"<[^>]+>", " ", t))
@@ -143,11 +158,21 @@ def van_meetings(days_ahead):
                 "signup_cutoff": a.get("signUpCutoffTime"),
                 "comment_cutoff": a.get("commentCutOffTime"),
             }
+            rec["packet_published"] = a.get("agendaPacketIsPublish")
             for f in a.get("publishedFiles") or []:
+                # Meeting-level files use GetMeetingFile, NOT GetAttachmentFile.
+                # The two endpoints share a fileId namespace, so the wrong one
+                # returns an unrelated document with HTTP 200 and no error —
+                # fileId 2994 on GetAttachmentFile returned a Cultural Access
+                # deck from Oct 2025 instead of the Sept 2026 PC agenda.
+                # Prefer the API's own `url`, which points at the right endpoint.
+                # That endpoint returns JSON {"blobUri": ...} rather than a PDF;
+                # see fetch_meeting_file.
                 rec["files"].append({
                     "name": f.get("name") or f.get("type"),
-                    "url": f"{VAN_API}/Meetings/GetAttachmentFile"
-                           f"(fileId={f.get('fileId')})"})
+                    "url": f.get("url") or
+                           f"{VAN_API}/Meetings/GetMeetingFile"
+                           f"(fileId={f.get('fileId')},plainText=false)"})
             for sect, depth, it, is_heading in van_walk(items):
                 name = (it.get("agendaObjectItemName") or "").strip()
                 if not name:
@@ -274,8 +299,11 @@ def render(recs):
             c = r["comment"]
             L.append(f"- Public speaker signup: **{c.get('speaker_signup')}** · "
                      f"written comment: **{c.get('written_comment')}**")
+            if r.get("packet_published") is False:
+                L.append("- **Agenda packet not published yet** — staff reports "
+                         "and attachments are unavailable; only the agenda is.")
             if r["files"]:
-                L.append("- Packet files:")
+                L.append("- Packet files (GetMeetingFile -> blobUri, two-step):")
                 for f in r["files"]:
                     L.append(f"  - [{f['name']}]({f['url']})")
             L.append("")
@@ -316,8 +344,9 @@ def main():
     if len(args) == 2 and args[0] == "--fetch":
         a = jget(f"{VAN_API}/Meetings/{args[1]}")
         for f in a.get("publishedFiles") or []:
-            url = f"{VAN_API}/Meetings/GetAttachmentFile(fileId={f['fileId']})"
-            blob = get(url, timeout=180)[0]
+            url = f.get("url") or (f"{VAN_API}/Meetings/GetMeetingFile"
+                                   f"(fileId={f['fileId']},plainText=false)")
+            blob = fetch_meeting_file(url)
             path = os.path.join(RAW, f"van-{args[1]}-{f['fileId']}.pdf")
             with open(path, "wb") as fh:
                 fh.write(blob)
