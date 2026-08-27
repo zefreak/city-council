@@ -45,8 +45,12 @@ fragment; `build_site.py` contains no colours, only the toggle's layout.
 The boot script that reads `localStorage` is inline in `<head>` **on purpose**. Deferring it to
 the end of the body would paint the wrong theme first and flash.
 
-## The old claude.ai artifact
+## The old claude.ai artifact — frozen, do not republish
 
-`https://claude.ai/code/artifact/401e7202-daea-4512-8c70-0b8fe2b1cd51` was the previous home. It is
-no longer updated by the run. Give it one final republish pointing at the Pages URL, or leave it —
-but do not resume publishing to both, because two copies drifting apart is worse than one.
+`https://claude.ai/code/artifact/401e7202-daea-4512-8c70-0b8fe2b1cd51` was the previous home. It
+carries a moved-notice pointing at the Pages URL and its content is frozen at 26 August 2026.
+
+Its source is `briefs/artifact-frozen.html`, generated once from the fragment and **not** rebuilt
+by `build_site.py` — it is a snapshot on purpose. Leave it alone. Do not resume publishing there:
+two copies of a council brief drifting apart is worse than one, and a stale agenda that looks
+current is the specific failure this project exists to avoid.
