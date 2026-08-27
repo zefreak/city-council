@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 6 — Vancouver 24 Aug, Clark Co. Council Time 26 Aug, BOH 26 Aug, NCRTS work session 26 Aug, Planning Commission 8 Sep, Clark Co. Council 1 Sep |
+| Briefs written | 8 — Vancouver 24 Aug, Vancouver CAHC special meeting 25 Aug, Clark Co. Council Time 26 Aug, BOH 26 Aug, NCRTS work session 26 Aug, Clark Co. Council 1 Sep, Planning Commission 8 Sep, Vancouver advisory calendar 9 Sep |
 
 ## Layout
 
@@ -76,6 +76,23 @@ thing `BRIEF-PROMPT.md` §2 says must not happen. It fails *quietly*: the briefs
 and committed, just hollow. The fix is a tool allowlist on the `claude` invocation; a commented
 draft sits at the invocation site in `run_watch.sh`, unverified against the installed build.
 Check `claude --help | grep -i allowed` for the flag spelling, then test with a manual run.
+
+**`git push` fails in a headless run, and it fails at the last step.** The configured credential
+helper is `git-credential-libsecret`, which needs the Secret Service over D-Bus. With no session bus
+— cron, or `claude -p` from a non-graphical shell — it dies with `could not connect to Secret
+Service: Cannot autolaunch D-Bus without X11 $DISPLAY` and then `fatal: could not read Username for
+'https://github.com'`. Since **the push is the publish**, that failure means the briefs are
+committed and nothing is live. `gh` is authenticated and can supply the credential without the
+keyring:
+
+```bash
+git -c credential.helper='!gh auth git-credential' push origin main
+```
+
+That worked on the 26 August 2026 21:39 run. It still prints the same D-Bus `CRITICAL` lines — they
+come from the *store* step caching the credential, and are harmless; check for
+`main -> main` in the output, not for a clean stderr. `run_watch.sh` has not been changed to use
+this, so a cron run will still fail at the push.
 
 **When to run.** The two bodies publish on different days, so a two-run week catches both:
 
@@ -203,6 +220,15 @@ that ever changes.
   published while the packet is not — which means the agenda titles are readable but every staff
   report is still unavailable. Check the packet flag before concluding an item has no documents,
   and re-run closer to the meeting.
+- **A packet appearing does not resurface a meeting in the digest.** `fingerprint()` hashes item
+  *names* only, so `agendaPacketIsPublish` flipping false→true changes nothing and the meeting stays
+  "seen". The 8 September Planning Commission packet — which holds the draft HB 1491 Title 20 text —
+  is exactly this case. Query `Meetings/{agendaId}` by hand for any meeting whose brief is waiting on
+  a packet; do not wait for the digest to tell you.
+- **A cancelled Vancouver meeting is only visible in the event *name*.** The City appends
+  "- Cancelled" (or "- Canceled" — both spellings are in use) to `eventName` and leaves `agendaId` at
+  0. There is no cancellation flag and no notice document, so a cancellation is indistinguishable
+  from an agenda that has not posted except by reading the title.
 - **Vancouver's `fiscalImpactSummary` is empty on the public API.** A blank field is not evidence
   of no fiscal impact — the numbers are in the attachments.
 - **The CivicClerk API is slow**, roughly 5–10 seconds per request and one request per meeting.
