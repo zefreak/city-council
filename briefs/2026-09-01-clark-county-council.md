@@ -12,6 +12,12 @@ Attachments cached at `data/clark-county/2026-09-01/` (PDF + `pdftotext -layout`
 > "budget-neutral" consent item. Those are corrected in place below and the old readings are named.
 > One thing got worse, not better: the Rules of Procedure ordinance **has no document posted at all**.
 
+> **Re-checked 26 August 2026, 21:40.** The Council's 1 September listing row was fetched again.
+> **No document has been added.** The Rules of Procedure ordinance and Exhibit "A" are still not
+> posted — five days before a hearing on them. The eleven other attachments are byte-identical to
+> the set read at 18:42 (unchanged fingerprint in `data/.agenda-watch-state.json`), so nothing else
+> on this agenda has moved either. Everything below stands as written.
+
 ## Bottom line
 
 The Council will hold a public hearing to rewrite its own rules on what the public may say to it —
@@ -281,8 +287,8 @@ why this is on the agenda now. Second, and this is the quiet channel: "council h
 session** on the topic" of motorized micromobility devices, and Public Works "is creating a new
 motorized micromobility device policy." **Work sessions take no public comment at all** (Rules §VIII).
 The grant funds signage and education; the *policy* — which is where restrictions on where people may
-ride would live — is being drafted separately and shaped in the one format with no public входа. That
-work session is the thing to watch for on a future Wednesday agenda.
+ride would live — is being drafted separately and shaped in the one format with no public way in.
+That work session is the thing to watch for on a future Wednesday agenda.
 
 ## Consent agenda
 

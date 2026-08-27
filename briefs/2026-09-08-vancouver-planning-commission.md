@@ -6,6 +6,12 @@ Agenda published 21 Aug 2026 · fileId 2994 · cached at `briefs/raw/van-1202-29
 Commissioners: Patrick Adigweme (chair), Zach Pyle (vice chair), Kate Castenson, Nena Cavel,
 Sandra Beck, John Jay, Alyssa Wheeler.
 
+> **Re-checked 26 August 2026, 21:25.** `Meetings/1202` queried directly, because a packet
+> appearing does *not* resurface a meeting in the digest — the change fingerprint covers item names
+> only, not the packet flag. Result: `agendaIsPublish` **true**, `agendaPacketIsPublish` still
+> **false**, 11 items, one published file (the agenda, fileId 2994). **The packet has not posted.**
+> Twelve days out. Everything below stands; the gap in "What I could not check" is unchanged.
+
 ## Bottom line
 
 **Item 9 is the most consequential housing item on any agenda in this cycle.** Vancouver is
