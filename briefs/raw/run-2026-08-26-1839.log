@@ -1,0 +1,9 @@
+[18:39:44] === run start, project /home/scottr/research/city-council
+Already up to date.
+[18:39:50] running agenda_watch.py
+4 meetings (0 with published agendas)
+digest -> /home/scottr/research/city-council/briefs/raw/2026-08-26-digest.md
+[18:39:55] digest written: /home/scottr/research/city-council/briefs/raw/2026-08-26-digest.md
+[18:39:55] invoking claude (model=opus)
+You've hit your session limit · resets 7:10pm (America/Los_Angeles)
+[18:45:33] claude exited rc=1

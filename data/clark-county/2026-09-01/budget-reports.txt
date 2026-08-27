@@ -1,0 +1,273 @@
+2026 Mid-Year Supplemental
+      Budget Reports
+ County Manager Recommended Stage
+        September 1, 2026
+For additional information or questions
+  about the budget process contact:
+
+      Clark County Budget Office
+P.O. Box 5000, Vancouver, WA. 98666
+        Phone: (564) 397-6097
+  https://www.clark.wa.gov/budget
+
+
+
+
+                   i
+                                                 Table of Contents
+Budget Office Contact Information ............................................................................................................... i
+
+Table of Contents ................................................................................................................................................. ii
+
+Operating Budget Reports ..................................................................................................................................
+
+        Attachment A1: Summary by Fund ...................................................................................................... 1
+
+        Attachment A2: Summary by Fund and by Package ..................................................................... 2
+
+        Attachment B: Staffing Change ............................................................................................................. 3
+
+        Exhibit A: Line Item Coding .................................................................................................................... 4
+
+Change Requests Narrative by Fund Report ............................................................................................ 5
+
+
+
+
+                                                                                  ii
+                                                                       ATTACHMENT A1: SUMMARY BY FUND
+                                                                       Stage: County Manager Recommended
+                                                                            2026 Mid-Year Supplemental
+                                                                                 September 1, 2026
+    Fund                                Fund Name     Sum of 2026              Sum of 2026               Sum of 2026             Sum of 2027          Sum of 2027               Sum of 2027
+                                                    Revenue Change           Expense Change          Fund Balance Change       Revenue Change       Expense Change          Fund Balance Change
+1044          Law and Justice Support                         $ 1,626,298              $ 1,784,856               ($ 158,558)                    -             $ 1,787,742              ($ 1,787,742)
+Grand Total                                                  $ 1,626,298              $ 1,784,856                ($ 158,558)                    -            $ 1,787,742              ($ 1,787,742)
+
+
+
+
+                                                                                       1
+                                                                ATTACHMENT A2: SUMMARY BY FUND AND BY PACKAGE
+                                                                       Stage: County Manager Recommended
+                                                                            2026 Mid-Year Supplemental
+                                                                                 September 1, 2026
+   Change Request      Fund                         Fund Name        Type         Sum of 2026          Sum of 2026       Sum of 2026           Sum of 2027          Sum of 2027        Sum of 2027
+   Package Number     Number                                                    Revenue Change       Expense Change      Fund Balance        Revenue Change       Expense Change       Fund Balance
+                                                                                                                           Change                                                        Change
+BGT-01-26MY         1044       Law and Justice Support           One-Time             $ 1,626,298          $ 1,046,590          $ 579,708                     -                    -                   -
+BGT-01-26MY         1044       Law and Justice Support           Ongoing                         -           $ 738,266         ($ 738,266)                    -         $ 1,787,742        ($ 1,787,742)
+Grand Total                                                                           $ 1,626,298          $ 1,784,856        ($ 158,558)                     -         $ 1,787,742       ($ 1,787,742)
+
+
+
+
+                                                                                      2
+                                                                  ATTACHMENT B: STAFFING CHANGES
+                                                                   Stage: County Manager Recommended
+                                                                       2026 Mid-Year Supplemental
+                                                                            September 1, 2026
+
+Change Request    Fund           Fund Name           Department    Costing   Program             Type    Add,      FTE   Effective Date of    Position #    Length for
+Package Number   Number                                            Center      Code                     Delete,   Change      Change                       new project
+                                                                    Code                                Change              (MM/YYYY)                        positions
+
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003507 -
+                                                                                                                                             P01-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003508 -
+                                                                                                                                             P02-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003509 -
+                                                                                                                                             P03-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003510 -
+                                                                                                                                             P04-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003511 -
+                                                                                                                                             P05-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003512 -
+                                                                                                                                             P06-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003513 -
+                                                                                                                                             P07-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003514 -
+                                                                                                                                             P08-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003515 -
+                                                                                                                                             P09-CC299-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   250           CC299      PG0331    Regular            A           1.00     08/2026       P003516 -
+                                                                                                                                             P10-CC299-
+                                                                                                                                             26MY
+
+
+
+
+                                                                                   3
+                                                                  ATTACHMENT B: STAFFING CHANGES
+                                                                   Stage: County Manager Recommended
+                                                                       2026 Mid-Year Supplemental
+                                                                            September 1, 2026
+Change Request    Fund           Fund Name           Department    Costing   Program             Type    Add,      FTE   Effective Date of    Position #    Length for
+Package Number   Number                                            Center      Code                     Delete,   Change      Change                       new project
+                                                                    Code                                Change              (MM/YYYY)                        positions
+
+BGT-01-26MY      1044     Law and Justice Support   322           CC322      PG0295    Regular            A           1.00     08/2026       P003517 -
+                                                                                                                                             P01-CC322-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   322           CC322      PG0295    Regular            A           1.00     08/2026       P003518 -
+                                                                                                                                             P02-CC322-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   322           CC322      PG0295    Regular            A           1.00     08/2026       P003519 -
+                                                                                                                                             P03-CC322-
+                                                                                                                                             26MY
+BGT-01-26MY      1044     Law and Justice Support   322           CC322      PG0295    Regular            A           1.00     08/2026       P003520 -
+                                                                                                                                             P04-CC322-
+                                                                                                                                             26MY
+Grand Total                                                                                                         14.00
+
+
+
+
+                                                                                   4
+                                                                        APPROPRIATION LINE ITEM CODING
+                                                                       Stage: County Manager Recommended
+                                                                            2026 Mid-Year Supplemental
+                                                                                 September 1, 2026
+     Change Request      Fund                              Fund Name        Costing         Program       Revenue      Ledger Account       Type     Sum of 2026          Sum of 2026
+     Package Number     Number                                            Center Code         Code       Category          Code                    Revenue Change       Expense Change
+                                                                                                            Code
+BGT-01-26MY           1044       Law and Justice Support                 CC299                        R0469         3340000             One-Time          $ 1,082,801                    -
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5010000             Ongoing                     -           $ 412,130
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5040000             Ongoing                     -            $ 21,930
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5200000             Ongoing                     -            $ 33,970
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5220000             Ongoing                     -               $ 160
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5221000             Ongoing                     -            $ 49,340
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5222000             Ongoing                     -            $ 10,330
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5223000             Ongoing                     -             $ 2,320
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5230000             Ongoing                     -               $ 150
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5310000             One-Time                    -           $ 593,480
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5450000             One-Time                    -            $ 80,530
+BGT-01-26MY           1044       Law and Justice Support                 CC299          PG0331                      5990900             Ongoing                     -            $ 16,540
+BGT-01-26MY           1044       Law and Justice Support                 CC322                        R0469         3340000             One-Time           $ 543,497                     -
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5010000             Ongoing                     -           $ 139,156
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5040000             Ongoing                     -             $ 9,896
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5200000             Ongoing                     -            $ 11,468
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5220000             Ongoing                     -                $ 64
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5221000             Ongoing                     -            $ 19,756
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5222000             Ongoing                     -             $ 4,168
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5223000             Ongoing                     -               $ 936
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5230000             Ongoing                     -                $ 60
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5236000             Ongoing                     -               $ 152
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0295                      5990900             Ongoing                     -             $ 5,740
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0460                      5020000             One-Time                    -           $ 162,866
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0460                      5310000             One-Time                    -            $ 81,979
+BGT-01-26MY           1044       Law and Justice Support                 CC322          PG0460                      5450000             One-Time                    -           $ 127,735
+Grand Total                                                                                                                                              $ 1,626,298          $ 1,784,856
+
+
+
+
+                                                                                        5
+2026 Mid-Year Supplemental
+Stage: County Manager Recommended
+Exhibit B: Change Request Narratives by Fund
+September 1, 2026
+
+
+
+
+                           6
+BGT-01-26MY Budget Office                                  Fund 1044: Law & Justice Support Tax | HB2015 Grant Award
+(Round 1) 2026 Impacts
+Priority: 1
+Previously Approved by Council
+
+
+
+Strategic Action: Finance
+
+
+
+Name (Elected Official / Department Director): Emily M. Zwetzig Email (Elected Official Department Director): emily.zwetzig@clark.wa.gov
+Phone Number (Elected Official Department Director): (564) 397-5092
+
+
+Contact: Emily M. Zwetzig Contact email: emily.zwetzig@clark.wa.gov Contact phone: (564) 397-5092
+
+
+Requested Action:
+This Change Request implements the Council-approved appropriations authorized through the Staff Report No.174-26 approved on July 21, 2026, for the implementation of HB 2015
+Washington State Criminal Justice Training Commission grant funding. The 2026 Mid-Year Budget Supplemental provides appropriation authority for expenditures supported through
+the HB 2015 Local Law Enforcement Grant Program (Round 1), along with the remaining funding necessary to support Council-approved positions funded through the Councilmanic
+0.1 percent Criminal Justice Sales and Use Tax.
+
+This request recognizes the Council-approved 2026 full-time equivalent (FTE) positions and associated operating expenditures and provides the budget authority necessary to
+implement these approvals during the remainder of 2026. Consistent with the Council-approved grant implementation strategy, additional position authority and related appropriations
+for future phases of implementation will be incorporated through the 2027 and 2028 annual budget processes.
+
+
+Justification:
+Pursuant to RCW 43.101.540 (ESHB 2015), the Washington State Criminal Justice Training Commission established a $100 million grant program, available through June 30, 2028,
+to support local and tribal law enforcement agencies in hiring, retaining, and training law enforcement personnel, peer counselors, and behavioral health professionals serving in co-
+response roles.
+
+Clark County was awarded Round 1 grant funding to support public safety initiatives during implementation of the voter-approved 0.1% Criminal Justice Sales and Use Tax. This
+funding is intended to supplement local resources and accelerate Council-approved public safety investments by supporting recruitment and retention efforts, expanding staffing
+capacity within the Sheriff's Office and Jail, enhancing co-response partnerships, providing required training, and purchasing essential equipment. The grant advances the County's
+strategic objective of strengthening community policing and public safety while leveraging state funding to offset eligible implementation costs associated with HB 2015.
+
+
+Cost Estimate/Comments:
+
+
+
+
+                                                                                        1 of 2
+Cost estimates have been budgeted consistent with the funding plan presented in Staff Report No. 174-26, as approved by Council on July 21, 2026. The Budget Office will continue
+to coordinate with the Auditor's Office, Sheriff's Office, and Jail Services Department to ensure that any eligible unspent 2026 grant funding is carried forward into 2027 in accordance
+with grant requirements and County budget policies.
+
+This Change Request provides appropriation authority for the anticipated 2026 grant revenue of $1,626,698. Appropriation authority for anticipated grant revenues in 2027 and 2028
+will be incorporated through the respective annual budget processes to align with the approved multi-year grant implementation strategy.
+
+This Change Request provides appropriation authority for fourteen (14) additional FTE, including the associated one-time startup costs and operating expenses:
+
+-10 Deputy Sheriff Positions (Sheriff's Office)
+-4 Corrections Officer Positions (Jail Services Department)
+
+For 2026, the estimated salary and benefit cost for these positions is $738,266, reflecting a partial-year cost based on an anticipated August 2026 start date. Consistent with the
+approved funding strategy, 75 percent of these costs will be supported through the HB 2015 Local Law Enforcement Grant Program, with the remaining 25 percent funded by the
+Councilmanic 0.1 percent Criminal Justice Sales and Use Tax.
+
+Beginning in 2027, the estimated annual salary and benefit cost for these positions is $1,787,742. Through the grant period, 75 percent of these ongoing personnel costs will continue
+to be funded by the HB 2015 Local Law Enforcement Grant Program, while the remaining 25 percent will be supported by the Councilmanic 0.1 percent Criminal Justice Sales and
+Use Tax. Upon expiration of the grant in 2028, the dedicated sales and use tax will assume responsibility for the ongoing costs of these Council-approved positions, consistent with
+the long-term funding strategy approved in Staff Report No. 098-26 on April 21, 2026. Annual personnel cost estimates will continue to be refined through the County's budget
+development process to reflect approved compensation adjustments, benefit rate changes, staffing assumptions, and other personnel-related cost factors.
+
+In addition to personnel costs, this Change Request includes $1,046,590 in one-time implementation expenditures for equipment, supplies, training, overtime,, and other eligible
+startup expenses necessary to support the deployment of the Council-approved positions and implementation of the HB 2015 grant program. Fleet-related costs will be submitted in
+the 2027 budget request to align with the vehicle acquisition timeline.
+
+
+Impacts/Outcomes:
+This request has received prior Council approval.
+
+
+
+
+Operating Budget:
+Fund                                               Request Type        Current Yr Rev     Current Yr Exp      Current Yr FB Chg        Next Yr Rev        Next Yr Exp Next Yr FB Chg
+1044-Law and Justice Support                       One-Time                 $1,626,298         $1,046,590               $579,708                 $0                 $0                 $0
+1044-Law and Justice Support                       Ongoing                           $0            $738,266           $(738,266)                 $0        $1,787,742       $(1,787,742)
+                                          Totals                            $1,626,298         $1,784,856             $(158,558)                 $0        $1,787,742       $(1,787,742)
+
+
+
+
+                                                                                          2 of 2
+
