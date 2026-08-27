@@ -20,7 +20,7 @@ terminal artifact. The deliverable is a recurring brief in `briefs/`.
 | Scheduling | local cron, twice weekly — see "Running it" |
 | Email notifications | **needs msmtp set up once** — see below |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 3 — Vancouver 24 Aug, Clark County 26 Aug, Planning Commission 8 Sep |
+| Briefs written | 6 — Vancouver 24 Aug, Clark Co. Council Time 26 Aug, BOH 26 Aug, NCRTS work session 26 Aug, Planning Commission 8 Sep, Clark Co. Council 1 Sep |
 
 ## Layout
 
@@ -33,7 +33,7 @@ data/
   .agenda-watch-state.json                seen-agenda fingerprints (auto)
   clark-county/
     fetch_clark_county.py                 Clark County listing walker
-    clark-rules-of-procedure-2026-07-27.pdf/.txt   cached primary source
+    clark-rules-of-procedure-2026-07-27-DRAFT.pdf/.txt   cached primary source
 briefs/
   raw/<date>-digest.md                    raw gather, no interpretation
   <meeting-date>-<body>.md                the brief
@@ -56,6 +56,17 @@ Then follow `BRIEF-PROMPT.md` against the digest it writes.
 for both (see `briefs/raw/2026-08-27-digest.md`). The failure surfaces as
 `URLError: Tunnel connection failed: 403 Forbidden` out of `van_meetings()`, which looks like a
 site outage and is not one. A policy denial is to be reported, not worked around.
+
+**Tool permissions in the cron run — open blocker.** `run_watch.sh` invokes `claude -p` with
+`--permission-mode acceptEdits`, which auto-approves *file edits only*. Bash and WebFetch still
+prompt, and under cron there is nobody to approve, so on the **26 August 2026** run every
+attempt to `curl` an attachment, run `pdftotext`, or WebFetch a document was denied. The gather
+itself was fine — it runs as its own process before `claude` is invoked — but the brief step
+could not open a single staff report and had to be written from agenda titles, which is the one
+thing `BRIEF-PROMPT.md` §2 says must not happen. It fails *quietly*: the briefs still get written
+and committed, just hollow. The fix is a tool allowlist on the `claude` invocation; a commented
+draft sits at the invocation site in `run_watch.sh`, unverified against the installed build.
+Check `claude --help | grep -i allowed` for the flag spelling, then test with a manual run.
 
 **When to run.** The two bodies publish on different days, so a two-run week catches both:
 
@@ -85,7 +96,26 @@ tail -f briefs/raw/run-*.log
 
 Exit codes: `0` work done or nothing to do, `1` setup problem, `2` the gather failed.
 
-### Email setup — required once
+### Notifications
+
+Desktop popups via `notify-send` are on and working. **Email is off by default** (`EMAIL_ENABLED=0`)
+— there is no MTA configured on this machine.
+
+For a todo-list app or any other sink, drop an executable at **`data/notify-hook.sh`**. The runner
+calls it for every notification with urgency as `$1`, subject as `$2`, and the full summary on
+stdin. A non-zero exit is logged and ignored, so a broken hook cannot swallow a brief. No edit to
+`run_watch.sh` needed:
+
+```bash
+#!/usr/bin/env bash
+# $1 urgency (low|normal|critical), $2 subject, summary on stdin
+summary="$(cat)"
+todo add "$2: $(printf '%s' "$summary" | head -1)"
+```
+
+### Email setup — optional, when you want it
+
+Set `EMAIL_ENABLED=1` in the crontab line after doing the following.
 
 `mail` and `mailx` are installed but have **no MTA behind them**, so they silently fail to deliver.
 `msmtp` is what actually sends. Until it is configured the script still runs and still notifies on
@@ -175,9 +205,18 @@ that ever changes.
 
 ## Sources
 
-1. Clark County Council, *Rules of Procedure*, adopted markup dated 27 July 2026 — cached at
-   `data/clark-county/clark-rules-of-procedure-2026-07-27.pdf`. §IV.A meeting days, §VII.A agenda
-   posting deadline, §VII.L public comment, §VII.P Council Time additions, §VIII work sessions.
+1. Clark County Council, *Rules of Procedure*, **proposed** amending ordinance, markup dated
+   27 July 2026 — cached at `data/clark-county/clark-rules-of-procedure-2026-07-27-DRAFT.pdf`. §IV.A
+   meeting days, §VII.A agenda posting deadline, §VII.L public comment, §VII.P Council Time
+   additions, §VIII work sessions.
+
+   **Correction, 26 Aug 2026:** this file was previously described here as an *adopted* markup. It
+   is not. The ordinance number is blank and it reads "ADOPTED on this ___ day of ____, 2026" —
+   it is a draft, and a Rules of Procedure public hearing sits on the **1 September 2026** Council
+   agenda. The provisions cited above are unchanged between the current and draft text, so briefs
+   quoting them stand; the parts under revision are the Tuesday order of business (open public
+   comment moves earlier), the §VII.L.vi decorum clause, and a new subsection on amending the
+   Council Time agenda. See `briefs/2026-09-01-clark-county-council.md`.
 2. Clark County WA, Council Meetings listing —
    `https://clark.wa.gov/councilors/clark-county-council-meetings`
 3. City of Vancouver WA, CivicClerk portal — `https://vancouverwa.portal.civicclerk.com`

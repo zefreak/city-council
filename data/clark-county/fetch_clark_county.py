@@ -45,7 +45,8 @@ Traps
 
 Meeting days — do not conflate them
 -----------------------------------
-Rules of Procedure (cached here as clark-rules-of-procedure-2026-07-27.pdf):
+Rules of Procedure (cached here as clark-rules-of-procedure-2026-07-27-DRAFT.pdf
+— a DRAFT going to hearing 1 Sept 2026; last adopted version is 4 Feb 2025):
 
   TUESDAY   §IV.A  the REGULAR Council meeting: consent agenda, ordinances,
                    public hearings, the actual votes. Roughly 1st and 3rd

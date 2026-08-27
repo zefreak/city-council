@@ -26,7 +26,19 @@ set -uo pipefail
 PROJECT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$PROJECT" || exit 1
 
-EMAIL_TO="zefreak@gmail.com"
+# Email is OFF by default — no MTA is configured on this machine yet, and the
+# intended destination is a local todo app rather than a mailbox. Turn it on
+# with EMAIL_ENABLED=1 once ~/.msmtprc exists (see README.md).
+EMAIL_ENABLED="${EMAIL_ENABLED:-0}"
+EMAIL_TO="${EMAIL_TO:-zefreak@gmail.com}"
+
+# Optional integration point. If data/notify-hook.sh exists and is executable
+# it is called for every notification, with the urgency as $1 and the subject
+# as $2, and the full summary on stdin. This is where a todo-list app, a
+# task-capture CLI or anything else gets wired in — no edit to this script
+# needed. A non-zero exit is logged and otherwise ignored, so a broken hook
+# cannot swallow a brief.
+NOTIFY_HOOK="$PROJECT/data/notify-hook.sh"
 CLAUDE_BIN="${CLAUDE_BIN:-$HOME/sf/bin/claude}"
 MODEL="${MODEL:-opus}"
 
@@ -55,13 +67,14 @@ desktop_notify() {
 }
 
 # Email needs an MTA. mail/mailx are installed but have nothing behind them,
-# so msmtp is what actually delivers. If it is missing or unconfigured, say so
-# loudly in the log and on the desktop rather than failing silently — a missed
+# so msmtp is what actually delivers. Disabled by default; when explicitly
+# enabled but unusable, say so loudly rather than failing silently — a missed
 # brief must never look like a quiet week.
 email_notify() {
   local subject="$1" body="$2"
+  [ "$EMAIL_ENABLED" = "1" ] || return 0
   if ! command -v msmtp >/dev/null 2>&1 || [ ! -f "$HOME/.msmtprc" ]; then
-    log "EMAIL NOT SENT — msmtp missing or ~/.msmtprc absent. See README.md."
+    log "EMAIL NOT SENT — EMAIL_ENABLED=1 but msmtp missing or ~/.msmtprc absent."
     desktop_notify critical "Agenda Watch — email not configured" \
       "Brief was written but could not be emailed. Set up msmtp (README)."
     return 0
@@ -73,10 +86,18 @@ email_notify() {
          "Agenda Watch — email failed" "See $LOG"; }
 }
 
+run_hook() {
+  local urgency="$1" subject="$2" body="$3"
+  [ -x "$NOTIFY_HOOK" ] || return 0
+  printf '%s' "$body" | "$NOTIFY_HOOK" "$urgency" "$subject" >>"$LOG" 2>&1 \
+    || log "notify-hook exited non-zero (ignored)"
+}
+
 notify_both() {
   local urgency="$1" subject="$2" body="$3"
   desktop_notify "$urgency" "$subject" "$body"
   email_notify "$subject" "$body"
+  run_hook "$urgency" "$subject" "$body"
 }
 
 # --------------------------------------------------------------- preflight
@@ -153,14 +174,15 @@ the script.
 3. Write one markdown brief per meeting to briefs/<meeting-date>-<body>.md per
    BRIEF-PROMPT.md section 5. Every brief ends with 'What I could not check'.
 
-4. Update the rolling artifact. Read briefs/ARTIFACT.md for the URL and rules.
-   Edit briefs/agenda-watch.html, then call Artifact with file_path
-   briefs/agenda-watch.html, the url from ARTIFACT.md, and favicon the classical
-   building emoji. Passing the url is what updates the existing page instead of
-   creating a second one — do not omit it. Keep the title 'Council Agenda Watch'
-   unchanged. The page shows UPCOMING meetings; drop ones that have passed. If
-   publishing is unavailable, commit the markdown anyway and say the artifact
-   step was skipped — never silently drop half the deliverable.
+4. Update briefs/agenda-watch.html — the rolling artifact SOURCE. Read
+   briefs/ARTIFACT.md for the rules. Keep the title 'Council Agenda Watch'
+   unchanged and honour the existing design system. The page shows UPCOMING
+   meetings; drop ones that have passed.
+
+   DO NOT try to publish it. The Artifact tool does not exist in headless
+   'claude -p' runs — this was tested, and it is unavailable even when named in
+   --allowedTools. Publishing happens from an interactive session. Just update
+   the file, commit it, and state in the summary that a republish is pending.
 
 5. Commit and push: git add -A, commit with a message stating the findings not
    just 'update briefs', then push to origin main. If the push is rejected
@@ -186,9 +208,35 @@ $BOTTOM_LINE exactly what failed and what is missing.
 PROMPT_EOF
 
 log "invoking claude (model=$MODEL)"
+# KNOWN BLOCKER, 26 Aug 2026 run. --permission-mode acceptEdits auto-approves file
+# edits ONLY. Bash and WebFetch still prompt, and there is nobody at a terminal under
+# cron, so every attempt to curl an attachment or run pdftotext was denied. The gather
+# succeeded (it runs as a separate process, above) but the brief step could not open a
+# single staff report and had to be written from agenda titles. That is the one thing
+# BRIEF-PROMPT.md §2 says must not happen.
+#
+# The fix is a tool allowlist on this invocation, something like:
+#
+#   --allowedTools 'Bash(curl:*)' 'Bash(pdftotext:*)' 'Bash(pdfinfo:*)' \
+#                  'Bash(python3 data/*)' 'WebFetch(domain:clark.wa.gov)' \
+#                  'WebFetch(domain:vancouverwa.api.civicclerk.com)' \
+#
+# left commented because the exact flag spelling was NOT verified against the installed
+# claude build during that run, and a wrong flag makes claude exit immediately — which
+# would turn a degraded brief into no brief at all, silently. Verify with
+# `claude --help | grep -i allowed`, then uncomment, then test with a manual run before
+# trusting cron with it.
+# --allowedTools is load-bearing and was missing on the first run.
+# --permission-mode acceptEdits auto-approves EDITS ONLY; Bash and WebFetch
+# still prompt, and under cron nobody is there to approve. The result was a
+# silent hollowing-out: every curl, pdftotext and git call was denied, so the
+# briefs got written from agenda titles alone and nothing was committed, while
+# the script still exited 0. Naming the tools explicitly is preferred over
+# --dangerously-skip-permissions: the job's needs are known and bounded.
 printf '%s' "$PROMPT" | timeout 3600 "$CLAUDE_BIN" -p \
   --model "$MODEL" \
   --permission-mode acceptEdits \
+  --allowedTools "Bash WebFetch Read Write Edit Glob Grep" \
   >>"$LOG" 2>&1
 CLAUDE_RC=$?
 log "claude exited rc=$CLAUDE_RC"
@@ -217,6 +265,8 @@ FIRSTLINE="$(head -1 "$BOTTOM_LINE" 2>/dev/null)"
 notify_both normal "Agenda Watch — $(date +%a\ %d\ %b)" \
 "$SUMMARY
 
+ARTIFACT REPUBLISH IS PENDING — cron cannot publish it. From an interactive
+Claude Code session in this repo: 'republish the agenda watch artifact'.
 Artifact: https://claude.ai/code/artifact/401e7202-daea-4512-8c70-0b8fe2b1cd51
 Log: $LOG"
 
