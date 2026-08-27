@@ -148,6 +148,22 @@ Three details worth knowing before editing the hook:
 - **Descriptions are sanitized.** Taskwarrior parses every argument for attribute syntax, so a colon
   in a brief's own wording would be read as a modifier and eaten. The real text lives in annotations.
 
+**Two dunst rules make these popups stick.** Taskwarrior's `on-add.notify` sends `urgency=normal`
+for anything without `priority:H`, and `[urgency_normal]` in `~/.config/dunst/dunstrc` times out
+after 10 seconds — long enough to miss. `[agenda_watch]` matches the `+agendawatch` tag in the
+notification body and `[agenda_watch_direct]` matches the hook's own app name; both set
+`timeout = 0`. Every other task add still behaves normally. Backup at `dunstrc.bak-*`.
+
+**A second run on the same day annotates rather than adds**, and annotating fires no on-add hook —
+so the hook raises that popup itself. Without it the re-run that actually has something new to say
+would be the silent one.
+
+**Git pushes from the run use `gh`, not the system keyring.** `credential.helper` is set
+repo-locally to `!gh auth git-credential`, because the default `git-credential-libsecret` needs a
+D-Bus session and an unlocked keyring, neither of which a cron shell has. The first headless run
+failed its push for exactly this reason. This lives in `.git/config`, so it does not travel with a
+clone — set it again on any other machine that runs the cron.
+
 To send notifications somewhere else instead, replace `data/notify-hook.sh`. The runner calls it with
 urgency as `$1`, subject as `$2`, and the full summary on stdin. **Exit 0 means handled** and the
 runner raises no popup of its own; any non-zero exit falls back to `notify-send`, so a broken hook

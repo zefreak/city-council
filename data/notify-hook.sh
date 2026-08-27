@@ -72,6 +72,14 @@ EXISTING="$(task rc.verbose=nothing rc.hooks=off status:pending +agendawatch \
 if [ -n "$EXISTING" ]; then
   ID="$EXISTING"
   echo "notify-hook: task $ID already exists for $TODAY, annotating"
+  # Annotating fires no on-add hook, so a second run on the same day would be
+  # completely silent -- exactly the run that has something new to say. Raise
+  # the popup here instead. The app name matches a dunst rule that makes it
+  # stick until dismissed; see README.
+  if command -v notify-send >/dev/null 2>&1 && [ -n "${DBUS_SESSION_BUS_ADDRESS:-}" ]; then
+    notify-send -a "Agenda Watch" -u "$URGENCY" \
+      "$SUBJECT" "$(printf '%s' "$BODY" | head -3)" 2>/dev/null || true
+  fi
 else
   task rc.verbose=nothing add project:council +agendawatch "${KIND[@]}" \
     "${EXTRA[@]}" "$(sanitize "$DESC")" >/dev/null 2>&1 \

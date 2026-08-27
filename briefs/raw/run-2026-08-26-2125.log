@@ -5,3 +5,22 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-08-26-digest.md
 [21:25:16] digest written: /home/scottr/research/city-council/briefs/raw/2026-08-26-digest.md
 [21:25:16] invoking claude (model=opus)
+Done and live at https://zefreak.github.io/city-council/.
+
+**The gather itself was empty** — four Vancouver advisory meetings, three cancelled, none with a published agenda. So the run went at the attachments earlier runs today had left unopened. Two of them mattered.
+
+**Tri-Mountain Golf Course is a 50-year lease of county land, and it was presented under *old business*.** The 26 Aug Council Time deck (`data/clark-county/2026-08-26-ct/tri-mountain-rfp.pdf`) is a lease RFP: initial ten years from 1 Jan 2027, plus "four (4) additional terms, in ten (10) year increments." The scoring is the finding — **Lease Payment to County is 10 points of 100**, the lowest of six criteria, against the county's own stated goal of "maximizing the return on its assets"; the finalist interview alone is worth 50. No dollar figure exists; the price is negotiated after selection. **No public comment step and no council vote appear on the published timeline** (release 9 Sep → proposals 13 Oct → selection 30 Oct → execution by 17 Nov). Tuesday 1 September, 10am is the last broad-scope comment slot before release.
+
+**A Vancouver commission hired its own law firm at a 24-hour-notice special meeting.** The 25 Aug Culture, Arts and Heritage Commission had five items; the sole action was "Vote for Approval of CAHC Legal Counsel." Madrona Law at $340/hr lead, $360 back-up, tenth-hour billing, travel at full rate, 12% on late payment — **no cap, no end date, no funding source named**. The engagement letter calls the Commission "a public development authority"; the City lists its PDAs and this is not among them. I flagged that as unresolved rather than guessing. No brief had covered this meeting at all; new file `briefs/2026-08-25-vancouver-culture-arts-heritage-commission.md`.
+
+**The NCRTS work-session decks, unread since Wednesday morning, are now read.** 158 sites → 15 → 7 → 4 (12/13, 116, 137, 141). Parametrix says further scoring "is not likely to score [them] differently" and recommends EIS for "the two sites with the strongest likelihood of **willing sellers**" — so the final cut turns on landowner willingness, not the 35-criteria score. Staff asked for a Phase 2 amendment *and* a public hearing on siting. Ownership is explicitly undecided, with public ownership and public operation on the county's own list, "evaluated separately," with no date or forum. I also retracted that brief's framing that siting studies land facilities next to households least able to object — the primary screen excluded residentially zoned land, which is better than it assumed.
+
+**Corrections propagated.** The rolling page was still carrying three readings the 18:33 run had already superseded in markdown but never pushed to the page: the SCS Engineers "156% increase" framing (it is a ceiling correction within existing budget, at Leichner Landfill), the micromobility "enforcement against riders" warning (it is park signage and school education), and the "attachments could not be opened" band. All named as corrections rather than quietly replaced.
+
+**Re-verified, unchanged:** the 1 Sep Rules of Procedure ordinance is **still not posted** (checked again at 21:40, five days out), and the 8 Sep Planning Commission packet is still unpublished — I queried `Meetings/1202` by hand because a packet appearing does *not* resurface a meeting in the digest, since the change fingerprint hashes item names only. That gotcha is now in the README.
+
+**One thing I could not do cleanly:** `git push` failed on the first attempt — the configured `git-credential-libsecret` helper needs a D-Bus session bus, which does not exist in a headless shell. It went through via `git -c credential.helper='!gh auth git-credential'`. Both commits are on `origin/main` and the live page serves the new content (HTTP 200, Tri-Mountain present). I documented the workaround but **did not change `run_watch.sh`**, so the cron run will still fail at the push — that is your call, not mine to make silently.
+[21:40:48] claude exited rc=0
+notify-hook: taskwarrior task 1 created/updated
+[21:40:49] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[21:40:49] === run complete
