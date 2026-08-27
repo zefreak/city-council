@@ -19,10 +19,9 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | `data/clark-county/fetch_clark_county.py` | working, Clark County only, more verbose output |
 | `BRIEF-PROMPT.md` | written — the lens and output structure |
 | `data/run_watch.sh` | written — local cron runner, gather + brief + notify |
-| Scheduling | local cron, twice weekly — see "Running it" |
+| Scheduling | **installed** — cron, Wed & Fri 19:00 local |
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
-| Email notifications | off, optional — needs msmtp set up once |
 | Cloud routine | disabled — sandbox egress blocks both councils |
 | Briefs written | 6 — Vancouver 24 Aug, Clark Co. Council Time 26 Aug, BOH 26 Aug, NCRTS work session 26 Aug, Planning Commission 8 Sep, Clark Co. Council 1 Sep |
 
@@ -137,9 +136,6 @@ urgency as `$1`, subject as `$2`, and the full summary on stdin. **Exit 0 means 
 runner raises no popup of its own; any non-zero exit falls back to `notify-send`, so a broken hook
 cannot swallow a brief. No edit to `run_watch.sh` needed.
 
-**Email is off by default** (`EMAIL_ENABLED=0`) and no longer the intended path — there is no MTA
-configured on this machine. The setup below still works if you want it.
-
 ### Publishing
 
 The site is **GitHub Pages serving `docs/` on `main`**, so pushing publishes. This is the point of
@@ -164,45 +160,6 @@ so someone who never touches it follows their OS forever. The boot script sits i
 deliberately — deferring it would paint the wrong theme and flash.
 
 Full rules in `briefs/PUBLISHING.md`.
-
-### Email setup — optional, when you want it
-
-Set `EMAIL_ENABLED=1` in the crontab line after doing the following.
-
-`mail` and `mailx` are installed but have **no MTA behind them**, so they silently fail to deliver.
-`msmtp` is what actually sends. Until it is configured the script still runs and still notifies on
-the desktop, but it logs `EMAIL NOT SENT` and raises a critical desktop notice rather than failing
-quietly — a missed brief must never look like a quiet week.
-
-```bash
-sudo pacman -S --needed msmtp
-```
-
-Then create `~/.msmtprc` (Gmail needs an **app password**, not the account password — generate one
-at https://myaccount.google.com/apppasswords with 2FA enabled):
-
-```
-defaults
-auth           on
-tls            on
-tls_trust_file /etc/ssl/certs/ca-certificates.crt
-logfile        ~/.msmtp.log
-
-account        gmail
-host           smtp.gmail.com
-port           587
-from           zefreak@gmail.com
-user           zefreak@gmail.com
-password       <app-password>
-
-account default : gmail
-```
-
-`chmod 600 ~/.msmtprc` — msmtp refuses to use a world-readable file containing a password. Test
-with `printf 'Subject: test
-
-body
-' | msmtp zefreak@gmail.com`.
 
 ### Why local rather than a cloud routine
 
