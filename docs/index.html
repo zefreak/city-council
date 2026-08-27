@@ -1,0 +1,766 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="What is on the next Vancouver WA and Clark County WA council agendas, what is at stake, and where public comment is open.">
+<meta name="color-scheme" content="light dark">
+<title>Council Agenda Watch</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+  :root{
+    --ground:#F1F4F3;
+    --raised:#FFFFFF;
+    --ink:#151E1D;
+    --ink-soft:#485856;
+    --ink-faint:#758482;
+    --rule:#D3DCDA;
+    --accent:#0E5A53;
+    --accent-soft:#E2EEEC;
+    --act:#9E1B41;
+    --act-soft:#F8E4EA;
+    --quiet:#8A5A0B;
+    --quiet-soft:#F7ECD8;
+    --shadow:0 1px 2px rgba(21,30,29,.05),0 8px 24px -16px rgba(21,30,29,.28);
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ground:#111716;
+      --raised:#18201F;
+      --ink:#E6ECEA;
+      --ink-soft:#A2B0AE;
+      --ink-faint:#7C8B89;
+      --rule:#2A3634;
+      --accent:#54B7A8;
+      --accent-soft:#16302D;
+      --act:#F0879F;
+      --act-soft:#3A1622;
+      --quiet:#E7BC6A;
+      --quiet-soft:#33260F;
+      --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#111716;
+    --raised:#18201F;
+    --ink:#E6ECEA;
+    --ink-soft:#A2B0AE;
+    --ink-faint:#7C8B89;
+    --rule:#2A3634;
+    --accent:#54B7A8;
+    --accent-soft:#16302D;
+    --act:#F0879F;
+    --act-soft:#3A1622;
+    --quiet:#E7BC6A;
+    --quiet-soft:#33260F;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8);
+  }
+
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:var(--ground);
+    color:var(--ink);
+    font-family:"Source Sans 3",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+    font-size:17px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:52rem;margin:0 auto;padding:2.5rem 1.5rem 5rem;}
+
+  /* ---------- masthead ---------- */
+  .masthead{
+    display:flex;flex-direction:column;gap:.75rem;
+    padding-bottom:1.5rem;margin-bottom:2.5rem;
+    border-bottom:2px solid var(--ink);
+  }
+  .kicker{
+    font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--accent);font-weight:600;
+  }
+  h1{
+    font-family:"Zilla Slab",Georgia,"Times New Roman",serif;
+    font-weight:700;font-size:clamp(2rem,5.5vw,2.9rem);
+    line-height:1.08;margin:0;text-wrap:balance;letter-spacing:-.015em;
+  }
+  .lede{margin:0;color:var(--ink-soft);font-size:1.08rem;max-width:44rem;}
+  .meta{
+    display:flex;flex-wrap:wrap;gap:.4rem 1.5rem;margin-top:.5rem;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.76rem;color:var(--ink-faint);
+    font-variant-numeric:tabular-nums;
+  }
+  .meta b{color:var(--ink-soft);font-weight:600;}
+
+  /* ---------- meeting card ---------- */
+  .meeting{
+    background:var(--raised);
+    border:1px solid var(--rule);
+    border-radius:2px;
+    box-shadow:var(--shadow);
+    margin-bottom:2.25rem;
+    overflow:hidden;
+  }
+  .meeting-head{
+    display:flex;flex-wrap:wrap;align-items:baseline;gap:.5rem 1rem;
+    padding:1.1rem 1.4rem;
+    border-bottom:1px solid var(--rule);
+    border-left:4px solid var(--accent);
+  }
+  .meeting-head.is-pending{border-left-color:var(--rule);}
+  .body-tag{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;
+    font-weight:600;color:var(--accent);
+    background:var(--accent-soft);
+    padding:.2rem .5rem;border-radius:2px;
+  }
+  .when{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.82rem;color:var(--ink-faint);font-variant-numeric:tabular-nums;
+    margin-left:auto;
+  }
+  .meeting-head h2{
+    font-family:"Zilla Slab",Georgia,serif;
+    font-size:1.32rem;font-weight:600;margin:0;line-height:1.2;width:100%;
+  }
+  .meeting-body{padding:.4rem 1.4rem 1.5rem;}
+
+  /* ---------- items ---------- */
+  .item{
+    display:grid;
+    grid-template-columns:3.2rem 1fr;
+    gap:0 .9rem;
+    padding:1.2rem 0;
+    border-bottom:1px solid var(--rule);
+  }
+  .item:last-child{border-bottom:none;}
+  .num{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.8rem;font-weight:600;color:var(--ink-faint);
+    font-variant-numeric:tabular-nums;padding-top:.28rem;
+  }
+  .item h3{
+    font-family:"Zilla Slab",Georgia,serif;
+    font-size:1.05rem;font-weight:600;margin:0 0 .5rem;line-height:1.3;
+  }
+  .item > div{min-width:0;}
+  .item p{margin:0 0 .7rem;}
+  .item p:last-child{margin-bottom:0;}
+
+  .chip{
+    display:inline-block;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.64rem;letter-spacing:.11em;text-transform:uppercase;font-weight:600;
+    padding:.18rem .45rem;border-radius:2px;margin-bottom:.5rem;
+  }
+  .chip.act{color:var(--act);background:var(--act-soft);}
+  .chip.quiet{color:var(--quiet);background:var(--quiet-soft);}
+  .chip.watch{color:var(--ink-soft);background:var(--ground);border:1px solid var(--rule);}
+
+  /* ---------- stale-run band ---------- */
+  .stale{
+    border:1px solid var(--quiet);
+    border-left:4px solid var(--quiet);
+    background:var(--quiet-soft);
+    padding:.9rem 1.2rem;
+    margin:0 0 1.75rem;
+    border-radius:0 2px 2px 0;
+    font-size:.94rem;
+  }
+  .stale .kicker{color:var(--quiet);}
+  .stale p{margin:.35rem 0 0;color:var(--ink);}
+  .stale p + p{margin-top:.55rem;}
+  .stale code{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.85em;
+    background:var(--raised);padding:.1rem .3rem;border-radius:2px;
+  }
+
+  /* ---------- bottom line ---------- */
+  .bottomline{
+    border-left:4px solid var(--act);
+    background:var(--act-soft);
+    padding:1rem 1.25rem;
+    margin:0 0 2.25rem;
+    border-radius:0 2px 2px 0;
+  }
+  .bottomline .kicker{color:var(--act);}
+  .bottomline p{
+    margin:.35rem 0 0;
+    font-family:"Zilla Slab",Georgia,serif;
+    font-size:1.18rem;line-height:1.4;color:var(--ink);
+  }
+
+  /* ---------- tables ---------- */
+  .scroll{overflow-x:auto;margin:.2rem 0 .9rem;}
+  table{border-collapse:collapse;width:100%;font-size:.88rem;min-width:22rem;}
+  th,td{
+    text-align:left;padding:.4rem .7rem .4rem 0;
+    border-bottom:1px solid var(--rule);
+    font-variant-numeric:tabular-nums;
+  }
+  th{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.68rem;letter-spacing:.09em;text-transform:uppercase;
+    color:var(--ink-faint);font-weight:600;
+  }
+  td.n,th.n{text-align:right;padding-right:0;}
+  tr.total td{font-weight:600;border-bottom:none;}
+
+  /* ---------- misc ---------- */
+  .caveat{
+    border:1px dashed var(--rule);
+    padding:.8rem 1rem;border-radius:2px;
+    font-size:.92rem;color:var(--ink-soft);
+    margin:.2rem 0 0;
+  }
+  .caveat strong{color:var(--ink);}
+  .noted{font-size:.92rem;color:var(--ink-soft);}
+  a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px;}
+  a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+  strong{font-weight:600;}
+  h4{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.7rem;letter-spacing:.13em;text-transform:uppercase;
+    color:var(--ink-faint);font-weight:600;margin:1.6rem 0 .6rem;
+  }
+  details{margin-top:.6rem;}
+  summary{
+    cursor:pointer;font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);
+  }
+  footer{
+    margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);
+    font-size:.86rem;color:var(--ink-faint);
+  }
+  footer code{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.82em;
+    background:var(--accent-soft);color:var(--accent);padding:.1rem .35rem;border-radius:2px;
+  }
+  @media (max-width:34rem){
+    .item{grid-template-columns:1fr;gap:.35rem;}
+    .num{padding-top:0;}
+    .when{margin-left:0;width:100%;}
+  }
+
+  .theme-toggle{
+    position:fixed; top:14px; right:14px; z-index:50;
+    display:flex; align-items:center; gap:.45em;
+    padding:.42em .8em;
+    font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    font-size:12px; letter-spacing:.04em;
+    color:var(--ink-soft); background:var(--raised);
+    border:1px solid var(--rule); border-radius:999px;
+    box-shadow:var(--shadow); cursor:pointer;
+    transition:color .15s ease, border-color .15s ease;
+  }
+  .theme-toggle:hover{ color:var(--accent); border-color:var(--accent); }
+  .theme-toggle:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+  .theme-toggle .glyph{ font-size:14px; line-height:1; }
+  @media (prefers-reduced-motion:reduce){ .theme-toggle{transition:none} }
+  @media print{ .theme-toggle{display:none} }
+  /* Narrow screens: the masthead needs the width more than the label does. */
+  @media (max-width:560px){ .theme-toggle .label{display:none} }
+
+</style>
+<script>
+  (function(){
+    try{
+      var t = localStorage.getItem("agenda-watch-theme");
+      if (t === "light" || t === "dark") {
+        document.documentElement.setAttribute("data-theme", t);
+      }
+    }catch(e){}
+  })();
+</script>
+</head>
+<body>
+<button id="theme-toggle" class="theme-toggle" type="button" aria-label="Change theme"><span class="glyph" aria-hidden="true">◐</span><span class="label">System</span></button>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="kicker">Vancouver WA · Clark County WA</div>
+    <h1>Council Agenda Watch</h1>
+    <p class="lede">What is on the next agendas, what is at stake, and where public comment is
+      actually open. Compiled from the councils' own published agendas and attachments.</p>
+    <div class="meta">
+      <span><b>Last good gather</b> 26 Aug 2026</span>
+      <span><b>Last run</b> 26 Aug 2026 — agendas read, attachments not</span>
+      <span><b>Sources</b> CivicClerk API · clark.wa.gov</span>
+    </div>
+  </header>
+
+  <div class="stale">
+    <div class="kicker">Agendas refreshed — attachments could not be opened</div>
+    <p>The 26 August run reached both councils and read every published agenda, so the meetings and
+      item titles below are current. But the run had <strong>no permission to download or open any
+      attachment</strong> — no staff reports, no ordinance text, no budget schedules, for any
+      meeting on this page. That is a permissions fault in our own runner, not an outage at either
+      council.</p>
+    <p>So: <strong>what is happening</strong> is confirmed from published agendas.
+      <strong>What it says</strong> is, except where a document was already cached here, read off
+      agenda titles. Every dollar figure below comes from an agenda's own wording. Treat the
+      readings as leads and check the posted document before you quote it.</p>
+  </div>
+
+  <div class="bottomline">
+    <div class="kicker">Bottom line</div>
+    <p>On <strong>1 September</strong> the Clark County Council holds a public hearing to rewrite
+      its own rules on what the public may say to it. On the draft cached here, the new decorum
+      clause bars remarks concerning the &ldquo;professional duties and performance of County
+      employees,&rdquo; and lets <em>any</em> Councilor — not just the Chair — call the point of
+      order that starts a removal. Same hearing night also carries the mid-year budget supplemental
+      and the county's annual HUD housing-delivery report.</p>
+  </div>
+
+  <!-- ============ CLARK COUNTY COUNCIL 1 SEP ============ -->
+  <article class="meeting">
+    <div class="meeting-head">
+      <span class="body-tag">Clark County</span>
+      <span class="when">Tue 1 Sep · 10:00am</span>
+      <h2>Council meeting — three public hearings</h2>
+    </div>
+    <div class="meeting-body">
+
+      <div class="item">
+        <div class="num">1</div>
+        <div>
+          <span class="chip act">Act — public hearing</span>
+          <h3>Rules of Procedure — ordinance rewriting the public comment rules</h3>
+          <p>The Council is amending Exhibit &ldquo;A&rdquo; to CCC 2.09.040 — its own rules on how
+            meetings run and what the public may say. Read from the <strong>draft ordinance already
+            cached in this project</strong> (markup dated 27 July 2026, unadopted: ordinance number
+            blank, adoption date blank):</p>
+          <p><strong>The decorum clause (&sect;VII.L.vi) is being rewritten.</strong> The struck-out
+            old text barred remarks &ldquo;defamatory to County staff, uncivil, rude, vulgar,
+            profane.&rdquo; The replacement bars statements concerning private activities,
+            lifestyles or beliefs of others; topics unrelated to county business; and
+            <strong>&ldquo;professional duties and performance of County employees or employees of
+            its elected officials.&rdquo;</strong> That last category is the ordinary substance of
+            public comment at a county council — it is how a permit backlog, a jail medical
+            contract or a named official's conduct gets raised in public at all.</p>
+          <p><strong>Point of order widens.</strong> New text: &ldquo;<em>Any</em> Councilor may ask
+            for a point of order,&rdquo; after which the Chair or Vice Chair may tell a speaker to
+            stop. Today that starts with the Chair alone.</p>
+          <p><strong>Two changes that are good, and worth saying so.</strong> Open public comment
+            <em>moves earlier</em> in the Tuesday order — to right after Amendments to the Agenda,
+            instead of after the hearings and bid awards, so you no longer sit through three
+            hearings to use your three minutes. And a new subsection provides that
+            &ldquo;members of the public may provide public testimony on removed agenda items during
+            Public Comment,&rdquo; closing the trick where pulling an item from Council Time makes
+            it un-commentable under the agenda-items-only rule. Additions to Council Time must also
+            now be &ldquo;time sensitive in nature.&rdquo;</p>
+          <p class="caveat"><strong>Firm and not firm.</strong> That the cached draft is unadopted
+            and contains these changes: firm. That the ordinance heard on 1 September <em>is this
+            draft</em>: <strong>not verified</strong> — the Exhibit &ldquo;A&rdquo; attached to
+            Tuesday's agenda could not be fetched, and the draft is five weeks old. The underline /
+            strikethrough reading is inferred from PDF text-layer artefacts, not from seeing the
+            marked-up page; whether the &ldquo;professional duties and performance&rdquo; clause is
+            new or carried over is not settled. Read the posted ordinance first. It wins.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">2</div>
+        <div>
+          <span class="chip act">Act — public hearing</span>
+          <h3>2026 Mid-Year Budget Supplemental</h3>
+          <p>The year's largest routine money vote, and the public's only entry point into it. A
+            resolution and budget reports were both posted; <strong>neither could be opened</strong>,
+            so no dollar figure is available here at all. If a specific county programme's funding
+            matters to you this year, this is the meeting.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">3</div>
+        <div>
+          <span class="chip act">Act — public hearing</span>
+          <h3>2025 Consolidated Annual Performance Evaluation Report (CAPER)</h3>
+          <p>The county's annual report to HUD on what it actually did with CDBG and HOME money —
+            units produced, households served, dollars spent against dollars planned. It is the one
+            document a year where county housing <em>delivery</em> is measured rather than
+            projected, and it routinely passes to an empty room. HUD requires a public comment
+            opportunity before submission; this hearing is it. Staff report and presentation posted;
+            both unread.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">$</div>
+        <div>
+          <span class="chip watch">Money — separate business</span>
+          <h3>SCS Engineers, Amendment 6 — maintenance and monitoring</h3>
+          <p>The agenda states an increase of <strong>$1,881,300</strong> to a revised total of
+            <strong>$3,086,210</strong> — which implies a prior total of $1,204,910, so this single
+            amendment is <strong>larger than the whole contract to date, a 156% increase</strong>.
+            The stated justification is alignment &ldquo;with the previously approved annual budget
+            and project cost adjustments&rdquo; — i.e. a claim the money was authorised elsewhere,
+            which is the standard way contract growth gets framed as bookkeeping. On separate
+            business, so it takes its own vote and its own comment.</p>
+          <p class="caveat">What the work is and at which site is <strong>not on the agenda</strong>
+            and the staff report is unread. That this is landfill or transfer-station monitoring is
+            an inference from the firm's line of business, not a finding.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">?</div>
+        <div>
+          <span class="chip watch">Watch — separate business</span>
+          <h3>Micromobility &ldquo;safety measures&rdquo; grant applications</h3>
+          <p>Authorises applications to the Autzen Foundation, <strong>BNSF Railway
+            Foundation</strong> and other nonprofits for safety measures relating to motorised
+            bicycles, scooters and other micromobility devices. <strong>&ldquo;Safety
+            measures&rdquo; is not defined on the agenda</strong> — protected infrastructure and
+            enforcement against riders are both that, and they point opposite ways for anyone
+            riding an e-bike because a car is not affordable. Also unexplained: why the
+            <strong>Auditor's Office</strong> is a co-applicant on a road-safety grant.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">✓</div>
+        <div>
+          <span class="chip quiet">Consent — passes as a block</span>
+          <h3>Grant awards, health council reappointments, minutes</h3>
+          <p>Acceptance of revenue and expense capacity from <strong>various grant awards</strong>,
+            described as &ldquo;budget-neutral&rdquo; — which only means expense matches revenue,
+            and says nothing about what the grants fund or what they oblige. The attachment naming
+            them is unread; this is the classic consent item whose substance is entirely in the
+            attachment.</p>
+          <p>Three <strong>Public Health Advisory Council</strong> reappointments — Breein
+            Scarlett-Fiser, Tyler Clary, Scott Johnson. Worth a glance given the Council spent
+            26 August creating a Mental Health Sales Tax advisory board with eight county officials
+            and no service-user seat. Plus minutes of 18 August.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">!</div>
+        <div>
+          <p class="caveat"><strong>How to be heard.</strong> Three minutes, once, sign in at the
+            meeting or raise a hand on WebEx (2494 363 5680, password BOCC / 2622), state your name.
+            <strong>You may not yield your time</strong> to another speaker without a majority vote
+            of the Council — twenty people at three minutes is a different tactic from one person at
+            an hour. Tuesday's open comment slot is the <strong>broad-scope</strong> one: any matter
+            of county business, agenda or not. Written comment via
+            clark.wa.gov/councilors/public-comment or by post to the Clark County Council, c/o
+            Rebecca Messinger, PO Box 5000, Vancouver WA 98666-5000 — no cut-off is printed, so send
+            it the working day before.</p>
+        </div>
+      </div>
+
+    </div>
+  </article>
+
+  <!-- ============ PLANNING COMMISSION 8 SEP ============ -->
+  <article class="meeting">
+    <div class="meeting-head">
+      <span class="body-tag">Vancouver</span>
+      <span class="when">Tue 8 Sep · 4:30pm</span>
+      <h2>Planning Commission</h2>
+    </div>
+    <div class="meeting-body">
+
+      <div class="item">
+        <div class="num">9</div>
+        <div>
+          <span class="chip act">Act — public hearing</span>
+          <h3>Title 20 update: affordability requirements for HB 1491 compliance</h3>
+          <p><strong>The most consequential housing item on any agenda this cycle.</strong>
+            Vancouver is deciding <em>how</em> to comply with HB 1491's affordability mandate near
+            transit, and staff have already argued on the record that the law is "partially funded
+            inclusionary zoning." This hearing is where the size of the carve-out gets set.</p>
+          <p>HB 1491 (2025) requires <strong>50-year affordability</strong> within a quarter-mile
+            of Bus Rapid Transit stations — 10% of units at 60% AMI, or 20% at 80% AMI, or 10% at
+            80% AMI where a tenth are two-bed or larger. Cities must offer offsets: a 20-year MFTE
+            exemption, a 50% impact fee reduction, minimum FAR, density bonuses, no parking
+            minimums.</p>
+          <p>Vancouver has <strong>51 stations across two existing Vine BRT routes</strong> — one
+            of few jurisdictions outside Puget Sound with high-capacity transit, so a law written
+            for Sound Transit light rail lands unusually hard here.</p>
+          <p>From the 10 August council deck: staff argue 50 years of required affordability
+            against at most 20 years of offset, that the other incentives are already available
+            citywide and so offset nothing at the margin, and that the result "decreases overall
+            production and directs development away from transit." Their proposed approach is
+            <strong>exclusions</strong> — downtown and other minimum-FAR areas, plus roughly
+            <strong>25% of parcels near stations</strong>.</p>
+          <p>Worth engaging rather than dismissing: the production argument is about
+            <em>volume</em>, while HB 1491 targets <em>tenure and depth</em>. Trading one for the
+            other is a choice, not an arithmetic result.</p>
+          <h4 style="margin:1rem 0 .5rem">How to comment — deadline noon on the day</h4>
+          <div class="scroll">
+            <table>
+              <thead><tr><th>Route</th><th>How</th></tr></thead>
+              <tbody>
+                <tr><td>Written</td><td>PlanningCommission@cityofvancouver.us with name, address, contact</td></tr>
+                <tr><td>Remote</td><td>Online form, then join by phone or Teams</td></tr>
+                <tr><td>In person</td><td>Online form, or speaker request form before Community Forum</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p>Three minutes each. Item 7 is a general <strong>Community Forum</strong> open to "any
+            issue" — a second opening, not restricted to agenda items.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">5</div>
+        <div>
+          <span class="chip quiet">Workshop — no formal action</span>
+          <h3>Proportional impact fees</h3>
+          <p>Workshops take no vote, but this is where the framework is shaped before it becomes
+            votable. Note the interaction with item 9: HB 1491's mandated offsets include a
+            <strong>50% impact fee reduction</strong>, so redesigning the fee changes what that
+            50% is calculated against. These two items are not independent.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">8</div>
+        <div>
+          <span class="chip act">Public hearing</span>
+          <h3>Updated Evergreen Public Schools capital facilities plan</h3>
+          <p>A district capital facilities plan is the legal basis for school impact fees —
+            adopting it is what allows the fee to be charged and sets its justification. Takes
+            public testimony.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="num">!</div>
+        <div>
+          <p class="caveat"><strong>The agenda packet was still not published as of 26 August.</strong>
+            This meeting did not resurface in today's gather, which means the agenda has not changed
+            since it was first read. Only the agenda itself is out. Staff reports,
+            the draft Title 20 language, the exclusion map and the fee schedule are all still to
+            come — and that is where the numbers will be. No dollar figures are available for any
+            item on this agenda. The packet may well have posted since; it is the first thing to
+            read when it does.</p>
+        </div>
+      </div>
+
+      <details>
+        <summary>Also on the agenda</summary>
+        <p class="noted">Roll call · adoption of 14 July minutes · workshop on parliamentary
+          procedure (Becky Rude, Deputy City Attorney) · workshop on public meeting practices for
+          ADA compliance and accessibility (Lori Severino, Long Range Planning Manager) · break
+          6:00–6:30pm · staff and commissioners communications · adjournment.</p>
+      </details>
+
+    </div>
+  </article>
+
+  <!-- ============ UPCOMING, NOT YET SEEN ============ -->
+  <h4>Coming up — agendas not seen</h4>
+
+  <article class="meeting">
+    <div class="meeting-head is-pending">
+      <span class="body-tag">Clark County</span>
+      <span class="when">Wed 2 Sep</span>
+      <h2>Council Time</h2>
+    </div>
+    <div class="meeting-body">
+      <div class="item">
+        <div class="num">—</div>
+        <div>
+          <p>Weekly, and not yet posted. Items may be added and posted as late as <strong>Friday
+            noon</strong> under Rules &sect;VII.P, so the Friday run is the one that catches it.
+            Three minutes on agenda items only, and you must name the item you are speaking to.</p>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <article class="meeting">
+    <div class="meeting-head is-pending">
+      <span class="body-tag">Vancouver</span>
+      <span class="when">Mon 14 Sep · 4:00pm</span>
+      <h2>City Council</h2>
+    </div>
+    <div class="meeting-body">
+      <div class="item">
+        <div class="num">—</div>
+        <div>
+          <p>Still not published. An agenda ID exists but contains zero items — Vancouver assigns
+            the ID long before the agenda is written, so the item count is the real test. Expected
+            about <strong>Wednesday 9 September</strong>, a week ahead.</p>
+          <p>There is no 31 August meeting; Council skips weeks. There is <strong>no Vancouver City
+            Council meeting anywhere in the current two-week window</strong>.</p>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <article class="meeting">
+    <div class="meeting-head is-pending">
+      <span class="body-tag">Vancouver</span>
+      <span class="when">Wed 9 Sep · 8:00am</span>
+      <h2>Parking Advisory Committee</h2>
+    </div>
+    <div class="meeting-body">
+      <div class="item">
+        <div class="num">—</div>
+        <div>
+          <p>Scheduled, agenda not yet published.</p>
+          <p><strong>Cancelled since the last update:</strong> Planning Commission 25 August,
+            Transportation and Mobility Commission 1 September, Lodging Tax Advisory Committee
+            9 September. Three Vancouver advisory bodies off in a fortnight is worth noticing on its
+            own.</p>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <!-- ============ RECENT ============ -->
+  <h4>Recently passed — outcome still live</h4>
+
+  <article class="meeting">
+    <div class="meeting-head">
+      <span class="body-tag">Clark County</span>
+      <span class="when">Wed 26 Aug</span>
+      <h2>Council Time</h2>
+    </div>
+    <div class="meeting-body">
+      <div class="item">
+        <div class="num">5.2</div>
+        <div>
+          <span class="chip watch">Follow-up</span>
+          <h3>Mental Health Sales Tax advisory board — resolution and bylaws</h3>
+          <p>The board shapes the County Manager&rsquo;s recommended budget for the 0.1% treatment
+            sales tax the county has levied since 2007 under RCW 82.14.460. As attached, the bylaws
+            set <strong>eight voting seats — three of them courts</strong>, the rest county
+            directors and two councilors, and <strong>none for anyone who uses the services the tax
+            funds</strong>, or for peers, providers or the public. Chair and vice-chair are both
+            councilors (Article V), so the board cannot elect its own leadership, and it meets
+            <strong>at least annually</strong> (Article IV.1).</p>
+          <p>The live part is <strong>who gets appointed</strong> and when the board first meets —
+            neither was settled on 26 August. Clark County&rsquo;s Tuesday meetings take three
+            minutes of comment on <em>any</em> county business, which is the routine opening to
+            raise membership without waiting for it to appear on an agenda.</p>
+          <p class="caveat"><strong>Check before quoting.</strong> The resolution attached to the
+            agenda was the <em>original staff report dated 27 February 2018</em> (Resolution
+            2018-02-18), not a 2026 document. What the 2026 item changed could not be determined
+            from the attachments. The membership above is the bylaws as attached.</p>
+        </div>
+      </div>
+      <div class="item">
+        <div class="num">4.2</div>
+        <div>
+          <span class="chip watch">Money &amp; land</span>
+          <h3>Tri-Mountain Golf Course RFP</h3>
+          <p>A public asset going out to bid, presented under old business and so probably still
+            informational. No terms were published and the presentation was not read. Worth
+            watching for the terms when they surface.</p>
+        </div>
+      </div>
+      <div class="item">
+        <div class="num">WS</div>
+        <div>
+          <span class="chip quiet">Work session — no public comment</span>
+          <h3>North County Recycling and Transfer Station siting study, Phases I &amp; II</h3>
+          <p>A waste facility is being sited in north county, and it is being shaped in the one
+            format that takes <strong>no public comment at all</strong> (Rules &sect;VIII). Minutes
+            are an audio recording only. By the time this becomes a votable item the candidate sites
+            will be chosen.</p>
+          <p>The county needs the facility — the alternative to a north-county transfer station is
+            longer hauls, higher tipping costs and more illegal dumping. The fight is never whether,
+            it is <em>where</em>, and siting studies reliably land facilities next to the households
+            least able to object. The screening criteria, their weighting and the surviving
+            candidate sites are all in the two decks (Parametrix and county) that
+            <strong>could not be opened</strong>. Those are the three things to check. The routes in
+            are the audio recording, the decks, and three minutes at a Tuesday meeting.</p>
+        </div>
+      </div>
+      <div class="item">
+        <div class="num">BOH</div>
+        <div>
+          <span class="chip watch">Follow-up</span>
+          <h3>Board of Health — still an <em>Interim</em> Health Officer</h3>
+          <p>&ldquo;Interim Health Officer&rdquo; appears under New Business in its own right,
+            separate from the Health Officer Update that follows — a county running its public
+            health authority on an interim appointment, through a measles response. No attachment
+            was posted with the item, so whether it was an appointment, an extension or a report is
+            not on the record; the audio recording is the only source. Also: measles and cyclospora
+            updates, and a Public Health Advisory Council report-out — the same PHAC whose three
+            reappointments sit on Tuesday's consent agenda.</p>
+        </div>
+      </div>
+      <details>
+        <summary>Earlier meetings</summary>
+        <p class="noted">Vancouver City Council, 24 August — the 0.1% public safety sales tax
+          ordinance (RCW 82.14.345, collection from 1 January 2027), Affordable Housing Fund plan
+          revisions on consent, and the Vancouver Heights Senior Housing disposition and
+          development agreement. Full write-ups, including the AHF allocation table and the
+          $875,000 ground-rent subsidy figures, are in the committed markdown briefs.</p>
+      </details>
+    </div>
+  </article>
+
+  <footer>
+    <p>Agendas retrieved from the City of Vancouver's CivicClerk API and Clark County's published
+      meeting listing. Reproduce with <code>python3 data/agenda_watch.py</code>, then follow
+      <code>BRIEF-PROMPT.md</code>. Full briefs, including everything not shown here, are committed
+      as markdown in <code>briefs/</code>.</p>
+    <p>Clark County meeting days, agenda deadlines and public-comment rules are from the Council's
+      Rules of Procedure, §IV.A, §VII.A, §VII.L and §VIII. <strong>Correction:</strong> the copy
+      cached in this project, markup dated 27 July 2026, was previously described here and in the
+      project README as <em>adopted</em>. It is not — the ordinance number and adoption date are
+      both blank. It is the draft going to hearing on 1 September. The provisions cited above are
+      unchanged between the current and draft text, so nothing quoted on this page from earlier runs
+      is affected.</p>
+    <p>The 26 August 2026 run read every published agenda but had no permission to download or open
+      any attachment, so all staff reports, ordinance exhibits and budget schedules for the meetings
+      above are unread. Each brief in <code>briefs/</code> lists exactly what went unopened under
+      &ldquo;What I could not check.&rdquo;</p>
+  </footer>
+
+</div>
+<div class="wrap"><p class="foot" style="font-size:15px;color:var(--ink-soft);border-top:1px solid var(--rule);padding-top:1.2em;margin-top:0;"><a href="archive.html">All briefs &rarr;</a> · <a href="https://github.com/zefreak/city-council">Repository</a> · Built 27 Aug 2026 04:09 UTC</p></div>
+<script>
+  (function(){
+    var KEY = "agenda-watch-theme";
+    var ORDER = ["system","light","dark"];
+    var FACE = {
+      system:{glyph:"\u25D0", label:"System"},
+      light: {glyph:"\u2600", label:"Light"},
+      dark:  {glyph:"\u263E", label:"Dark"}
+    };
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var glyph = btn.querySelector(".glyph");
+    var label = btn.querySelector(".label");
+
+    function read(){
+      var t = document.documentElement.getAttribute("data-theme");
+      return (t === "light" || t === "dark") ? t : "system";
+    }
+    function paint(state){
+      glyph.textContent = FACE[state].glyph;
+      label.textContent = FACE[state].label;
+      btn.setAttribute("aria-label", "Theme: " + FACE[state].label + ". Click to change.");
+      btn.setAttribute("title", "Theme: " + FACE[state].label);
+    }
+    function apply(state){
+      if (state === "system") {
+        document.documentElement.removeAttribute("data-theme");
+      } else {
+        document.documentElement.setAttribute("data-theme", state);
+      }
+      try{
+        if (state === "system") { localStorage.removeItem(KEY); }
+        else { localStorage.setItem(KEY, state); }
+      }catch(e){}
+      paint(state);
+    }
+
+    paint(read());
+    btn.addEventListener("click", function(){
+      apply(ORDER[(ORDER.indexOf(read()) + 1) % ORDER.length]);
+    });
+  })();
+</script>
+</body>
+</html>

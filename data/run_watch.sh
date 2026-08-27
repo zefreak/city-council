@@ -2,8 +2,8 @@
 # Council agenda watch — local cron runner.
 #
 # Runs the whole job on this machine: gather, read attachments, write briefs,
-# publish the rolling artifact, commit and push, then raise a Taskwarrior task
-# to review the result.
+# rebuild the GitHub Pages site, commit and push (which publishes it), then
+# raise a Taskwarrior task to review the result.
 #
 # WHY LOCAL. This ran as a Claude Code cloud routine first
 # (trig_01RT8WqXFyTLpGRsE8gHBGmp, now disabled). The cloud sandbox sits behind
@@ -184,23 +184,27 @@ the script.
 3. Write one markdown brief per meeting to briefs/<meeting-date>-<body>.md per
    BRIEF-PROMPT.md section 5. Every brief ends with 'What I could not check'.
 
-4. Update briefs/agenda-watch.html — the rolling artifact SOURCE. Read
-   briefs/ARTIFACT.md for the rules. Keep the title 'Council Agenda Watch'
+4. Update briefs/agenda-watch.html — the rolling page SOURCE. Read
+   briefs/PUBLISHING.md for the rules. Keep the title 'Council Agenda Watch'
    unchanged and honour the existing design system. The page shows UPCOMING
    meetings; drop ones that have passed.
 
-   DO NOT try to publish it. The Artifact tool does not exist in headless
-   'claude -p' runs — this was tested, and it is unavailable even when named in
-   --allowedTools. Publishing happens from an interactive session. Just update
-   the file, commit it, and state in the summary that a republish is pending.
+   It is a FRAGMENT: no doctype, html, head or body tags. Do not add them.
+   The site build wraps it.
 
-5. Commit and push: git add -A, commit with a message stating the findings not
+5. Run: python3 data/build_site.py
+   That regenerates docs/ from the fragment. GitHub Pages serves docs/ on main,
+   so the push in the next step IS the publish — there is no separate step and
+   nothing is left pending. If the build errors, fix the fragment and re-run;
+   do not commit a stale docs/.
+
+6. Commit and push: git add -A, commit with a message stating the findings not
    just 'update briefs', then push to origin main. If the push is rejected
    because the remote moved, pull --rebase and retry.
    data/.agenda-watch-state.json is committed on purpose so seen-agenda state
    persists between runs; if it conflicts, take the remote version.
 
-6. LAST STEP, REQUIRED: write a plain-text summary to $BOTTOM_LINE — first line
+7. LAST STEP, REQUIRED: write a plain-text summary to $BOTTOM_LINE — first line
    is a single sentence bottom line, then a blank line, then up to six bullet
    lines for what needs action, each naming the body, the item and any deadline.
    No markdown headers, no links. This file is the body of the notification the

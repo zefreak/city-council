@@ -1,0 +1,352 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Every council agenda brief, one file per meeting.">
+<meta name="color-scheme" content="light dark">
+<title>Brief Archive · Council Agenda Watch</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+  :root{
+    --ground:#F1F4F3;
+    --raised:#FFFFFF;
+    --ink:#151E1D;
+    --ink-soft:#485856;
+    --ink-faint:#758482;
+    --rule:#D3DCDA;
+    --accent:#0E5A53;
+    --accent-soft:#E2EEEC;
+    --act:#9E1B41;
+    --act-soft:#F8E4EA;
+    --quiet:#8A5A0B;
+    --quiet-soft:#F7ECD8;
+    --shadow:0 1px 2px rgba(21,30,29,.05),0 8px 24px -16px rgba(21,30,29,.28);
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ground:#111716;
+      --raised:#18201F;
+      --ink:#E6ECEA;
+      --ink-soft:#A2B0AE;
+      --ink-faint:#7C8B89;
+      --rule:#2A3634;
+      --accent:#54B7A8;
+      --accent-soft:#16302D;
+      --act:#F0879F;
+      --act-soft:#3A1622;
+      --quiet:#E7BC6A;
+      --quiet-soft:#33260F;
+      --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#111716;
+    --raised:#18201F;
+    --ink:#E6ECEA;
+    --ink-soft:#A2B0AE;
+    --ink-faint:#7C8B89;
+    --rule:#2A3634;
+    --accent:#54B7A8;
+    --accent-soft:#16302D;
+    --act:#F0879F;
+    --act-soft:#3A1622;
+    --quiet:#E7BC6A;
+    --quiet-soft:#33260F;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -16px rgba(0,0,0,.8);
+  }
+
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:var(--ground);
+    color:var(--ink);
+    font-family:"Source Sans 3",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+    font-size:17px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:52rem;margin:0 auto;padding:2.5rem 1.5rem 5rem;}
+
+  /* ---------- masthead ---------- */
+  .masthead{
+    display:flex;flex-direction:column;gap:.75rem;
+    padding-bottom:1.5rem;margin-bottom:2.5rem;
+    border-bottom:2px solid var(--ink);
+  }
+  .kicker{
+    font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--accent);font-weight:600;
+  }
+  h1{
+    font-family:"Zilla Slab",Georgia,"Times New Roman",serif;
+    font-weight:700;font-size:clamp(2rem,5.5vw,2.9rem);
+    line-height:1.08;margin:0;text-wrap:balance;letter-spacing:-.015em;
+  }
+  .lede{margin:0;color:var(--ink-soft);font-size:1.08rem;max-width:44rem;}
+  .meta{
+    display:flex;flex-wrap:wrap;gap:.4rem 1.5rem;margin-top:.5rem;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.76rem;color:var(--ink-faint);
+    font-variant-numeric:tabular-nums;
+  }
+  .meta b{color:var(--ink-soft);font-weight:600;}
+
+  /* ---------- meeting card ---------- */
+  .meeting{
+    background:var(--raised);
+    border:1px solid var(--rule);
+    border-radius:2px;
+    box-shadow:var(--shadow);
+    margin-bottom:2.25rem;
+    overflow:hidden;
+  }
+  .meeting-head{
+    display:flex;flex-wrap:wrap;align-items:baseline;gap:.5rem 1rem;
+    padding:1.1rem 1.4rem;
+    border-bottom:1px solid var(--rule);
+    border-left:4px solid var(--accent);
+  }
+  .meeting-head.is-pending{border-left-color:var(--rule);}
+  .body-tag{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;
+    font-weight:600;color:var(--accent);
+    background:var(--accent-soft);
+    padding:.2rem .5rem;border-radius:2px;
+  }
+  .when{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.82rem;color:var(--ink-faint);font-variant-numeric:tabular-nums;
+    margin-left:auto;
+  }
+  .meeting-head h2{
+    font-family:"Zilla Slab",Georgia,serif;
+    font-size:1.32rem;font-weight:600;margin:0;line-height:1.2;width:100%;
+  }
+  .meeting-body{padding:.4rem 1.4rem 1.5rem;}
+
+  /* ---------- items ---------- */
+  .item{
+    display:grid;
+    grid-template-columns:3.2rem 1fr;
+    gap:0 .9rem;
+    padding:1.2rem 0;
+    border-bottom:1px solid var(--rule);
+  }
+  .item:last-child{border-bottom:none;}
+  .num{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.8rem;font-weight:600;color:var(--ink-faint);
+    font-variant-numeric:tabular-nums;padding-top:.28rem;
+  }
+  .item h3{
+    font-family:"Zilla Slab",Georgia,serif;
+    font-size:1.05rem;font-weight:600;margin:0 0 .5rem;line-height:1.3;
+  }
+  .item > div{min-width:0;}
+  .item p{margin:0 0 .7rem;}
+  .item p:last-child{margin-bottom:0;}
+
+  .chip{
+    display:inline-block;
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.64rem;letter-spacing:.11em;text-transform:uppercase;font-weight:600;
+    padding:.18rem .45rem;border-radius:2px;margin-bottom:.5rem;
+  }
+  .chip.act{color:var(--act);background:var(--act-soft);}
+  .chip.quiet{color:var(--quiet);background:var(--quiet-soft);}
+  .chip.watch{color:var(--ink-soft);background:var(--ground);border:1px solid var(--rule);}
+
+  /* ---------- stale-run band ---------- */
+  .stale{
+    border:1px solid var(--quiet);
+    border-left:4px solid var(--quiet);
+    background:var(--quiet-soft);
+    padding:.9rem 1.2rem;
+    margin:0 0 1.75rem;
+    border-radius:0 2px 2px 0;
+    font-size:.94rem;
+  }
+  .stale .kicker{color:var(--quiet);}
+  .stale p{margin:.35rem 0 0;color:var(--ink);}
+  .stale p + p{margin-top:.55rem;}
+  .stale code{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.85em;
+    background:var(--raised);padding:.1rem .3rem;border-radius:2px;
+  }
+
+  /* ---------- bottom line ---------- */
+  .bottomline{
+    border-left:4px solid var(--act);
+    background:var(--act-soft);
+    padding:1rem 1.25rem;
+    margin:0 0 2.25rem;
+    border-radius:0 2px 2px 0;
+  }
+  .bottomline .kicker{color:var(--act);}
+  .bottomline p{
+    margin:.35rem 0 0;
+    font-family:"Zilla Slab",Georgia,serif;
+    font-size:1.18rem;line-height:1.4;color:var(--ink);
+  }
+
+  /* ---------- tables ---------- */
+  .scroll{overflow-x:auto;margin:.2rem 0 .9rem;}
+  table{border-collapse:collapse;width:100%;font-size:.88rem;min-width:22rem;}
+  th,td{
+    text-align:left;padding:.4rem .7rem .4rem 0;
+    border-bottom:1px solid var(--rule);
+    font-variant-numeric:tabular-nums;
+  }
+  th{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.68rem;letter-spacing:.09em;text-transform:uppercase;
+    color:var(--ink-faint);font-weight:600;
+  }
+  td.n,th.n{text-align:right;padding-right:0;}
+  tr.total td{font-weight:600;border-bottom:none;}
+
+  /* ---------- misc ---------- */
+  .caveat{
+    border:1px dashed var(--rule);
+    padding:.8rem 1rem;border-radius:2px;
+    font-size:.92rem;color:var(--ink-soft);
+    margin:.2rem 0 0;
+  }
+  .caveat strong{color:var(--ink);}
+  .noted{font-size:.92rem;color:var(--ink-soft);}
+  a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px;}
+  a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+  strong{font-weight:600;}
+  h4{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.7rem;letter-spacing:.13em;text-transform:uppercase;
+    color:var(--ink-faint);font-weight:600;margin:1.6rem 0 .6rem;
+  }
+  details{margin-top:.6rem;}
+  summary{
+    cursor:pointer;font-family:"IBM Plex Mono",ui-monospace,monospace;
+    font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);
+  }
+  footer{
+    margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--rule);
+    font-size:.86rem;color:var(--ink-faint);
+  }
+  footer code{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.82em;
+    background:var(--accent-soft);color:var(--accent);padding:.1rem .35rem;border-radius:2px;
+  }
+  @media (max-width:34rem){
+    .item{grid-template-columns:1fr;gap:.35rem;}
+    .num{padding-top:0;}
+    .when{margin-left:0;width:100%;}
+  }
+
+  .theme-toggle{
+    position:fixed; top:14px; right:14px; z-index:50;
+    display:flex; align-items:center; gap:.45em;
+    padding:.42em .8em;
+    font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    font-size:12px; letter-spacing:.04em;
+    color:var(--ink-soft); background:var(--raised);
+    border:1px solid var(--rule); border-radius:999px;
+    box-shadow:var(--shadow); cursor:pointer;
+    transition:color .15s ease, border-color .15s ease;
+  }
+  .theme-toggle:hover{ color:var(--accent); border-color:var(--accent); }
+  .theme-toggle:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+  .theme-toggle .glyph{ font-size:14px; line-height:1; }
+  @media (prefers-reduced-motion:reduce){ .theme-toggle{transition:none} }
+  @media print{ .theme-toggle{display:none} }
+  /* Narrow screens: the masthead needs the width more than the label does. */
+  @media (max-width:560px){ .theme-toggle .label{display:none} }
+
+  .arch{list-style:none;margin:0;padding:0;}
+  .arch li{border-bottom:1px solid var(--rule);}
+  .arch a{display:flex;gap:1.2em;align-items:baseline;padding:.7em 0;
+    text-decoration:none;color:var(--ink);}
+  .arch a:hover .arch-label{color:var(--accent);}
+  .arch-date{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;
+    color:var(--ink-faint);white-space:nowrap;font-variant-numeric:tabular-nums;}
+  .arch-label{font-weight:600;}
+  .foot{margin-top:2em;font-size:15px;color:var(--ink-soft);}
+
+</style>
+<script>
+  (function(){
+    try{
+      var t = localStorage.getItem("agenda-watch-theme");
+      if (t === "light" || t === "dark") {
+        document.documentElement.setAttribute("data-theme", t);
+      }
+    }catch(e){}
+  })();
+</script>
+</head>
+<body>
+<button id="theme-toggle" class="theme-toggle" type="button" aria-label="Change theme"><span class="glyph" aria-hidden="true">◐</span><span class="label">System</span></button>
+<div class="wrap">
+  <header class="masthead">
+    <div class="kicker">Archive</div>
+    <h1>Every brief</h1>
+    <p class="lede">One file per meeting, oldest kept as written. The front page carries only what is still upcoming.</p>
+  </header>
+  <section class="part">
+    <ul class="arch">
+      <li><a href="https://github.com/zefreak/city-council/blob/main/briefs/2026-09-08-vancouver-planning-commission.md"><span class="arch-date">Tue 8 Sep 2026</span><span class="arch-label">vancouver planning commission</span></a></li>
+      <li><a href="https://github.com/zefreak/city-council/blob/main/briefs/2026-09-01-clark-county-council.md"><span class="arch-date">Tue 1 Sep 2026</span><span class="arch-label">clark county council</span></a></li>
+      <li><a href="https://github.com/zefreak/city-council/blob/main/briefs/2026-08-26-clark-county-work-session-ncrts.md"><span class="arch-date">Wed 26 Aug 2026</span><span class="arch-label">clark county work session ncrts</span></a></li>
+      <li><a href="https://github.com/zefreak/city-council/blob/main/briefs/2026-08-26-clark-county-council-time.md"><span class="arch-date">Wed 26 Aug 2026</span><span class="arch-label">clark county council time</span></a></li>
+      <li><a href="https://github.com/zefreak/city-council/blob/main/briefs/2026-08-26-clark-county-board-of-health.md"><span class="arch-date">Wed 26 Aug 2026</span><span class="arch-label">clark county board of health</span></a></li>
+      <li><a href="https://github.com/zefreak/city-council/blob/main/briefs/2026-08-24-vancouver-city-council.md"><span class="arch-date">Mon 24 Aug 2026</span><span class="arch-label">vancouver city council</span></a></li>
+    </ul>
+    <p class="foot"><a href="index.html">&larr; Back to the watch</a> · <a href="https://github.com/zefreak/city-council">Repository</a></p>
+  </section>
+</div>
+<script>
+  (function(){
+    var KEY = "agenda-watch-theme";
+    var ORDER = ["system","light","dark"];
+    var FACE = {
+      system:{glyph:"\u25D0", label:"System"},
+      light: {glyph:"\u2600", label:"Light"},
+      dark:  {glyph:"\u263E", label:"Dark"}
+    };
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var glyph = btn.querySelector(".glyph");
+    var label = btn.querySelector(".label");
+
+    function read(){
+      var t = document.documentElement.getAttribute("data-theme");
+      return (t === "light" || t === "dark") ? t : "system";
+    }
+    function paint(state){
+      glyph.textContent = FACE[state].glyph;
+      label.textContent = FACE[state].label;
+      btn.setAttribute("aria-label", "Theme: " + FACE[state].label + ". Click to change.");
+      btn.setAttribute("title", "Theme: " + FACE[state].label);
+    }
+    function apply(state){
+      if (state === "system") {
+        document.documentElement.removeAttribute("data-theme");
+      } else {
+        document.documentElement.setAttribute("data-theme", state);
+      }
+      try{
+        if (state === "system") { localStorage.removeItem(KEY); }
+        else { localStorage.setItem(KEY, state); }
+      }catch(e){}
+      paint(state);
+    }
+
+    paint(read());
+    btn.addEventListener("click", function(){
+      apply(ORDER[(ORDER.indexOf(read()) + 1) % ORDER.length]);
+    });
+  })();
+</script>
+</body>
+</html>

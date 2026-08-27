@@ -107,17 +107,21 @@ Rank by how easily a thing passes without anyone noticing:
 **a. Markdown in git, the durable record.** Write to `briefs/<meeting-date>-<body>.md` and commit
 it. This is the version that is diffable week to week and that survives everything else.
 
-**b. One rolling artifact, the shareable copy.** A single page at a stable URL covering the
-*upcoming* meetings, republished each run — not a new page per meeting. Its URL is recorded in
-`briefs/ARTIFACT.md`; pass that URL to the `Artifact` tool as `url` so the republish updates the
-existing page instead of claiming a new one, and keep the source at
-`briefs/agenda-watch.html` so the same file path redeploys. Keep the favicon and title stable.
+**b. One rolling web page, the shareable copy.** A single page covering the *upcoming* meetings,
+rebuilt each run — not a new page per meeting. Edit the source at `briefs/agenda-watch.html`, then
+run `python3 data/build_site.py` to regenerate `docs/`. GitHub Pages serves `docs/` on `main`, so
+**the push is the publish** — there is no separate publishing step and nothing is ever left pending.
+Rules in `briefs/PUBLISHING.md`. Keep the title stable.
+
+`briefs/agenda-watch.html` is a **fragment** — no `<!doctype>`, `<html>`, `<head>` or `<body>`. The
+build adds those. Do not add them to the fragment.
 
 The rolling page shows what is *coming*. When a meeting has passed, drop it from the page — the
-markdown in git is where the history lives.
+markdown in git is where the history lives, and `docs/archive.html` indexes it automatically.
 
-If artifact publishing is unavailable in the run environment, **commit the markdown anyway and say
-in the run output that the artifact step was skipped.** Never silently drop half the deliverable.
+If the build fails, fix the fragment and re-run rather than committing a stale `docs/`. If it cannot
+be fixed, **commit the markdown anyway and say in the run output that the site build failed.** Never
+silently drop half the deliverable.
 
 Structure, for both:
 
@@ -130,9 +134,9 @@ Structure, for both:
 6. **Noted** — routine items, listed so the reader can see nothing was hidden from them.
 7. **What I could not check** — unread attachments, unpublished agendas, dead links.
 
-Then notify: send a push notification when the run completes, carrying the bottom line and the
-artifact URL. If there is nothing worth acting on, say that in the notification rather than
-suppressing it — a silent week is indistinguishable from a broken routine.
+Then notify: the runner handles this. Write the bottom line to the summary file it asks for, and
+it creates a Taskwarrior task carrying it. If there is nothing worth acting on, say that in the
+summary rather than leaving it empty — a silent week is indistinguishable from a broken routine.
 
 Keep it short enough to read before a meeting. If nothing on an agenda is relevant, the brief is
 three lines saying so. A brief that finds something important every single week is not being
