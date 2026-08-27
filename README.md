@@ -46,6 +46,13 @@ python3 data/agenda_watch.py --fetch 1083   # download a Vancouver packet
 
 Then follow `BRIEF-PROMPT.md` against the digest it writes.
 
+**Network access.** The run needs outbound HTTPS to `vancouverwa.api.civicclerk.com` and
+`clark.wa.gov`. In a sandboxed or proxied environment both must be on the egress allowlist — the
+27 August 2026 run failed entirely because they were not, with the proxy answering 403 to CONNECT
+for both (see `briefs/raw/2026-08-27-digest.md`). The failure surfaces as
+`URLError: Tunnel connection failed: 403 Forbidden` out of `van_meetings()`, which looks like a
+site outage and is not one. A policy denial is to be reported, not worked around.
+
 **When to run.** The two bodies publish on different days, so a two-run week catches both:
 
 - **Wednesday** — Clark County's next Tuesday agenda is due by 5pm (Rules §VII.A), and Vancouver's

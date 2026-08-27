@@ -153,6 +153,24 @@
   .chip.quiet{color:var(--quiet);background:var(--quiet-soft);}
   .chip.watch{color:var(--ink-soft);background:var(--ground);border:1px solid var(--rule);}
 
+  /* ---------- stale-run band ---------- */
+  .stale{
+    border:1px solid var(--quiet);
+    border-left:4px solid var(--quiet);
+    background:var(--quiet-soft);
+    padding:.9rem 1.2rem;
+    margin:0 0 1.75rem;
+    border-radius:0 2px 2px 0;
+    font-size:.94rem;
+  }
+  .stale .kicker{color:var(--quiet);}
+  .stale p{margin:.35rem 0 0;color:var(--ink);}
+  .stale p + p{margin-top:.55rem;}
+  .stale code{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.85em;
+    background:var(--raised);padding:.1rem .3rem;border-radius:2px;
+  }
+
   /* ---------- bottom line ---------- */
   .bottomline{
     border-left:4px solid var(--act);
@@ -229,106 +247,31 @@
     <p class="lede">What is on the next agendas, what is at stake, and where public comment is
       actually open. Compiled from the councils' own published agendas and attachments.</p>
     <div class="meta">
-      <span><b>Compiled</b> 26 Aug 2026</span>
-      <span><b>Next agenda due</b> Wed 9 Sep</span>
+      <span><b>Last good gather</b> 26 Aug 2026</span>
+      <span><b>Last run</b> 27 Aug 2026 — failed</span>
       <span><b>Sources</b> CivicClerk API · clark.wa.gov</span>
     </div>
   </header>
+
+  <div class="stale">
+    <div class="kicker">This page did not refresh today</div>
+    <p>The 27 August run could not reach either council. The network the watch runs on refused the
+      connection to <code>vancouverwa.api.civicclerk.com</code> and <code>clark.wa.gov</code> —
+      an access-policy denial on our side, not an outage at either council and not a change to
+      anything below.</p>
+    <p>So everything on this page is as of <strong>26 August</strong>. Any agenda published since
+      then is unseen — including <strong>Clark County's Tuesday 1 September</strong> meeting, whose
+      agenda was due by 5pm on 26 August, and <strong>Council Time on Wednesday 2 September</strong>.
+      Treat the September Clark County entries below as expected, not confirmed.</p>
+  </div>
 
   <div class="bottomline">
     <div class="kicker">Bottom line</div>
     <p>On 8 September the Planning Commission sets how far Vancouver's HB 1491 transit
       affordability mandate gets carved back — staff propose excluding downtown and roughly a
-      quarter of parcels near stations. Before that, Clark County re-establishes its Mental Health
-      Sales Tax advisory board with no seat for anyone who uses the services it funds.</p>
+      quarter of parcels near stations. That hearing is still the thing worth showing up to, and
+      it is the one item here confirmed from a published agenda.</p>
   </div>
-
-  <!-- ============ CLARK COUNTY 26 AUG ============ -->
-  <article class="meeting">
-    <div class="meeting-head">
-      <span class="body-tag">Clark County</span>
-      <span class="when">Wed 26 Aug · 1:00pm</span>
-      <h2>Council Time</h2>
-    </div>
-    <div class="meeting-body">
-
-      <div class="item">
-        <div class="num">5.2</div>
-        <div>
-          <span class="chip act">Act — comment open</span>
-          <h3>Mental Health Sales Tax: resolution creating advisory board, and bylaws</h3>
-          <p>The board shapes the County Manager's recommended budget for the 0.1% treatment
-            sales tax Clark County has levied since 2007 under RCW 82.14.460. The bylaws set
-            eight voting seats:</p>
-          <div class="scroll">
-            <table>
-              <thead><tr><th>Seat</th><th class="n">Votes</th></tr></thead>
-              <tbody>
-                <tr><td>Superior Court Judge</td><td class="n">1</td></tr>
-                <tr><td>District Court Administrator</td><td class="n">1</td></tr>
-                <tr><td>Juvenile Court Administrator</td><td class="n">1</td></tr>
-                <tr><td>Community Services Director</td><td class="n">1</td></tr>
-                <tr><td>CS Mental Health / Substance Abuse Program Manager</td><td class="n">1</td></tr>
-                <tr><td>Public Health Director</td><td class="n">1</td></tr>
-                <tr><td>County Councilors (rural + urban)</td><td class="n">2</td></tr>
-                <tr class="total"><td>Service users, peers, providers, public</td><td class="n">0</td></tr>
-              </tbody>
-            </table>
-          </div>
-          <p>Three of eight seats are courts. Chair and vice-chair are both councilors
-            (Article V), so the board cannot elect its own leadership. It meets <strong>at least
-            annually</strong> (Article IV.1) — a low floor for oversight of a permanent
-            countywide tax.</p>
-          <p>Council Time takes public comment, 3 minutes, but <strong>only on items already on
-            the agenda</strong>, and you must name the item when you speak. Time cannot be yielded
-            to another speaker without a majority vote of the Council.</p>
-          <p class="caveat"><strong>Check this before quoting it.</strong> The resolution attached
-            to the agenda is the <em>original staff report dated 27 February 2018</em>
-            (Resolution 2018-02-18), not a 2026 document. What the 2026 item changes could not be
-            determined from the attachments. The membership above is the bylaws as attached.</p>
-        </div>
-      </div>
-
-      <div class="item">
-        <div class="num">4.2</div>
-        <div>
-          <span class="chip watch">Watch</span>
-          <h3>Tri-Mountain Golf Course RFP presentation</h3>
-          <p>A public asset going out to bid. Listed under old business, so likely informational
-            at this stage. No terms published. Presentation not read.</p>
-        </div>
-      </div>
-
-      <div class="item">
-        <div class="num">WS</div>
-        <div>
-          <span class="chip quiet">No public comment</span>
-          <h3>North County Recycling &amp; Transfer Station siting study, Phase I &amp; II</h3>
-          <p>Siting studies are where environmental-justice questions get settled quietly, and
-            work sessions take <strong>no public comment at all</strong> under the Council's own
-            Rules of Procedure §VIII. Two presentations posted; neither read.</p>
-        </div>
-      </div>
-
-      <div class="item">
-        <div class="num">7.1</div>
-        <div>
-          <span class="chip watch">Watch</span>
-          <h3>Councilor request: Gorge Commission update (40th anniversary)</h3>
-          <p>A request to schedule a future work session, not a decision.</p>
-        </div>
-      </div>
-
-      <details>
-        <summary>Also on the agenda</summary>
-        <p class="noted">Roll call · amendments to the agenda · public comment on agenda items ·
-          approval of 19 August minutes · proclamation for National Day of Remembrance for
-          Homicide Victims (25 Sept) · councilors' reports · policy updates · executive
-          session(s).</p>
-      </details>
-
-    </div>
-  </article>
 
   <!-- ============ PLANNING COMMISSION 8 SEP ============ -->
   <article class="meeting">
@@ -407,10 +350,12 @@
       <div class="item">
         <div class="num">!</div>
         <div>
-          <p class="caveat"><strong>The agenda packet is not published.</strong> Only the agenda
-            itself is. Staff reports, the draft Title 20 language, the exclusion map and the fee
-            schedule are all still to come — and that is where the numbers will be. No dollar
-            figures are available for any item on this agenda.</p>
+          <p class="caveat"><strong>The agenda packet was not published as of 26 August</strong>,
+            and today's run could not re-check it. Only the agenda itself is out. Staff reports,
+            the draft Title 20 language, the exclusion map and the fee schedule are all still to
+            come — and that is where the numbers will be. No dollar figures are available for any
+            item on this agenda. The packet may well have posted since; it is the first thing to
+            read when it does.</p>
         </div>
       </div>
 
@@ -425,8 +370,34 @@
     </div>
   </article>
 
-  <!-- ============ UPCOMING, NOT YET POSTED ============ -->
-  <h4>Agendas not yet published</h4>
+  <!-- ============ UPCOMING, NOT YET SEEN ============ -->
+  <h4>Coming up — agendas not seen</h4>
+
+  <article class="meeting">
+    <div class="meeting-head is-pending">
+      <span class="body-tag">Clark County</span>
+      <span class="when">Tue 1 Sep · Wed 2 Sep</span>
+      <h2>Council meeting and Council Time</h2>
+    </div>
+    <div class="meeting-body">
+      <div class="item">
+        <div class="num">?</div>
+        <div>
+          <p><strong>Unverified — this is the gap the failed run leaves.</strong> Under the
+            ~1st-and-3rd-Tuesday pattern a regular meeting on <strong>1 September</strong> is
+            expected, with its agenda due by 5pm Wednesday 26 August under the Council's own Rules
+            §VII.A, and weekly Council Time on <strong>2 September</strong>. Neither the meetings
+            nor their agendas could be confirmed today, because the county's listing was
+            unreachable.</p>
+          <p>If you are planning to speak, check
+            <strong>clark.wa.gov/councilors/clark-county-council-meetings</strong> yourself rather
+            than relying on this page. The Tuesday meeting is the broad-scope slot — three minutes
+            on <em>any</em> county business, not just what is on the agenda. Wednesday Council Time
+            is three minutes on agenda items only, and you must name the item.</p>
+        </div>
+      </div>
+    </div>
+  </article>
 
   <article class="meeting">
     <div class="meeting-head is-pending">
@@ -438,8 +409,8 @@
       <div class="item">
         <div class="num">—</div>
         <div>
-          <p>Not yet published. An agenda ID exists but contains zero items — Vancouver assigns
-            the ID long before the agenda is written, so the item count is the real test.
+          <p>Not published as of 26 August. An agenda ID exists but contains zero items — Vancouver
+            assigns the ID long before the agenda is written, so the item count is the real test.
             Expected <strong>Wednesday 9 September</strong>, about a week ahead.</p>
           <p>There is no 31 August meeting; Council skips weeks.</p>
         </div>
@@ -448,115 +419,55 @@
   </article>
 
   <!-- ============ RECENT ============ -->
-  <h4>Recently passed</h4>
+  <h4>Recently passed — outcome still live</h4>
 
   <article class="meeting">
     <div class="meeting-head">
-      <span class="body-tag">Vancouver</span>
-      <span class="when">Mon 24 Aug</span>
-      <h2>City Council</h2>
+      <span class="body-tag">Clark County</span>
+      <span class="when">Wed 26 Aug</span>
+      <h2>Council Time</h2>
     </div>
     <div class="meeting-body">
-
       <div class="item">
-        <div class="num">PH</div>
+        <div class="num">5.2</div>
         <div>
-          <span class="chip act">Public hearing</span>
-          <h3>0.1% criminal justice sales and use tax</h3>
-          <p>Adds VMC 5.98.028 under RCW 82.14.345, created by HB 2015 (2025). Collection begins
-            <strong>1 January 2027</strong>. A regressive consumption tax funding police — and it
-            <strong>stacks</strong>: the ordinance's own recitals confirm Vancouver already
-            receives distributions under RCW 82.14.450 and levies a criminal justice tax under
-            RCW 82.14.340. This is a third, not a replacement.</p>
-          <p>It is also a grant qualification. Sections 1.A.1–10 are findings that VPD meets the
-            Local Law Enforcement Grant Program conditions — use-of-force and de-escalation
-            policy, use-of-force data reporting, firearm relinquishment practice,
-            <strong>25% of officers through 40-hour crisis intervention training</strong>, and a
-            staffing plan filed with the Criminal Justice Training Commission covering co-response
-            teams, 911 response rate and case closure rate. That 25% is the floor the state
-            accepts, not an achievement.</p>
-          <p class="caveat">Not the same as the TBD <strong>transportation</strong> 0.1% sales
-            tax. Two different 0.1% taxes are live in Vancouver, and the city's own documents have
-            described the TBD one as 0.01% — it is 0.1%.</p>
+          <span class="chip watch">Follow-up</span>
+          <h3>Mental Health Sales Tax advisory board — resolution and bylaws</h3>
+          <p>The board shapes the County Manager&rsquo;s recommended budget for the 0.1% treatment
+            sales tax the county has levied since 2007 under RCW 82.14.460. As attached, the bylaws
+            set <strong>eight voting seats — three of them courts</strong>, the rest county
+            directors and two councilors, and <strong>none for anyone who uses the services the tax
+            funds</strong>, or for peers, providers or the public. Chair and vice-chair are both
+            councilors (Article V), so the board cannot elect its own leadership, and it meets
+            <strong>at least annually</strong> (Article IV.1).</p>
+          <p>The live part is <strong>who gets appointed</strong> and when the board first meets —
+            neither was settled on 26 August. Clark County&rsquo;s Tuesday meetings take three
+            minutes of comment on <em>any</em> county business, which is the routine opening to
+            raise membership without waiting for it to appear on an agenda.</p>
+          <p class="caveat"><strong>Check before quoting.</strong> The resolution attached to the
+            agenda was the <em>original staff report dated 27 February 2018</em> (Resolution
+            2018-02-18), not a 2026 document. What the 2026 item changed could not be determined
+            from the attachments. The membership above is the bylaws as attached.</p>
         </div>
       </div>
-
       <div class="item">
-        <div class="num">C</div>
-        <div>
-          <span class="chip quiet">Consent — no debate unless pulled</span>
-          <h3>Affordable Housing Fund plan revisions</h3>
-          <p>Seven changes to the 2024–2033 AHF Administrative &amp; Financial Plan, and they are
-            not housekeeping: higher per-unit funding limits; predevelopment loans capped at 25%
-            of the award; tailored applications by program type; <strong>people exiting
-            institutions without a housing plan added as a priority population</strong> — a good
-            change; a clarified shared-housing rent formula; and final cost certification at
-            completion.</p>
-          <p>The one to look at is the Bridge Shelter set-aside. Temporary Shelter is
-            $1M/yr, of which <strong>$400k is set aside for the City's own Bridge Shelter</strong>,
-            and the plan states that AHF outcomes are calculated on "the $600k available for other
-            providers." The published goal of 33 beds/yr is measured against $600k while $1M is
-            spent. That may be defensible; it should not pass on consent without someone saying it
-            out loud.</p>
-          <details>
-            <summary>AHF allocations and goals</summary>
-            <div class="scroll">
-              <table>
-                <thead><tr><th>Eligible use</th><th class="n">Annual</th><th class="n">Goal/yr</th><th class="n">10-yr</th></tr></thead>
-                <tbody>
-                  <tr><td>Housing production / preservation</td><td class="n">$6M</td><td class="n">40 direct + 215 leveraged</td><td class="n">2,150 units</td></tr>
-                  <tr><td>Rent assistance &amp; housing services</td><td class="n">$2M</td><td class="n">250 households</td><td class="n">2,500 hh</td></tr>
-                  <tr><td>Temporary shelter</td><td class="n">$1M</td><td class="n">33 beds</td><td class="n">330 beds</td></tr>
-                  <tr><td>Homeownership</td><td class="n">$500k</td><td class="n">15 households</td><td class="n">150 hh</td></tr>
-                  <tr><td>Implementation (admin)</td><td class="n">$500k</td><td class="n">—</td><td class="n">—</td></tr>
-                  <tr class="total"><td>Total</td><td class="n">$10M</td><td class="n">513</td><td class="n">5,130</td></tr>
-                </tbody>
-              </table>
-            </div>
-            <p class="noted">AHF serves households up to 50% AMI (80% for homeownership).</p>
-          </details>
-        </div>
-      </div>
-
-      <div class="item">
-        <div class="num">PH</div>
+        <div class="num">4.2</div>
         <div>
           <span class="chip watch">Money &amp; land</span>
-          <h3>Vancouver Heights Senior Housing — disposition and development agreement</h3>
-          <p>Heights District Site P, E. Mill Plain Blvd at Devine Rd. Developer selected by March
-            2024 RFP: Related/Northwest Development LLC with the Vancouver Housing Authority.
-            <strong>On the merits this is a good deal, and the brief should say so.</strong></p>
-          <div class="scroll">
-            <table>
-              <thead><tr><th>Unit</th><th class="n">Total</th><th class="n">30% AMI</th><th class="n">50% AMI</th><th class="n">60% AMI</th></tr></thead>
-              <tbody>
-                <tr><td>Studio</td><td class="n">15</td><td class="n">4</td><td class="n">5</td><td class="n">6</td></tr>
-                <tr><td>1-bed</td><td class="n">24</td><td class="n">4</td><td class="n">10</td><td class="n">10</td></tr>
-                <tr><td>2-bed</td><td class="n">12</td><td class="n">3</td><td class="n">4</td><td class="n">5</td></tr>
-                <tr class="total"><td>Total</td><td class="n">51</td><td class="n">11</td><td class="n">19</td><td class="n">21</td></tr>
-              </tbody>
-            </table>
-          </div>
-          <p><strong>The City keeps the land.</strong> A 99-year ground lease, not a sale — no rent
-            for 30 months, 3% annual increases, discounted 95% for 40 years, recalculated by
-            appraisal in year 41 with affordability renewed. Affordability runs at least 40 years.</p>
-          <p>The subsidy, from the City's own presentation: land valued at <strong>$676,000</strong>;
-            NPV of a market-rate ground lease over 40 years <strong>$933,596</strong>; NPV of the
-            discounted lease <strong>$58,364</strong>. The City forgoes roughly
-            <strong>$875,000</strong> of ground rent over 40 years for 51 units, 11 of them at 30%
-            AMI. Retaining the freehold is the part worth defending.</p>
+          <h3>Tri-Mountain Golf Course RFP</h3>
+          <p>A public asset going out to bid, presented under old business and so probably still
+            informational. No terms were published and the presentation was not read. Worth
+            watching for the terms when they surface.</p>
         </div>
       </div>
-
       <details>
-        <summary>Not reviewed</summary>
-        <p class="noted">Workshops on Fire Department support staffing, city financial and
-          investment policies, and the 2026 Climate Action Framework update. Ordinance amending
-          VMC 3.05 Procurement. The full Disposition and Development Agreement (figures above come
-          from the resolution and presentation, not the executed agreement). No revenue estimate
-          for the criminal justice tax appears in the ordinance.</p>
+        <summary>Earlier meetings</summary>
+        <p class="noted">Vancouver City Council, 24 August — the 0.1% public safety sales tax
+          ordinance (RCW 82.14.345, collection from 1 January 2027), Affordable Housing Fund plan
+          revisions on consent, and the Vancouver Heights Senior Housing disposition and
+          development agreement. Full write-ups, including the AHF allocation table and the
+          $875,000 ground-rent subsidy figures, are in the committed markdown briefs.</p>
       </details>
-
     </div>
   </article>
 
@@ -567,6 +478,10 @@
       as markdown in <code>briefs/</code>.</p>
     <p>Clark County meeting days, agenda deadlines and public-comment rules are from the Council's
       Rules of Procedure (27 July 2026), §IV.A, §VII.A, §VII.L and §VIII.</p>
+    <p>The 27 August 2026 run gathered nothing: outbound access to both councils was refused by
+      network policy, so no agenda published after 26 August has been read. The blocked hosts and
+      what is consequently unknown are recorded in
+      <code>briefs/raw/2026-08-27-digest.md</code>.</p>
   </footer>
 
 </div>
