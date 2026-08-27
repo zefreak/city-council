@@ -2,8 +2,8 @@
 # Council agenda watch — local cron runner.
 #
 # Runs the whole job on this machine: gather, read attachments, write briefs,
-# publish the rolling artifact, commit and push, then notify by desktop popup
-# and email.
+# publish the rolling artifact, commit and push, then raise a Taskwarrior task
+# to review the result.
 #
 # WHY LOCAL. This ran as a Claude Code cloud routine first
 # (trig_01RT8WqXFyTLpGRsE8gHBGmp, now disabled). The cloud sandbox sits behind
@@ -33,12 +33,12 @@ cd "$PROJECT" || exit 1
 EMAIL_ENABLED="${EMAIL_ENABLED:-0}"
 EMAIL_TO="${EMAIL_TO:-zefreak@gmail.com}"
 
-# Optional integration point. If data/notify-hook.sh exists and is executable
-# it is called for every notification, with the urgency as $1 and the subject
-# as $2, and the full summary on stdin. This is where a todo-list app, a
-# task-capture CLI or anything else gets wired in — no edit to this script
-# needed. A non-zero exit is logged and otherwise ignored, so a broken hook
-# cannot swallow a brief.
+# The notification path. data/notify-hook.sh is called for every notification
+# with the urgency as $1, the subject as $2 and the full summary on stdin. It
+# creates a Taskwarrior task; Taskwarrior's own on-add hook raises the desktop
+# popup, so the task IS the notification. Exit 0 means handled; any non-zero
+# exit falls back to a plain notify-send, so a broken hook cannot swallow a
+# brief. Swap the hook to change where notifications go — no edit here.
 NOTIFY_HOOK="$PROJECT/data/notify-hook.sh"
 CLAUDE_BIN="${CLAUDE_BIN:-$HOME/sf/bin/claude}"
 MODEL="${MODEL:-opus}"
@@ -87,18 +87,27 @@ email_notify() {
          "Agenda Watch — email failed" "See $LOG"; }
 }
 
+# Returns 0 only when the hook says it handled the notification. A missing or
+# non-executable hook counts as not handled, so the popup still happens.
 run_hook() {
   local urgency="$1" subject="$2" body="$3"
-  [ -x "$NOTIFY_HOOK" ] || return 0
-  printf '%s' "$body" | "$NOTIFY_HOOK" "$urgency" "$subject" >>"$LOG" 2>&1 \
-    || log "notify-hook exited non-zero (ignored)"
+  [ -x "$NOTIFY_HOOK" ] || return 1
+  printf '%s' "$body" | "$NOTIFY_HOOK" "$urgency" "$subject" >>"$LOG" 2>&1
 }
 
+# The hook creates a Taskwarrior task, and ~/.task/hooks/on-add.notify raises
+# the desktop notification as a side effect of the add. So when the hook
+# handles it, do NOT also call notify-send — that would pop twice. The plain
+# popup is the fallback for when there is no task to make: a quiet run, or a
+# broken/absent hook.
 notify_both() {
   local urgency="$1" subject="$2" body="$3"
-  desktop_notify "$urgency" "$subject" "$body"
   email_notify "$subject" "$body"
-  run_hook "$urgency" "$subject" "$body"
+  if run_hook "$urgency" "$subject" "$body"; then
+    log "notification handled by $NOTIFY_HOOK"
+  else
+    desktop_notify "$urgency" "$subject" "$body"
+  fi
 }
 
 # --------------------------------------------------------------- preflight

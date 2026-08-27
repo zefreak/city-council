@@ -18,7 +18,8 @@ terminal artifact. The deliverable is a recurring brief in `briefs/`.
 | `BRIEF-PROMPT.md` | written — the lens and output structure |
 | `data/run_watch.sh` | written — local cron runner, gather + brief + notify |
 | Scheduling | local cron, twice weekly — see "Running it" |
-| Email notifications | **needs msmtp set up once** — see below |
+| Notifications | working — Taskwarrior task + desktop popup |
+| Email notifications | off, optional — needs msmtp set up once |
 | Cloud routine | disabled — sandbox egress blocks both councils |
 | Briefs written | 6 — Vancouver 24 Aug, Clark Co. Council Time 26 Aug, BOH 26 Aug, NCRTS work session 26 Aug, Planning Commission 8 Sep, Clark Co. Council 1 Sep |
 
@@ -96,22 +97,38 @@ tail -f briefs/raw/run-*.log
 
 Exit codes: `0` work done or nothing to do, `1` setup problem, `2` the gather failed.
 
-### Notifications
+### Notifications — Taskwarrior
 
-Desktop popups via `notify-send` are on and working. **Email is off by default** (`EMAIL_ENABLED=0`)
-— there is no MTA configured on this machine.
+**A run that finds something creates a task, and the task is the notification.** `data/notify-hook.sh`
+adds it; `~/.task/hooks/on-add.notify` raises the desktop popup as a side effect of the add. The
+task then sits in the py3status bar's pending count until it is done.
 
-For a todo-list app or any other sink, drop an executable at **`data/notify-hook.sh`**. The runner
-calls it for every notification with urgency as `$1`, subject as `$2`, and the full summary on
-stdin. A non-zero exit is logged and ignored, so a broken hook cannot swallow a brief. No edit to
-`run_watch.sh` needed:
+| Run outcome | Task created | Popup |
+|---|---|---|
+| Agendas new or changed | `Review updated council agenda page - <date>`, `project:council +agendawatch`, due tomorrow | from Taskwarrior's on-add hook |
+| Run failed (rc 1/2/3) | `Agenda watch FAILED <date>`, `+agendafail priority:H`, due today | same |
+| Nothing new | none — a to-do saying nothing happened is noise | plain `notify-send`, low urgency |
 
-```bash
-#!/usr/bin/env bash
-# $1 urgency (low|normal|critical), $2 subject, summary on stdin
-summary="$(cat)"
-todo add "$2: $(printf '%s' "$summary" | head -1)"
-```
+The summary's first three lines and the subject go on as annotations, so the bottom line is readable
+from `task <id> info` without opening the brief.
+
+Three details worth knowing before editing the hook:
+
+- **The DBUS export is load-bearing.** `on-add.notify` shells out to `notify-send` and swallows every
+  exception. Under cron there is no session bus, so without the export you get the task and silently
+  no popup.
+- **Dedupe is per kind per day, not per day.** A failure on a day that already had a good run must
+  make its own high-priority task, not become annotation #7 on the quiet one.
+- **Descriptions are sanitized.** Taskwarrior parses every argument for attribute syntax, so a colon
+  in a brief's own wording would be read as a modifier and eaten. The real text lives in annotations.
+
+To send notifications somewhere else instead, replace `data/notify-hook.sh`. The runner calls it with
+urgency as `$1`, subject as `$2`, and the full summary on stdin. **Exit 0 means handled** and the
+runner raises no popup of its own; any non-zero exit falls back to `notify-send`, so a broken hook
+cannot swallow a brief. No edit to `run_watch.sh` needed.
+
+**Email is off by default** (`EMAIL_ENABLED=0`) and no longer the intended path — there is no MTA
+configured on this machine. The setup below still works if you want it.
 
 ### Email setup — optional, when you want it
 
