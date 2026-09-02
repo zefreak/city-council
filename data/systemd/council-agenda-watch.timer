@@ -1,0 +1,26 @@
+[Unit]
+Description=Council agenda watch, Wednesday and Friday evening
+Documentation=https://github.com/zefreak/city-council
+
+[Timer]
+# Wednesday: Clark County's next Tuesday agenda is due by 5pm (Rules §VII.A),
+# and Vancouver's Monday agenda posts about a week out.
+# Friday: Clark County Council Time additions are posted by Friday noon
+# (Rules §VII.P).
+OnCalendar=Wed,Fri 19:00:00
+
+# THE REASON THIS IS NOT CRON. The laptop was suspended from 15:14 Fri
+# 28 Aug to 02:10 Sat 29 Aug, so the 19:00 cron slot passed while it slept and
+# cronie simply skipped it — a whole cycle silently lost. Persistent= records
+# the last firing in ~/.local/share/systemd/timers/ and runs a missed slot at
+# the next opportunity instead of waiting for the next one. A realtime timer
+# whose time elapsed during suspend also fires on resume. So a Friday-evening
+# suspend into Monday means the brief lands Monday morning: late, not lost.
+Persistent=true
+
+# The run pushes to GitHub. Nothing depends on the exact minute, so spread the
+# start rather than hitting the API on the dot.
+RandomizedDelaySec=5min
+
+[Install]
+WantedBy=timers.target

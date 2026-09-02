@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Council agenda watch — local cron runner.
+# Council agenda watch — the local runner.
 #
 # Runs the whole job on this machine: gather, read attachments, write briefs,
 # rebuild the GitHub Pages site, commit and push (which publishes it), then
@@ -14,9 +14,12 @@
 # failed run. Re-enabling the cloud routine is one API call if that ever
 # changes.
 #
-# WHEN. Wednesday and Friday evening — see README.md "Running it". Clark
-# County's Tuesday agenda is due 5pm Wednesday; Council Time additions by
-# Friday noon.
+# WHEN. Wednesday and Friday evening, driven by the systemd user timer in
+# data/systemd/ — see README.md "Automated, twice a week". Clark County's
+# Tuesday agenda is due 5pm Wednesday; Council Time additions by Friday noon.
+# This was a cron job until 2 September 2026; cron skipped the 28 August slot
+# because the laptop was suspended through it and never came back to it, which
+# is what Persistent=true on the timer fixes.
 #
 # EXIT CODES. 0 work done or nothing to do; 1 setup problem (missing claude,
 # bad repo); 2 the gather failed (usually network); 3 the brief run died
@@ -52,9 +55,10 @@ mkdir -p "$LOGDIR"
 log() { printf '[%s] %s\n' "$(date +%H:%M:%S)" "$*" | tee -a "$LOG"; }
 
 # --------------------------------------------------------------- notify
-# cron has no desktop session, so notify-send needs to be told which bus to
-# talk to. Find the user's session bus from a running process rather than
-# assuming /run/user/$UID/bus exists.
+# A headless run may have no desktop session, so notify-send needs to be told
+# which bus to talk to. The systemd user manager exports DBUS_SESSION_BUS_ADDRESS
+# itself, but a bare `claude -p` from a non-graphical shell does not, so find the
+# session bus from a running process rather than assuming /run/user/$UID/bus.
 desktop_notify() {
   local urgency="$1" title="$2" body="$3"
   command -v notify-send >/dev/null 2>&1 || return 0

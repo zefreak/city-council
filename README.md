@@ -18,8 +18,8 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | `data/agenda_watch.py` | working, ~15s per run, both sources |
 | `data/clark-county/fetch_clark_county.py` | working, Clark County only, more verbose output |
 | `BRIEF-PROMPT.md` | written — the lens and output structure |
-| `data/run_watch.sh` | written — local cron runner, gather + brief + notify |
-| Scheduling | **installed** — cron, Wed & Fri 19:00 local |
+| `data/run_watch.sh` | written — local runner, gather + brief + notify |
+| Scheduling | **installed** — systemd user timer, Wed & Fri 19:00 local |
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
@@ -32,9 +32,12 @@ README.md                                 this file
 BRIEF-PROMPT.md                           how a digest becomes a brief
 data/
   agenda_watch.py                         both bodies -> briefs/raw/<date>-digest.md
-  run_watch.sh                            cron runner: gather + claude -p + build + push
+  run_watch.sh                            the runner: gather + claude -p + build + push
   build_site.py                           fragment -> docs/ (GitHub Pages)
   notify-hook.sh                          creates the Taskwarrior task
+  systemd/
+    council-agenda-watch.service          the run, as a oneshot unit
+    council-agenda-watch.timer            Wed & Fri 19:00, Persistent=true
   .agenda-watch-state.json                seen-agenda fingerprints (auto)
   clark-county/
     fetch_clark_county.py                 Clark County listing walker
@@ -66,9 +69,9 @@ for both (see `briefs/raw/2026-08-27-digest.md`). The failure surfaces as
 `URLError: Tunnel connection failed: 403 Forbidden` out of `van_meetings()`, which looks like a
 site outage and is not one. A policy denial is to be reported, not worked around.
 
-**Tool permissions in the cron run — open blocker.** `run_watch.sh` invokes `claude -p` with
+**Tool permissions in the headless run — open blocker.** `run_watch.sh` invokes `claude -p` with
 `--permission-mode acceptEdits`, which auto-approves *file edits only*. Bash and WebFetch still
-prompt, and under cron there is nobody to approve, so on the **26 August 2026** run every
+prompt, and in a headless run there is nobody to approve, so on the **26 August 2026** run every
 attempt to `curl` an attachment, run `pdftotext`, or WebFetch a document was denied. The gather
 itself was fine — it runs as its own process before `claude` is invoked — but the brief step
 could not open a single staff report and had to be written from agenda titles, which is the one
@@ -79,7 +82,7 @@ Check `claude --help | grep -i allowed` for the flag spelling, then test with a 
 
 **`git push` fails in a headless run, and it fails at the last step.** The configured credential
 helper is `git-credential-libsecret`, which needs the Secret Service over D-Bus. With no session bus
-— cron, or `claude -p` from a non-graphical shell — it dies with `could not connect to Secret
+— `claude -p` from a non-graphical shell — it dies with `could not connect to Secret
 Service: Cannot autolaunch D-Bus without X11 $DISPLAY` and then `fatal: could not read Username for
 'https://github.com'`. Since **the push is the publish**, that failure means the briefs are
 committed and nothing is live. `gh` is authenticated and can supply the credential without the
@@ -89,10 +92,11 @@ keyring:
 git -c credential.helper='!gh auth git-credential' push origin main
 ```
 
-That worked on the 26 August 2026 21:39 run. It still prints the same D-Bus `CRITICAL` lines — they
-come from the *store* step caching the credential, and are harmless; check for
-`main -> main` in the output, not for a clean stderr. `run_watch.sh` has not been changed to use
-this, so a cron run will still fail at the push.
+**This is now fixed**: `credential.helper` is set repo-locally to `!gh auth git-credential`, so the
+plain `git push` in `run_watch.sh` uses `gh` and no edit to the script was needed. See
+"Notifications" below for the caveat that it lives in `.git/config` and does not travel with a clone.
+It still prints the same D-Bus `CRITICAL` lines — they come from the *store* step caching the
+credential, and are harmless; check for `main -> main` in the output, not for a clean stderr.
 
 **When to run.** The two bodies publish on different days, so a two-run week catches both:
 
@@ -104,24 +108,49 @@ this, so a cron run will still fail at the push.
 
 `data/run_watch.sh` runs the whole job locally: gather, read attachments, write briefs, publish the
 page, rebuild `docs/`, commit and push — which publishes it — then raise a Taskwarrior task.
-Add to `crontab -e`:
 
-```cron
-PATH=/home/scottr/sf/bin:/usr/local/bin:/usr/bin:/bin
-0 19 * * 3,5 /home/scottr/research/city-council/data/run_watch.sh >/dev/null 2>&1
-```
-
-Wednesday and Friday at 7pm local. The `PATH` line matters — cron's default does not include
-`~/sf/bin`, where `claude` lives.
-
-Test it without waiting for cron:
+It is driven by a **systemd user timer**, not cron. Install with:
 
 ```bash
-data/run_watch.sh          # full run
+cp data/systemd/council-agenda-watch.{service,timer} ~/.config/systemd/user/
+systemctl --user daemon-reload
+systemctl --user enable --now council-agenda-watch.timer
+systemctl --user list-timers council-agenda-watch.timer
+```
+
+The unit files are copies, not symlinks — edit them in `data/systemd/` and re-run the `cp` and
+`daemon-reload`. The service sets `PATH` itself, because `~/sf/bin`, where `claude` lives, is not on
+the user manager's default path.
+
+**Why not cron.** cron skips a slot that passes while the machine is asleep, and it does not come
+back to it. The laptop was suspended from 15:14 Fri 28 August to 02:10 Sat 29 August, so the 19:00
+run never happened and the page sat a week stale with nothing in any log to say why. `Persistent=true`
+records the last firing under `~/.local/share/systemd/timers/` and runs a missed slot at the next
+opportunity; a realtime timer whose moment elapsed during suspend also fires on resume. A Friday
+suspend into Monday now means the brief lands Monday morning — late, not lost. `RandomizedDelaySec=5min`
+spreads the start, so the timer reads a few minutes past 19:00.
+
+Two smaller wins over cron: the user manager exports `DBUS_SESSION_BUS_ADDRESS` on its own, so the
+notify path's bus recovery is a fallback rather than the only thing holding it up; and stdout goes to
+the journal instead of `/dev/null`, so `journalctl --user -u council-agenda-watch` is a run history.
+
+`Linger` is **off**. The timer therefore only exists while there is a login session — fine for a
+laptop that stays logged in, and irrelevant to the suspend case that prompted the move. Turn it on
+with `loginctl enable-linger` if the machine should catch up before anyone logs in, but note that a
+popup raised with no graphical session goes nowhere.
+
+Test it without waiting for the timer:
+
+```bash
+data/run_watch.sh                                       # full run, in this shell
+systemctl --user start council-agenda-watch.service     # full run, as the timer would
+journalctl --user -u council-agenda-watch -f
 tail -f briefs/raw/run-*.log
 ```
 
-Exit codes: `0` work done or nothing to do, `1` setup problem, `2` the gather failed.
+Exit codes: `0` work done or nothing to do, `1` setup problem, `2` the gather failed, `3` the brief
+run died part-way. Anything non-zero leaves the unit `failed`, which `systemctl --user status` shows —
+deliberately, since the failure mode to fear is a quiet hollow run, not a loud one.
 
 ### Notifications — Taskwarrior
 
@@ -141,8 +170,9 @@ from `task <id> info` without opening the brief.
 Three details worth knowing before editing the hook:
 
 - **The DBUS export is load-bearing.** `on-add.notify` shells out to `notify-send` and swallows every
-  exception. Under cron there is no session bus, so without the export you get the task and silently
-  no popup.
+  exception. The systemd user manager exports the bus address, but a bare `claude -p` from a
+  non-graphical shell does not, and neither did cron — without the export you get the task and
+  silently no popup.
 - **Dedupe is per kind per day, not per day.** A failure on a day that already had a good run must
   make its own high-priority task, not become annotation #7 on the quiet one.
 - **Descriptions are sanitized.** Taskwarrior parses every argument for attribute syntax, so a colon
@@ -160,9 +190,9 @@ would be the silent one.
 
 **Git pushes from the run use `gh`, not the system keyring.** `credential.helper` is set
 repo-locally to `!gh auth git-credential`, because the default `git-credential-libsecret` needs a
-D-Bus session and an unlocked keyring, neither of which a cron shell has. The first headless run
+D-Bus session and an unlocked keyring, neither of which a headless run has. The first headless run
 failed its push for exactly this reason. This lives in `.git/config`, so it does not travel with a
-clone — set it again on any other machine that runs the cron.
+clone — set it again on any other machine that runs the timer.
 
 To send notifications somewhere else instead, replace `data/notify-hook.sh`. The runner calls it with
 urgency as `$1`, subject as `$2`, and the full summary on stdin. **Exit 0 means handled** and the

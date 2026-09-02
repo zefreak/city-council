@@ -1,0 +1,24 @@
+[Unit]
+# Council agenda watch — the twice-weekly run. Paired with
+# council-agenda-watch.timer; see README.md "Automated, twice a week".
+Description=Council agenda watch (Vancouver WA + Clark County WA)
+Documentation=https://github.com/zefreak/city-council
+
+[Service]
+Type=oneshot
+
+# ~/sf/bin is where the claude binary lives and is not on the user manager's
+# default PATH. run_watch.sh also resolves CLAUDE_BIN itself, but the brief
+# step shells out to curl, pdftotext and git, so the rest of the path matters.
+Environment=PATH=/home/scottr/sf/bin:/usr/local/bin:/usr/bin:/bin
+
+# The 26 Aug 2026 run took 15m49s end to end: gather, then claude -p reading
+# every attachment, then build, commit and push. Give it room to be slow
+# without letting a wedged session sit forever.
+TimeoutStartSec=45min
+
+ExecStart=/home/scottr/research/city-council/data/run_watch.sh
+
+# Exit 1 (setup), 2 (gather failed) and 3 (brief run died part-way) are all
+# real failures and should show up in `systemctl --user status`. Deliberately
+# no SuccessExitStatus= — a silent hollow run is the thing to avoid.
