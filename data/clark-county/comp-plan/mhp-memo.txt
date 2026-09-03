@@ -1,0 +1,437 @@
+MEMO
+DATE:       June 22, 2026
+TO:         Clark County Councilors
+CC:         Oliver Orjiako, Jose Alvarez and Susan Ellinger, Clark County
+            Community Planning
+FROM:       Elizabeth Decker, JET Planning
+SUBJECT:    Manufactured Housing Park Code Concepts (HOSAP Implementation
+            Package 3)
+
+
+I. INTRODUCTION
+
+
+Manufactured home parks (MHPs) offer a unique type of naturally occurring affordable
+housing that predominately serves families that are lower-income, older adults, and/or living
+on a fixed income, often in a tight-knit community setting. Clark County has 34 MHPs that are
+home to just over 2,000 households in both urban growth areas and rural areas. Similar to
+regional and national trends, many County parks are located on parcels that are eligible for
+redevelopment at higher intensity for market-rate housing that could be more profitable for
+property owners, leading to park sales, rent increases, and park closures in some cases. Aging
+parks may also be facing costly infrastructure upgrade costs that push owners to sell and/or
+increase rents. Park residents are uniquely vulnerable to displacement because while they own
+their homes, they rent the space where homes are sited; there are often few alternatives when
+space rents are increased or parks are closed because manufactured homes are difficult or
+prohibitive to relocate, and there are few available spaces to move them.
+
+The County imposed a moratorium in August 2025, renewed through February 2027, to allow
+time to develop a zoning strategy and/or other regulatory approaches to better support
+preservation of existing MHPs, to ensure their continued provision of affordable housing and
+to minimize displacement. MHP study, preservation and support is also an adopted strategy in
+the County’s Housing Options Study & Action Plan (HOSAP). MHP regulations will be
+integrated with broader housing planning efforts as part of the Comprehensive Plan update
+including implementing zoning code updates.
+
+
+
+
+                                                           edecker@jetplanning.net / 503.705.3806
+Manufactured Home Park Code Concepts                                                   Page 2 of 11
+June 22, 2026
+
+
+The primary recommendation is to introduce a new MHP overlay zone within urban growth
+areas that prioritizes MHP uses and limits other residential uses to reduce redevelopment
+pressure, similar to zoning tools used in several likeminded Washington cities including the
+City of Vancouver looking to preserve MHPs and minimize displacement of vulnerable park
+residents. The intent of this memo is to determine County Council support for a similar
+zoning approach for Clark County and to solicit feedback on details of such an approach.
+
+II. CONTEXT
+
+
+A. Existing Manufactured Home Parks Across the County
+There are currently 34 known manufactured home parks (MHPs) within Clark County’s
+jurisdiction that account for 2,033 homes, including parks in urban and rural areas. (Note:
+Parks are sometimes also called Manufactured Housing Communities (MHCs) or an older
+term, Mobile Home Parks.) Across these MHPs:
+
+   •   The size of parks varies significantly, ranging in size from 4 to 171 homes on sites 1.9
+       to 30.2 acres, with an average of 51 homes and an average site size of 8.6 acres.
+   •   A significant majority of parks are located inside unincorporated urban growth
+       areas, primarily the Vancouver UGA. There are 25 parks or 74% within UGAs, totaling
+       81% of total homes.
+   •   MHPs are not zoned consistently which results in a majority of parks being
+       nonconforming uses. Less than 50% of parks, or 16 total, are located in residential
+       zones that currently permit MHPs. All of the parks located outside of UGAs are
+       nonconforming uses because MHPs and development at that intensity are not
+       permitted in rural zones. Within UGAs, a plurality of parks is zoned Residential (R)
+       where MHPs are permitted uses, but there are nearly as many zoned Low Density
+       Residential (R1) and other commercial and employment zones (GC, BP, MX).
+   •   MHPs are developed at lower densities than other medium-density housing types.
+       The average density for County urban MHPs is 6.8 homes per gross acres—slightly
+       higher in Residential (R) zones where currently permitted—however, the maximum
+       density in R zones is proposed at 24-36 homes per acre with the Comprehensive Plan
+       updates. There is a cluster of parks along Highway 99, and the form and density of those
+       parks is inconsistent with the Highway 99 Overlay District standards and
+       redevelopment goals for the area.
+Manufactured Home Park Code Concepts                                                   Page 3 of 11
+June 22, 2026
+
+
+
+B. Existing County Regulations for MHPs
+County planning and zoning regulations allow options to permit manufactured home parks
+and identify their role in providing affordable housing, but provide few mechanisms to protect
+parks from closures.
+
+Comprehensive Plan: Policies in the draft Comprehensive Plan address some aspects of
+manufactured home park preservation. First, the Plan establishes that each jurisdiction
+including the County must identify sufficient land for a “fair share” of lower-income housing
+including manufactured home parks, and names manufactured home parks as one of the types
+of development to be permitted to promote greater housing diversity (Policies 2.1.1 and 2.7.1).
+The Plan also introduces a new goal to: “Prevent discrimination, address displacement, and
+mitigate past harm in the development and maintenance of housing,” to be implemented by a
+policy specifically supporting resident ownership of manufactured home parks and generally
+evaluating the potential for displacement on lands proposed for rezoning or redevelopment
+which can include manufactured home parks (Policies 2.9.2 and 2.9.3).
+
+Housing Options Study & Action Plan: Recent housing planning efforts identified the
+important role MHPs play in diversifying housing options that are affordable and incorporate
+ownership opportunities, as well as the threats to parks’ continued stability. Adopted strategy
+HO-23 calls for the County to:
+
+       Study existing manufactured home parks, identify potential for displacement, and
+       develop strategies to reduce or mitigate displacement. Consider development of a
+       manufactured home park zone where other redevelopment options are limited, there
+       are restrictions on discontinuing manufactured home parks uses, and/or enhanced
+       notification, relocation assistance, and opportunities to convert to tenant ownership in
+       the event of park closures.
+
+Implementation of this strategy has been accelerated to respond to increased concerns about
+potential park closures and displacement as part of the work plan during the moratorium and
+Comprehensive Planning efforts; resulting zoning strategies from this effort will help to
+implement this strategy.
+
+Zoning Code: Current zoning limits where manufactured home parks can be located, and
+allows parks in zones where a wide range of other residential uses are permitted that may
+create redevelopment pressures. Manufactured home parks are defined as two or more
+manufactured homes placed on a site, consistent with state law. (UDC 40.100.070) MHPs are
+not permitted in any rural or resource zones outside of UGAs. Parks are permitted in all R
+residential and OR office residential zones where a full range of other residential uses are
+permitted at greater densities and dimensions than typical MHPs, but prohibited in low density
+Manufactured Home Park Code Concepts                                                  Page 4 of 11
+June 22, 2026
+
+
+R1 residential zones and all nonresidential zones. (UDC 40.210, Table 40.220.010-1, Table
+40.220.020-1) Development standards for manufactured home parks address densities,
+setbacks, landscaping and recreational areas, and parking requirements. (UDC 40.260.140) A
+Type II review is required for new parks through site plan review and review/approval. (UDC
+40.510.040.B, 40.520.020.D.4) Parks outside of R residential zones—the majority of existing
+parks—are regulated as nonconforming uses, which are permitted to continue if legally
+established. (UDC 40.530.010) However, no expansion such as additional dwellings or
+modifications beyond maintenance and repairs are permitted, which can limit MHP flexibility
+and future viability. (URDC 40.530.010.F.5)
+
+County Code: The only other code requirements for manufactured homes are a requirement
+for a manufactured home placement permit for individual homes on an individual lot or space
+within a park. (CCC 14.32A)
+
+C. State Requirements
+Outside of local zoning regulations, state regulations aim to cap rent increases to reduce
+displacement pressures, to lessen impacts on park residents by providing extended notice
+of park closures, and to allow opportunities for tenants to organize to purchase parks facing
+closures.
+
+   •   Recently enacted statewide caps on lot rent increases are intended to protect residents
+       and minimize displacement risks by capping annual rent increases at 5%. (RCW
+       59.20.370) The rent caps are among the most progressive nationally, though park
+       owners warn that the rent caps may make parks less financially viable and increase
+       closure risks. (https://www.cascadepbs.org/investigations/2025/06/wa-mobile-
+       homeowners-advocates-react-to-new-rent-stabilization-law/)
+   •   Park owners are required to provide a two-year closure notice to park residents to
+       allow time for them to make plans to move or abandon their manufactured or mobile
+       home, which may be shortened in specific enumerated ways such as paying residents
+       relocation assistance. (RCW 59.20.080)
+   •   The state has also recently adopted tenant opportunity to purchase (TOPO)
+       provisions, requiring notice to tenants and an opportunity to form a tenant
+       organization to negotiate for purchase of the park, and conversion to a resident-owned
+       park. (RCW 59.20.305, .325) Some residents have found that the provisions are
+       challenging to utilize, both to form an organization within the 70-day notice period and
+       to assemble a competitive bid relative to private investors.
+       (https://www.columbian.com/news/2026/mar/20/clark-county-residents-hoping-to-buy-
+       mobile-home-parks-playing-a-losing-game/)
+Manufactured Home Park Code Concepts                                                   Page 5 of 11
+June 22, 2026
+
+
+These regulations apply directly via state statute without the need to incorporate into the
+County’s code, and shape the regulatory landscape for manufactured home parks and
+residents. Together they appear to reduce potential displacement threats due to rent increases
+or new management, but have not fully stabilized parks or supported conversions to resident
+or nonprofit park ownership.
+
+D. Non-Regulatory Approaches to Park Preservation
+The most direct way to ensure a park is preserved is to change the ownership structure so that
+residents are no longer subject to the park owners’ rent increases, redevelopment or closure
+decisions. Alternative ownership models for parks include resident-owned communities
+(ROCs) that function as cooperatives, which has been done successfully at a handful of
+Washington parks with assistance from organizations such as ROC Northwest.
+(https://nwcdc.coop/roc-northwest/) Nonprofit community land trusts are another model,
+offering long-term, affordable ground leases for individual home owners such a potential
+project by Evergreen Habitat for Humanity.
+(https://www.opb.org/article/2026/02/23/evergreen-habitat-vancouver-mobile-homes/)
+Successfully organizing to finance and purchase a park is, however, a significant hurdle for
+most park residents, and there are limited grant or loan funds available from state or local
+government sources to support these initiatives. Such efforts are also specific to individual
+parks and contingent upon timing and owners’ willingness to sell. No Clark County MHPs have
+converted to resident or nonprofit ownership to date, despite resident organizing efforts at
+four parks, but there have been successful efforts across the state to convert parks to nonprofit
+ownership, ownership by local housing authorities, and resident ownership.
+
+III. CASE STUDIES
+
+
+Communities across the state are experiencing similar challenges related to preserving
+manufactured home parks and preventing resident displacement, particularly in regions
+facing rising housing costs and development pressure. Cities looking to provide additional
+regulatory protection for existing MHPs have implemented single-use zoning districts
+exclusive to manufactured home parks. Key features of manufactured home park zones in
+several Washington cities are compared in Table 1; cities have used both base zones and
+overlay zones, which include varying development and density standards. Case law regarding
+manufactured home park zones in the cities of Tumwater and Kenmore has established this
+type of zoning as a legitimate practice for governments in Washington.
+
+All of the examples reviewed would require a property owner to rezone a property before
+future redevelopment as something other than a park, and a majority of them include specific
+Manufactured Home Park Code Concepts                                                  Page 6 of 11
+June 22, 2026
+
+
+review criteria requiring applicants to demonstrate that there is no “reasonable use” of the
+property as zoned and that the permitted uses are not “economically viable” at that location.
+
+Table 2: Case Studies Summary
+
+ City         Zoning       Uses           Ability to      Affordability   TDR           Other
+              Structure    Permitted      Redevelop       Provisions
+ Vancouver    Base         MHPs,          Rezone          None            None
+              Zone         middle         required,
+                           housing        must show
+                           affordable     current use
+                           at 60% AMI,    is not viable
+                           STEP
+                           housing (C)
+ Ellensburg   Base zone    MHPs,          Rezone          None            None
+                           home           required, no
+                           occupations    specific
+                                          criteria
+ Bothell      Overlay      MHPs, STEP     Zoning and      None            None          Park-
+              zone         housing,       comp plan                                     specific
+                           day care,      amendment                                     standards
+                           ADUs and       required, no                                  adopted for
+                           similar        specific                                      two existing
+                                          criteria                                      parks
+ Belling-     Overlay      MHPs,          Rezone          None            None          Local
+ ham          Zone         utilities,     required,                                     provisions
+                           schools and    must show                                     for notice,
+                           churches       current use                                   opportunity
+                                          is not viable                                 to purchase
+                                                                                        and
+                                                                                        relocation
+                                                                                        assistance
+ Kenmore      Base         MHPs, one      Rezone          Bonus density   Yes, bonus    Standards
+              Zone         single         required,       available for   density can   for existing
+                           detached       must show       affordable      be            and new
+                           dwelling       current use     units           transferred   parks
+                                          is not viable
+ Tumwater     Base zone    MHPs,          Rezone          None            Yes,
+                           PUDs,          required,                       minimal
+                           residential    must show                       allowance
+                           adjacent       current use
+                           uses           is not viable
+Manufactured Home Park Code Concepts                                                   Page 7 of 11
+June 22, 2026
+
+
+The most relevant example for Clark County to consider is the new Manufactured Home
+District in Vancouver, which includes most of the key features of a single-use zone noted
+above. The district was adopted earlier this year with the Comprehensive Plan and zoning
+code. (VMC 20.410.120) The new zone permits only manufactured home parks with allowance
+for single family and middle housing only if permanently affordable at 60% AMI or below, with
+transitional housing, permanent supportive housing and emergency housing and shelters
+allowed conditionally, in line with new state legislation. All existing parks and new parks will
+have this zoning. Parks are not subject to any minimum or maximum densities, with standards
+for setbacks, spacing between homes, screening and buffering, landscaping, recreational
+space, lot coverage and parking. A property owner seeking to redevelop a park to another
+residential use would have to apply for a ‘use exception’ to rezone the property, demonstrating
+through a discretionary review that the zone does not allow for “reasonable use of property” or
+that the permitted uses are not “economically viable due to the property’s location, site
+conditions, or surrounding development.” (VMC 20.450.085.C.10) The rezoning standards are
+intended to allow for some alternatives if there is a demonstrable rationale for discontinuing
+park use, to avoid takings claims by property owners.
+
+IV. RECOMMENDATIONS & CONCEPTS
+
+
+A new manufactured home park single-use overlay zone for existing MHPs is recommended
+as the strongest regulatory strategy to preserve parks within urban areas, aligned with
+enhanced Comprehensive Plan policies supporting park preservation. While a manufactured
+home park zone does not by itself guarantee park viability, it does reduce redevelopment
+pressure by permitting only parks unless and until the park owner applies to rezone the
+property through a discretionary review and demonstrates that the current park and other
+similar uses are not viable.
+
+Parks should not serve as the only form of affordable housing permitted in the County due to
+their relatively low density compared to multifamily buildings, but are worthy of targeted
+protections to ensure diversity of housing options. Residents are highly vulnerable due to the
+split ownership of the homes and lots, which emphasizes the importance of anti-displacement
+efforts, and parks also provide a unique ownership and community living opportunity for
+lower-income households.
+
+Beyond regulations, long-term park viability can be supported through alternative ownership
+models, such as conversion to a resident-owned cooperatives. The County’s role here is less
+direct, but could include exploring financial mechanisms, advocating at the state level for
+greater funds, engaging with partners versed in park conversions, and sharing information and
+convening park residents and advocates.
+Manufactured Home Park Code Concepts                                                   Page 8 of 11
+June 22, 2026
+
+
+The following components of the proposed MHP zoning approach were developed based on
+consultant’s research on state laws and programs, case studies and interviews with City
+planners detailed in Section III, and in consultation with manufactured home park nonprofit
+advocates. County Council direction on the broader MHP zoning strategy and the specific
+details is desired to inform Comprehensive Plan and zoning updates.
+
+A. Focus Regulations on Parks Within Urban Growth Areas
+MHP zoning should be focused on parks within urban growth areas, including the largest
+concentration of parks within the Vancouver UGA, because MHPs are an urban-scale use.
+Parks in urban areas face the greatest redevelopment pressures because of the range of other
+development permitted. Parks in rural areas face less redevelopment pressure as
+nonconforming uses that are already developed at higher intensities than are permitted in
+rural zones; they also would not be eligible to convert to outright permitted uses under the
+state planning framework for rural areas. Rural parks should retain their existing zoning.
+
+B. Support with Foundation in the Comprehensive Plan
+The Comprehensive Plan should establish the policy foundation and zoning framework for
+manufactured home parks by:
+
+   •   Expanding the draft manufactured home park preservation policy in the Housing
+       Element to identify exclusive zoning and alternative ownership models as preservation
+       strategies in addition to promoting resident-owned parks. (Policy 2.9.2)
+   •   Listing and describing the proposed overlay zone in the Land Use Element. (Chapter 1)
+
+C. Introduce a New Overlay Zone for Parks
+Either a base zone or an overlay zone could be used to designate existing and future
+manufactured home parks. A base zone replaces the existing zoning and Comprehensive Plan
+designations to apply uniform design and development standards to all parks, while an overlay
+supersedes the base zoning without need to change the existing base zoning or designation.
+Because existing parks are located in a wide variety of zones, rezoning would create ‘spot
+zoning’ particularly within commercial and employment districts. Therefore, the County
+should implement an overlay zone, retaining the base zoning and designations for consistency
+in the event of future park redevelopment. A single MHP overlay should be flexible enough to
+apply to all parks, but individual parks should be reviewed during implementation to
+determine if there is a compelling reason for a different zoning strategy such as large parks
+with significant undeveloped acreage.
+Manufactured Home Park Code Concepts                                                     Page 9 of 11
+June 22, 2026
+
+
+
+D. Require a Use Exception to Rezone Parks
+A use exception requirement requires property owners to demonstrate that there is no
+“reasonable use” of the property as zoned and that the permitted uses are not “economically
+viable” at that location, effectively adding specific review criteria prior to converting an
+existing MHP to another use. MHP resident advocates describe this step as slowing
+redevelopment pressures, though not directly boosting MHP viability. A use exception adds a
+hurdle to rezoning and redevelopment, but preserves owners’ property rights for potential
+future opportunities if criteria are met. Similar use exception language should be
+incorporated to provide greater durability for the proposed MHP zone.
+
+E. Limit Permitted Uses to Manufactured Home Parks
+The primary purpose of the MHP zone is to permit manufactured home parks, and to limit
+redevelopment pressures from other residential or commercial uses. Only MHPs and
+residential-adjacent uses, including some specific uses that are state-mandated in all
+residential zones, should be permitted within the new zone, including transitional housing and
+permanent supportive housing, per new state requirements in HB 2266 to permit in any zone
+that permits residential dwellings.
+
+There has also been discussion about allowing affordable housing on MHP sites alongside an
+existing park or as redevelopment, such as developed by Habitat or other nonprofits. Council
+direction is requested on a preferred approach:
+
+   •   Allow development of several other housing types, with a requirement for long-term
+       affordability restrictions for households making 60% AMI or less, which would provide
+       additional flexibility on park sites and opportunities to provide similarly affordable
+       housing options to supplement manufactured homes. Affordable housing
+       redevelopment may be limited, but permitting it could reduce procedural hurdles for
+       such redevelopment if such projects are proposed. One potential application could be
+       the Habitat for the Hidden Village site.
+   •   Retain focus on only MHPs to encourage preservation of existing parks and minimize
+       displacement risks for residents, who often cannot move their manufactured dwellings
+       and could lose the value of their homes if the site were redeveloped, even as other
+       forms of affordable housing. There are limited sites developed with MHPs that provide
+       a unique form of naturally occurring affordable housing, whereas there are much
+       broader opportunities to develop affordable housing across R1, R and C zoned
+       properties. The Use Exception (above) could include a specific provision to allow
+       rezoning for residential development with affordability restrictions.
+Manufactured Home Park Code Concepts                                                    Page 10 of 11
+June 22, 2026
+
+
+
+F. Revise and Simplify Development Standards
+Dimensional and development standards should largely carry forward existing MHP use
+standards in UDC 40.260.140 with minor modifications and new base zone standards to
+address:
+
+   •   Density range: No minimum density is recommended to avoid creating
+       nonconformities for existing parks. Allow maximum density equal to the new R-24
+       zone, up to 24 units per acre, which is nearly double any existing park’s density and
+       allows considerable flexibility.
+   •   Setbacks: Maintain existing setbacks for MHPs of 25 feet from public roads and 5 feet
+       from shared property lines, with landscaping buffering.
+   •   Park size: Remove minimum or maximum park size, currently 5-50 acres, to better
+       accommodate existing parks sizes ranging from 2-30 acres. Size limits are not
+       significantly related to park viability and are not consistently regulated in other cities.
+   •   Placement of homes: Permit placement of manufactured homes of varying ages and
+       recreational vehicles within parks consistent with state laws. (RCW 36.01.225)
+   •   Parking: Adjust parking minimums to match proposed ratios in line with new state
+       legislation, including one space per dwelling and zero spaces for units less than 1,200
+       SF.
+   •   Recreational areas: Explore whether to maintain or modify existing standard for
+       percentage of recreational area required that increases with site density.
+   •   Review required: Permit MHPs outright in the proposed zone subject to site plan
+       review. Include provisions specifying which modifications to existing parks are exempt,
+       subject to minor site plan, or trigger full site plan review.
+
+G. Do Not Pursue a TDR Program
+A minority of programs use a transfer of development rights (TDR) component; Kenmore ties
+bonus density, to be used onsite or transferred, to provision of affordable housing or other
+community benefits like parks. TDR can be a useful tool to balance property owners’
+development rights while preserving existing manufactured home parks, perhaps at lower
+densities that could be achieved through redevelopment. Such a program would likely be most
+useful in a context where there is demand for more density than the current zoning districts
+allow. Clark County has not recently seen significant demand for maximum densities already
+permitted, and is broadly working towards increasing allowed densities in all residential zones
+outright as part of planning to meet its housing goals. A TDR program is not recommended in
+the County development context and could work at cross-purposes with other regulatory
+updates to boost housing capacity.
+Manufactured Home Park Code Concepts                                                 Page 11 of 11
+June 22, 2026
+
+
+
+IV. NEXT STEPS
+
+
+County Council’s review and feedback on the proposed code concept and details at their July 1st
+work session will inform the draft code updates for a new MHP zone if directed, intended to be
+incorporated with development code updates implementing the new Comprehensive Plan later
+in 2026. The draft code will be shared with stakeholders including nonprofit advocates, park
+operators and park residents, many of whom testified in support of the moratorium and have a
+strong interest in strategies to support MHPs. Final code will be revised based on stakeholder
+feedback and Council input as part of the Comprehensive Plan adoption process.
+

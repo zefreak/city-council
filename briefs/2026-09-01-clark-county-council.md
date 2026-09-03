@@ -390,3 +390,38 @@ closed county-owned site under a DOE consent decree.
   staff report lists them; they are not separately posted on the listing row.
 - Clark County Code 2.04 and 2.09.040 remain unverified — `codepublishing.com` is behind Cloudflare
   (see README).
+
+---
+
+## Postscript, 2 September 2026 — the meeting has passed, and one document was added
+
+This meeting resurfaced in the 2 September digest because a new attachment appeared on its listing
+row: **"written comments rec'd (8/18 – 9/1/26)"** (doc 235801), cached at
+`data/clark-county/2026-09-01/written-comments-0818-0901.pdf`. It is 1,456 lines of correspondence
+compiled for the meeting record. It was not available when this brief was written.
+
+What is in it, in outline — this is a skim, not a full read:
+
+- **Comprehensive plan comments** dominate. Several are addressed to the *Planning Commission's*
+  20 August hearing and were forwarded into the Council packet; staff replies confirm they go to
+  the "Index of Record." That includes a submission from Clark County Citizens United arguing the
+  county should adopt code allowing Arizona-style "park model" subdivisions where residents own
+  both home and lot, and another urging **no change to the current urban growth area**. Both bear
+  directly on the map amendments the Planning Commission votes on 3 September.
+- **Two citizen-initiated code amendment proposals**, both asking to be put on the 2027 Community
+  Planning work programme and docket: a **Title 40** amendment classifying equines as livestock and
+  ordinary equine husbandry as agriculture (so that horse numbers and paid boarding do not by
+  themselves convert a property to a commercial equestrian facility), and a **Title 8** amendment
+  prohibiting non-therapeutic declawing of cats, modelled on Tacoma's ordinance.
+- Routine "Write Your Councilor" correspondence.
+
+**Nothing in it changes a finding in this brief.** The comp plan material is the reason to note it:
+the county's written record on the plan was still being fed by correspondence forwarded through
+Council up to the day before the Planning Commission's final hearing. See
+`briefs/2026-09-03-clark-county-planning-commission.md`.
+
+**Still not checked:** the outcome of the meeting itself. No minutes are published yet, so whether
+the Rules of Procedure ordinance was adopted, amended or continued — and whether the ordinance text
+ever posted — is not on the record here. The 1 September audio recording on the county's meetings
+page is the way to settle it. The written-comments PDF was skimmed for subject lines and four
+substantive items; the remainder was not read.

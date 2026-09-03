@@ -1,0 +1,67 @@
+                                                          MEMORANDUM
+
+DATE:         September 8, 2026
+
+TO:           Chair Adigweme and Planning Commission members
+
+FROM:         Bryan Snodgrass, Principal Planner, Community Development Department
+
+RE:           Proportional Impact Fees
+
+CC:           Rebecca Kennedy, Deputy Director, Community Development Department
+
+
+This memorandum is provided to update the Planning Commission on new Growth
+Management Act (GMA) requirements to adopt proportional impact fees for housing. The issue
+was discussed briefly before the Commission on September 23, 2025.
+
+As noted in recent Commission discussions on other aspects of impact fees, these are an
+important funding source for new park, school and transportation capital facilities. They
+are limited by state law to the portion of the cost of new capital projects required to
+serve new development and cannot be used to fund capital costs needed to serve prior
+development or non-capital costs of any kind. Impact fees are typically established for 6
+-year periods but can be updated more frequently. Current Vancouver park impact fees
+(PIF) range from $6,130 to $4,480 per single and multi-family unit, respectively, across
+three park districts citywide. School impact fees (SIF) are $2,786 and $2,486 per single
+and multi-family units, respectively, in the Vancouver School District, and in the process
+of changing to zero in the Evergreen School District. Traffic impact fees (TIF) range from
+$247 to $439 per vehicle trip across three citywide TIF districts.
+
+There are new statutory requirements that residential impact fees be
+based on the proportional impact of new housing units based on square footage,
+number of bedrooms, or trips produced, in order for smaller housing units to pay a lower
+fee. City staff is seeking to calibrate impact fees based on square footage and to utilize a
+small number of unit square footage ranges, rather than a per square foot fee across all
+housing unit sizes. For example, this could involve establishing a single impact fee for
+housing units smaller than 1,500 square feet, another fee for units between 1,500 and
+2,500 square feet, and another for units above 2,500 square feet.
+
+
+ P.O. Box 1995 | Vancouver, WA 98668-1995 | 360-487-8000 | TTY: 711 | cityofvancouver.us
+This work is complicated by both practical and technical concerns. On the practical side,
+the change to proportional impact fees should be revenue neutral, so that the reduction
+of fees collected from smaller housing units is offset by an increase in revenue collected
+from larger units, resulting in no loss of overall funding for capital facilities. Ideally for
+administrative ease, the size brackets (0-1,500/1,500-2,500/2500+ sf in the example
+given here) should be similar across the park, school and traffic impact fee types,
+although this may not be possible in full. In addition, some differentiation may be
+needed among housing types. For example, accessory dwelling units (ADUs) are
+prohibited by the new statute from being charged more than 50% of fee charged to the
+main housing unit.
+
+On the technical side, the proportional impact fee must be supported by data showing
+that the fee reflects the share of new capital facilities project needs created by a new
+housing unit. Two potential data sources from the US Census are being considered - the
+American Community Survey (ACS) and the American Housing Survey (AHS) - with the
+later likely most appropriate because it has square footage information.
+
+City staff is working with consulting firm ECOnorthwest to complete this work, starting
+first with parks and school impact fees. Staff have also been in contact with the school
+districts and their technical consultant. Transportation impact fees will be the final
+portion and maybe somewhat simpler because the statute allows proportional fees to
+be calibrated by trip generation, which is already incorporated into City modelling and
+fees.
+
+A follow up Planning Commission workshop with specific recommendations is
+anticipated on October 13. Hearings are likely at the end of the year.
+

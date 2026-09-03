@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 8 — Vancouver 24 Aug, Vancouver CAHC special meeting 25 Aug, Clark Co. Council Time 26 Aug, BOH 26 Aug, NCRTS work session 26 Aug, Clark Co. Council 1 Sep, Planning Commission 8 Sep, Vancouver advisory calendar 9 Sep |
+| Briefs written | 15 — through the 2 Sep run: Clark Co. Council Time 2 Sep, BOH 2 Sep, Clark Co. Planning Commission 3 Sep, Vancouver PC 8 Sep (rewritten once the packet posted), Vancouver Parking Advisory 9 Sep, Vancouver advisory calendar 10 Sep, Clark Co. manufactured home parks 14 Sep, Clark Co. Council 15 Sep |
 
 ## Layout
 
@@ -248,6 +248,22 @@ that ever changes.
 
 ## Gotchas
 
+- **The watcher only sees *Council* meetings, and Clark County's biggest hearings are not Council
+  meetings.** `agenda_watch.py` scrapes `clark.wa.gov/councilors/clark-county-council-meetings`.
+  The **County Planning Commission** and Community Planning's public sessions have their own pages
+  and never appear there. The 3 September 2026 comp plan hearing — the meeting at which the written
+  record on the entire 20-year plan closed — was invisible to the digest and was found by hand.
+  Three pages to check every run, none of them scraped yet:
+  `/community-planning/2025-update-meeting-and-event-information` (the comp plan event calendar,
+  newest first, with all attachments linked per row),
+  `/community-planning/planning-commission-hearings-and-meeting-notes` (Planning Commission agendas
+  and full document sets), and the news-release pages linked from them. Automating this is the
+  single highest-value change to the fetcher.
+- **A Clark County news release goes stale and nothing supersedes it.** The 5 August 2026 release
+  gives the Council comp plan hearing as 6 October; the Council reset it to 1/2/5 October at Council
+  Time on 26 August, in an item added to the agenda that morning, recorded only in the minutes. The
+  27 August decision table still says 10/13. **Read the most recent Council Time minutes before
+  trusting any published date.**
 - **A Vancouver `agendaId` is assigned long before the agenda exists.** A future meeting can show
   a non-zero `agendaId` whose `Meetings/{id}` returns zero items. Item count is the test.
 - **Council skips weeks.** There was no Vancouver meeting on 31 Aug 2026. Confirm the meeting
