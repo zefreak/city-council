@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 15 — through the 2 Sep run: Clark Co. Council Time 2 Sep, BOH 2 Sep, Clark Co. Planning Commission 3 Sep, Vancouver PC 8 Sep (rewritten once the packet posted), Vancouver Parking Advisory 9 Sep, Vancouver advisory calendar 10 Sep, Clark Co. manufactured home parks 14 Sep, Clark Co. Council 15 Sep |
+| Briefs written | 18 — through the 4 Sep run: Vancouver Aviation Advisory Committee 9 Sep (VMC 10.05.040 charter rewrite), Clark Co. 9 Sep cancellations, Vancouver Culture/Arts/Heritage 10 Sep, and Clark Co. Council 15 Sep **rewritten** once the agenda posted (development fees ordinance, annual-review suspension, consent) |
 
 ## Layout
 
@@ -291,6 +291,16 @@ that ever changes.
   "- Cancelled" (or "- Canceled" — both spellings are in use) to `eventName` and leaves `agendaId` at
   0. There is no cancellation flag and no notice document, so a cancellation is indistinguishable
   from an agenda that has not posted except by reading the title.
+- **A redline PDF read through `pdftotext` loses its direction, and you cannot guess it back.**
+  Strikethrough and underline are drawn, not encoded, so a legislative markup comes out as both
+  versions interleaved with nothing marking which is which. The order is *not* a reliable signal:
+  in the 28 August 2026 VMC 10.05.040 markup, §A.3 reads new-then-old while §B reads old-then-new,
+  because a Word redline lays out insertions and deletions wherever the editor typed them.
+  Guessing produces a brief that says a committee gained a power it is in fact losing. **Fetch the
+  current adopted text and diff against it.** Vancouver's code is at
+  `vancouver.municipal.codes/VMC/<section>` — it 200s to `curl` with a browser UA, prints the
+  ordinance history and the "current through" ordinance, and is the same publisher the old
+  `codepublishing.com` URL redirects to. Cache both texts side by side.
 - **Vancouver's `fiscalImpactSummary` is empty on the public API.** A blank field is not evidence
   of no fiscal impact — the numbers are in the attachments.
 - **The CivicClerk API is slow**, roughly 5–10 seconds per request and one request per meeting.

@@ -5,3 +5,24 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-09-02-digest.md
 [19:05:36] digest written: /home/scottr/research/city-council/briefs/raw/2026-09-02-digest.md
 [19:05:36] invoking claude (model=opus)
+Done. Committed and pushed — `89d59e3..5ba0252` — so the page is published.
+
+## What the run found
+
+**The biggest thing was not in the digest.** `agenda_watch.py` scrapes Clark County's *Council* meetings listing. The **County Planning Commission hearing on Thursday 3 September, 6:30pm** is run by Community Planning and never appears there. It is the continued hearing on the 2025–2045 comprehensive plan, and **written comments must be received by the end of that hearing** — after it, the Commission votes its recommendation on all 101 decision items. Found by hand off the comp-plan events page; recorded in the README as the highest-value gap in the fetcher.
+
+Other findings, all from documents downloaded and read:
+
+- **The Council's comp plan hearing dates moved and no notice says so.** Council agreed 1/2/5 October at Council Time on 26 August, in an item added to the agenda that morning and recorded only in the minutes. The county's news release still says 6 October; the decision table updated 27 August still says 10/13.
+- **Manufactured home park overlay (proposed CCC 40.250.120)** — 34 parks, 2,033 homes, 81% inside urban growth areas, moratorium expiring February 2027. Genuinely good policy with two concrete holes: subsection C.2's affordability clause cross-references a subsection that contains no affordability standard at all, and the use exception's relocation language ends "or other assistance" with no floor. A public information session is 14 September — eleven days *after* the vote — and **translation requests close 7 September**.
+- **Vancouver Planning Commission packet has posted** (62pp, read; the earlier brief said it hadn't). Staff exempted the whole downtown *plus* a discretionary 25% of parcels "anticipated as most likely to redevelop" — so HB 1491's affordability mandate falls heaviest where building is least likely. **The staff report with the actual code text was due 29 August and is still unpublished**, and the memo and sample motion cite three different VMC sections. Council adoption hearing 12 October.
+- **Evergreen's school impact fee to $0** ($6,432/$3,753) — legally compelled, not a giveaway, but the district is consolidating buildings while the City plans 38,000 units. **Woodland multi-family +132%**, which the Planning Commission voted 4–3 to deny. Four fire districts get a fee for the first time; District 10's is five times its neighbours'. Clark County Council hearing 15 September, 6pm.
+- **$750,000 of HSIP safety money** for NW 31st Ave via the Cowlitz Indian Tribe — a good item, said so.
+
+**What I could not check** is listed per brief; the headline gaps are Vancouver's unpublished HB 1491 code text, the Parking Advisory Committee packet (so its "Scofflaw Program" is flagged from a title alone), the 15 September Clark County agenda, and the parcel list behind the 25% exemption, which exists only as raster maps.
+
+One repo fix: `.gitignore`'s PDF rule only matched folders named exactly `YYYY-MM-DD`, so a 9.5MB packet was staged. Widened, and the PDFs unstaged.
+[19:26:31] claude exited rc=0
+notify-hook: taskwarrior task 1 created/updated
+[19:26:32] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:26:32] === run complete
