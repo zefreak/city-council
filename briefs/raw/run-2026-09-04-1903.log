@@ -5,3 +5,26 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-09-04-digest.md
 [19:04:37] digest written: /home/scottr/research/city-council/briefs/raw/2026-09-04-digest.md
 [19:04:37] invoking claude (model=opus)
+Run complete. Briefs written, site rebuilt, pushed to `main` (the push is the publish — https://zefreak.github.io/city-council/ returns 200).
+
+## What the attachments turned up
+
+**Vancouver Aviation Advisory Committee, Wed 9 Sep** — the highest-value find, and it arrives as a one-page redline with **no staff report of any kind**. It would rewrite VMC 10.05.040 to cut the committee from nine members to seven, **delete its review of all airport grants**, replace "general financial oversight of the airfield, including all proposed fees, commercial leases, rental rates and rental agreement formats" with "adjustments to airport use fees, lease rates and rental rates", make own-initiative items "subject to the airport manager's approval", and give the airport manager both the meeting calendar and the agenda. It also adds a duty to work "respectfully" to advance "the best interests of the airport" — on a body that reserves a seat for a neighbourhood representative and whose members Council can remove by majority vote.
+
+Method note that mattered: `pdftotext` drops strikethrough, and the markup's order is *not* consistent — §A.3 reads new-then-old, §B reads old-then-new. I diffed against the current adopted code from `vancouver.municipal.codes` (current through Ord. M-4525). Guessing from position would have reported the financial-oversight clause as an expansion when it is a cut. That's now a README gotcha.
+
+**Clark County Council, 15 Sep** — the agenda posted, and the 2 September brief was wrong that the impact fees were the whole meeting. I rewrote it with a correction note. New: Resolution 2026-09-01 extends the site-specific comp plan amendment freeze to 30 Oct — third extension, three years and one month — and since adoption can't follow sooner than a year after the comp plan, **no site-specific rezone is approvable until roughly late October 2027**. Legally required under RCW 36.70A.130(2)(a); the criticism belongs on the ten-month overrun, not the suspension. Also a development-fees ordinance (6–42%, effective 1 Jan 2027) whose flat subdivision base fee costs $6,151/lot on a three-lot plat against $1,153 at sixteen, and which quietly strips fire sprinkler, HVAC, electrical and trusses off the deferred-submittal list with no explanation anywhere in the staff report. It also resolves the earlier brief's open question: this **is** the regular meeting, with Open Public Comment on any county business, placed before both hearings.
+
+**Vancouver CAHC, 10 Sep** — answers all three questions the 25 August brief left open. The Madrona vote passed, but the minutes describe it passing **after quorum was lost**, validated by polling the absent commissioner afterwards — and that commissioner is off the 10 September roster with no departure recorded. No cap; a quarterly check-in instead. The City Attorney has determined CAHC is a public development authority, with no creating ordinance cited. Money is now sourced: **0.1% sales tax, Ord. M-4481, council vote not public vote** (a third Vancouver 0.1%, not the TBD or public-safety tax); $700k of the $3.85m year-one allocation is administration — 10% of revenue but 18% of money actually moving.
+
+## What I could not check
+
+- **Why the AAC charter rewrite is proposed, or when it reaches Council.** No staff report, memo or ordinance draft exists — every reading of intent is inferred from the text.
+- **Whether the Madrona engagement letter was executed**, and the ordinance chartering CAHC as a PDA, if one exists.
+- **Most of the 11 MB Clean Building attachment set** — the DES amendments and the MacDonald-Miller contract, i.e. the actual terms.
+- **Fire District 10's fee method** and the five-fold gap against its neighbours; its staff report presents two methods and no recommendation.
+- **The October comp plan hearing dates are still in no published notice.** The county's events calendar has nothing later than 15 September, the news release still says 6 October, and Council Time on 9 September — where it would be corrected — is cancelled for lack of quorum. That's in the brief and on the page as the standing warning.
+[19:24:17] claude exited rc=0
+notify-hook: taskwarrior task 1 created/updated
+[19:24:17] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:24:17] === run complete

@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 18 — through the 4 Sep run: Vancouver Aviation Advisory Committee 9 Sep (VMC 10.05.040 charter rewrite), Clark Co. 9 Sep cancellations, Vancouver Culture/Arts/Heritage 10 Sep, and Clark Co. Council 15 Sep **rewritten** once the agenda posted (development fees ordinance, annual-review suspension, consent) |
+| Briefs written | 21 — through the 9 Sep run: Vancouver City Council 14 Sep (578-page packet, all staff reports read — Bridge Shelter 1,500ft camping buffer on consent, $9.5M AHF awards with $2M moved out of rental assistance, parking scofflaw workshop, the two November ballot initiatives), Vancouver Urban Forestry 16 Sep (emerald ash borer confirmed), Vancouver DRA 17 Sep (contract with no published packet) |
 
 ## Layout
 
@@ -301,6 +301,18 @@ that ever changes.
   `vancouver.municipal.codes/VMC/<section>` — it 200s to `curl` with a browser UA, prints the
   ordinance history and the "current through" ordinance, and is the same publisher the old
   `codepublishing.com` URL redirects to. Cache both texts side by side.
+- **`enablePublicSpeakerSignup` and `enableWrittenComment` are unreliable and lean false.** Both
+  returned **False** for the 14 September 2026 City Council meeting, whose agenda page sets out
+  three registration routes and a noon written-comment deadline. They appear to report whether the
+  *portal's* signup widget is switched on, not whether the body takes comment. The same mismatch
+  showed on the 9 September Aviation Advisory Committee. **Read the agenda's own first page for the
+  comment rules; never report "no comment accepted" from these flags.**
+- **A Washington bill or initiative encodes its redline as `((deleted))`** — double parentheses
+  around struck text, per the RCW drafting convention — and that *does* survive `pdftotext`. This
+  is the opposite of the Word-redline trap above, and it is worth checking for before concluding a
+  markup's direction is unrecoverable. The trap here is the reverse one: in IL26-001 the *second*
+  and fuller list of rights is the one being struck, so reading the document in page order gives
+  exactly the wrong answer. Find the `((` and the `))` and bound the deleted region explicitly.
 - **Vancouver's `fiscalImpactSummary` is empty on the public API.** A blank field is not evidence
   of no fiscal impact — the numbers are in the attachments.
 - **The CivicClerk API is slow**, roughly 5–10 seconds per request and one request per meeting.
