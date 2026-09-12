@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 21 — through the 9 Sep run: Vancouver City Council 14 Sep (578-page packet, all staff reports read — Bridge Shelter 1,500ft camping buffer on consent, $9.5M AHF awards with $2M moved out of rental assistance, parking scofflaw workshop, the two November ballot initiatives), Vancouver Urban Forestry 16 Sep (emerald ash borer confirmed), Vancouver DRA 17 Sep (contract with no published packet) |
+| Briefs written | 24 — through the 11 Sep run: Clark County Policy Priorities work session 14 Sep (facilitated retreat, no public comment), Clark County comp plan work session 16 Sep (PC recommendation — zoning consolidation failed 3–4 while its density standards passed 4–3; enforceable TDR failed 2–5 after the de-designations; MHP overlay passed 7–0), Clark County Council Time 16 Sep (drinking water ordinance, adoption targeted 6 Oct). Vancouver DRA 17 Sep **rewritten** — the 57-page packet published after the 9 Sep run: Degen & Degen $116,500, $3.72M claims, $19.5M escrow, and a Jan 2026 City withholding of bond-pledged revenue disclosed in a financial statement note |
 
 ## Layout
 

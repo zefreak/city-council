@@ -5,3 +5,28 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-09-09-digest.md
 [19:05:11] digest written: /home/scottr/research/city-council/briefs/raw/2026-09-09-digest.md
 [19:05:11] invoking claude (model=opus)
+Done and published — `main -> main`, so the page is live at https://zefreak.github.io/city-council/.
+
+## What the run found
+
+**The headline is a consent-agenda item.** Vancouver City Council, Monday 14 September, item 11: an ordinance banning camping and outside habitation **at all hours within 1,500 feet of the Bridge Shelter** at 5313 NE 94th Ave — 162 acres, a quarter square mile, measured from the parcel boundary. It passes as part of a block with no debate unless a councilmember pulls it. Staff's own challenge list says it "will cause people currently camping within the proposed buffer who decline shelter placement to relocate to other locations," and **nowhere in the 578-page packet is that number given**. Staff picked 1,500 over 1,000 feet specifically because 1,000 "would not encompass several nearby locations where significant camping… currently occurs." Budget impact: recorded as none. Public hearing 21 September.
+
+**$2M leaves rental assistance.** Consent item 10 awards $9.5M of Affordable Housing Fund money to six projects (403 units, ~135 AHF units, $20.65M committed with prior awards). The projects are good and the timing is real — State Housing Trust Fund applications close 21 September and only one Vancouver project has won HTF in two years, leaving 564 units stalled. But $2M of the funding comes from moving money out of the rental assistance category on a stated rationale of "slow pace of spending," and the packet never explains why 2026's rental assistance went unspent. Smith Tower's 170 occupied downtown senior units were screened out on cost per unit.
+
+**The City Manager's ballot-initiative memo understates both measures.** It sources its summaries from Ballotpedia. Reading the attached texts: **IL26-001** strikes RCW 28A.605.005 subsections (1)–(4) entirely, removing the protected-class non-discrimination right (replacement protects only "sincerely held religious beliefs"), the harassment-complaint right, and the language-access notice; it also narrows the records shield — deleting the protection where a parent is a criminal defendant and the child is the named victim — and deletes the bar on a private right of action. **IL26-638**'s verification requirement falls on *every* girl playing a school sport, and §4 carves an exception into RCW 28A.640.020, the state's schools sex-discrimination statute.
+
+**Also flagged:** the parking scofflaw workshop (boots and impounds at four unpaid citations, no exemption for vehicles in use as a residence; ordinance on consent 5 October); First Forty Feet's seventh amendment taking one design contract to $10.05M; emerald ash borer confirmed in Vancouver in August; and the DRA approving a professional services contract with no vendor, scope, amount or term published at all.
+
+**Two API corrections worth keeping.** `enablePublicSpeakerSignup` and `enableWrittenComment` both returned **False** for the 14 September meeting whose agenda sets out three registration routes and a noon deadline — added to the README gotchas. And Washington's `((deleted))` bill convention *does* survive `pdftotext`, unlike a Word redline — but IL26-001 puts the struck list second, so reading in page order gives exactly the wrong answer. I made that error and caught it before writing.
+
+## What I could not check
+
+- **What the buffer map covers.** Attachment B is a graphic; text extraction yields only "1000 / 1500 / 2000 Feet." Which streets, parcels and WSDOT rights-of-way fall inside has to be read by eye. If one thing gets checked before 21 September, it's this.
+- **How many people camp inside the line**, and whether WSDOT has agreed — several target camps are on state right-of-way and no interagency agreement is in the packet.
+- **What period the $3,588,391.51 Do Good Multnomah payment covers.** Not stated anywhere; the per-bed figure in the brief is arithmetic on an unstated denominator.
+- **The Washington case law on impounding a lived-in vehicle** (*City of Seattle v. Long*). courts.wa.gov returned an interstitial and Justia is behind a JS challenge — named in the brief as a question for the City Attorney, not quoted as authority.
+- **Clark County's October comp plan hearing dates are still in no published notice**, re-checked today: the county's own events calendar has nothing later than 15 September. Third week running.
+[19:21:15] claude exited rc=0
+notify-hook: taskwarrior task 1 created/updated
+[19:21:15] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:21:15] === run complete

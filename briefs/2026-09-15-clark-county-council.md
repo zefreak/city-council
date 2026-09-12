@@ -13,6 +13,25 @@ via WebEx (access code 2480 594 6227, password `BOCC` / `2622`, `*3` to raise ha
 > full consent agenda and two separate business items. The impact-fee analysis below is unchanged
 > from that version and still stands.
 
+> **Checked again 11 September 2026.** The agenda PDF (`clark.wa.gov/media/document/236116`) is
+> **byte-for-byte unchanged** from the 4 September copy cached at
+> `data/clark-county/2026-09-15/agenda.txt` — no items added, none pulled. Everything below stands.
+>
+> **One correction, on the comp plan hearing dates.** This brief said the Council's adoption
+> hearings are "1, 2 and 5 October" and that they appeared on no published notice. The dates are
+> now confirmed with times, from Community Planning Director Oliver Orjiako on the record at the
+> close of the 3 September Planning Commission hearing: **1 October (Thursday) at 4:00pm,
+> continued to 2 October (Friday) at 10:00am, then 5 October if needed, with adoption targeted
+> 13 October** — driven by a Growth Management Hearings Board compliance deadline. **The "no
+> published notice" finding still holds**: as of 11 September the county's comp-plan events
+> calendar has no October entry at all, its newest row is 16 September, and the staff slide
+> prepared for the 16 September work session shows only "10/1 and 10/2, if needed" with no times
+> and no 5 October. See `briefs/2026-09-16-clark-county-work-session-comp-plan.md`.
+>
+> Also relevant to the impact fee hearing below: the Planning Commission's 3 September decision
+> table confirms the 16 July votes as recorded here — Woodland **denied 4–3**, Hockinson approved
+> 5–2, Evergreen, La Center and Washougal 7–0, all four fire districts 5–2.
+
 ## Bottom line
 
 Two public hearings, and the quiet one is the second. **A resolution extends the suspension of
