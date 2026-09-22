@@ -1,0 +1,1710 @@
+                      CERTIFICATION OF ENROLLMENT
+                 ENGROSSED SUBSTITUTE HOUSE BILL 2442
+
+
+
+
+                            69th Legislature
+                          2026 Regular Session
+
+
+
+
+Passed by the House March 11, 2026                CERTIFICATE
+  Yeas 51 Nays 45
+                                      I, Bernard Dean, Chief Clerk of the
+                                      House of Representatives of the
+                                      State of Washington, do hereby
+                                      certify   that   the   attached   is
+Speaker of the House of               ENGROSSED   SUBSTITUTE  HOUSE   BILL
+Representatives                       2442 as passed by the House of
+                                      Representatives and the Senate on
+                                      the dates hereon set forth.
+Passed by the Senate March 5, 2026
+  Yeas 26 Nays 22
+
+                                                                Chief Clerk
+
+President of the Senate
+Approved                                             FILED
+
+
+
+
+                                              Secretary of State
+                                              State of Washington
+Governor of the State of Washington
+                     ENGROSSED SUBSTITUTE HOUSE BILL 2442
+
+
+                           AS AMENDED BY THE SENATE
+
+                   Passed Legislature - 2026 Regular Session
+     State of Washington         69th Legislature     2026 Regular Session
+
+     By House Finance (originally sponsored by Representatives Berg,
+     Duerr, Parshley, Tharinger, Ryu, Zahn, Wylie, Scott, Peterson,
+     Simmons, Ramel, Bergquist, Ormsby, Pollet, and Macri)
+
+     READ FIRST TIME 02/03/26.
+
+
+
+
+1        AN ACT Relating to providing local governments tax resources and
+2    fund flexibility; amending RCW 82.14.530, 82.14.540, 84.52.043,
+3    84.52.043, 84.52.010, 84.52.010, 84.55.050, 82.14.049, 86.15.080,
+4    71.20.110, 73.08.080, 84.55.005, 52.02.160, 52.02.180, 84.55.092,
+5    84.52.125, and 52.14.140; reenacting and amending RCW 82.46.035;
+6    adding a new section to chapter 82.14 RCW; adding a new section to
+7    chapter 84.52 RCW; creating new sections; providing effective dates;
+8    and providing expiration dates.
+
+
+9    BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:
+
+10                                  Part I
+11               Use of Local Real Estate Excise Tax Revenues
+
+
+12       Sec. 101. RCW 82.46.035 and 2025 c 85 s 2 and 2025 c 159 s 5 are
+13   each reenacted and amended to read as follows:
+14       (1) The legislative authority of any county or city must identify
+15   in the adopted budget the capital projects funded in whole or in part
+16   from the proceeds of the tax authorized in this section, and must
+17   indicate that such tax is intended to be in addition to other funds
+18   that may be reasonably available for such capital projects.
+19       (2) The legislative authority of any county or any city that
+20   plans under RCW 36.70A.040(1) may impose an additional excise tax on
+                                       p. 1                     ESHB 2442.PL
+ 1   each sale of real property in the unincorporated areas of the county
+ 2   for the county tax and in the corporate limits of the city for the
+ 3   city tax at a rate not exceeding 0.25 percent of the selling price.
+ 4   Any county choosing to plan under RCW 36.70A.040(2) and any city
+ 5   within such a county may only adopt an ordinance imposing the excise
+ 6   tax authorized by this section if the ordinance is first authorized
+ 7   by a proposition approved by a majority of the voters of the taxing
+ 8   district voting on the proposition at a general election held within
+ 9   the district or at a special election within the taxing district
+10   called by the district for the purpose of submitting such proposition
+11   to the voters.
+12       (3) Except as provided in subsection (5) of this section,
+13   revenues generated from the tax imposed under subsection (2) of this
+14   section must be used by such counties and cities solely for capital
+15   projects specified in a capital facilities plan element of a
+16   comprehensive plan. However, revenues (a) pledged by such counties
+17   and cities to debt retirement prior to March 1, 1992, may continue to
+18   be used for that purpose until the original debt for which the
+19   revenues were pledged is retired, or (b) committed prior to March 1,
+20   1992, by such counties or cities to a project may continue to be used
+21   for that purpose until the project is completed.
+22       (4) As used in this section, "city" means any city or town and
+23   "capital project" means those public works projects or public
+24   investments of a local government for:
+25       (a) Planning, acquisition, construction, reconstruction, repair,
+26   replacement, rehabilitation, or improvement of streets, roads,
+27   highways, sidewalks, street and road lighting systems, traffic
+28   signals, bridges, domestic water systems, storm and sanitary sewer
+29   systems;
+30       (b)     Planning,    construction,     reconstruction,    repair,
+31   rehabilitation, or improvement of parks;
+32       (c)(i)    Planning,    construction,    reconstruction,   repair,
+33   rehabilitation, or improvement of either of the following categories
+34   of airports:
+35       (A) Airports included in the most recent Washington aviation
+36   system plan published by the Washington department of transportation
+37   aviation division; and
+38       (B) Airports included in the national plan of integrated airport
+39   systems with less than 10,000 annual enplanements as determined by
+
+
+                                     p. 2                     ESHB 2442.PL
+ 1   the most recent enplanement data published by the federal aviation
+ 2   administration.
+ 3       (ii) "Capital project" does not include the installation or
+ 4   improvement of fuel systems for the distribution of leaded fuel at an
+ 5   airport as described in this subsection (5)(c); ((and))
+ 6       (d) Planning, acquisition, construction, reconstruction, repair,
+ 7   replacement, rehabilitation, or improvement of facilities for those
+ 8   experiencing homelessness and affordable housing projects; ((and
+ 9       (d))) (e) Any use allowed under RCW 82.46.010; and
+10       (f) Abatement of nuisance properties.
+11       (5) Revenues generated by the tax imposed under subsection (2) of
+12   this section may be used towards planning, acquisition, construction,
+13   reconstruction, repair, replacement, rehabilitation, or improvement
+14   of facilities for those experiencing homelessness and affordable
+15   housing projects that are supported through an interlocal housing
+16   collaboration as established under chapter 39.34 RCW.
+17       (6) A county or city may use the greater of $100,000 or 25
+18   percent of available funds for capital projects as defined in
+19   subsection (4)(d) of this section. The limits in this subsection do
+20   not apply to any county or city that used revenue under this section
+21   for the acquisition, construction, improvement, or rehabilitation of
+22   facilities to provide housing for the homeless prior to June 30,
+23   2019.
+24       (7) A county or city using funds for uses in subsection (4)(d) of
+25   this section must document in its plan under RCW 36.70A.070(3) that
+26   it has funds during the next two years for capital projects in
+27   subsection (4)(a) and (b) of this section.
+28       (8) When the governor files a notice of noncompliance under RCW
+29   36.70A.340 with the secretary of state and the appropriate county or
+30   city, the county or city's authority to impose the additional excise
+31   tax under this section is temporarily rescinded until the governor
+32   files a subsequent notice rescinding the notice of noncompliance.
+
+
+33                                  Part II
+34    Local Sales and Use Tax to Fund Services for Children and Families
+
+
+35       NEW SECTION.   Sec. 201.    The legislature finds that providing
+36   additional services at the local level to get ahead of challenges
+37   that many individuals face, particularly children, in order to thrive
+38   is important for the success of the citizens of Washington.
+                                     p. 3                     ESHB 2442.PL
+ 1       The legislature further finds that there are many services that
+ 2   are not addressed through current funding options, including medicaid
+ 3   and county behavioral health programs. Existing service gaps include
+ 4   crisis stabilization, children mental health therapies, prevention
+ 5   and early interventions, behavioral health modalities, and culturally
+ 6   appropriate   models   for  smaller   community-based   organizations.
+ 7   Reaching children and their families early is one of the best ways to
+ 8   reduce long-term needs and make a difference in overall mental health
+ 9   status as well as reducing youth violence, drug use, and suicides.
+
+
+10       NEW SECTION. Sec. 202. A new section is added to chapter 82.14
+11   RCW to read as follows:
+12       (1) The legislative authority of a city or county may by
+13   resolution or ordinance impose a sales and use tax in accordance with
+14   the terms of this chapter. The rate of the tax imposed by the city or
+15   county may not exceed 0.01 percent of the selling price, in the case
+16   of the sales tax, or the value of the article used, in the case of
+17   the use tax. This tax is in addition to other taxes authorized by law
+18   and must be collected from those persons who are taxable by the state
+19   under chapters 82.08 and 82.12 RCW upon the occurrence of any taxable
+20   event within the city or county.
+21       (2) Moneys collected under this section must be used solely for
+22   the purpose of providing additional services that assist children and
+23   their families, including: Child care; perinatal support services;
+24   before-school and after-school based youth services that address
+25   mental, social, behavioral, and physical health; workforce capacity
+26   building; shelter and rental assistance; and client transportation.
+27       (3) If the city adopts an ordinance or resolution to impose the
+28   sales and use tax under this subsection, the county in which the city
+29   is located must provide a credit against its tax under subsection (1)
+30   of this section for the city tax to the extent the total county and
+31   city tax rate under this section would exceed 0.01 percent.
+
+
+32                                 Part III
+33         Local Sales and Use Tax for Housing and Related Services
+
+
+34       Sec. 301.   RCW 82.14.530 and 2021 c 27 s 1 are each amended to
+35   read as follows:
+36       (1)(a)(i)   A  county   legislative  authority  may   submit  an
+37   authorizing proposition to the county voters at a special or general
+                                     p. 4                     ESHB 2442.PL
+ 1   election and, if the proposition is approved by a majority of persons
+ 2   voting, impose a sales and use tax in accordance with the terms of
+ 3   this chapter. The title of each ballot measure must clearly state the
+ 4   purposes for which the proposed sales and use tax will be used. The
+ 5   rate of tax under this section may not exceed ((one-tenth of one))
+ 6   0.1 percent of the selling price in the case of a sales tax, or value
+ 7   of the article used, in the case of a use tax.
+ 8       (ii) As an alternative to the authority provided in (a)(i) of
+ 9   this subsection, a county legislative authority may impose, without a
+10   proposition approved by a majority of persons voting, a sales and use
+11   tax in accordance with the terms of this chapter. The rate of tax
+12   under this section may not exceed ((one-tenth of one)) 0.1 percent of
+13   the selling price in the case of a sales tax, or value of the article
+14   used, in the case of a use tax.
+15       (b)(i) If a county does not impose the full tax rate authorized
+16   under (a) of this subsection by September 30, 2020, any city
+17   legislative authority located in that county may:
+18       (A) Submit an authorizing proposition to the city voters at a
+19   special or general election and, if the proposition is approved by a
+20   majority of persons voting, impose the whole or remainder of the
+21   sales and use tax rate in accordance with the terms of this chapter.
+22   The title of each ballot measure must clearly state the purposes for
+23   which the proposed sales and use tax will be used; or
+24       (B) Impose, without a proposition approved by a majority of
+25   persons voting, the whole or remainder of the sales and use tax rate
+26   in accordance with the terms of this chapter.
+27       (ii) The rate of tax under this section may not exceed ((one-
+28   tenth of one)) 0.1 percent of the selling price in the case of a
+29   sales tax, or value of the article used, in the case of a use tax.
+30       (iii) A county with a population of greater than ((one million
+31   five hundred thousand)) 1,500,000 may impose the tax authorized under
+32   (a)(ii) of this subsection only if the county plans to spend at least
+33   ((thirty)) 30 percent of the moneys collected under this section that
+34   are attributable to taxable activities or events within any city with
+35   a population greater than ((sixty thousand)) 60,000 located in that
+36   county within that city's boundaries.
+37       (c) If a county imposes a tax authorized under (a) of this
+38   subsection after a city located in that county has imposed the tax
+39   authorized under (b) of this subsection, the county must provide a
+40   credit against its tax for the full amount of tax imposed by a city.
+                                     p. 5                     ESHB 2442.PL
+ 1       (d) The taxes authorized in this subsection are in addition to
+ 2   any other taxes authorized by law and must be collected from persons
+ 3   who are taxable by the state under chapters 82.08 and 82.12 RCW upon
+ 4   the occurrence of any taxable event within the county for a county's
+ 5   tax and within a city for a city's tax.
+ 6       (2)(a) Notwithstanding subsection (4) of this section, a minimum
+ 7   of ((sixty)) 60 percent of the moneys collected under this section
+ 8   must be used for the following purposes:
+ 9       (i) Constructing or acquiring affordable housing, which may
+10   include emergency, transitional, and supportive housing and new units
+11   of affordable housing within an existing structure, and facilities
+12   providing housing-related services, or acquiring land for these
+13   purposes; or
+14       (ii)   Constructing   or   acquiring   behavioral  health-related
+15   facilities, or acquiring land for these purposes; or
+16       (iii) Funding the operations and maintenance costs of new and
+17   existing units of affordable housing and facilities where housing-
+18   related programs are provided, or newly constructed evaluation and
+19   treatment centers; or
+20       (iv) Rehabilitating existing affordable housing, which may
+21   include emergency, transitional, and supportive housing.
+22       (b) The affordable housing and facilities providing housing-
+23   related programs in (a)(i) of this subsection may only be provided to
+24   persons within any of the following population groups whose income is
+25   at or below ((sixty)) 60 percent of the median income of the county
+26   imposing the tax:
+27       (i) Persons with behavioral health disabilities;
+28       (ii) Veterans;
+29       (iii) Senior citizens;
+30       (iv) Persons who are homeless or at-risk of being homeless,
+31   including families with children;
+32       (v) Unaccompanied homeless youth or young adults;
+33       (vi) Persons with disabilities; or
+34       (vii) Domestic violence survivors.
+35       (c) The remainder of the moneys collected under this section must
+36   be used for ((the)):
+37       (i) The operation, delivery, or evaluation of behavioral health
+38   treatment programs and services, affordable and supportive housing
+39   operation and maintenance, or housing-related services; or
+40       (ii) Rental assistance.
+                                     p. 6                     ESHB 2442.PL
+ 1       (3)(a) A county that imposes the tax under this section must
+ 2   consult with a city before the county may construct or acquire any of
+ 3   the facilities authorized under subsection (2)(a) of this section
+ 4   within the city limits.
+ 5       (b) Among other priorities, a county that acquires a facility
+ 6   under subsection (2)(a) of this section must provide an opportunity
+ 7   for 15 percent of the units provided at that facility to be provided
+ 8   to individuals who are living in or near the city in which the
+ 9   facility is located, or have ties to that community. The provisions
+10   of this subsection (3)(b) do not apply if the county is unable to
+11   identify sufficient individuals within the city in need of services
+12   that meet the criteria provided in subsection (2)(b) of this section.
+13   This prioritization must not jeopardize United States department of
+14   housing and urban development funding for the continuum of care
+15   program.
+16       (4) A county that has not imposed the tax authorized under RCW
+17   82.14.460 prior to October 9, 2015, but imposes the tax authorized
+18   under this section after a city in that county has imposed the tax
+19   authorized under RCW 82.14.460 prior to October 9, 2015, must enter
+20   into an interlocal agreement with that city to determine how the
+21   services and provisions described in subsection (2) of this section
+22   will be allocated and funded in the city.
+23       (5) To carry out the purposes of subsection (2)(a) and (b) of
+24   this section, the legislative authority of the county or city
+25   imposing the tax has the authority to issue general obligation or
+26   revenue bonds within the limitations now or hereafter prescribed by
+27   the laws of this state, and may use, and is authorized to pledge, up
+28   to ((fifty)) 50 percent of the moneys collected under this section
+29   for repayment of such bonds, in order to finance the provision or
+30   construction of affordable housing, facilities where housing-related
+31   programs are provided, or evaluation and treatment centers described
+32   in subsection (2)(a)(iii) of this section.
+33       (6)(a) Moneys collected under this section may be used to offset
+34   reductions in state or federal funds for the purposes described in
+35   subsection (2) of this section.
+36       (b) No more than ((ten)) 10 percent of the moneys collected under
+37   this section may be used to supplant existing local funds.
+38       (7) A county or city may enter into an interlocal agreement with
+39   one or more counties, cities, or public housing authorities in
+40   accordance with chapter 39.34 RCW. The agreement may include, but is
+                                     p. 7                     ESHB 2442.PL
+1    not limited to, pooling the tax receipts received under this section,
+2    pledging those taxes to bonds issued by one or more parties to the
+3    agreement, and allocating the proceeds of the taxes levied or the
+4    bonds issued in accordance with such interlocal agreement and this
+5    section.
+
+
+ 6       Sec. 302. RCW 82.14.540 and 2024 c 136 s 1 are each amended to
+ 7   read as follows:
+ 8       (1) The definitions in this subsection apply throughout this
+ 9   section unless the context clearly requires otherwise.
+10       (a) "Nonparticipating city" is a city that does not impose a
+11   sales and use tax in accordance with the terms of this section.
+12       (b) "Nonparticipating county" is a county that does not impose a
+13   sales and use tax in accordance with the terms of this section.
+14       (c) "Participating city" is a city that imposes a sales and use
+15   tax in accordance with the terms of this section.
+16       (d) "Participating county" is a county that imposes a sales and
+17   use tax in accordance with the terms of this section.
+18       (e) "Qualifying local tax" means the following tax sources, if
+19   the tax source is instated no later than ((twelve)) 12 months after
+20   July 28, 2019:
+21       (i) The affordable housing levy authorized under RCW 84.52.105;
+22       (ii) The sales and use tax for housing and related services
+23   authorized under RCW 82.14.530, provided the city has imposed the tax
+24   at a minimum or of at least half of the authorized rate;
+25       (iii) The sales tax for chemical dependency and mental health
+26   treatment services or therapeutic courts authorized under RCW
+27   82.14.460 imposed by a city; and
+28       (iv) The levy authorized under RCW 84.55.050, if used solely for
+29   affordable housing.
+30       (2)(a) A county or city legislative authority may authorize, fix,
+31   and impose a sales and use tax in accordance with the terms of this
+32   section.
+33       (b) The tax under this section is assessed on the selling price
+34   in the case of a sales tax, or value of the article used, in the case
+35   of a use tax.
+36       (c) The rate of the tax under this section for an individual
+37   participating city and an individual participating county may not
+38   exceed:
+
+
+                                     p. 8                     ESHB 2442.PL
+ 1       (i) Beginning on July 28, 2019, until ((twelve)) 12 months after
+ 2   July 28, 2019:
+ 3        (A) 0.0073 percent for a:
+ 4        (I) Participating city, unless the participating city levies a
+ 5   qualifying local tax; and
+ 6       (II) Participating county, within the limits of nonparticipating
+ 7   cities within the county and within participating cities that do not
+ 8   currently levy a qualifying tax;
+ 9       (B) 0.0146 percent for a:
+10       (I) Participating city that currently levies a qualifying local
+11   tax;
+12        (II) Participating city if the county in which it is located
+13   declares they will not levy the sales and use tax authorized under
+14   this section or does not adopt a resolution in accordance with this
+15   section; and
+16       (III) Participating county within the unincorporated areas of the
+17   county and any city that declares they will not levy the sales and
+18   use tax authorized under this section or does not adopt a resolution
+19   in accordance with this section;
+20       (ii) Beginning ((twelve)) 12 months after July 28, 2019:
+21       (A) 0.0073 percent for a:
+22       (I) Participating city that is located within a participating
+23   county if the participating city is not levying a qualifying local
+24   tax; and
+25       (II) Participating county, within the limits of a participating
+26   city if the participating city is not levying a qualifying local tax;
+27       (B) 0.0146 percent within the limits of a:
+28       (I) Participating city that is levying a qualifying local tax;
+29   and
+30       (II) Participating county within the unincorporated area of the
+31   county and within the limits of any nonparticipating city that is
+32   located within the county.
+33       (d) A county may not levy the tax authorized under this section
+34   within the limits of a participating city that levies a qualifying
+35   local tax.
+36       (e)(i) In order for a county or city legislative authority to
+37   impose the tax under this section, the authority must adopt:
+38       (A) A resolution of intent to adopt legislation to authorize the
+39   maximum capacity of the tax in this section within six months of July
+40   28, 2019; and
+                                     p. 9                     ESHB 2442.PL
+ 1       (B) Legislation to authorize the maximum capacity of the tax in
+ 2   this section within one year of July 28, 2019.
+ 3       (ii) Adoption of the resolution of intent and legislation
+ 4   requires simple majority approval of the enacting legislative
+ 5   authority.
+ 6       (iii) If a county or city has not adopted a resolution of intent
+ 7   in accordance with the terms of this section, the county or city may
+ 8   not authorize, fix, and impose the tax.
+ 9       (3) The tax imposed under this section must be deducted from the
+10   amount of tax otherwise required to be collected or paid to the
+11   department of revenue under chapter 82.08 or 82.12 RCW. The
+12   department must perform the collection of such taxes on behalf of the
+13   county or city at no cost to the county or city.
+14       (4) By December 31, 2019, or within thirty days of a county or
+15   city authorizing the tax under this section, whichever is later, the
+16   department must calculate the maximum amount of tax distributions for
+17   each county and city authorizing the tax under this section as
+18   follows:
+19       (a) The maximum amount for a participating county equals the
+20   taxable retail sales within the county in state fiscal year 2019
+21   multiplied by the tax rate imposed under this section. If a county
+22   imposes a tax authorized under this section after a city located in
+23   that county has imposed the tax, the taxable retail sales within the
+24   city in state fiscal year 2019 must be subtracted from the taxable
+25   retail sales within the county for the calculation of the maximum
+26   amount; and
+27       (b) The maximum amount for a city equals the taxable retail sales
+28   within the city in state fiscal year 2019 multiplied by the tax rate
+29   imposed under subsection (1) of this section.
+30       (5) The tax must cease to be distributed to a county or city for
+31   the remainder of any fiscal year in which the amount of tax exceeds
+32   the maximum amount in subsection (4) of this section. The department
+33   must remit any annual tax revenues above the maximum to the state
+34   treasurer for deposit in the general fund. Distributions to a county
+35   or city meeting the maximum amount must resume at the beginning of
+36   the next fiscal year.
+37       (6)(a) The moneys collected or bonds issued under this section
+38   may only be used for the following purposes:
+39       (i)   Acquiring,   rehabilitating,  or    constructing affordable
+40   housing, which may include new units of affordable housing within an
+                                     p. 10                    ESHB 2442.PL
+ 1   existing structure or facilities providing supportive housing
+ 2   services under RCW 71.24.385;
+ 3       (ii) Funding the operations and maintenance costs of new and
+ 4   existing units of affordable or supportive housing; or
+ 5       (iii) For providing rental assistance to tenants.
+ 6       (b) Administrative costs of the county or city associated with
+ 7   administering this section may not exceed 10 percent of the annual
+ 8   tax distributed to the jurisdiction under this section.
+ 9       (7) The housing and services provided pursuant to subsection (6)
+10   of this section may only be provided to persons whose income is at or
+11   below 60 percent of the median income of the county or city imposing
+12   the tax, or at or below 80 percent of the median income of the county
+13   or city imposing the tax if it is supporting the development of
+14   affordable housing intended for owner occupancy, as defined in RCW
+15   84.14.010.
+16       (8) In determining the use of funds under subsection (6) of this
+17   section, a county or city must consider the income of the individuals
+18   and families to be served, the leveraging of the resources made
+19   available under this section, and the housing needs within the
+20   jurisdiction of the taxing authority.
+21       (9) To carry out the purposes of this section including, but not
+22   limited to, financing loans or grants to nonprofit organizations or
+23   public housing authorities, the legislative authority of the county
+24   or city imposing the tax has the authority to issue general
+25   obligation or revenue bonds within the limitations now or hereafter
+26   prescribed by the laws of this state, and may use, and is authorized
+27   to pledge, the moneys collected under this section for repayment of
+28   such bonds.
+29       (10) A county or city may enter into an interlocal agreement with
+30   one or more counties, cities, or public housing authorities in
+31   accordance with chapter 39.34 RCW. The agreement may include, but is
+32   not limited to, pooling the tax receipts received under this section,
+33   pledging those taxes to bonds issued by one or more parties to the
+34   agreement, and allocating the proceeds of the taxes levied or the
+35   bonds issued in accordance with such interlocal agreement and this
+36   section.
+37       (11) Counties and cities imposing the tax under this section must
+38   report annually to the department of commerce on the collection and
+39   use of the revenue. The department of commerce must adopt rules
+40   prescribing content of such reports. By December 1, 2019, and
+                                     p. 11                    ESHB 2442.PL
+1    annually thereafter, and in compliance with RCW 43.01.036, the
+2    department of commerce must submit a report annually to the
+3    appropriate legislative committees with regard to such uses.
+4        (12) The tax imposed by a county or city under this section
+5    expires ((twenty)) 20 years after the date on which the tax is first
+6    imposed.
+
+7                                   Part IV
+8                          Property Tax Prorationing
+
+
+ 9       Sec. 401. RCW 84.52.043 and 2024 c 361 s 3 are each amended to
+10   read as follows:
+11       Within and subject to the limitations imposed by RCW 84.52.050 as
+12   amended, the regular ad valorem tax levies upon real and personal
+13   property by the taxing districts hereafter named are as follows:
+14       (1) Levies of the senior taxing districts are as follows: (a) The
+15   levies by the state may not exceed the applicable aggregate rate
+16   limit specified in RCW 84.52.065 (2) or (4) adjusted to the state
+17   equalized value in accordance with the indicated ratio fixed by the
+18   state department of revenue to be used exclusively for the support of
+19   the common schools; (b) the levy by any county may not exceed $1.80
+20   per $1,000 of assessed value; (c) the levy by any county pursuant to
+21   RCW 73.08.080(1)(b)(i) may not exceed 27 cents per $1,000 of assessed
+22   value or be less than 1.125 cents per $1,000 of assessed value; (d)
+23   the levy by any county pursuant to RCW 71.20.110(1)(b)(i) may not
+24   exceed 2.5 cents per $1,000 of assessed value; (e) the levy by any
+25   road district may not exceed $2.25 per $1,000 of assessed value; and
+26   (((d))) (f) the levy by any city or town may not exceed $3.375 per
+27   $1,000 of assessed value. However, any county is hereby authorized to
+28   increase its levy from $1.80 to a rate not to exceed $2.475 per
+29   $1,000 of assessed value for general county purposes if the total
+30   levies for both the county and any road district within the county do
+31   not exceed $4.05 per $1,000 of assessed value, and no other taxing
+32   district has its levy reduced as a result of the increased county
+33   levy.
+34       (2) The aggregate levies of junior taxing districts and senior
+35   taxing districts, other than the state, may not exceed $5.90 per
+36   $1,000 of assessed valuation. The term "junior taxing districts"
+37   includes all taxing districts other than the state, counties, road
+38   districts, cities, towns, port districts, and public utility
+                                     p. 12                    ESHB 2442.PL
+ 1   districts. The limitations provided in this subsection do not apply
+ 2   to: (a) Levies at the rates provided by existing law by or for any
+ 3   port or public utility district; (b) excess property tax levies
+ 4   authorized in Article VII, section 2 of the state Constitution; (c)
+ 5   levies for acquiring conservation futures as authorized under RCW
+ 6   84.34.230; (d) levies for emergency medical care or emergency medical
+ 7   services imposed under RCW 84.52.069; (e) levies to finance
+ 8   affordable housing imposed under RCW 84.52.105; (f) the portions of
+ 9   levies by metropolitan park districts that are protected under RCW
+10   84.52.120; (g) levies imposed by ferry districts under RCW 36.54.130;
+11   (h) levies for criminal justice purposes under RCW 84.52.135; (i) the
+12   portions of levies by fire protection districts and regional fire
+13   protection  service   authorities  that   are  protected   under  RCW
+14   84.52.125; (j) levies by counties for transit-related purposes under
+15   RCW 84.52.140; (k) the portion of the levy by flood control zone
+16   districts that are protected under RCW 84.52.816; (l) levies imposed
+17   by a regional transit authority under RCW 81.104.175; (m) levies
+18   imposed by any park and recreation district described under RCW
+19   84.52.010(3)(a)(viii); (n) levies for county public health clinic
+20   operations, maintenance, and capital expenses under section 801(2)(a)
+21   of this act; (o) levies for veterans' assistance under RCW
+22   73.08.080(1)(b)(i); (p) levies for developmental disabilities or
+23   mental health services under RCW 71.20.110(1)(b)(i); (q) the portion
+24   of the levies for fire protection districts under RCW 52.02.160 that
+25   are protected under RCW 84.52.125; (r) the portion of any levy
+26   resulting from the correction of a levy error under RCW 84.52.085(3);
+27   and (((o))) (s) levies for county hospital purposes under RCW
+28   36.62.090.
+
+29       Sec. 402. RCW 84.52.043 and 2024 c 361 s 4 are each amended to
+30   read as follows:
+31       Within and subject to the limitations imposed by RCW 84.52.050 as
+32   amended, the regular ad valorem tax levies upon real and personal
+33   property by the taxing districts hereafter named are as follows:
+34       (1) Levies of the senior taxing districts are as follows: (a) The
+35   levies by the state may not exceed the applicable aggregate rate
+36   limit specified in RCW 84.52.065 (2) or (4) adjusted to the state
+37   equalized value in accordance with the indicated ratio fixed by the
+38   state department of revenue to be used exclusively for the support of
+39   the common schools; (b) the levy by any county may not exceed $1.80
+                                     p. 13                    ESHB 2442.PL
+ 1   per $1,000 of assessed value; (c) the levy by any county pursuant to
+ 2   RCW 73.08.080(1)(b)(i) may not exceed 27 cents per $1,000 of assessed
+ 3   value or be less than 1.125 cents per $1,000 of assessed value; (d)
+ 4   the levy by any county pursuant to RCW 71.20.110(1)(b)(i) may not
+ 5   exceed 2.5 cents per $1,000 of assessed value; (e) the levy by any
+ 6   road district may not exceed $2.25 per $1,000 of assessed value; and
+ 7   (((d))) (f) the levy by any city or town may not exceed $3.375 per
+ 8   $1,000 of assessed value. However any county is hereby authorized to
+ 9   increase its levy from $1.80 to a rate not to exceed $2.475 per
+10   $1,000 of assessed value for general county purposes if the total
+11   levies for both the county and any road district within the county do
+12   not exceed $4.05 per $1,000 of assessed value, and no other taxing
+13   district has its levy reduced as a result of the increased county
+14   levy.
+15       (2) The aggregate levies of junior taxing districts and senior
+16   taxing districts, other than the state, may not exceed $5.90 per
+17   $1,000 of assessed valuation. The term "junior taxing districts"
+18   includes all taxing districts other than the state, counties, road
+19   districts, cities, towns, port districts, and public utility
+20   districts. The limitations provided in this subsection do not apply
+21   to: (a) Levies at the rates provided by existing law by or for any
+22   port or public utility district; (b) excess property tax levies
+23   authorized in Article VII, section 2 of the state Constitution; (c)
+24   levies for acquiring conservation futures as authorized under RCW
+25   84.34.230; (d) levies for emergency medical care or emergency medical
+26   services imposed under RCW 84.52.069; (e) levies to finance
+27   affordable housing imposed under RCW 84.52.105; (f) the portions of
+28   levies by metropolitan park districts that are protected under RCW
+29   84.52.120; (g) levies imposed by ferry districts under RCW 36.54.130;
+30   (h) levies for criminal justice purposes under RCW 84.52.135; (i) the
+31   portions of levies by fire protection districts and regional fire
+32   protection   service  authorities  that   are  protected   under  RCW
+33   84.52.125; (j) levies by counties for transit-related purposes under
+34   RCW 84.52.140; (k) the portion of the levy by flood control zone
+35   districts that are protected under RCW 84.52.816; (l) levies imposed
+36   by a regional transit authority under RCW 81.104.175; (m) the portion
+37   of any levy resulting from the correction of a levy error under RCW
+38   84.52.085(3); ((and)) (n) levies for county public health clinic
+39   operations, maintenance, and capital expenses under section 801(2)(a)
+40   of this act; (o) levies for veterans' assistance under RCW
+                                     p. 14                    ESHB 2442.PL
+ 1   73.08.080(1)(b)(i); (p) levies for developmental disabilities or
+ 2   mental health services under RCW 71.20.110(1)(b)(i); (q) the portion
+ 3   of the levies for fire protection districts under RCW 52.02.160 that
+ 4   are protected under RCW 84.52.125; and (r) levies for county hospital
+ 5   purposes under RCW 36.62.090.
+
+
+ 6       Sec. 403. RCW 84.52.010 and 2024 c 361 s 5 are each amended to
+ 7   read as follows:
+ 8       (1) Except as is permitted under RCW 84.55.050, all taxes must be
+ 9   levied or voted in specific amounts.
+10       (2) The rate percent of all taxes for state and county purposes,
+11   and purposes of taxing districts coextensive with the county, must be
+12   determined, calculated and fixed by the county assessors of the
+13   respective counties, within the limitations provided by law, upon the
+14   assessed valuation of the property of the county, as shown by the
+15   completed tax rolls of the county, and the rate percent of all taxes
+16   levied for purposes of taxing districts within any county must be
+17   determined, calculated, and fixed by the county assessors of the
+18   respective counties, within the limitations provided by law, upon the
+19   assessed valuation of the property of the taxing districts
+20   respectively.
+21       (3) When a county assessor finds that the aggregate rate of tax
+22   levy on any property, that is subject to the limitations set forth in
+23   RCW 84.52.043 or 84.52.050, exceeds the limitations provided in
+24   either of these sections, the assessor must recompute and establish a
+25   consolidated levy in the following manner:
+26       (a) The full certified rates of tax levy for state, county,
+27   county road district, regional transit authority, and city or town
+28   purposes must be extended on the tax rolls in amounts not exceeding
+29   the limitations established by law; however, any state levy takes
+30   precedence over all other levies and may not be reduced for any
+31   purpose other than that required by RCW 84.55.010. If, as a result of
+32   the levies imposed under RCW 36.54.130, 36.69.145 by a park and
+33   recreation district described under (a)(viii) of this subsection (3),
+34   73.08.080(1)(b)(i),    71.20.110(1)(b)(i),   84.34.230,    84.52.069,
+35   84.52.105, 36.62.090, section 801(2)(a) of this act, the portion of
+36   the levy by a metropolitan park district that was protected under RCW
+37   84.52.120, 84.52.125, 84.52.135, and 84.52.140, the portion of the
+38   levy by a flood control zone district that was protected under RCW
+39   84.52.816, and any portion of a levy resulting from the correction of
+                                     p. 15                    ESHB 2442.PL
+ 1   a levy error under RCW 84.52.085(3), the combined rate of regular
+ 2   property tax levies that are subject to the one percent limitation
+ 3   exceeds one percent of the true and fair value of any property, then
+ 4   these levies must be reduced as follows:
+ 5       (i) The portion of any levy resulting from the correction of a
+ 6   levy error under RCW 84.52.085(3) must be reduced until the combined
+ 7   rate no longer exceeds one percent of the true and fair value of any
+ 8   property or must be eliminated;
+ 9       (ii) If the combined rate of regular property tax levies that are
+10   subject to the one percent limitation still exceeds one percent of
+11   the true and fair value of any property, the portion of the levy by a
+12   flood control zone district that was protected under RCW 84.52.816
+13   must be reduced until the combined rate no longer exceeds one percent
+14   of the true and fair value of any property or must be eliminated;
+15       (iii) If the combined rate of regular property tax levies that
+16   are subject to the one percent limitation still exceeds one percent
+17   of the true and fair value of any property, the levy imposed by a
+18   county under RCW 84.52.140 must be reduced until the combined rate no
+19   longer exceeds one percent of the true and fair value of any property
+20   or must be eliminated;
+21       (iv) If the combined rate of regular property tax levies that are
+22   subject to the one percent limitation still exceeds one percent of
+23   the true and fair value of any property, the portion of the levy by a
+24   fire protection district or regional fire protection service
+25   authority that is protected under RCW 84.52.125 must be reduced until
+26   the combined rate no longer exceeds one percent of the true and fair
+27   value of any property or must be eliminated;
+28       (v) If the combined rate of regular property tax levies that are
+29   subject to the one percent limitation still exceeds one percent of
+30   the true and fair value of any property, the levy imposed by a county
+31   under RCW 84.52.135 must be reduced until the combined rate no longer
+32   exceeds one percent of the true and fair value of any property or
+33   must be eliminated;
+34       (vi) If the combined rate of regular property tax levies that are
+35   subject to the one percent limitation still exceeds one percent of
+36   the true and fair value of any property, the levy imposed by a ferry
+37   district under RCW 36.54.130 must be reduced until the combined rate
+38   no longer exceeds one percent of the true and fair value of any
+39   property or must be eliminated;
+
+
+                                     p. 16                    ESHB 2442.PL
+ 1       (vii) If the combined rate of regular property tax levies that
+ 2   are subject to the one percent limitation still exceeds one percent
+ 3   of the true and fair value of any property, the portion of the levy
+ 4   by a metropolitan park district that is protected under RCW 84.52.120
+ 5   must be reduced until the combined rate no longer exceeds one percent
+ 6   of the true and fair value of any property or must be eliminated;
+ 7       (viii) If the combined rate of regular property tax levies that
+ 8   are subject to the one percent limitation still exceeds one percent
+ 9   of the true and fair value of any property, then the levies imposed
+10   under RCW 36.69.145 must be reduced until the combined rate no longer
+11   exceeds one percent of the true and fair value of any property or
+12   must be eliminated. This subsection (3)(a)(viii) only applies to a
+13   park and recreation district located on an island and within a county
+14   with a population exceeding 2,000,000;
+15       (ix) If the combined rate of regular property tax levies that are
+16   subject to the one percent limitation still exceeds one percent of
+17   the true and fair value of any property, then the levies imposed
+18   under RCW 84.34.230, 84.52.105, 36.62.090, section 801(2)(a) of this
+19   act, and any portion of the levy imposed under RCW 84.52.069 that is
+20   in excess of 30 cents per $1,000 of assessed value, must be reduced
+21   on a pro rata basis until the combined rate no longer exceeds one
+22   percent of the true and fair value of any property or must be
+23   eliminated; ((and))
+24       (x) If the combined rate of regular property tax levies that are
+25   subject to the one percent limitation still exceeds one percent of
+26   the true and fair value of any property, then the 30 cents per $1,000
+27   of assessed value of tax levy imposed under RCW 84.52.069 must be
+28   reduced until the combined rate no longer exceeds one percent of the
+29   true and fair value of any property or eliminated;
+30       (xi) If the consolidated tax levy rate still exceeds these
+31   limitations, the certified property tax levy rates authorized for
+32   veterans' assistance under RCW 73.08.080(1)(b)(i) must be reduced on
+33   a pro rata basis or eliminated; and
+34       (xii) If the consolidated tax levy rate still exceeds these
+35   limitations, the certified property tax levy rates authorized for
+36   developmental disabilities or mental health services under RCW
+37   71.20.110(1)(b)(i) must be reduced on a pro rata basis or eliminated.
+38       (b) The certified rates of tax levy subject to these limitations
+39   by all junior taxing districts imposing taxes on such property must
+
+
+                                     p. 17                    ESHB 2442.PL
+ 1   be reduced or eliminated as follows to bring the consolidated levy of
+ 2   taxes on such property within the provisions of these limitations:
+ 3       (i) First, the certified property tax levy authorized under RCW
+ 4   84.52.821 must be reduced on a pro rata basis or eliminated;
+ 5       (ii) Second, if the consolidated tax levy rate still exceeds
+ 6   these limitations, the certified property tax levy rates of those
+ 7   junior taxing districts authorized under RCW 36.68.525, 36.69.145
+ 8   except a park and recreation district described under (a)(viii) of
+ 9   this subsection, 35.95A.100, and 67.38.130 must be reduced on a pro
+10   rata basis or eliminated;
+11       (iii) Third, if the consolidated tax levy rate still exceeds
+12   these limitations, the certified property tax levy rates of flood
+13   control zone districts other than the portion of a levy protected
+14   under RCW 84.52.816 must be reduced on a pro rata basis or
+15   eliminated;
+16       (iv) Fourth, if the consolidated tax levy rate still exceeds
+17   these limitations, the certified property tax levy rates of all other
+18   junior taxing districts, other than fire protection districts,
+19   regional fire protection service authorities, library districts, the
+20   first 50 cents per $1,000 of assessed valuation levies for
+21   metropolitan park districts, and the first 50 cents per $1,000 of
+22   assessed valuation levies for public hospital districts, must be
+23   reduced on a pro rata basis or eliminated;
+24       (v) Fifth, if the consolidated tax levy rate still exceeds these
+25   limitations, the first 50 cents per $1,000 of assessed valuation
+26   levies for metropolitan park districts created on or after January 1,
+27   2002, must be reduced on a pro rata basis or eliminated;
+28       (vi) Sixth, if the consolidated tax levy rate still exceeds these
+29   limitations, the certified property tax levy rates authorized to fire
+30   protection districts under RCW 52.16.140 and 52.16.160 and regional
+31   fire protection service authorities under RCW 52.26.140(1) (b) and
+32   (c) must be reduced on a pro rata basis or eliminated; and
+33       (vii) Seventh, if the consolidated tax levy rate still exceeds
+34   these limitations, the certified property tax levy rates authorized
+35   for fire protection districts under RCW 52.16.130, regional fire
+36   protection service authorities under RCW 52.26.140(1)(a), library
+37   districts, metropolitan park districts created before January 1,
+38   2002, under their first 50 cents per $1,000 of assessed valuation
+39   levy, and public hospital districts under their first 50 cents per
+
+
+                                     p. 18                    ESHB 2442.PL
+ 1   $1,000 of assessed valuation levy, must be reduced on a pro rata
+ 2   basis or eliminated.
+
+
+ 3       Sec. 404. RCW 84.52.010 and 2024 c 361 s 6 are each amended to
+ 4   read as follows:
+ 5       (1) Except as is permitted under RCW 84.55.050, all taxes must be
+ 6   levied or voted in specific amounts.
+ 7       (2) The rate percent of all taxes for state and county purposes,
+ 8   and purposes of taxing districts coextensive with the county, must be
+ 9   determined, calculated and fixed by the county assessors of the
+10   respective counties, within the limitations provided by law, upon the
+11   assessed valuation of the property of the county, as shown by the
+12   completed tax rolls of the county, and the rate percent of all taxes
+13   levied for purposes of taxing districts within any county must be
+14   determined, calculated and fixed by the county assessors of the
+15   respective counties, within the limitations provided by law, upon the
+16   assessed valuation of the property of the taxing districts
+17   respectively.
+18       (3) When a county assessor finds that the aggregate rate of tax
+19   levy on any property, that is subject to the limitations set forth in
+20   RCW 84.52.043 or 84.52.050, exceeds the limitations provided in
+21   either of these sections, the assessor must recompute and establish a
+22   consolidated levy in the following manner:
+23       (a) The full certified rates of tax levy for state, county,
+24   county road district, regional transit authority, and city or town
+25   purposes must be extended on the tax rolls in amounts not exceeding
+26   the limitations established by law; however any state levy takes
+27   precedence over all other levies and may not be reduced for any
+28   purpose other than that required by RCW 84.55.010. If, as a result of
+29   the   levies   imposed    under   RCW   36.54.130,   73.08.080(1)(b)(i),
+30   71.20.110(1)(b)(i),    84.34.230,   84.52.069,   84.52.105,   36.62.090,
+31   section 801(2)(a) of this act, the portion of the levy by a
+32   metropolitan park district that was protected under RCW 84.52.120,
+33   84.52.125, 84.52.135, and 84.52.140, the portion of the levy by a
+34   flood control zone district that was protected under RCW 84.52.816,
+35   and the portion of any levy resulting from the correction of a levy
+36   error under RCW 84.52.085(3), the combined rate of regular property
+37   tax levies that are subject to the one percent limitation exceeds one
+38   percent of the true and fair value of any property, then these levies
+39   must be reduced as follows:
+                                      p. 19                     ESHB 2442.PL
+ 1       (i) The portion of any levy resulting from the correction of a
+ 2   levy error under RCW 84.52.085(3) must be reduced until the combined
+ 3   rate no longer exceeds one percent of the true and fair value of any
+ 4   property or must be eliminated;
+ 5       (ii) If the combined rate of regular property tax levies that are
+ 6   subject to the one percent limitation still exceeds one percent of
+ 7   the true and fair value of any property, the portion of the levy by a
+ 8   flood control zone district that was protected under RCW 84.52.816
+ 9   must be reduced until the combined rate no longer exceeds one percent
+10   of the true and fair value of any property or must be eliminated;
+11       (iii) If the combined rate of regular property tax levies that
+12   are subject to the one percent limitation still exceeds one percent
+13   of the true and fair value of any property, the levy imposed by a
+14   county under RCW 84.52.140 must be reduced until the combined rate no
+15   longer exceeds one percent of the true and fair value of any property
+16   or must be eliminated;
+17       (iv) If the combined rate of regular property tax levies that are
+18   subject to the one percent limitation still exceeds one percent of
+19   the true and fair value of any property, the portion of the levy by a
+20   fire protection district or regional fire protection service
+21   authority that is protected under RCW 84.52.125 must be reduced until
+22   the combined rate no longer exceeds one percent of the true and fair
+23   value of any property or must be eliminated;
+24       (v) If the combined rate of regular property tax levies that are
+25   subject to the one percent limitation still exceeds one percent of
+26   the true and fair value of any property, the levy imposed by a county
+27   under RCW 84.52.135 must be reduced until the combined rate no longer
+28   exceeds one percent of the true and fair value of any property or
+29   must be eliminated;
+30       (vi) If the combined rate of regular property tax levies that are
+31   subject to the one percent limitation still exceeds one percent of
+32   the true and fair value of any property, the levy imposed by a ferry
+33   district under RCW 36.54.130 must be reduced until the combined rate
+34   no longer exceeds one percent of the true and fair value of any
+35   property or must be eliminated;
+36       (vii) If the combined rate of regular property tax levies that
+37   are subject to the one percent limitation still exceeds one percent
+38   of the true and fair value of any property, the portion of the levy
+39   by a metropolitan park district that is protected under RCW 84.52.120
+
+
+                                     p. 20                    ESHB 2442.PL
+ 1   must be reduced until the combined rate no longer exceeds one percent
+ 2   of the true and fair value of any property or must be eliminated;
+ 3       (viii) If the combined rate of regular property tax levies that
+ 4   are subject to the one percent limitation still exceeds one percent
+ 5   of the true and fair value of any property, then the levies imposed
+ 6   under RCW 84.34.230, 84.52.105, 36.62.090, section 801(2)(a) of this
+ 7   act, and any portion of the levy imposed under RCW 84.52.069 that is
+ 8   in excess of 30 cents per $1,000 of assessed value, must be reduced
+ 9   on a pro rata basis until the combined rate no longer exceeds one
+10   percent of the true and fair value of any property or must be
+11   eliminated; ((and))
+12       (ix) If the combined rate of regular property tax levies that are
+13   subject to the one percent limitation still exceeds one percent of
+14   the true and fair value of any property, then the 30 cents per $1,000
+15   of assessed value of tax levy imposed under RCW 84.52.069 must be
+16   reduced until the combined rate no longer exceeds one percent of the
+17   true and fair value of any property or eliminated;
+18       (x) If the consolidated tax levy rate still exceeds these
+19   limitations, the certified property tax levy rates authorized for
+20   veterans' assistance under RCW 73.08.080(1)(b)(i) must be reduced on
+21   a pro rata basis or eliminated; and
+22       (xi) If the consolidated tax levy rate still exceeds these
+23   limitations, the certified property tax levy rates authorized for
+24   developmental disabilities or mental health services under RCW
+25   71.20.110(1)(b)(i) must be reduced on a pro rata basis or eliminated.
+26       (b) The certified rates of tax levy subject to these limitations
+27   by all junior taxing districts imposing taxes on such property must
+28   be reduced or eliminated as follows to bring the consolidated levy of
+29   taxes on such property within the provisions of these limitations:
+30       (i) First, the certified property tax levy authorized under RCW
+31   84.52.821 must be reduced on a pro rata basis or eliminated;
+32       (ii) Second, if the consolidated tax levy rate still exceeds
+33   these limitations, the certified property tax levy rates of those
+34   junior taxing districts authorized under RCW 36.68.525, 36.69.145,
+35   35.95A.100, and 67.38.130 must be reduced on a pro rata basis or
+36   eliminated;
+37       (iii) Third, if the consolidated tax levy rate still exceeds
+38   these limitations, the certified property tax levy rates of flood
+39   control zone districts other than the portion of a levy protected
+
+
+                                     p. 21                    ESHB 2442.PL
+ 1   under RCW 84.52.816 must be reduced on a pro rata basis or
+ 2   eliminated;
+ 3       (iv) Fourth, if the consolidated tax levy rate still exceeds
+ 4   these limitations, the certified property tax levy rates of all other
+ 5   junior taxing districts, other than fire protection districts,
+ 6   regional fire protection service authorities, library districts, the
+ 7   first 50 cents per $1,000 of assessed valuation levies for
+ 8   metropolitan park districts, and the first 50 cents per $1,000 of
+ 9   assessed valuation levies for public hospital districts, must be
+10   reduced on a pro rata basis or eliminated;
+11       (v) Fifth, if the consolidated tax levy rate still exceeds these
+12   limitations, the first 50 cents per $1,000 of assessed valuation
+13   levies for metropolitan park districts created on or after January 1,
+14   2002, must be reduced on a pro rata basis or eliminated;
+15       (vi) Sixth, if the consolidated tax levy rate still exceeds these
+16   limitations, the certified property tax levy rates authorized to fire
+17   protection districts under RCW 52.16.140 and 52.16.160 and regional
+18   fire protection service authorities under RCW 52.26.140(1) (b) and
+19   (c) must be reduced on a pro rata basis or eliminated; and
+20       (vii) Seventh, if the consolidated tax levy rate still exceeds
+21   these limitations, the certified property tax levy rates authorized
+22   for fire protection districts under RCW 52.16.130, regional fire
+23   protection service authorities under RCW 52.26.140(1)(a), library
+24   districts, metropolitan park districts created before January 1,
+25   2002, under their first 50 cents per $1,000 of assessed valuation
+26   levy, and public hospital districts under their first 50 cents per
+27   $1,000 of assessed valuation levy, must be reduced on a pro rata
+28   basis or eliminated.
+
+29                                   Part V
+30              Exceeding Regular Property Tax Levy Limitations
+
+
+31       Sec. 501. RCW 84.55.050 and 2024 c 114 s 1 are each amended to
+32   read as follows:
+33       (1) Subject to any otherwise applicable statutory dollar rate
+34   limitations, regular property taxes may be levied by or for a taxing
+35   district in an amount exceeding the limitations provided for in this
+36   chapter if such levy is authorized by a proposition approved by a
+37   majority of the voters of the taxing district voting on the
+38   proposition at a general election held within the district or at a
+                                     p. 22                    ESHB 2442.PL
+ 1   special election within the taxing district called by the district
+ 2   for the purpose of submitting such proposition to the voters. Any
+ 3   election held pursuant to this section shall be held not more than 12
+ 4   months prior to the date on which the proposed levy, or the first of
+ 5   the two consecutive levies, is to be made, except as provided in
+ 6   subsection (2) of this section. The ballot of the proposition shall
+ 7   state the dollar rate or rates, proposed for each year, up to two
+ 8   consecutive years, and shall clearly state the conditions, if any,
+ 9   which are applicable under subsection (4) of this section.
+10       (2) Subject to statutory dollar limitations, a proposition placed
+11   before the voters under this section may authorize annual increases
+12   in levies for multiple consecutive years, up to ((six)) 10
+13   consecutive years, during which period each year's authorized maximum
+14   legal levy shall be used as the base upon which an increased levy
+15   limit for the succeeding year is computed, but the ballot proposition
+16   must state the dollar rate proposed only for the first year of the
+17   consecutive years and must state the limit factor, or a specified
+18   index to be used for determining a limit factor, such as the consumer
+19   price index, which need not be the same for all years, by which the
+20   regular tax levy for the district may be increased in each of the
+21   subsequent consecutive years. Elections for this purpose must be held
+22   at a primary or general election. The title of each ballot measure
+23   must state the limited purposes for which the proposed annual
+24   increases during the specified period of up to ((six)) 10 consecutive
+25   years shall be used.
+26       (3) After a levy authorized pursuant to this section is made, the
+27   dollar amount of such levy may not be used for the purpose of
+28   computing the limitations for subsequent levies provided for in this
+29   chapter, unless the ballot proposition expressly states that the levy
+30   made under this section will be used for this purpose.
+31       (4) If expressly stated, a proposition placed before the voters
+32   under subsection (1) or (2) of this section may:
+33       (a) Use the dollar amount of ((a)) the final levy under
+34   subsection (1) of this section, or the dollar amount of the final
+35   levy under subsection (2) of this section, for the purpose of
+36   computing the limitations for subsequent levies provided for in this
+37   chapter;
+38       (b) Limit the period for which the increased levy is to be made
+39   under (a) of this subsection;
+
+
+                                     p. 23                    ESHB 2442.PL
+ 1       (c) Limit the purpose for which the increased levy is to be made
+ 2   under (a) of this subsection, but if the limited purpose includes
+ 3   making redemption payments on bonds;
+ 4       (i) For the county in which the state capitol is located, the
+ 5   period for which the increased levies are made may not exceed 25
+ 6   years; and
+ 7       (ii) For districts other than a district under (c)(i) of this
+ 8   subsection, the period for which the increased levies are made may
+ 9   not exceed nine years;
+10       (d) Set the levy or levies at a rate less than the maximum rate
+11   allowed for the district;
+12       (e) Provide that the exemption authorized by RCW 84.36.381 will
+13   apply to the levy of any additional regular property taxes authorized
+14   by voters; or
+15       (f) Include any combination of the conditions in this subsection.
+16       (5) Except as otherwise expressly stated in an approved ballot
+17   measure under this section, subsequent levies shall be computed as
+18   if:
+19       (a) The proposition under this section had not been approved; and
+20       (b) The taxing district had made levies at the maximum rates
+21   which would otherwise have been allowed under this chapter during the
+22   years levies were made under the proposition.
+
+
+23                                  Part VI
+24                         Sales Tax on Rental Cars
+
+
+25       Sec. 601. RCW 82.14.049 and 2020 c 139 s 23 are each amended to
+26   read as follows:
+27       (1) The legislative authority of any county may impose a sales
+28   and use tax, in addition to the tax authorized by RCW 82.14.030, upon
+29   retail car rentals within the county that are taxable by the state
+30   under chapters 82.08 and 82.12 RCW. The rate of tax is one percent of
+31   the selling price in the case of a sales tax or rental value of the
+32   vehicle in the case of a use tax. Proceeds of the tax may not be used
+33   to subsidize any professional sports team and must be used solely for
+34   the following purposes:
+35       (a) Acquiring, constructing, maintaining, or operating public
+36   sports stadium facilities;
+37       (b) Engineering, planning, financial, legal, or professional
+38   services incidental to public sports stadium facilities;
+                                     p. 24                    ESHB 2442.PL
+1        (c) Youth or amateur sport activities or facilities; ((or))
+2        (d) Debt or refinancing debt issued for the purposes of
+3    subsection (1) of this section; or
+4        (e) Criminal justice purposes as defined in RCW 82.14.345.
+5        (2) In a county of ((one million)) 1,000,000 or more, at least
+6    ((seventy-five)) 75 percent of the tax imposed under this section
+7    must be used to retire the debt on the stadium under RCW
+8    67.28.180(2)(b)(i)(B), until that debt is fully retired.
+
+
+ 9                                 Part VII
+10             Flood Control Zone Districts Recovery Assistance
+
+11       Sec. 701.   RCW 86.15.080 and 2010 c 46 s 2 are each amended to
+12   read as follows:
+13       A zone or participating zone may:
+14       (1) Exercise all the powers and immunities vested in a county for
+15   flood water or stormwater control purposes under the provisions of
+16   chapters 86.12, 86.13, 36.89, and 36.94 RCW: PROVIDED, That in
+17   exercising such powers, all actions shall be taken in the name of the
+18   zone and title to all property or property rights shall vest in the
+19   zone;
+20       (2) Plan, construct, acquire, repair, maintain, and operate all
+21   necessary equipment, facilities, improvements, and works to control,
+22   conserve, and remove flood waters and stormwaters and to otherwise
+23   carry out the purposes of this chapter including, but not limited to,
+24   protection of the quality of water sources;
+25       (3) Take action necessary to protect life and property within the
+26   district from flood water damage, including in the context of an
+27   emergency, as defined in RCW 38.52.010, using covered volunteer
+28   emergency workers, as defined in RCW 38.52.010 and 38.52.180(5)(a),
+29   subject to and in accordance with the terms of RCW 38.52.180;
+30       (4) Control, conserve, retain, reclaim, and remove flood waters
+31   and stormwaters, including waters of lakes and ponds within the
+32   district, and dispose of the same for beneficial or useful purposes
+33   under such terms and conditions as the board may deem appropriate,
+34   subject to the acquisition by the board of appropriate water rights
+35   in accordance with the statutes;
+36       (5) Acquire necessary property, property rights, facilities, and
+37   equipment necessary to the purposes of the zone by purchase, gift, or
+
+
+                                     p. 25                    ESHB 2442.PL
+ 1   condemnation: PROVIDED, That property of municipal corporations may
+ 2   not be acquired without the consent of such municipal corporation;
+ 3       (6) Sue and be sued in the name of the zone;
+ 4       (7) Acquire or reclaim lands when incidental to the purposes of
+ 5   the zone and dispose of such lands as are surplus to the needs of the
+ 6   zone in the manner provided for the disposal of county property in
+ 7   chapter 36.34 RCW;
+ 8       (8) Cooperate with or join with the state of Washington, United
+ 9   States,   another  state,   any  agency,   corporation  or   political
+10   subdivision of the United States or any state, Canada, or any private
+11   corporation or individual for the purposes of this chapter;
+12       (9) Accept funds or property by loan, grant, gift or otherwise
+13   from the United States, the state of Washington, or any other public
+14   or private source;
+15       (10) Remove debris, logs, or other material which may impede the
+16   orderly flow of waters in streams or water courses: PROVIDED, That
+17   such material shall become property of the zone and may be sold for
+18   the purpose of recovering the cost of removal: PROVIDED FURTHER, That
+19   valuable material or minerals removed from public lands shall remain
+20   the property of the state;
+21       (11) Provide grant funds to political subdivisions of the state
+22   that are located within the boundaries of the zone, so long as the
+23   use of the grant funds is within the purposes authorized under this
+24   chapter;
+25       (12) Expend funds, or transfer funds to the county legislative
+26   authority in which the zone is located, for the purpose of providing
+27   county-administered flood recovery assistance to households and
+28   businesses damaged by a flood event occurring within the zone that is
+29   the subject of an emergency proclamation issued by the governor under
+30   RCW 43.06.010.
+
+
+31                                 Part VIII
+32                 County Public Health Clinic Property Tax
+
+
+33       NEW SECTION. Sec. 801. A new section is added to chapter 84.52
+34   RCW to read as follows:
+35       (1) A county, at the time of levying general taxes, may levy an
+36   additional regular property tax, not to exceed five cents per $1,000
+37   of assessed value in any one year, in accordance with this section.
+
+
+                                     p. 26                    ESHB 2442.PL
+ 1       (2) The legislative authority of a county imposing this levy must
+ 2   either:
+ 3       (a) Impose the levy as a separate levy, independent of the
+ 4   regular property tax levy authorized in RCW 84.52.043(1)(b); or
+ 5       (b) Impose the levy as part of its levy authorized in RCW
+ 6   84.52.043(1)(b).
+ 7       (3) Any tax imposed under this section may only be used for the
+ 8   operation, maintenance, and capital expenses of public health
+ 9   clinics.
+10       (4) The limitations in RCW 84.52.043 do not apply to the tax levy
+11   authorized in this section and the limitation in RCW 84.55.010 does
+12   not apply to the first year the tax levy is imposed under this
+13   section.
+14       (5) For the purposes of this section, "public health clinic"
+15   means a fixed or mobile, publicly operated site for the provision of
+16   low-barrier public health and other related services including, but
+17   not limited to: Primary, dental, and reproductive health care;
+18   treatment,   control,  and   prevention   of  communicable   diseases,
+19   substance use disorder, and other health conditions; maternal,
+20   infant, child, and family health and nutrition; behavioral health
+21   care; assistance with health plan enrollment; and access and
+22   referrals to other community services.
+
+
+23                                  Part IX
+24     Veterans' Assistance Property Tax Levy and the Mental Health and
+25          Developmental Disabilities Assistance Property Tax Levy
+
+
+26       Sec. 901. RCW 71.20.110 and 2013 c 123 s 1 are each amended to
+27   read as follows:
+28       (1)(a) In order to provide additional funds for the coordination
+29   and provision of community services for persons with developmental
+30   disabilities or mental health services, the county governing
+31   authority of each county in the state must ((budget and)) levy
+32   annually a tax in a sum equal to ((the amount which would be raised
+33   by a levy of two and one-half)) 2.5 cents per ((thousand dollars))
+34   $1,000 of assessed value against the taxable property in the
+35   county((, or as such amount is modified pursuant to subsection (2) or
+36   (3) of this section,)) to be used for such purposes. ((However, all))
+37       (b) The levy required in this section must be:
+
+
+                                     p. 27                    ESHB 2442.PL
+ 1       (i) Imposed by the legislative authority of the county as a
+ 2   separate levy, independent of the regular property tax levy
+ 3   authorized in RCW 84.52.043(1)(b); or
+ 4       (ii) Imposed by the legislative authority of the county as part
+ 5   of its levy authorized in RCW 84.52.043(1)(b).
+ 6       (2) All or part of the funds collected from the tax levied for
+ 7   the purposes of this section may be transferred to the state of
+ 8   Washington, department of social and health services, for the purpose
+ 9   of obtaining federal matching funds to provide and coordinate
+10   community services for persons with developmental disabilities and
+11   mental health services. In the event a county elects to transfer such
+12   tax funds to the state for this purpose, the state must grant these
+13   moneys and the additional funds received as matching funds to
+14   service-providing community agencies or community boards in the
+15   county which has made such transfer, pursuant to the plan approved by
+16   the county, as provided by chapters 71.24 and 71.28 RCW and by
+17   chapter 71A.14 RCW, all as now or hereafter amended.
+18       (((2) The amount of a levy allocated to the purposes specified in
+19   this section may be reduced in the same proportion as the regular
+20   property tax levy of the county is reduced by chapter 84.55 RCW.
+21       (3)(a) The amount of a levy allocated to the purposes specified
+22   in this section may be modified from the amount required by
+23   subsection (1) of this section as follows:
+24       (i) If the certified levy is reduced from the preceding year's
+25   certified levy, the amount of the levy allocated to the purposes
+26   specified in this section may be reduced by no more than the same
+27   percentage as the certified levy is reduced from the preceding year's
+28   certified levy;
+29       (ii) If the certified levy is increased from the preceding year's
+30   certified levy, the amount of the levy allocated to the purposes
+31   specified in this section must be increased from the amount of the
+32   levy so allocated in the previous year by at least the same
+33   percentage as the certified levy is increased from the preceding
+34   year's certified levy. However, the amount of the levy allocated to
+35   the purposes specified in this section does not have to be increased
+36   under this subsection (3)(a)(ii) for the portion of a certified levy
+37   increase resulting from a voter-approved increase under RCW 84.55.050
+38   that is dedicated to a specific purpose; or
+39       (iii) If the certified levy is unchanged from the preceding
+40   year's certified levy, the amount of the levy allocated to the
+                                     p. 28                    ESHB 2442.PL
+ 1   purposes specified in this section must be equal to or greater than
+ 2   the amount of the levy so allocated in the preceding year.
+ 3       (b) For purposes of this subsection, "certified levy" means the
+ 4   property tax levy for general county purposes certified to the county
+ 5   assessor as required by RCW 84.52.070, excluding any amounts
+ 6   certified under chapters 84.69 and 84.68 RCW.
+ 7       (4) Subsections (2) and (3) of this section do not preclude a
+ 8   county from increasing the levy amount in subsection (1) of this
+ 9   section to an amount that is greater than the change in the regular
+10   county levy.))
+
+
+11       Sec. 902. RCW 73.08.080 and 2019 c 432 s 35 are each amended to
+12   read as follows:
+13       (1)(a) The legislative authority in each county must levy, in
+14   addition to the taxes now levied by law, a tax in a sum equal to the
+15   amount that would be raised by not less than ((one and one-eighth))
+16   1.125 cents per ((thousand dollars)) $1,000 of assessed value, and
+17   not greater than ((twenty-seven)) 27 cents per ((thousand dollars))
+18   $1,000 of assessed value against the taxable property of their
+19   respective counties, to be levied and collected as now prescribed by
+20   law for the assessment and collection of taxes, for the purpose of
+21   creating a veterans' assistance fund.
+22       (b) The levy required in this section must be:
+23       (i) Imposed by the legislative authority of the county as a
+24   separate levy, independent of the regular property tax levy
+25   authorized in RCW 84.52.043(1)(b); or
+26       (ii) Imposed by the legislative authority of the county as part
+27   of its levy authorized in RCW 84.52.043(1)(b).
+28       (2) Expenditures from the veterans' assistance fund, and interest
+29   earned on balances from the fund, may be used only for:
+30       (a)   The  veterans'   assistance  programs   authorized  by   RCW
+31   73.08.010;
+32       (b) The lawful disposition of the remains as defined in RCW
+33   68.04.020 of a deceased indigent veteran or deceased family member of
+34   an indigent veteran as authorized by RCW 73.08.070; and
+35       (c) The direct and indirect costs incurred in the administration
+36   of the fund as authorized by subsection (((2))) (3) of this section.
+37       (((2))) (3) If the funds on deposit in the veterans' assistance
+38   fund, less outstanding warrants, on the first Tuesday in September
+39   exceeds ((the lesser of)) the expected yield of ((one and one-
+                                     p. 29                    ESHB 2442.PL
+ 1   eighth)) 1.125 cents per ((thousand dollars)) $1,000 of assessed
+ 2   value against the taxable property of the county ((or the expected
+ 3   yield of a levy determined as set forth in subsection (5) of this
+ 4   section)), the county legislative authority may levy a lesser amount
+ 5   than would otherwise be required under subsection (1) ((or (5))) of
+ 6   this section.
+ 7       (((3))) (4) The direct and indirect costs incurred in the
+ 8   administration of the veterans' assistance fund must be computed by
+ 9   the county auditor, or the chief financial officer in a county
+10   operating under a charter, not less than annually. Following the
+11   computation of these direct and indirect costs, an amount equal to
+12   these costs may then be transferred from the veterans' assistance
+13   fund to the county current expense fund.
+14       (((4) The amount of a levy allocated to the purposes specified in
+15   this section may be reduced in the same proportion as the regular
+16   property tax levy of the county is reduced by chapter 84.55 RCW.
+17       (5)(a) The amount of a levy allocated to the purposes specified
+18   in this section may be modified from the amount required by
+19   subsection (1) of this section as follows:
+20       (i) If the certified levy is reduced from the preceding year's
+21   certified levy, the amount of the levy allocated to the purposes
+22   specified in this section may be reduced by no more than the same
+23   percentage as the certified levy is reduced from the preceding year's
+24   certified levy;
+25       (ii) If the certified levy is increased from the preceding year's
+26   certified levy, the amount of the levy allocated to the purposes
+27   specified in this section may not be less than the base allocation
+28   increased by the same percentage as the certified levy is increased
+29   from the preceding year's certified levy. However, the amount of the
+30   levy allocated to the purposes specified in this section does not
+31   have to be increased under this subsection (5)(a)(ii) for the portion
+32   of a certified levy increase resulting from a voter-approved increase
+33   under RCW 84.55.050 that is dedicated to a specific purpose; or
+34       (iii) If the certified levy is unchanged from the preceding
+35   year's certified levy, the amount of the levy allocated to the
+36   purposes specified in this section must be equal to or greater than
+37   the base allocation.
+38       (b) For purposes of this subsection, the following definitions
+39   apply:
+
+
+                                     p. 30                    ESHB 2442.PL
+ 1       (i) "Base allocation" means the most recent allocation that was
+ 2   not reduced under subsection (2) of this section.
+ 3       (ii) "Certified levy" means the property tax levy for general
+ 4   county purposes certified to the county assessor as required by RCW
+ 5   84.52.070, excluding any amounts certified under chapters 84.69 and
+ 6   84.68 RCW.
+ 7       (6) Subsections (2), (4), and (5) of this section do not preclude
+ 8   a county from increasing the levy amount in subsection (1) of this
+ 9   section to an amount that is greater than the change in the regular
+10   county levy.))
+
+
+11       Sec. 903. RCW 84.55.005 and 2014 c 97 s 316 are each amended to
+12   read as follows:
+13       The definitions in this section apply throughout this chapter
+14   unless the context clearly requires otherwise.
+15       (1) "Inflation" means the percentage change in the implicit price
+16   deflator for personal consumption expenditures for the United States
+17   as published for the most recent twelve-month period by the bureau of
+18   economic analysis of the federal department of commerce by September
+19   25th of the year before the taxes are payable;
+20       (2) "Limit factor" means:
+21       (a) For taxing districts with a population of less than ten
+22   thousand in the calendar year prior to the assessment year, one
+23   hundred one percent;
+24       (b) For taxing districts for which a limit factor is authorized
+25   under RCW 84.55.0101, the lesser of the limit factor authorized under
+26   that section or one hundred one percent;
+27       (c)    For    the   veterans'    assistance   levy   under    RCW
+28   73.08.080(1)(b)(i), the lesser of 101 percent or 100 percent plus
+29   inflation, except in a county with a population less than 10,000,
+30   then 101 percent;
+31       (d) For the developmental disabilities and mental health services
+32   levy under RCW 71.20.110(1)(b)(i), the lesser of 101 percent or 100
+33   percent plus inflation, except in a county with a population less
+34   than 10,000, then 101 percent;
+35       (e) For the county public health clinic property tax levy under
+36   section 801(2)(a) of this act, the lesser of 101 percent or 100
+37   percent plus inflation, except in a county with a population less
+38   than 10,000, then 101 percent; and
+
+
+                                     p. 31                    ESHB 2442.PL
+1        (f) For all other districts, the lesser of one hundred one
+2    percent or one hundred percent plus inflation; and
+3        (3) "Regular property taxes" has the meaning given it in RCW
+4    84.04.140.
+
+
+5        NEW SECTION. Sec. 904. Sections 401 through 404 and 901 through
+6    903 of this act apply to taxes levied for collection in 2027 and
+7    thereafter.
+
+8                                    Part X
+9                          Fire Protection Districts
+
+10       Sec. 1001. RCW 52.02.160 and 2017 c 328 s 1 are each amended to
+11   read as follows:
+12       (1) As an alternative to the petition method of formation for
+13   fire protection districts provided in this chapter, the legislative
+14   authority of a city or town may by resolution, subject to the
+15   approval of the voters, establish a fire protection district with
+16   boundaries that are the same as the corporate boundaries of the city
+17   or town for the provision of fire prevention services, fire
+18   suppression services, and emergency medical services, and for the
+19   protection of life and property within the city or town.
+20       (a) Any resolution adopted by a city or town under this section
+21   to establish a fire protection district must, at a minimum:
+22       (i) Contain a financing plan for the fire protection district. As
+23   part of the financing plan, the city or town may propose the
+24   imposition of revenue sources authorized by this title for fire
+25   protection districts, such as property taxes, as provided in chapter
+26   52.16 RCW, or benefit charges, as provided in chapter 52.18 RCW; and
+27       (ii) Set a date for a public hearing on the resolution.
+28       (b) The financing plan in the resolution adopted by the city or
+29   town must contain the following information regarding property taxes
+30   that will be imposed by the fire protection district and city or town
+31   subsequent to the formation of the district:
+32       (i) The dollar amount the fire protection district will levy in
+33   the first year in which the fire protection district imposes any of
+34   the regular property taxes in RCW 52.16.130, 52.16.140, or 52.16.160;
+35       (ii) ((The)) If the fire protection district is formed prior to
+36   July 1, 2026, the city's or town's highest lawful levy for the
+37   purposes of RCW 84.55.092, reduced by the fire protection district's
+                                     p. 32                    ESHB 2442.PL
+ 1   levy amount from (b)(i) of this subsection. This reduced highest
+ 2   lawful levy becomes the city's or town's highest lawful levy since
+ 3   1986 for subsequent levy limit calculations under chapter 84.55 RCW;
+ 4   and
+ 5       (iii) The estimated aggregate net dollar amount impact on
+ 6   property owners within the city or town based on the ((changes
+ 7   described in (b)(i) and (ii) of this subsection (1))) levy rate
+ 8   including, if the fire protection district is formed prior to July 1,
+ 9   2026, the city's or town's levy reduction described in (b)(ii) of
+10   this subsection.
+11       (c) If a city or town proposes the initial imposition of a
+12   benefit charge as a revenue source for the fire protection district
+13   under (a) of this subsection, the resolution adopted by the city or
+14   town must comply with the requirements of RCW 52.18.030.
+15       (d) Notice of public hearing on a resolution adopted by a city or
+16   town must be published on a city website or local newspaper for three
+17   consecutive weeks ((in a newspaper of general circulation in the city
+18   or town)), and must be posted for at least fifteen days prior to the
+19   date of the hearing in three public places within the boundaries of
+20   the proposed fire protection district. Additional notice of the
+21   hearing may be given by mail, or in any manner the city legislative
+22   authorities deem necessary to notify affected persons. All notices
+23   must contain the time, date, and place of the public hearing.
+24       (e) Prior to adopting a resolution under this section, the
+25   legislative authority of the city or town must:
+26       (i) Include labor organizations representing employees who
+27   perform fire prevention, fire suppression, and emergency medical
+28   services within the city or town, to consult on development of the
+29   proposed financing plan, governance structure, and anticipated
+30   impacts on service delivery and employment conditions; and
+31       (ii) If the city or town is located within the boundaries of a
+32   public hospital district, the city or town must consult with the
+33   public hospital district on any impact of the financing plan on the
+34   public hospital district property tax levy.
+35       (2)(a) A resolution adopted under this section is not effective
+36   unless approved by the voters of the city or town at a general
+37   election. The resolution must be approved:
+38       (i) By a simple majority of the voters of the city or town; or
+39       (ii) If the resolution proposes the initial imposition of a
+40   benefit charge, by sixty percent of the voters of the city or town.
+                                     p. 33                    ESHB 2442.PL
+ 1       (b) An election to approve or reject a resolution forming a fire
+ 2   protection district, including the proposed financial plan and any
+ 3   imposition of revenue sources for the fire protection district, must
+ 4   be conducted by the election officials of the county or counties in
+ 5   which the proposed district is located in accordance with the general
+ 6   election laws of the state. If a resolution forming a fire protection
+ 7   district provides that the fire protection district will be governed
+ 8   by a board of independently elected fire commissioners, as permitted
+ 9   under RCW 52.14.140, then the initial independently elected fire
+10   commissioners must be elected at the same election where the
+11   resolution is submitted to the voters authorizing the creation of the
+12   fire protection district. The election must be held at the next
+13   general election date, according to RCW 29A.04.321 and 29A.04.330,
+14   occurring after the date of the public hearing on the resolution
+15   adopted by the city or town legislative authority. The ballot title
+16   must include the information regarding property taxes that is
+17   required to be in the financing plan of the resolution under
+18   subsection (1)(b) of this section.
+19       (c) If a ballot proposition on the resolution is approved by
+20   voters, as provided in (a) of this subsection, the county legislative
+21   authority shall by resolution declare the fire protection district
+22   organized under the name designated in the ballot proposition.
+23       (d) Nothing contained in this chapter may be construed to alter a
+24   municipal airport fire department or affect any powers authorized
+25   under RCW 14.08.120(((2))). If a question arises as to whether this
+26   chapter modifies the affairs of municipal airports in any way, the
+27   answer is no.
+28       (3) ((A)) (a) For any fire protection district formed under this
+29   section prior to July 1, 2026, a city or town must reduce its general
+30   fund regular property tax levy by the total combined levy of the fire
+31   protection district as proposed by the district in accordance with
+32   subsection (1)(b)(i) of this section. The reduced levy amount of the
+33   city or town must occur in the first year in which the fire
+34   protection district imposes any of the property taxes in RCW
+35   52.16.130, 52.16.140, or 52.16.160 and must be specified in the
+36   financing plan and ballot proposition as provided in this section. If
+37   the fire protection district does not impose all three levies under
+38   RCW 52.16.130, 52.16.140, and 52.16.160 when it begins operations,
+39   the city must further reduce its general fund regular property tax
+40   levy if the district initially imposes any of the levies in
+                                     p. 34                    ESHB 2442.PL
+1    subsequent years, by the amount of such levy or levies initially
+2    imposed in a subsequent year.
+3        (b) For any fire protection district formed under this section on
+4    or after July 1, 2026, for the city or town participating in the fire
+5    protection district, with the exception of cities over 500,000 in
+6    population as of 2025, the regular levies of the city or town may not
+7    exceed the applicable rates provided in RCW 27.12.390, 52.04.081, and
+8    84.52.043(1) less the aggregate rates of any regular levies made by
+9    the district under RCW 52.16.130, 52.16.140, or 52.16.160.
+
+
+10       Sec. 1002. RCW 52.02.180 and 2017 c 328 s 5 are each amended to
+11   read as follows:
+12       (1) Except as provided otherwise in the resolution adopted by the
+13   legislative authority of a city or town establishing a fire
+14   protection district under RCW 52.02.160, all powers, duties, and
+15   functions of the city or town fire department pertaining to fire
+16   protection and emergency services of the city or town are transferred
+17   to the fire protection district on its creation date.
+18       (2)(a) The city or town fire department must transfer or deliver
+19   to the fire protection district:
+20       (i) All reports, documents, surveys, books, records, files,
+21   papers, or written material in the possession of the city or town
+22   fire department pertaining to fire protection and emergency services
+23   powers, functions, and duties;
+24       (ii) All real property and personal property including cabinets,
+25   furniture, office equipment, motor vehicles, and other tangible
+26   property employed by the city or town fire department in carrying out
+27   the fire protection and emergency services powers, functions, and
+28   duties; and
+29       (iii) All funds, credits, or other assets held by the city or
+30   town fire department in connection with fire protection and emergency
+31   services powers, functions, and duties.
+32       (b) Any appropriations made to the city or town fire department
+33   for carrying out the fire protection and emergency services powers,
+34   functions, and duties of the city or town must be transferred and
+35   credited to the fire protection district.
+36       (c) Whenever any question arises as to the transfer of any
+37   personnel,   funds,   books,   documents,  records,   papers,  files,
+38   equipment, or other tangible property used or held in the exercise of
+39   the powers and the performance of the duties and functions
+                                     p. 35                    ESHB 2442.PL
+ 1   transferred to the fire protection district, the legislative
+ 2   authority of the city or town must make a determination as to the
+ 3   proper allocation.
+ 4       (3) All rules and all pending business before the city or town
+ 5   fire department pertaining to the fire protection and emergency
+ 6   services powers, functions, and duties transferred must be continued
+ 7   and acted upon by the fire protection district, and all existing
+ 8   contracts and obligations remain in full force and must be performed
+ 9   by the fire protection district.
+10       (4) The transfer of powers, duties, functions, and personnel of
+11   the city or town fire department do not affect the validity of any
+12   act performed before creation of the fire protection district.
+13       (5) If apportionments of budgeted funds are required because of
+14   the transfers, the treasurer for the city or town fire department
+15   must certify the apportionments.
+16       (6)(a) Subject to (c) of this subsection, all employees of the
+17   city or town fire department are transferred to the fire protection
+18   district on its creation date. Upon transfer, unless an agreement for
+19   different terms of transfer is reached between the collective
+20   bargaining representatives of the transferring employees and the fire
+21   protection district, an employee is entitled to the employee rights,
+22   benefits, and privileges to which he or she would have been entitled
+23   as an employee of the city or town fire department, including rights
+24   to:
+25       (i) Compensation at least equal to the level at the time of
+26   transfer;
+27       (ii) Retirement, vacation, sick leave, and any other accrued
+28   benefit;
+29       (iii) Promotion and service time accrual; and
+30       (iv) The length or terms of probationary periods, including no
+31   requirement for an additional probationary period if one had been
+32   completed before the transfer date.
+33       (b) If a city or town provides for civil service in its fire
+34   department,   the  collective   bargaining   representatives of   the
+35   transferring employees and the fire protection district must
+36   negotiate regarding the establishment of a civil service system
+37   within the fire protection district.
+38       (c) Nothing contained in this section may be construed to alter
+39   any existing collective bargaining unit or the provisions of any
+40   existing collective bargaining agreement until the agreement has
+                                     p. 36                    ESHB 2442.PL
+1    expired or until the bargaining unit has been modified as provided by
+2    law.
+3         (7) A fire protection district formed under RCW 52.02.160 may
+4    contract with the city or town for services including but not limited
+5    to administrative services such as information technology, financial,
+6    and human resources functions.
+
+ 7       Sec. 1003. RCW 84.55.092 and 2017 3rd sp.s. c 13 s 309 are each
+ 8   amended to read as follows:
+ 9       (1) The regular property tax levy for each taxing district other
+10   than the state's levies may be set at the amount which would be
+11   allowed otherwise under this chapter if the regular property tax levy
+12   for the district for taxes due in prior years beginning with 1986 had
+13   been set at the full amount allowed under this chapter including any
+14   levy authorized under RCW 52.16.160 or 52.26.140(1)(c) that would
+15   have been imposed but for the limitation in RCW 52.18.065 or
+16   52.26.240, applicable upon imposition of the benefit charge under
+17   chapter 52.18 or 52.26 RCW.
+18       (2) The purpose of subsection (1) of this section is to remove
+19   the incentive for a taxing district to maintain its tax levy at the
+20   maximum level permitted under this chapter, and to protect the future
+21   levy capacity of a taxing district that reduces its tax levy below
+22   the level that it otherwise could impose under this chapter, by
+23   removing the adverse consequences to future levy capacities resulting
+24   from such levy reductions.
+25       (((3) Subsection (1) of this section does not apply to any
+26   portion of a city or town's regular property tax levy that has been
+27   reduced as part of the formation of a fire protection district under
+28   RCW 52.02.160.))
+
+
+29       Sec. 1004. RCW 84.52.125 and 2017 c 196 s 13 are each amended to
+30   read as follows:
+31       A fire protection district or regional fire protection service
+32   authority created under Title 52 RCW may protect the district's or
+33   authority's tax levy from prorationing under RCW 84.52.010(3)(b) by
+34   imposing up to a total of twenty-five cents per thousand dollars of
+35   assessed value of the tax levies authorized under RCW 52.16.140 and
+36   52.16.160, or 52.26.140(1) (b) and (c) outside of the five dollars
+37   and ninety cents per thousand dollars of assessed valuation
+
+
+                                     p. 37                    ESHB 2442.PL
+ 1   limitation established under RCW 84.52.043(2), if those         taxes
+ 2   otherwise would be prorated under RCW 84.52.010(3)(b)(vi).
+
+
+ 3       Sec. 1005. RCW 52.14.140 and 2017 c 328 s 6 are each amended to
+ 4   read as follows:
+ 5       (1) ((The)) Except as otherwise provided under this section, the
+ 6   members of the legislative authority of a city or town shall serve ex
+ 7   officio, by virtue of their office, as the fire commissioners of a
+ 8   fire protection district created under RCW 52.02.160.
+ 9       (2) The legislative authority of a city or town may, within the
+10   initial resolution establishing the district's formation, relinquish
+11   governance authority of a fire protection district created under
+12   chapter 328, Laws of 2017 to an independently elected board of
+13   commissioners to be elected in accordance with RCW 52.14.060.
+14       (3)(a) The legislative authority of a city or town may, by a
+15   majority vote of its members in an open public meeting, relinquish
+16   governance authority of a fire protection district created under
+17   chapter 328, Laws of 2017 to an appointed board of three fire
+18   commissioners   at   any   time  after   formation.  Each   appointed
+19   commissioner serves until successors are elected at the next
+20   qualified election.
+21       At the next qualified election, the person who receives the
+22   greatest number of votes for each commissioner position is elected to
+23   that position. The terms of office for the initial elected fire
+24   commissioners are staggered as follows:
+25       (i) The person who is elected receiving the greatest number of
+26   votes is elected to a six-year term of office if the election is held
+27   in an odd-numbered year, or a five-year term of office if the
+28   election is held in an even-numbered year;
+29       (ii) The person who is elected receiving the next greatest number
+30   of votes is elected to a four-year term of office if the election is
+31   held in an odd-numbered year, or a three-year term of office if the
+32   election is held in an even-numbered year; and
+33       (iii) The other person who is elected is elected to a two-year
+34   term of office if the election is held in an odd-numbered year, or a
+35   one-year term of office if the election is held in an even-numbered
+36   year. The term of office for each subsequent commissioner is six
+37   years.
+38       (b) If the legislative authority of a city or town relinquishes
+39   governance authority of a fire protection district after formation
+                                     p. 38                    ESHB 2442.PL
+ 1   under this section, and that fire protection district maintains a
+ 2   fire department consisting wholly of personnel employed on a full-
+ 3   time, fully paid basis, that district shall have five fire
+ 4   commissioners. The terms of office for the initial elected fire
+ 5   commissioners are staggered as follows:
+ 6       (i) The two people elected receiving the two greatest number of
+ 7   votes are elected to six-year terms of office if the election is held
+ 8   in an odd-numbered year, or five-year terms of office if the election
+ 9   is held in an even-numbered year;
+10       (ii) The two people who are elected receiving the next two
+11   greatest number of votes are elected to four-year terms of office if
+12   the election is held in an odd-numbered year, or three-year terms of
+13   office if the election is held in an even-numbered year; and
+14       (iii) The other person who is elected is elected to a two-year
+15   term of office if the election is held in an odd-numbered year, or a
+16   one-year term of office if the election is held in an even-numbered
+17   year. The term of office for each subsequent commissioner is six
+18   years.
+19       (c) If the legislative authority of a city or town relinquishes
+20   governance authority of a fire protection district after formation
+21   under this section, and that fire protection district has an annual
+22   budget of ten million dollars or more, that district must have seven
+23   fire commissioners. The terms of office for the initial elected fire
+24   commissioners are staggered as follows:
+25       (i) The three people who are elected receiving the three greatest
+26   number of votes are elected to six-year terms of office if the
+27   election is held in an odd-numbered year, or five-year terms of
+28   office if the election is held in an even-numbered year;
+29       (ii) The two people who are elected receiving the next two
+30   greatest number of votes are elected to four-year terms of office if
+31   the election is held in an odd-numbered year, or three-year terms of
+32   office if the election is held in an even-numbered year; and
+33       (iii) The other two people who are elected are elected to two-
+34   year terms of office if the election is held in an odd-numbered year,
+35   or one-year terms of office if the election is held in an even-
+36   numbered year. The term of office for each subsequent commissioner is
+37   six years.
+38       (4) Except for a city with a population exceeding 500,000, a city
+39   or town creating a fire protection district under RCW 52.02.160 after
+40   the effective date of this section must provide for the election of
+                                     p. 39                    ESHB 2442.PL
+1    an independently elected board of commissioners within two years of
+2    the creation of the fire protection district.
+
+
+3                                       Part XI
+4                                    Miscellaneous
+
+
+ 5       NEW SECTION. Sec. 1101.       Sections 201 and 202 of this act take
+ 6   effect January 1, 2027.
+
+7        NEW SECTION.   Sec. 1102.    Section 401 of this act expires January
+8    1, 2027.
+
+ 9       NEW SECTION.   Sec. 1103.      Section 402 of this act takes effect
+10   January 1, 2027.
+
+
+11       NEW SECTION.   Sec. 1104.    Section 403 of this act expires January
+12   1, 2027.
+
+
+13       NEW SECTION.   Sec. 1105.      Section 404 of this act takes effect
+14   January 1, 2027.
+
+
+15       NEW SECTION. Sec. 1106. Except for sections 201, 202, 402, and
+16   404 of this act, this act takes effect July 1, 2026.
+
+                                      --- END ---
+
+
+
+
+                                         p. 40                   ESHB 2442.PL
+

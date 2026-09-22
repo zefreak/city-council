@@ -1,0 +1,107 @@
+MEMO
+DATE:       September 15, 2026
+TO:         Clark County Council
+CC:         Oliver Orjiako, Jose Alvarez and Susan Ellinger, Clark County
+            Community Planning
+FROM:       Elizabeth Decker, JET Planning
+SUBJECT:    Residential Code Updates Draft
+
+
+Minor changes made to the September 15 draft since the August 5 code draft are noted here,
+along with rationale. The majority of changes were made for compliance with state legislation,
+and affect narrow areas of County code with little to no discretion to modify locally.
+
+40.100.070 Definitions
+
+   •    Adjust “gross floor area” definition to include specific floor area measurement
+        methodology for retrofits of existing buildings to be used for residential use and for
+        new construction or the retrofit of existing buildings meeting passive house
+        requirements, per RCW 36.70A.810(1)(a)(iii) and 36.70A.812(1)(c). State compliance
+   •    Add “mass timber construction” definition to implement updated state legislation. State
+        compliance
+   •    Add “modular construction” definition to implement updated state legislation. State
+        compliance
+   •    Add “park trailer” definition based on state definition, in order to permit within
+        manufactured home parks. Implement Planning Commission direction
+   •    Add “passive house requirements” definition to implement updated state legislation.
+        State compliance
+   •    Delete definition of “recreation space,” which is no longer needed with proposed
+        revisions to multifamily residential ‘amenity areas’ rather than ‘recreation spaces.’
+        Housekeeping
+   •    Align “recreational vehicle” definition with state definitions, and include examples.
+        Clarify that “tiny houses on wheels” are included in the definition, consistent with
+
+
+
+
+                                                             edecker@jetplanning.net / 503.705.3806
+Residential Code Updates Draft                                                            Page 2 of 3
+September 15, 2026
+
+
+       existing description of “tiny houses” under the “dwelling, single-family detached”
+       definition. Clarification
+
+40.200.060 Exceptions to Height Limitations
+
+   •   Allow retrofits of existing buildings to be used for residential use and for new
+       construction or the retrofit of existing buildings meeting passive house requirements to
+       exceed maximum height by eight inches to allow for additional insulation, per RCW
+       36.70A.810(1)(a)(ii) and 36.70A.812(1)(b). State compliance
+
+40.200.070 Exceptions to Setbacks
+
+   •   Allow retrofits of existing buildings to be used for residential use and for new
+       construction or the retrofit of existing buildings meeting passive house requirements to
+       project into all setbacks by eight inches to allow for additional insulation, per RCW
+       36.70A.810(1)(a)(i) and 36.70A.812(1)(a). State compliance
+
+40.220.020 Residential and Office Residential Zones
+
+   •   Revise allowance for affordable housing to exceed maximum densities by aligning
+       definition of affordable housing with definition proposed in 40.100.070. For internal
+       consistency
+
+40.250.120 MHP Overlay District
+
+   •   Add details about affordable housing that could qualify for a use exception, aligned with
+       definitions and requirements in the R, OR and Commercial zones. For internal
+       consistency, strengthening use exception standards
+
+40.260.140 Manufactured Home Parks
+
+   •   Allow park trailers (newly defined term, also known as “park model RVs”) within
+       MHPs. “Tiny houses on wheels” with tags would also be permitted within MHPs
+       because they are included in the proposed definition of “recreational vehicle” in CCC
+       40.100.070. Implement Planning Commission direction
+
+40.340.010 Parking and Loading Standards
+
+   •   Added allowance for tandem parking for residential development, per RCW
+       36.70A.622(1)(c). State compliance
+   •   Allow grass block pavers to be used for parking area surfacing, similar to permeable
+       pavement already permitted, per RCW 36.70A.622(1)(g). State compliance
+   •   Allow legally existing gravel parking areas to be used for up to six parking spaces for
+       residential development, per RCW 36.70A.622(1)(d). State compliance
+Residential Code Updates Draft                                                         Page 3 of 3
+September 15, 2026
+
+
+   •   Exempt residential new construction or the retrofit of existing buildings meeting
+       passive house requirements, modular construction, and mass timber construction (as
+       defined) from off-street parking minimums, per RCW 36.70A.817. State compliance
+
+Appendix A: Mixed-Use Design Standards
+
+   •   Add exception to façade modulation requirements for specific residential types:
+       affordable housing, construction meeting passive house requirements, residential
+       conversions, modular construction, and mass timber construction, per RCW
+       36.70A.815. State compliance
+
+Appendix F: Highway 99 Overlay
+
+   •   Add exception to additional stepbacks for upper stories for specific residential types:
+       affordable housing, construction meeting passive house requirements, residential
+       conversions, modular construction, and mass timber construction, per RCW
+       36.70A.815. State compliance
+

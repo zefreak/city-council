@@ -1,0 +1,770 @@
+MEMORANDUM
+TO:            County Council
+FROM:          Karl Johnson, Planning Commission Chair
+DATE:          October 1, 2026
+SUBJECT:       PC Recommendation: Comprehensive Plan Amendments and updates
+
+PLANNING COMMISSION RECOMMENDATION
+
+The Planning Commission held a duly advertised public hearing on August 20, 2026 and continued the
+hearing to September 3, 2026 to deliberate on the 2025 Periodic Comprehensive Plan Update. The
+recommendations from the Planning Commission are included in the Decision Table, attached as Exhibit
+1.
+
+INTRODUCTION
+
+Clark County kicked off the 2025 comprehensive plan update consistent with RCW 36. 70A.130 (5)(b) on
+January 19, 2023, with a deadline for completion of June 30, 2025 1. The 20-year update covers the 2025–
+2045-time horizon.
+
+The purpose of this hearing is to review updates to the comprehensive plan and zoning maps, updated
+comprehensive plan text, applicable Title 40 updates, capital facilities plan, and the associated impact
+fees.
+
+BACKGROUND
+
+As part of the update process, the county adopted population and job targets and analyzed potential
+growth alternatives through the SEPA process. The County Council selected a ‘preferred alternative’ on
+April 28, 2026, that was the subject of a final EIS (FEIS). A capital facilities plan and capital facilities
+financial plan have been prepared to show the potential costs of growth over the time horizon.
+
+DOCUMENTS
+Exhibit A:     Issue Paper #8, provides a summary of all the proposed amendments.
+Exhibit 1:     Planning Commission/Council Decision Table
+Exhibit 2:     Policy Change Table
+Exhibit 3:     Compiled Code Changes
+Exhibit 4:     Memo on Allocation and Capacity
+Exhibit 5:     Climate Element Documentation
+
+
+1 In 2024 the WA State legislature, per SB5457, extended the deadline for completion to December 31, 2025   .
+
+                                                                                                 Page 1 of 17
+RECOMMENDATIONS
+
+As the Council considers the updated Comprehensive Plan amendments, the Council needs to recognize
+(1) the requirements of the Growth Management Act, specifically new legislation related to climate
+change, housing, transportation, and capital facilities planning; (2) the analysis as provided in the final
+environmental impact statement; and (3) other policy choices that the Planning Commission wish to
+make, consistent with the law.
+There are a number of factors that need to be considered when amending and updating a Comprehensive
+Plan. These are outlined below.
+
+GMA Goals
+First and foremost, the preferred alternative has to be consistent with the Growth Management Act, both
+its specific provisions, and the more general goals (RCW 36.70A.020). The goals are listed below:
+       (1) Urban growth. Encourage development in urban areas where adequate public facilities and
+services exist or can be provided in an efficient manner.
+       (2) Reduce sprawl. Reduce the inappropriate conversion of undeveloped land into sprawling, low-
+density development.
+       (3) Transportation. Encourage efficient multimodal transportation systems that will reduce
+greenhouse gas emissions and per capita vehicle miles traveled, and are based on regional priorities and
+coordinated with county and city comprehensive plans.
+       (4) Housing. Plan for and accommodate housing affordable to all economic segments of the
+population of this state, promote a variety of residential densities and housing types, and encourage
+preservation of existing housing stock.
+        (5) Economic development. Encourage economic development throughout the state that is
+consistent with adopted comprehensive plans, promote economic opportunity for all citizens of this state,
+especially for unemployed and for disadvantaged persons, promote the retention and expansion of
+existing businesses and recruitment of new businesses, recognize regional differences impacting
+economic development opportunities, and encourage growth in areas experiencing insufficient economic
+growth, all within the capacities of the state's natural resources, public services, and public facilities.
+       (6) Property rights. Private property shall not be taken for public use without just compensation
+having been made. The property rights of landowners shall be protected from arbitrary and
+discriminatory actions.
+        (7) Permits. Applications for both state and local government permits should be processed in a
+timely and fair manner to ensure predictability.
+        (8) Natural resource industries. Maintain and enhance natural resource-based industries,
+including productive timber, agricultural, and fisheries industries. Encourage the conservation of
+productive forestlands and productive agricultural lands, and discourage incompatible uses.
+       (9) Open space and recreation. Retain open space and green space, enhance recreational
+opportunities, enhance fish and wildlife habitat, increase access to natural resource lands and water, and
+develop parks and recreation facilities.
+          (10) Environment. Protect and enhance the environment and enhance the state's high quality of
+life, including air and water quality, and the availability of water.
+
+
+
+
+                                                                                                Page 2 of 17
+For other formats, contact the Clark County ADA Office: 564.397.2322 / 711 or 800.833.6388 / ADA@clark.wa.gov
+       (11) Citizen participation and coordination. Encourage the involvement of citizens in the planning
+process, including the participation of vulnerable populations and overburdened communities, and ensure
+coordination between communities and jurisdictions to reconcile conflicts.
+        (12) Public facilities and services. Ensure that those public facilities and services necessary to
+support development shall be adequate to serve the development at the time the development is
+available for occupancy and use without decreasing current service levels below locally established
+minimum standards.
+       (13) Historic preservation. Identify and encourage the preservation of lands, sites, and structures,
+that have historical or archaeological significance.
+        (14) Climate change and resiliency. Ensure that comprehensive plans, development regulations,
+and regional policies, plans, and strategies under RCW 36.70A.210 and chapter 47.80 RCW adapt to and
+mitigate the effects of a changing climate; support reductions in greenhouse gas emissions and per capita
+vehicle miles traveled; prepare for climate impact scenarios; foster resiliency to climate impacts and
+natural hazards; protect and enhance environmental, economic, and human health and safety; and
+advance environmental justice.
+      (15) Shorelines of the state. For shorelines of the state, the goals and policies of the shoreline
+management act as set forth in RCW 90.58.020 shall be considered an element of the county's or city's
+comprehensive plan.
+
+Other GMA Requirements
+RCW 36.70A.060 Natural resource lands and critical areas — Development regulations.
+       (1)(a) Each county that is required or chooses to plan under RCW 36.70A.040, and each city within
+such county, shall adopt development regulations on or before September 1, 1991, to assure the
+conservation of agricultural, forest, and mineral resource lands designated under RCW 36.70A.170.
+(Due to length, this provision abbreviated here)
+
+RCW 36.70A.110 Comprehensive plans — Urban growth areas.
+        (1) Each county that is required or chooses to plan under RCW 36.70A.040 shall designate an
+urban growth area or areas within which urban growth shall be encouraged and outside of which growth
+can occur only if it is not urban in nature. Each city that is located in such a county shall be included within
+an urban growth area. An urban growth area may include more than a single city. An urban growth area
+may include territory that is located outside of a city only if such territory already is characterized by
+urban growth whether or not the urban growth area includes a city, or is adjacent to territory already
+characterized by urban growth, or is a designated new fully contained community as defined by
+RCW 36.70A.350. When a federally recognized Indian tribe whose reservation or ceded lands lie within
+the county or city has voluntarily chosen to participate in the planning process pursuant to
+RCW 36.70A.040, the county or city and the tribe shall coordinate their planning efforts for any areas
+planned for urban growth consistent with the terms outlined in the memorandum of agreement provided
+for in RCW 36.70A.040(8).
+        (2) Based upon the growth management population projection made for the county by the office
+of financial management, the county and each city within the county shall include areas and densities
+sufficient to permit the urban growth that is projected to occur in the county or city for the succeeding
+twenty-year period, except for those urban growth areas contained totally within a national historical
+reserve. As part of this planning process, each city within the county must include areas sufficient to
+accommodate the broad range of needs and uses that will accompany the projected urban growth
+including, as appropriate, medical, governmental, institutional, commercial, service, retail, and other
+nonresidential uses.
+
+
+                                                                                                   Page 3 of 17
+        Each urban growth area shall permit urban densities and shall include greenbelt and open space
+areas. In the case of urban growth areas contained totally within a national historical reserve, the city may
+restrict densities, intensities, and forms of urban growth as determined to be necessary and appropriate
+to protect the physical, cultural, or historic integrity of the reserve. An urban growth area determination
+may include a reasonable land market supply factor and shall permit a range of urban densities and uses.
+In determining this market factor, cities and counties may consider local circumstances. Cities and
+counties have discretion in their comprehensive plans to make many choices about accommodating
+growth.
+(Due to length, this provision abbreviated here)
+         (3) Urban growth should be located first in areas already characterized by urban growth that have
+adequate existing public facility and service capacities to serve such development, second in areas already
+characterized by urban growth that will be served adequately by a combination of both existing public
+facilities and services and any additional needed public facilities and services that are provided by either
+public or private sources, and third in the remaining portions of the urban growth areas. Urban growth
+may also be located in designated new fully contained communities as defined by RCW 36.70A.350.
+        (4) In general, cities are the units of local government most appropriate to provide urban
+governmental services. In general, it is not appropriate that urban governmental services be extended to
+or expanded in rural areas except in those limited circumstances shown to be necessary to protect basic
+public health and safety and the environment and when such services are financially supportable at rural
+densities and do not permit urban development.
+
+WAC 365-190-040
+Process.
+        (1) The classification and designation of natural resource lands and critical areas is an important
+step among several in the overall growth management process. These steps, outlined in subsections (4)
+and (5) of this section comprise a vision of the future, and that vision gives direction to the steps in the
+form of specific goals and objectives. Under the act, the timing of the first steps coincided with
+development of the larger vision through the comprehensive planning process.
+(Due to length, this provision abbreviated here)
+        (6) Classifying, inventorying, and designating lands or areas does not imply a change in a
+landowner's right to use his or her land under current law. The law requires that natural resource land
+uses be protected from land uses on adjacent lands that would restrict resource production. Development
+regulations adopted to protect critical areas may limit some land development options. Land uses are
+regulated on a parcel basis and innovative land use management techniques should be applied when
+counties and cities adopt development regulations to conserve and protect designated natural resource
+lands and critical areas. The purpose of designating natural resource lands is to enable industries to
+maintain access to lands with long-term commercial significance for agricultural, forest, and mineral
+resource production. The purpose is not to confine all natural resource production activity only to
+designated lands nor to require designation as the basis for a permit to engage in natural resource
+production. The department provides technical assistance to counties and cities on a wide array of
+regulatory options and alternative land use management techniques.
+(Due to length, this provision abbreviated here)
+        (10) Designation amendment process.
+       (a) Land use planning is a dynamic process. Natural resource lands review procedures should
+provide a rational and predictable basis for accommodating change.
+      (b)(i) De-designations of natural resource lands can undermine the original designation process.
+De-designations threaten the viability of natural resource lands and associated industries through
+
+
+                                                                                                  Page 4 of 17
+conversion to incompatible land uses, and through operational interference on adjacent lands.
+Cumulative impacts from de-designations can adversely affect the ability of natural resource-based
+industries to operate.
+       (ii) Counties and cities should maintain and enhance natural resource-based industries and
+discourage incompatible uses. Because of the significant amount of time needed to review natural
+resource lands and potential impacts from incompatible uses, frequent, piecemeal de-designations of
+resource lands should not be allowed. Site-specific proposals to de-designate natural resource lands must
+be deferred until a comprehensive countywide analysis is conducted.
+        (c) Reviewing natural resource lands designation. In classifying, designating and de-designating
+natural resource lands, counties must conduct a comprehensive countywide analysis. Counties and cities
+should not review natural resource lands designations solely on a parcel-by-parcel basis. Designation
+amendments should be based on consistency with one or more of the following criteria:
+       (i) A change in circumstances pertaining to the comprehensive plan or public policy related to
+designation criteria in WAC 365-190-050(3), 365-190-060(2), and 365-190-070(3);
+        (ii) A change in circumstances to the subject property, which is beyond the control of the
+landowner and is related to designation criteria in WAC 365-190-050(3), 365-190-060(2), and 365-190-
+070(3);
+       (iii) An error in designation or failure to designate;
+        (iv) New information on natural resource land or critical area status related to the designation
+criteria in WAC 365-190-050(3), 365-190-060(2), and 365-190-070(3); or
+       (v) A change in population growth rates, or consumption rates, especially of mineral resources.
+       (11) Use of innovative land use management techniques.
+       (a) Natural resource uses have preferred and primary status in designated natural resource lands.
+Counties and cities must determine if and to what extent other uses will be allowed. If other uses are
+allowed, counties and cities should consider using innovative land management techniques that minimize
+land use incompatibilities and most effectively maintain current and future natural resource lands.
+       (b) Techniques to conserve and protect agricultural, forest lands, and mineral resource lands
+include the purchase or transfer of development rights, fee simple purchase of the land, less than fee
+simple purchase, purchase with leaseback, buffering, land trades, conservation easements, current use
+assessments, innovative zoning, or other innovations which maintain current uses and assure the
+conservation of these natural resource lands.
+        (12) Development in and adjacent to agricultural, forest, and mineral resource lands shall assure
+the continued management of these lands for natural resource production. Uses that would convert
+natural resource lands to other uses or would interfere with the allowed natural resource uses must be
+prohibited except as authorized in accessory uses under RCW 36.70A.177 or other applicable statutes.
+Any uses adjacent to agricultural, forest, and mineral resource lands of long-term commercial significance
+must not interfere with their continued use for the production of agricultural, forest, or mineral products
+respectively. Counties and cities should consider the adoption of right-to-farm provisions, and may also
+adopt measures to conserve and enhance marine aquaculture. Covenants or easements recognizing that
+farming, forestry, and mining activities will occur should be imposed on new development in or adjacent
+to agricultural, forest, or mineral resource lands. Where buffering is used it should be on land within the
+adjacent development unless an alternative is mutually agreed on by adjacent landowners.
+
+
+
+
+                                                                                                Page 5 of 17
+WAC 365-190-050
+Agricultural resource lands.
+         (1) In classifying, designating and de-designating agricultural resource lands, counties must
+conduct a comprehensive countywide analysis consistent with WAC 365-190-040(10). Counties and
+cities should not review resource lands designations solely on a parcel-by-parcel basis. Counties and cities
+must have a program for the transfer or purchase of development rights prior to designating agricultural
+resource lands in urban growth areas. Cities are encouraged to coordinate their agricultural resource
+lands designations with their county and any adjacent jurisdictions.
+        (2) Once lands are designated, counties and cities planning under the act must adopt development
+regulations that assure the conservation of agricultural resource lands. Recommendations for those
+regulations are found in WAC 365-196-815.
+        (3) Lands should be considered for designation as agricultural resource lands based on three
+factors:
+         (a) The land is not already characterized by urban growth. To evaluate this factor, counties and
+cities should use the criteria contained in WAC 365-196-310.
+       (b) The land is used or capable of being used for agricultural production. This factor evaluates
+whether lands are well suited to agricultural use based primarily on their physical and geographic
+characteristics. Some agricultural operations are less dependent on soil quality than others, including
+some livestock production operations.
+        (i) Lands that are currently used for agricultural production and lands that are capable of such use
+must be evaluated for designation. The intent of a landowner to use land for agriculture or to cease such
+use is not the controlling factor in determining if land is used or capable of being used for agricultural
+production. Land enrolled in federal conservation reserve programs is recommended for designation
+based on previous agricultural use, management requirements, and potential for reuse as agricultural
+land.
+       (ii) In determining whether lands are used or capable of being used for agricultural production,
+counties and cities shall use the land-capability classification system of the United States Department of
+Agriculture Natural Resources Conservation Service as defined in relevant Field Office Technical Guides.
+These eight classes are incorporated by the United States Department of Agriculture into map units
+described in published soil surveys, and are based on the growing capacity, productivity and soil
+composition of the land.
+       (c) The land has long-term commercial significance for agriculture. In determining this factor,
+counties and cities should consider the following nonexclusive criteria, as applicable:
+      (i) The classification of prime and unique farmland soils, and farmlands of statewide importance, as
+mapped by the Natural Resources Conservation Service;
+       (ii) The availability of public facilities, including roads used in transporting agricultural products;
+        (iii) Tax status, including whether lands are enrolled under the current use tax assessment under
+chapter 84.34 RCW and whether the optional public benefit rating system is used locally, and whether
+there is the ability to purchase or transfer land development rights;
+       (iv) The availability of public services;
+       (v) Relationship or proximity to urban growth areas;
+        (vi) Predominant parcel size, which may include smaller parcels if contiguous with other
+agricultural resource lands;
+       (vii) Land use settlement patterns and their compatibility with agricultural practices;
+
+
+                                                                                                   Page 6 of 17
+       (viii) Intensity of nearby land uses;
+       (ix) History of land development permits issued nearby;
+       (x) Land values under alternative uses; and
+       (xi) Proximity to markets.
+        (4) When designating agricultural resource lands, counties and cities may consider food security
+issues, which may include providing local food supplies for food banks, schools and institutions, vocational
+training opportunities in agricultural operations, and preserving heritage or artisanal foods.
+         (5) When applying the criteria in subsection (3)(c) of this section, the process should result in
+designating an amount of agricultural resource lands sufficient to maintain and enhance the economic
+viability of the agricultural industry in the county over the long term; and to retain supporting agricultural
+businesses, such as processors, farm suppliers, and equipment maintenance and repair facilities.
+        (6) Counties and cities may further classify additional agricultural lands of local importance.
+Classifying additional agricultural lands of local importance should include, in addition to general public
+involvement, consultation with the board of the local conservation district and the local committee of the
+farm service agency. It may also be useful to consult with any existing local organizations marketing or
+using local produce, including the boards of local farmers markets, school districts, other large
+institutions, such as hospitals, correctional facilities, or existing food cooperatives.
+       These additional lands may include designated critical areas, such as bogs used to grow
+cranberries or farmed wetlands. Where these lands are also designated critical areas, counties and cities
+planning under the act must weigh the compatibility of adjacent land uses and development with the
+continuing need to protect the functions and values of critical areas and ecosystems.
+
+WAC 365-196-310
+Urban growth areas.
+       (1) Requirements.
+       (a) Each county planning under the act must designate an urban growth area or areas within which
+urban growth must be encouraged and outside of which growth can occur only if it is not urban in nature.
+Each county must designate an urban growth area in its comprehensive plan.
+       (b) Each city that is located in such a county shall be included within an urban growth area. An
+urban growth area may include more than a single city.
+       (c) An urban growth area may include territory that is located outside a city if such territory
+already is characterized by urban growth or is adjacent to territory already characterized by urban
+growth.
+        (d) Based upon the growth management planning population projection selected by the county
+from within the range provided by the office of financial management, and the resulting allocations of
+housing need, and based on a countywide employment forecast developed by the county at its discretion,
+the urban growth areas shall include areas and densities sufficient to permit the urban growth that is
+projected to occur in the county for the succeeding 20-year period. Counties and cities may provide the
+office of financial management with information they deem relevant to prepare the population
+projections, and the office shall consider and comment on such information and review projections with
+counties and cities before they are adopted. Counties and cities may petition the office to revise
+projections they believe will not reflect actual population growth.
+        (e) The combined urban growth area may not exceed the areas necessary to accommodate the
+growth management planning projections, plus a reasonable land market supply factor, or market factor.
+In determining this market factor, counties and cities may consider local circumstances. Counties and
+
+
+                                                                                                 Page 7 of 17
+cities have discretion in their comprehensive plans to make many choices about accommodating growth.
+Each urban growth area shall permit urban densities and shall include greenbelt and open space areas.
+       (f) Counties and cities should facilitate urban growth within urban growth areas as follows:
+        (i) Urban growth should be located first in areas already characterized by urban growth that have
+existing public facilities and service capacities adequate to serve urban development.
+         (ii) Second, urban growth should be located in areas already characterized by urban growth that
+will be served by a combination of both existing public facilities and services and any additional needed
+public facilities and services that are provided by either public or private sources.
+       (iii) Third, urban growth should be located in the remaining portions of the urban growth area.
+        (g) In general, cities are the units of local government most appropriate to provide urban
+governmental services. In general, it is not appropriate that urban governmental services be extended to
+or expanded in rural areas except in those limited circumstances shown to be necessary to protect basic
+public health and safety and the environment and when such services are financially supportable at rural
+densities and do not permit urban development. Recommendations governing the extension of urban
+services into rural areas are found in WAC 365-196-425.
+        (h) Each county that designates urban growth areas must review, according to the time schedule
+specified in RCW 36.70A.130(5), periodically its designated urban growth areas, the patterns of
+development, and the densities permitted within both the incorporated and unincorporated portions of
+each urban growth area (see WAC 365-196-610).
+       (2) General procedure for initial designation of new urban growth areas.
+        (a) The designation process shall include consultation by the county with each city located within
+its boundaries. The adoption, review and amendment of the urban growth area should reflect a
+cooperative effort among jurisdictions to accomplish the requirements of the act on a regional basis,
+consistent with the countywide planning policies and, where applicable, multicounty planning policies.
+       (b) Each city shall propose the location of an urban growth area.
+       (c) The county shall attempt to reach agreement with each city on the location of an urban growth
+area within which the city is located.
+         (d) If an agreement is not reached with each city located within the urban growth area, the county
+shall justify in writing why it so designated an urban growth area.
+       (e) As growth occurs, most lands within the urban growth area should ultimately be provided with
+urban governmental services by cities, either directly or by contract. Other service providers are
+appropriate within urban growth areas for regional or countywide services, or for isolated
+unincorporated pockets characterized by urban growth. Counties and cities should provide for
+development phasing within each urban growth area to ensure the orderly sequencing of development
+and that services are provided as growth occurs.
+       (f) Counties and cities should develop and evaluate urban growth area proposals with the purpose
+of accommodating projected urban growth through infill and redevelopment within existing municipal
+boundaries or urban areas. In some cases, expansion will be the logical response to projected urban
+growth.
+         (g) Counties, cities, and other municipalities, where appropriate, should negotiate interlocal
+agreements to coordinate land use management with the provision of adequate public facilities to the
+urban growth area. Such agreements should facilitate urban growth in a manner consistent with the cities'
+comprehensive plans and development regulations, and should facilitate a general transformation of
+governance over time, through annexation or incorporation, and transfer of nonregional public services to
+cities as the urban area develops.
+
+
+                                                                                               Page 8 of 17
+        (h) The initial effective date of an action that expands an urban growth area is the latest of the
+following dates per RCW 36.70A.067:
+        (i) Sixty days after the publication of notice of adoption of the comprehensive plan, development
+regulation, or amendment to the plan or regulation, implementing the action, as provided under
+RCW 36.70A.290(2); or
+        (ii) If a petition for review to the growth management hearings board is timely filed, upon issuance
+of the board's final order.
+(Due to length, this provision abbreviated here)
+        (5) Recommendations for meeting requirements.
+        (a) Selecting and allocating countywide growth forecasts. This process should involve at least the
+following:
+         (i) The total countywide population is the sum of the population allocated to each city; the
+population allocated to any portion of the urban growth area associated with cities; the population
+allocated to any portion of the urban growth area not associated with a city; and the population growth
+that is expected outside of the urban growth area. Counties and cities should use consistent growth
+forecasts, allocations, and planning horizons. The planning horizon should start on the relevant deadline
+specified in RCW 36.70A.130(5) and encompass 20 years.
+        (ii) RCW 43.62.035 directs the office of financial management to provide a reasonable range of
+high, medium and low 20-year population forecasts for each county in the state, with the medium forecast
+being most likely. Counties and cities must plan for a total countywide population that falls within the
+office of financial management range.
+       (iii) Consideration of other population forecast data, trends, and implications. In selecting
+population forecasts, counties and cities may consider the following:
+       (A) Population forecasts from outside agencies, such as regional or metropolitan planning
+agencies, and service providers.
+        (B) Historical growth trends and factors which would cause those trends to change in the future.
+        (C) General implications, including:
+        (I) Public facilities and service implications. Counties and cities should carefully consider how to
+finance the necessary facilities and should establish a phasing plan to ensure that development occurs at
+urban densities; occurs in a contiguous and orderly manner; and is linked with provision of adequate
+public facilities. These considerations are particularly important when considering forecasts closer to the
+high end of the range. Jurisdictions considering a population forecast closer to the low end of the range
+should closely monitor development and population growth trends to ensure actual growth does not
+begin to exceed the planned capacity.
+        (II) Overall land supplies. Counties and cities facing immediate physical or other land supply
+limitations may consider these limitations in selecting a forecast. Counties and cities that identify
+potential longer term land supply limitations should consider the extent to which current forecast options
+would require increased densities or slower growth in the future.
+        (III) Implications of short term updates. The act requires that 20-year growth forecasts and
+designated urban growth areas be updated at a minimum during the periodic review of comprehensive
+plans and development regulations (WAC 365-196-610). Counties and cities should consider the likely
+timing of future updates, and the opportunities this provides for adjustments.
+       (D) Counties and cities are not required to adopt forecasts for annual growth rates within the 20-
+year period, but may choose to for planning purposes. If used, annual growth projections may assume a
+
+
+
+                                                                                                  Page 9 of 17
+consistent rate throughout the planning period, or may assume faster or slower than average growth in
+certain periods, as long as they result in total growth consistent with the 20-year forecasts selected.
+        (iv) Selection of a countywide employment forecast. Counties, in consultation with cities, should
+adopt a 20-year countywide employment forecast to be allocated among urban growth areas, cities, and
+the rural area. The following should be considered in this process:
+        (A) The countywide population forecast, and the resulting ratio of forecast jobs to persons. This
+ratio should be compared to past levels locally and other regions, and to desired policy objectives; and
+       (B) Economic trends and forecasts produced by outside agencies or private sources.
+        (v) Projections for commercial and industrial land needs. When establishing an urban growth area,
+counties should designate sufficient commercial and industrial land. Although no office of financial
+management forecasts are available for industrial or commercial land needs, counties and cities should
+use a countywide employment forecast, available data on the current and projected local and regional
+economies, and local demand for services driven by population growth. Counties and cities should
+consider establishing a countywide estimate of commercial and industrial land needs to ensure
+consistency of local plans.
+        Counties and cities should consider the need for industrial lands in the economic development
+element of their comprehensive plan. Counties and cities should avoid conversion of areas set aside for
+industrial uses to other incompatible uses, to ensure the availability of suitable sites for industrial
+development.
+       (vi) Selection of community growth goals with respect to population, commercial and industrial
+development and residential development.
+        (vii) Selection of the densities a county or city seeks to achieve in relation to its growth goals.
+Inside the urban growth areas, densities must be urban. Outside the urban growth areas, densities must
+be rural.
+       (b) Per subsection (1)(h) of this section and RCW 36.70A.130(5), each county that designates
+urban growth areas must review periodically its designated urban growth areas.
+      The purpose of the urban growth area review is to assess the capacity of the urban land to
+accommodate population growth projected for the succeeding 20-year planning period.
+       (i) This review should be conducted jointly with the affected cities.
+        (ii) In conjunction with this review by the county, each city located within an urban growth area
+shall review the densities permitted within its boundaries, and the extent to which the urban growth
+occurring within the county has located within each city and the unincorporated portions of the urban
+growth areas.
+         (c) Counties and cities must use the selected population projection identified in subsection (1)(d)
+of this section to determine the countywide projection of housing need by economic segment provided by
+the department as prescribed in RCW 36.70A.070 (2)(a). Counties and cities must determine the
+countywide projected housing need using data and methodology provided by the department. When
+allocating projected housing needs for each jurisdiction within a county, counties and cities should use the
+minimum standards described in WAC 365-196-410 (2)(c)(iii).
+      (d) General considerations for determining the need for urban growth areas expansions to
+accommodate projected population and employment growth.
+      (i) Estimation of the number of new persons and jobs to be accommodated based on the difference
+between the 20-year forecast and current population and employment.
+
+
+
+
+                                                                                               Page 10 of 17
+        (ii) Estimation of the capacity of current cities and urban growth areas to accommodate additional
+population and employment over the 20-year planning period. This should be based on a land capacity
+analysis, which may include the following:
+       (A) Identification of the amount of developable residential, commercial, and industrial land, based
+on inventories of currently undeveloped or partially developed urban lands.
+       (B) Identification of the appropriate amount of greenbelt and open space to be preserved or
+created in connection with the overall growth pattern and consistent with any adopted levels of service.
+See WAC 365-196-335 for additional information.
+       (C) Identification of the amount of developable urban land needed for the public facilities, public
+services, and utilities necessary to support the likely level of development. See WAC 365-196-320 for
+additional information.
+        (D) Based on allowed land use development densities and intensities, a projection of the additional
+urban population and employment growth that may occur on the available residential, commercial and
+industrial land base. The projection should consider the portion of population and employment growth
+which may occur through redevelopment of previously developed urban areas during the 20-year
+planning period.
+        (E) The land capacity analysis must be based on the assumption that growth will occur at urban
+densities inside the urban growth area and is consistent with the housing types specified in the analysis of
+housing need developed pursuant to RCW 36.70A.070(2). In formulating land capacity analyses, counties
+and cities should consider data on past development, zoning to meet minimum housing requirements, as
+well as factors which may cause trends to change in the future. For counties and cities subject to
+RCW 36.70A.215, information from associated buildable lands reports should be considered. If past
+development patterns have not resulted in urban densities, or have not resulted in a pattern of desired
+development, counties and cities should use assumptions aligned with desired future development
+patterns. Counties and cities should then implement strategies to better align future development
+patterns with those desired.
+         (F) The land capacity analysis may also include a reasonable land market supply factor, also
+referred to as the "market factor." The purpose of the market factor is to account for the estimated
+percentage of developable acres contained within an urban growth area that, due to fluctuating market
+forces, is likely to remain undeveloped over the course of the 20-year planning period. The market factor
+recognizes that not all developable land will be put to its maximum use because of owner preference, cost,
+stability, quality, and location. If establishing a market factor, counties and cities should establish an
+explicit market factor for the purposes of establishing the amount of needed land capacity. Counties and
+cities may consider local circumstances in determining an appropriate market factor. Counties and cities
+may also use a number derived from general information if local study data is not available.
+       (iii) An estimation of the additional growth capacity of rural and other lands outside of existing
+urban growth areas compared with future growth forecasted, and current urban and rural capacities.
+        (iv) If future growth forecasts exceed the current combined capacities of unincorporated county
+and city lands, counties and cities should first consider the potential of increasing capacity of existing
+urban areas through allowances for higher densities, or for additional provisions to encourage
+redevelopment. If counties and cities find that increasing the capacity of existing urban areas is not
+feasible or appropriate based on the evidence they examine, counties and cities may consider expansion
+of the urban growth area to meet the future growth forecast.
+       (e) Determining the appropriate locations of new or expanded urban growth area boundaries. This
+process should consider the following:
+       (i) Selection of appropriate densities. For all jurisdictions planning under the act, the urban growth
+area should represent the physical area where that jurisdiction's urban development vision can be
+
+
+                                                                                               Page 11 of 17
+realized over the next 20 years. The urban growth area should be based on densities which accommodate
+urban growth, served by adequate public facilities, discourage sprawl, and promote goals of the act.
+RCW 36.70A.110 requires that densities specified for land inside the urban growth area must be urban
+densities. See WAC 365-196-300 for recommendations on determining appropriate urban densities.
+        (ii) The county should attempt to define urban growth areas to accommodate the growth plans of
+the cities. Urban growth areas should be defined so as to facilitate the transformation of services and
+governance during the planning period. However, physical location or existing patterns of service make
+some unincorporated areas which are characterized by urban growth inappropriate for inclusion in any
+city's potential growth area.
+       (iii) Identifying the location of any new lands added to the urban growth area. Lands should be
+included in the urban growth area in the following priority order:
+       (A) Existing incorporated areas;
+       (B) Land that is already characterized by urban growth and has adequate public facilities and
+services;
+       (C) Land already characterized by urban growth, but requiring additional public facilities and
+urban services; and
+       (D) Lands adjacent to the above, but not meeting those criteria.
+        (iv) Designating industrial lands. Counties and cities should consult with local economic
+development organizations when identifying industrial lands to identify sites that are particularly well
+suited for industry, considering factors such as:
+       (A) Rail access;
+       (B) Highway access;
+       (C) Large parcel size;
+       (D) Location along major electrical transmission lines;
+       (E) Location along pipelines;
+       (F) Location near or adjacent to ports and commercial navigation routes;
+       (G) Availability of needed infrastructure; or
+       (H) Absence of surrounding incompatible uses.
+        (v) Consideration of resource lands issues. Urban growth areas should not be expanded into
+designated agricultural, forest or resource lands unless no other option is available. Prior to expansion of
+the urban growth area, counties and cities must first review the natural resource lands designation and
+conclude the lands no longer meet the designation criteria for resource lands of long-term commercial
+significance. Designated agricultural or forest resource lands may not be located inside the urban growth
+area unless a county or city has enacted a program authorizing transfer or purchase of development
+rights.
+        (vi) Consideration of critical areas and wildfires. Although critical areas exist within urban areas,
+counties and cities should avoid expanding the urban growth areas into areas with known critical areas
+extending over a large area. Counties and cities should also consider the potential risk of wildland fires
+when expanding the urban growth area into areas where structures and other development intermingles
+with undeveloped wildland or vegetative fuels. See RCW 36.70A.110(8) for legislative direction on
+expansion of urban growth areas into the 100-year flood plain of river segments that are located west of
+the crest of the Cascade mountains and have a mean annual flow of 1,000 or more cubic feet per second.
+
+
+
+
+                                                                                                Page 12 of 17
+       (vii) Consideration of patterns of development within urban growth areas under
+RCW 36.70A.130 (3)(a) and 36.70A.110(8). Evaluating patterns of development can help identify growth
+pressures and the viability of existing and proposed urban growth areas. Local governments may want to
+consider one or more methods for evaluating patterns of development from the following nonexclusive
+list:
+       (A) Based on population, permit data, types of development, and a land capacity analysis, identify
+growth rates and patterns for the preceding 10 years. Calculate rates separately for the unincorporated
+urban growth areas, and areas within incorporated cities and towns. Cities and towns may identify
+subareas within their corporate boundaries for individual analysis. Counties and cities should not rely on
+an evaluation of averages across the overall urban growth area or city boundary.
+        (B) Make a determination as to consistency or inconsistency with the growth rates and patterns
+that were envisioned in adopted countywide planning policies, comprehensive plans and development
+regulations, and actual development that has occurred.
+        (C) Make a determination as to consistency or inconsistency with assumed housing densities as
+established under WAC 365-196-410 (2)(d).
+        (D) Determine development capacity, building types, and patterns of development within each
+identified area. Based on this analysis, determine the availability of land to serve projected growth within
+each identified area for the 20-year planning period.
+       (E) Compare the identified areas to determine areas of high development pressure, areas of low
+development pressure, and areas with inadequate capacity to absorb their projected growth, including
+projected housing need.
+       (F) Make determinations on the viability of urban growth areas experiencing low development
+pressure by considering barriers to growth such as:
+       (I) Lack of available or planned infrastructure, including transportation facilities, as determined
+through the capital facilities plan element and the transportation element.
+       (II) Lack of adequate development regulations to ensure urban standards and levels of service.
+        (III) Incompatible uses within or adjacent to the urban growth area. Examples include mining sites,
+industrial sites, wastewater treatment facilities, brownfields, airports, military bases, and other uses that
+produce high impacts.
+       (IV) Parcelization and multiple ownerships that may limit redevelopment.
+       (V) Site constraints including parcel access, steep slopes, floodplains, and other environmental
+constraints.
+       (VI) Market conditions that may deter development.
+        (viii) Consideration of urban growth area swaps under RCW 36.70A.130 (3)(a). During a periodic
+update counties may consider removal of a portion of the urban growth area and replacement with a new
+area location if it is consistent with the requirements of RCW 36.70A.130 (3)(c) or 36.70A.110(8), as
+applicable, and subsection (3) of this section.
+       (A) Areas removed from the urban growth area must not include existing urban development.
+Areas with public sewer, or other urban governmental services such as public water, transportation, and
+stormwater facilities should not be removed from the UGA.
+       (B) Counties and cities should consider (e)(vii) of this subsection when conducting an urban growth
+area swap.
+       (C) Counties and cities should coordinate on revisions to the urban growth area.
+
+
+
+                                                                                               Page 13 of 17
+      (ix) If there is physically no land available into which a city might expand, it may need to revise its
+proposed urban densities or population levels in order to accommodate growth on its existing land base.
+        (f) Evaluating the feasibility of the overall growth plan. Counties and cities should perform a check
+on the feasibility of the overall plan to accommodate growth. If, as a result of this evaluation, the urban
+growth area appears to have been drawn too small or too large, the proposal should be adjusted
+accordingly. Counties and cities should evaluate:
+        (i) The anticipated ability to finance the public facilities, public services, and open space needed in
+the urban growth area over the planning period. When conducting a review of the urban growth areas,
+counties and cities should develop an analysis of the fiscal impact of alternative land use patterns that
+accommodate the growth anticipated over the succeeding 20-year period. Counties and cities should
+identify revenue sources and develop a reasonable financial plan to support operation and maintenance
+of existing facilities and services, and for new or expanded facilities to accommodate projected growth
+over the 20-year planning period. The plan should ensure consistency between the land use element and
+the capital facilities plan, and demonstrate that probable funding does not fall short of the projected
+needs to maintain and operate public facilities, public services, and open space. This provides the public
+and decision makers with an estimate of the fiscal consequences of various development patterns. This
+analysis could be done in conjunction with the analysis required under the State Environmental Policy
+Act.
+        (ii) The effect that confining urban growth within the areas defined is likely to have on the price of
+property and the impact thereof on the ability of residents of all economic strata to obtain housing they
+can afford.
+       (iii) Whether the level of population and economic growth contemplated can be achieved within
+the capacity of available land and water resources and without environmental degradation.
+         (iv) The extent to which the comprehensive plan of the county and of adjacent counties and cities
+will influence the area needed.
+        (g) County actions in adopting urban growth areas.
+        (i) A change to the urban growth area is an amendment to the comprehensive plan and requires, at
+a minimum, an amendment to the land use element. Counties and cities should also review and update the
+transportation, capital facilities, utilities, and housing elements to maintain consistency and show how any
+new areas added to the urban growth area will be provided with adequate public facilities. A modification
+of any portion of the urban growth area affects the overall urban growth area size and has countywide
+implications. Because of the significant amount of resources needed to conduct a review of the urban
+growth area, and because some policy objectives require time to achieve, frequent, piecemeal expansion
+of the urban growth area should be avoided. Site-specific proposals to expand the urban growth area
+should be deferred until the next comprehensive review of the urban growth area.
+       (ii) Counties and cities that are required to participate in the buildable lands program must first
+have adopted and implemented reasonable measures as required by RCW 36.70A.215 before considering
+expansion of an urban growth area.
+       (iii) Consistent with countywide planning policies, counties and cities consulting on the
+designation of urban growth areas should consider the following implementation steps:
+       (A) Establishment of agreements regarding land use regulations and the provision of services in
+that portion of the urban growth area outside of an existing city into which it is eventually expected to
+expand.
+        (B) Negotiation of agreements for appropriate allocation of financial burdens resulting from the
+transition of land from county to city jurisdiction.
+
+
+
+                                                                                                 Page 14 of 17
+        (C) Provision for an ongoing collaborative process to assist in implementing countywide planning
+policies, resolving regional issues, and adjusting growth boundaries.
+
+Clark County Code
+CCC 40.560.010(J) specifies criteria in evaluating Urban Growth Area boundary map changes.
+        J. Additional Required Criteria Specific to Urban Growth Area (UGA) Boundary Map Changes.
+       1. The county shall adopt countywide growth targets, and regional suballocations, and shall map
+corresponding UGA boundaries and designations as follows:
+         a. Adopt countywide twenty (20) year target population and employment levels consistent with
+official State of Washington Office of Financial Management (OFM) population growth forecasts ranges;
+and
+        b. Officially suballocate the adopted countywide population and employment targets to urban
+growth areas associated with each incorporated municipality in the county, and to the remaining rural
+area; and
+       c. Adopt urban growth area boundaries and comprehensive plan land use designations, which are
+consistent in their sizes and designations, with the official suballocation for each UGA and the rural area.
+         2. To allow for a comprehensive review and assessment of cumulative impacts, the county shall
+initiate all UGA boundary review proposals as part of periodic review and update of the plan.
+       3. To expand the UGA, the county shall demonstrate that necessary urban services can and will
+be provided within ten (10) years’ time. This demonstration must include a need analysis estimating what
+urban services will be required, both in the expansion area and elsewhere in the county, and estimates as
+to when such services will be needed. Service providers shall submit written documentation indicating
+when, how, at what cost, and from which funding sources service will be provided.
+       4. A UGA boundary expansion must provide a twenty (20) year supply of vacant and buildable
+lands within the UGA. The calculation of supply must be based on population growth projections within
+the UGA, where such projections are consistent with adopted countywide growth targets and regional
+suballocations. If necessary, the county may adjust countywide growth targets and regional
+suballocations; provided, that they are consistent with official OFM forecasts.
+      5. In evaluating potential changes to a particular UGA boundary, the county shall consider
+countywide implications for other UGAs and their suballocations.
+        6. The amendment does not include lands that are designated as natural resource (agricultural,
+forest, mineral resource) unless such lands are de-designated pursuant to Chapter 36.70A RCW and
+Chapter 365-190 WAC.
+        7. The county shall exercise its best efforts to coordinate UGA boundary change proposals with
+the affected city(ies), including the preparation of joint staff recommendations, where possible. Unless
+waived by the affected city(ies), the county shall give those city(ies) at least sixty (60) days’ notice of the
+proposal prior to a county hearing thereon.
+        8. Except as provided for in RCW 36.70A.110(8), the county may not expand a UGA into the one
+hundred (100) year floodplain of a river segment when the river has a mean annual flow of one thousand
+(1,000) or more cubic feet per second.
+        9. Sections 40.560.010 (J)(1) through (J)(8) do not apply to:
+        a. Correction of obvious mapping errors involving a small area or few properties;
+       b. An order from a court of competent jurisdiction or as a result of a Growth Management
+Hearings Board remand.
+
+                                                                                                  Page 15 of 17
+Planning Assumptions
+Table 1. Comprehensive Plan Update Key Planning Assumptions (from the DEIS)
+ Planning Assumption                              Value
+ 2045 total population projection                 718,154
+ Projected new residents                          190,754
+ Assumed annual population growth rate            1.4%
+ New housing units*                               103,695
+ Persons per household*                           2.44
+ Residential vacancy rate*                        6%
+ County must assess housing needs in six          N/A
+ income groups per new legislation
+ 2045 employment forecast                         269,000
+ Assumed employment growth rate                   1.6%
+ Jobs to household ratio                          1:1
+ Urban residential zones - percent of land        31.5%
+ assumed for infrastructure
+ Commercial/industrial/business park zones        25%
+ - percent of land assumed for infrastructure
+ Vacant residential inventory expected to         90%
+ develop by 2045
+ Underused residential inventory expected         70%
+ to develop by 2045
+ Percentage of potentially critical land is not   50%
+ critical and will develop
+* As required by WA Department of Commerce Housing for All Planning Tool
+
+Site-Specific Requests (SSRs)
+RCW 36.70A.130(1)(d) requires Clark County to schedule consideration by the Council of revisions to the
+comprehensive plan no more frequently than once every year. The Council adopted Resolution 2022-09-
+03 on September 6, 2023, suspending annual reviews and dockets for 2023, 2024, and 2025. The Council
+adopted Resolution 2025-09-01 on September 23, 2025, suspending the annual reviews and dockets in
+2026 to avoid a conflict between RCW 36.70A.130(1)(d) and the new expected timeline for completion of
+the 2025 comp plan update.
+SSR’s are requests to amend the comprehensive plan and or zoning designation of property that are
+submitted by the property owners. Approximately 198 parcel specific requests have been submitted for
+the 2025 comp plan update, all of which have been included in the record. These requests were
+considered and included in alternatives 2 and 3 for inclusion in the DEIS. Council recommended several
+site-specific requests be included in the Preferred Alternative, only those requests were included in the
+FEIS.
+
+
+
+
+                                                                                             Page 16 of 17
+Public Comments
+As stated above, the comment period on the DEIS ended on November 30. The Planning Commission has
+been sent all comments received by Community Planning during the comment period. All comments are
+on the web at: https://clark.wa.gov/community-planning/2025-update-public-comment The county is
+still taking general comments on the 2025 plan update.
+
+
+
+
+                                                                                     Page 17 of 17
+

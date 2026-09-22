@@ -1,0 +1,627 @@
+                        Professional Services Agreement C-101771
+                                     Amendment No. 1
+                          Bridge Shelter Primary Services Provider
+
+       This first amendment (“Amendment”) amends Professional Services Agreement number
+C-101771(“Agreement”) between the City of Vancouver, (“City”), and Do Good Multnomah, an
+Oregon non-profit corporation ("Contractor") and is effective on the last day signed by a Party.
+Terms that are capitalized but undefined will have the meaning given them in the Agreement.
+
+This Amendment amends the Agreement as follows:
+
+    1. Section 1 Scope of Work, Attachment A, is amended to include the attached scope of
+       work.
+
+    2. Section 2 Compensation is amended as follows:
+
+       Payment to the Contractor for the Services described in this Amendment shall not
+       exceed $3,588,391.51 USD for a revised contract total of $3,738,391.51. The parties agree
+       this amount excludes payment for Contractor’s provision of severe weather services,
+       which will be subject to an amendment to the Agreement
+
+    3. Section 15 Liability and Hold Harmless is deleted in its entirety and replaced as Section
+       15 Indemnification, as follows:
+
+       Contractor shall indemnify, defend if requested, and hold harmless City and its officers,
+       councilmembers, commissioners, employees, volunteers, and agents, from any claim,
+       liability, loss, cost, expense, suit, and damages, including attorney’s fees and consulting
+       fees relating to (a) a third party claim for intellectual property infringement relating to
+       the Contractor’s Services or the Deliverables; (b) Contractor’s negligence or willful
+       misconduct; (c) Contractor’s material breach of the Agreement; (d) Contractor’s non-
+       compliance with applicable law; (e) a third-party Washington Public Records Act claim
+       involving Contractor information; and (f) Contractor’s court action to enjoin release of
+       Contractor information under the Washington Public Records Act.
+
+       City will promptly notify Contractor of a claim under this Section 15 and will provide
+       reasonable cooperation to Contractor in the defense of the claim. Contractor will have
+       control over defense and settlement of the claim, except that Contractor will not enter
+       any settlement or related agreement without City’s prior written consent.
+       Notwithstanding the preceding sentence, City may participate in the defense or
+       settlement of any claim with counsel of its own choosing.
+
+Amendment No. 1                                                                 Page 1 of 16
+    4. Section 16 Insurance is amended as follows.
+
+   Contractor shall maintain liability insurance for all claims for damages to the City, persons or
+   property that arise from Contractor’s performance during the Term of this Agreement. The
+   Parties agree that Contractor shall maintain the coverage amounts as described in the
+   Agreement until Contractor increases its coverage as described below, which Contractor shall
+   complete as soon as possible but not later than October 31, 2026 or at least two weeks prior
+   to the Bridge Shelter opening date, whichever date is earlier.
+
+   Contractor shall maintain the following insurance coverage from at least two weeks prior to the
+   Bridge Shelter opening date. Contractor shall provide updated proof of insurance coverage to
+   City upon receipt.
+
+                                                                                      LIMITS OF
+      COVERAGE
+                                                                                      LIABILITY
+      I. Commercial General Liability:
+      Policy shall include Bodily Injury, Property Damage, Personal Injury and
+      Broad Form Contractual Liability
+                Each Occurrence                                                      $2,000,000
+                General Aggregate Per Occurrence                                     $4,000,000
+                Products & Completed Operations Aggregate                            $4,000,000
+                Personal and Advertising Injury                                      $1,000,000
+                Blanket Contractual Liability                                        $1,000,000
+      II. Commercial Automobile Liability
+      Policy shall include Bodily Injury and Property Damage for any owned,
+      hired, and/or non-owned vehicles arising from the performance of this
+      Agreement.
+                Combined Single Limit                                                $1,000,000
+      III. Workers' Compensation (applicable to the State of Washington)
+      Per Occurrence
+                Employer's Liability                                                 $1,000,000
+                Disease Each Employee                                                $1,000,000
+                Disease Policy Limit                                                 $1,000,000
+                Each Claim                                                           $1,000,000
+                Annual Aggregate                                                     $1,000,000
+      IV. Umbrella Liability
+      Policy shall include coverage for excess of Commercial General Liability,
+      Commercial Auto Liability, and Workers’ Compensation. Per Occurrence           $5,000,000
+      Annual Aggregate                                                               $5,000,000
+      V. Professional Liability/Social Services Errors and Omissions
+      Policy shall include coverage for all claims related to case management,
+      peer support, housing navigation, care coordination, crisis intervention and
+      other social/human services provided under the Agreement. Per
+      Occurrence                                                                     $2,000,000
+      Annual Aggregate                                                               $4,000,000
+      VII. Cyber/Privacy Liability
+       Policy shall include coverage for claims related to intellectual property
+      infringement, privacy violations, data breaches, information theft,            $2,000,000
+
+Amendment No. 1                                                                  Page 2 of 16
+      damage to or destruction of City Data, intentional and/or unintentional
+      release of City Data, and alteration of City Data, extortion, and network
+      security. Per Occurrence
+      Annual Aggregate                                                          $2,000,000
+      VIII. Abuse & Molestation/Sexual Misconduct Liability
+      Provided through individual policy or endorsement of other coverage. Per
+      Occurrence.                                                               $2,000,000
+      Annual Aggregate                                                          $4,000,000
+
+   In addition to the coverage and limits listed above the Contractor’s insurance must all contain
+   the following:
+
+      a. Compliance with other Insurance Policies - Contractor will remain compliant with all
+         other insurance obligations it may have pursuant to its personnel or applicable law.
+
+      b. Primary and Non-Contributory. With respect to any claims arising out of or resulting
+         from the Contractor's performance of the Agreement, Contractor's insurance must be
+         primary and non-contributory with respect to any insurance or self-insurance
+         maintained by the City. City insurance will be excess of the Contractor's insurance and
+         will not contribute with it.
+
+      c. Waiver of Subrogation. To the extent permitted by applicable policies, Contractor shall
+         cause its Commercial General Liability, Commercial Automobile Liability, Workers'
+         Compensation Liability, and Umbrella Liability insurers to waive rights of subrogation
+         against the City, its officers, officials, employees, agents, and volunteers. The
+         Contractor shall provide endorsements evidencing such waivers upon request by the
+         City.
+
+      d. Either the Commercial General Liability or the Workers’ Compensation policy must be
+         endorsed to include “Washington Stop Gap” insurance. The limits and aggregates
+         referenced must apply to the Stop Gap coverage as well and must be indicated on the
+         certificate.
+
+      e. Coverage Trigger. Contractor’s insurance must be on an “occurrence” basis rather than
+         claims made, except that Professional Liability, Cyber/Privacy Liability, and Abuse &
+         Molestation/Sexual Misconduct Liability may be written on a claims-made basis. For
+         claims-made coverage, the retroactive date shall be no later than the commencement
+         of services under this Agreement, and Contractor shall maintain continuous coverage
+         or an extended reporting period for at least three (3) years following termination or
+         expiration of this Agreement. The type of coverage must be indicated on the Certificate
+         of Insurance.
+
+      f.   Additional Insured Requirement - The City of Vancouver, its Agents, Representatives,
+           Officers, Directors, Elected and Appointed Officials, and Employees must be named as
+           additional insureds where permissible under applicable law. The required Additional
+
+Amendment No. 1                                                                 Page 3 of 16
+         Insured endorsements shall be at least as broad as ISO CG 20 10 11 85, or its equivalent
+         CG 20 10 07 04 and CG 20 37 07 04 must be included with the Certificate of Insurance.
+
+      g. Certificates - The City of Vancouver shall be listed on the Certificate of Insurance as
+         the Certificate Holder. Contractor will provide the Certificate of Insurance to City upon
+         request on an ACORD or comparable form.
+
+   All policies shall be issued by an insurance company authorized to do business as an
+   insurance company in the State of Washington.
+
+    5. Section 23 Public Disclosure Compliance is deleted in its entirety and replaced as
+       follows:
+
+       A. City Records. Any record of City business, including this Agreement, related records,
+          and City Data, is a public record under the Washington Public Records Act, codified
+          at chapter 42.56 RCW (“PRA”). City may be required to disclose this Agreement or
+          related records, including records in Contractor’s possession, pursuant to a public
+          disclosure request. For the avoidance of doubt, City requires Contractor to maintain
+          Services-related records pursuant to the Local Government CORE schedule
+          available at local-government-common-records-retention-schedule-core-v.5.0-
+          (october-2024).pdf. These records include security footage, which must be retained
+          a minimum of 30 days. City will provide third-party notice to Contractor before
+          disclosing records. Public records may be subject to exemptions from disclosure
+          under the PRA. City agrees to withhold its release of the requested records in
+          dispute for a reasonable amount of time (approximately 10 days) to allow
+          Contractor an opportunity to seek judicial protection pursuant to RCW 42.56.540 as
+          adopted or amended.
+
+          “City Data” means the data City provides to Contractor in connection with the receipt
+          of the Services and any data generated by Contractor in connection with providing
+          the Services to City. City owns all City Data. City licenses City Data to Contractor solely
+          for the purposes of providing the Services to City or improving the Services for City.
+          Contractor shall not use City Data for any other purpose, includingas artificial
+          intelligence training data. Contractor acknowledges that complying with applicable
+          laws includes compliance with all applicable federal, state, and local data protection
+          laws in its provision of the Services.
+
+       B. Public Disclosure Compliance. City will comply with the PRA in its receipt of and
+          response to any public disclosure request for responsive records related to this
+          Agreement, subject to applicable exemptions. Under RCW 42.56.060, City will have
+          no liability to Contractor for disclosure of Contractor information acting in good
+          faith pursuant to its obligations under the PRA.
+
+       C. Subpoenas. If either Party receives a subpoena requiring the disclosure of the other
+          Party’s information, that Party will notify the other party and provide a reasonable
+          time for the affected party to obtain a protective order prior to disclosing
+          information. If a Party is prohibited by a court with jurisdiction over the matter from
+          disclosing the subpoena, that Party will provide only the specific information
+          required to be released under the subpoena on the advice of counsel.
+
+Amendment No. 1                                                                   Page 4 of 16
+        D. City Data Confidentiality. Notwithstanding Section 23(A-C), Contractor will maintain
+           the confidentiality of all City Data in its possession.
+
+    6. Sections 25, 26, and 27 are deleted from the Agreement.
+
+    7. Entire Agreement. All unamended terms in the Agreement or any earlier amendment
+       remain in full force and effect. This Amendment, together with the Agreement and any
+       earlier amendments, is the entire agreement between the Parties, and supersedes any
+       other agreement or discussion between them, whether written or oral in nature.
+
+ CITY OF VANCOUVER:                                 CONTRACTOR:
+ A municipal corporation                            Do Good Multnomah
+
+
+
+ Lon Pluckhahn, City Manager                        Signature
+
+
+
+ Date                                               Printed Name /Title
+
+ Attest:
+                                                    Date
+
+ Anthony Glenn, Deputy City Clerk
+
+ Approved as to form:
+
+
+
+ Nena Cook, City Attorney’s Office
+
+
+
+
+Amendment No. 1                                                                Page 5 of 16
+                                          Attachment A
+                                          Scope of Work
+
+Phase 2: Bridge Shelter Ongoing Operations and Continuous Improvement
+
+1. Staffing and Training for Bridge Shelter Operations.
+
+1.1 The Provider shall maintain 24/7 staffing coverage with supervisory oversight. The Bridge
+    Shelter will serve individuals with high and complex needs. The Provider shall staff and train
+    appropriately to manage anticipated shelter-level acuity.
+
+1.2 Training. Contractor shall train staff in the following areas:
+        a. Trauma-informed care;
+        b. Motivational interviewing;
+        c. Harm reduction;
+        d. De-escalation;
+        e. Overdose response and Naloxone administration;
+        f. CPR and first aid;
+        g. Domestic violence awareness;
+        h. Bloodborne pathogens and OSHA requirements;
+        i. HMIS and incident documentation;
+        j. Should we also include “other trainings coordinated by City”? (Since we pay CRMH to
+           provide trainings for our whole system)
+
+1.3 Staff Minimum Abilities. Contractor staff must be able to:
+        a. Ensure site safety;
+        b. Provide for regular case management engagement;
+        c. Conduct perimeter checks;
+        d. Respond to crisis situations.
+
+1.4 When Problems Arise If patterns emerge indicating needs beyond the operational scope of a
+    congregate shelter or Contractor capacity, the Contractor shall notify the City and participate
+    in system-level planning to address service/capacity gaps.
+
+2. Referral Activities.
+
+2.1 Referral Process. Contractor shall develop a referral process to ensure effective partnerships
+   with community organizations. Contractor must receive written approval from City before
+   sharing the referral process with community organizations as described in Section X below.
+
+2.2 Referral Partnerships. After its referral process is in place, Contractor shall partner with the
+    following organizations to accept referrals for bridge shelter. City may approve additional
+    referral partners in its discretion. Contractor shall partner with any City-approved referral
+    partner. City may require Contractor to prioritize certain referrals based on City needs. :
+
+Amendment No. 1                                                                    Page 6 of 16
+        a.   HART and City encampment resolution efforts;
+        b.   Law enforcement and jail reentry coordination;
+        c.   Local hospitals and treatment facilities;
+        d.   Behavioral health providers;
+        e.   Other City approved referral partners.
+
+2.3 Prohibited Activities. Contractor shall not establish bed set-asides or referral exclusivity
+    arrangements without the City’s prior written approval.
+
+2.4 Records. Contractor shall maintain records related to the referral process that identify
+    referral source, participant characteristics, and referral/placement outcomes. Contractor
+    will make changes to include additional data in referral records upon City’s request.
+
+3. Participant Eligibility.
+
+3.1 Eligibility Criteria. Contractor shall develop participant eligibility criteria and screening
+    process criteria and provide to City for written approval before implementation. Contractor
+    shall submit any changes to these criteria for City’s written approval. For the avoidance of
+    doubt, Contractor shall not create any eligibility criteria that would have the effect of:
+    automatically disqualifying a participant for substance use, criminal history, system
+    involvement, or high service needs unless the disqualification is required by law or necessary
+    to mitigate imminent safety risk.
+
+3.2 Eligibility of persons living unsheltered in Clark County. The City and County have agreed that
+    the City will make available space to participants living unsheltered in Clark County for the
+    first four years of this SOW. Contractor may not exclude participants based on their Clark
+    County living status during this period.
+
+3.3 HUD definitions exceptions. Contractor must implement certain exceptions related to persons
+    covered under the HUD definition of literal homelessness (24 CFR 578.3), which City will
+    provide in writing.
+
+4. Participant Related Services.
+
+4.1 Code of Conduct, Participant and Community Agreements and Behavioral Accountability
+    Contractor shall develop a written code of conduct and participant and community
+    agreements and provide to City for written approval prior to implementation.
+
+4.1.1   Contractor’s Code of Conduct must:
+        a. Promote safety and mutual respect;
+        b. Outline expectations regarding cleanliness, shared spaces, and neighbor impact;
+        c. Include graduated intervention steps prior to involuntary exit when feasible.
+        d. Include process or description of opportunities for participants to provide input or
+           feedback on code of conduct or agreements.
+Amendment No. 1                                                                  Page 7 of 16
+4.2 Intake, Case Management, Stabilization (after eligibility determination)
+    Contractor shall provide strengths-based, trauma-informed, and harm-reduction-oriented
+    services to participants. Contractor’s services must include:
+        a. Intake;
+        b. Case management;
+        c. Peer support;
+        d. Housing and other systems’ navigation;
+        e. Benefits enrollment support;
+        f. Care coordination with treatment, healthcare, and other service providers;
+        g. Employment and income stabilization support where appropriate.
+        h. Other services as agreed by Parties.
+
+4.3 Ongoing Participant Engagement. Contractor may use specific planning tools in connection
+    with participants (e.g., WRAP, Independent Service Plans), however, Contractor must engage
+    with participants as part of structured stabilization efforts at least weekly. Contractor shall
+    promote appropriate next-step transitions to participants and ensure participants continue
+    to progress in their individual stability, including through goal development and
+    individualized support to modify and achieve those goals.
+
+4.4 Participant Incidents. Contractor must document and report all incidents that require
+    emergency services to City within 24 hours . However, incidents that involve serious physical
+    harm or injury and other similar incidents must be reported within four hours. Contractor
+    shall report to the City the person(s) involved, incident type, and outcome.
+
+4.5 Participant Involuntary Exits. Contractor may remove participants immediately when
+    participant behavior poses a threat to others’ safety as determined by Contractor.
+    Contractor shall document and report involuntary exits to the City within one business day
+    of the exit.
+
+5. General Operations
+
+5.1 Coordination with System Partners. Contractor shall operate the Bridge Shelter as part of a
+    coordinated system, not as an isolated program. Contractor shall coordinate with:
+
+       a.   City Safe Stay and Safe Park operators;
+       b.   City Homeless Assistance and Resources Team (HART)
+       c.   Northstar Clinic, the onsite Mobile Opioid Treatment services provider;
+       d.   Clark County Jail/jail re-entry programs;
+       e.   In-patient and outpatient facilities, including hospitals and treatment centers;
+       f.   Domestic violence service providers;
+       g.   The Southwest Washington Humane Society and other animal welfare partners;
+       h.   Council for the Homeless and Homeless Management Information System (HMIS)
+            administrators.
+
+
+Amendment No. 1                                                                   Page 8 of 16
+5.1.1 Privacy Practices. Contractor shall comply with all laws related to participant privacy and
+shall participate in case conferencing and cross-program coordination in full conformance with
+those laws.
+
+5.2 Severe Weather and Emergency Operations. Contractor shall develop a continuity-of-
+    operations plan to ensure services remain available 24 hours per day, seven days a week in
+    the event of severe weather or an emergency, including staffing emergencies. Contractor
+    shall provide this plan and any amendments to City for written approval prior to
+    implementation.
+
+5.2.1. Expanded Capacity during Severe Weather. Contractor may activate expanded capacity
+within designated areas of the Bridge Shelter during severe weather events, consistent with life-
+safety standards and City coordination. Contractor shall develop a plan for activating severe
+weather overflow capacity and provide the plan and any amendments to City for written approval
+prior to implementation. Activation criteria must align with the Clark County Severe Weather
+Taskforce (facilitated by Council for the Homeless) criteria in effect at the time of the severe
+weather event. Contractor shall inform City and the Clark County Severe Weather Taskforce of
+plan activation as soon as the Contractor decides to activate the plan.
+
+5.3 Facility maintenance, janitorial, and upkeep. The City shall retain responsibility for
+maintenance, janitorial, and upkeep of the Bridge Shelter, and may do so through in-house
+services or by contract with a third-party contractor. Contractor will be in the best position to
+timely notify the City of any maintenance or janitorial service needs at the Bridge Shelter. As
+such, Contractor must notify the City of any maintenance or janitorial service needs that it
+discovers at the Bridge Shelter within 24 hours of discovery by Contractor. Failure to timely notify
+City may constitute a material breach of this Agreement. City will provide and train Contractor
+on a maintenance/janitorial service notification system.
+
+6. Reporting.
+
+6.1 Contractor Data Collection. Contractor shall collect and maintain data sufficient to support
+    program oversight, system coordination, and reporting requirements associated with other
+    funding partners on City-provided reporting forms on or before the monthly date determined
+    by City.
+
+6.2 Databases. Contractor shall use HMIS (Homeless Management Information System) and other
+    data collection and reporting tool(s) as directed by the City. Contractor will timely enter all
+    applicable data to ensure that monthly reports are accurate.
+
+6.3 Monthly Reporting. Contractor shall provide a monthly status report in a format acceptable
+    to the City. The City may modify reporting formats or metrics to align with program goals,
+    funding requirements, or system needs at any time during the term of the Agreement and
+    Contractor will comply with all modified City reporting requirements. Contractor must submit
+    reports no later than the 5th day of the month following the month when Services were
+Amendment No. 1                                                                   Page 9 of 16
+   provided.
+
+6.3.1 Report Requirements. Contractor must consider and report on both quantitative metrics
+and qualitative insights. Contractor may not rely solely on housing outcomes as a success
+measure. The Contractor shall report the following information monthly:
+
+   a. Utilization and Population
+         i.   Number of unique individuals served;
+        ii.   Number of new admissions;
+       iii.   Bed utilization rate;
+       iv.    Average length of stay in shelter;
+        v.    Demographic information of population served (if available);
+       vi.    Percentage of persons entering from an unsheltered status;
+   b. Participant Needs (if available)
+         i.   Number of individuals with reported mental health needs;
+        ii.   Number of individuals with reported opioid and/or substance use disorders, or
+              barriers related to substance use;
+   c. Number of individuals with significant physical health needs or barriers ;Engagement
+      and Services:
+
+         I.    Number of participants engaged in case management and/or peer support;
+        II.    Number of participants accessing treatment and services provided at the Bridge
+               Shelter and/or connected to available/accessible treatment options that a
+               participant needs, desires, or prefers. Services include:
+                  a. Behavioral health;
+                  b. Substance use treatment;
+                  c. Housing navigation;
+                  d. Employment or job training;
+                  e. Benefits and documentation support;
+                  f. Transportation and other stabilization services.
+
+6.4 Exit Outcomes:
+        a. Percentage of successful exits into stable housing. Stable housing may include:
+           housing that is owned or rented by a client with or without an ongoing or temporary
+           subsidy (e.g., Permanent Supportive Housing, Rapid Rehousing, VASH), living with
+           family or friends, recovery or transitional housing;
+        b. Exit destinations, including:
+                        i. Permanent housing;
+                       ii. Supportive housing;
+                      iii. Safe Stay or other shelter;
+                      iv. Treatment or detox;
+                       v. Medical or long-term care;
+                      vi. Family reunification.
+                     vii. Incarceration or other institutional setting
+Amendment No. 1                                                              Page 10 of 16
+       c. Percentage of participants returning to unsheltered homelessness directly from the
+          bridge shelter.
+
+6.5 Kitchen and Health-Related Reporting (required by PeaceHealth funding commitment)
+        a. Monthly;
+                      i. Number of unique individuals served through food services.
+
+6.6 Quarterly/Annually (year end report)
+       a. Number of unique individuals served;
+       b. Housing outcomes;
+       c. Health-related indicators (if available);
+       d. Food insecurity indicators (if available);
+       e. Culinary and nutrition education and job training participation;
+       f. Community collaboration and volunteer engagement and hours;
+       g. Resident satisfaction;
+
+6.7 Animal Welfare Coordination:
+       a. Number and type of animals sheltered;
+       b. Number of animals receiving services through community partnerships (e.g., The
+           Humane Society for Southwest Washington). Services may include: vaccinations,
+           treatment, spay/neuter, training, etc.
+
+6.7.2 System Trends and Observations: The Contractor shall report the following information
+quarterly:
+        a. Emerging participant needs;
+        b. System gaps and barriers;
+        c. Changes in acuity;
+        d. Operational challenges;
+Recommended system improvements.
+
+7. Kitchen Management. Contractor shall manage and operate the Bridge Shelter kitchen and
+   food service program. Contractor’s kitchen operation must function not only as a food
+   service operation, but also as a programmatic asset that supports participant stability,
+   health, skill-building, and community engagement.
+
+7.1 Kitchen Operations and Management. Contractor shall:
+        a. Oversee kitchen staffing, scheduling, and daily operations;
+        b. Coordinate food sourcing, including use of community partners, food banks, and
+           purchased goods as needed;
+        c. Maintain inventory control and minimize food waste;
+        d. Develop and implement written kitchen policies and procedures.
+
+7.2 Food Service Delivery. Contractor shall:
+
+Amendment No. 1                                                              Page 11 of 16
+       a. Provide consistent access to meals and snacks for shelter participants, including at
+          least two meals per day and additional food access as needed;
+       b. Ensure food service operations comply with all applicable federal, state, and local
+          health and food safety regulations;
+       c. Maintain appropriate food handling, storage, and sanitation practices.
+
+7.3 Equipment and Facility Coordination. Contractor shall:
+       a. Use kitchen equipment only in accordance with manufacturer standards and facility
+          requirements;
+       b. Coordinate with the City regarding maintenance, repair, and replacement of kitchen
+          equipment as outlined in Section 5, above; and
+       c. Ensure compliance with any requirements required by PeaceHealth as directed by the
+          City.
+
+7.4 Participant Engagement and Skill-Building. The parties agree that participant engagement
+    and skill building will begin one year after the Effective Date. Contractor shall:
+       a. Create opportunities for participant involvement in kitchen-related activities where
+           appropriate, which may include:
+                   i.  Meal preparation support;
+                  ii.  Culinary skill-building;
+                 iii.  Nutrition education; and or
+                 iv.   Workforce development opportunities in partnership with community
+                       partners/providers.
+       b. Contractor shall not require any participant to participate in kitchen activities and
+           any participation is structured to support participant safety and program operations.
+
+7.5 Volunteers and Community Food Contributions. Contractor shall:
+        a. Develop and maintain written policies governing:
+                  i.  Volunteer involvement in food preparation or service;
+                 ii.  Acceptance and distribution of donated food;
+                iii.  Food safety compliance for externally prepared meals;
+        b. Ensure all volunteer and donation activities conform with health regulations and do
+           not disrupt core operations.
+
+7.6 Coordination and Reporting. Contractor shall:
+       a. Coordinate with the City and relevant partners regarding kitchen use, programming
+           opportunities, and reporting requirements;
+             i.   Track and report data as required, which may include meals served, participant
+                  engagement, and other metrics tied to funding or program outcomes.
+
+7.7. Kitchen Policies. Contractor shall maintain policies consistent with this Section X and
+     applicable law. Contractor and City will discuss any special events or other kitchen use and
+     Contractor will reasonably agree to City requests so long as they do not unduly interrupt
+     ongoing operations and comply with all applicable laws.
+Amendment No. 1                                                                 Page 12 of 16
+7.8 Prohibited Kitchen Use. Contractor is prohibited from using the Bridge Shelter kitchen for any
+    purpose other than those purposes approved by City.
+
+8. Community Impact Management and Neighborhood Relations. The Provider shall operate the
+   Bridge Shelter in a manner that actively manages site-related impacts and supports positive
+   relationships with the surrounding community, consistent with the City’s values and
+   expectations. Additionally, Contractor shall proactively address probable impacts associated
+   with shelter operations and participant activity. The Provider shall:
+
+8.1 Impact Monitoring and Mitigation
+           a. Conduct routine monitoring of the shelter perimeter and immediately adjacent
+              areas;
+           b. Address conditions reasonably associated with shelter operations, including litter,
+              waste, loitering, or disturbances connected to participant activity;
+           c. Maintain the exterior of the site and immediate surroundings in a clean and
+              orderly condition;
+           d. Reinforce expectations with participants regarding respectful behavior in
+              surrounding public and private spaces;
+           e. Make reasonable efforts to distinguish between shelter-related impacts and
+              unrelated community conditions, and coordinate with City to ensure appropriate
+              response.
+
+8.1.2 Coordination with City, System, and Neighborhood Partners
+
+           a.  Coordinate with the City, including HART and Public Works, and other relevant City
+              and third-party partners to address recurring or escalated concerns;
+           b. Notify City of ongoing or significant issues that may require additional response
+              or clarification;
+           c. Participate in problem-solving efforts with the City and community when patterns
+              of concern emerge, including offering meeting opportunities and attending
+              community and City meetings as needed.
+
+8.1.3 Communication and Accessibility
+          a. Maintain accessible communication channels (e.g., phone and/or email) for
+             neighbors and community members;
+          b. Ensure neighbors are informed of how to contact the Provider with concerns
+             related to the shelter;
+          c. Respond to concerns in a timely manner;
+          d. Participate in neighborhood or neighborhood association meetings, as requested
+             by the City or when appropriate to support communication and problem-solving.
+
+8.1.4 Participant Expectations
+            a. Incorporate expectations related to community impact into the shelter’s Code of
+               Conduct/Community Agreements, including:
+Amendment No. 1                                                                 Page 13 of 16
+                    i. Respect for surrounding residents, businesses, and public spaces;
+                   ii. Proper disposal of waste;
+                  iii. Compliance with site boundaries and operational expectations.
+
+8.1.5 Community Participation and Relationship-Building
+Contractor shall engage in positive community-building efforts that support integration of the
+shelter into the surrounding neighborhood. These efforts may include participation in
+neighborhood events, coordination of voluntary cleanup efforts, or other activities that foster
+constructive relationships. The Parties will work together to develop a boundary for these
+activities.
+
+Section 9. Continuous Improvement
+
+9.1 Continuous Evaluation and Improvement
+       The Parties understand that community conditions may evolve over time. Therefore, the
+         Provider shall:
+           a. Participate in ongoing evaluation of site-related impacts;
+           b. Adjust operational practices, in coordination with the City, to improve outcomes
+               for both participants and the surrounding community.
+
+Section 10. Contract Review. Contract Review
+10.1 The Parties will review the contract quarterly during the first year of this SOW, twice yearly
+in the second year of this SOW and annually in year three and beyond to review other
+opportunities for continuous improvement.
+
+
+
+
+Amendment No. 1                                                                  Page 14 of 16
+                  Attachment B
+                  Fee Schedule
+
+
+
+
+Amendment No. 1                  Page 15 of 16
+Amendment No. 1   Page 1 of 16
+

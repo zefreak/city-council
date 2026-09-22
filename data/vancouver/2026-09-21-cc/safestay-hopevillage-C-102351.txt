@@ -1,0 +1,676 @@
+                                   CITY OF VANCOUVER
+                                  SERVICES AGREEMENT
+                                       No. C-102351
+                               Safe Stay 2 Service Provider
+
+This Services Agreement (“Agreement”), effective on the date last signed below (the
+“Effective Date”) is entered by the City of Vancouver, Washington, a municipal
+corporation organized under the laws of the State of Washington ("City") and Live Love
+Outreach, a Nonprofit Corporation organized under the laws of the State of Washington
+("Contractor"). The City and Contractor are collectively referred to as the “Parties” or
+individually as a “Party”.
+
+                                         RECITALS
+
+   A. The City desires to engage the Contractor to perform Services as described
+      in this Agreement; and
+
+                                    AGREEMENT
+
+In consideration of the terms and conditions in this Agreement, the Parties agree
+as follows:
+
+1. SCOPE OF SERVICES: The Contractor agrees to provide the City with all services and
+   materials provided in the Scope of Services, attached as Exhibit A, and in the City’s
+   Solicitation, if any, and the Contractor’s responsive proposal to the City’s Solicitation,
+   if any (the “Services”). Contractor shall obtain City Project Manager’s written
+   approval prior to starting the Services.
+
+2. COMPENSATION: Payment to the Contractor for the Services described in this
+   Agreement shall not exceed $ 862,614.00 USD.
+
+   This payment shall be the maximum compensation for all Services including labor,
+   materials, supplies, equipment, and incidentals necessary to complete the Services.
+   And it shall not be exceeded without the City’s prior written authorization in the form
+   of a negotiated and executed amendment. Contractor agrees this compensation is
+   adequate and sufficient for the timely provision of all Services under this
+   Agreement.
+
+   City will limit compensation to the amount specified for each specific task and/or
+   sub-task, unless amended in writing. Contractor shall complete the Services stated
+   within the number of hours identified for each task, and/or sub-task, or for the lump
+   sum amount associated with a task. If compensation is made on an hourly basis and
+   the Services requires fewer hours than those estimated, the Contractor will be paid
+   for the actual worked hours necessary to complete that task and/or sub-task. If
+   Contractor underestimated the number of hours required to perform the Services,
+   Contractor shall be paid up to the maximum number of hours stated for the task
+   and/or sub-task. Compensation may be amended, at the City’s sole discretion, for
+   documentable circumstances not reasonably foreseeable to either party at the time
+   the task and/or subtask is initiated, or for changes to the scope of services requested
+   by City. All Deliverables (as defined in Section 6) must be acceptable to City in its sole
+   discretion.
+
+3. PAYMENT FOR CONTRACTOR SERVICES: The Contractor shall submit monthly invoices
+   to City covering both professional fees and project expenses, if any, from the previous
+   month. Invoices must be submitted to the Project Manager, Jamie Spinelli, by email
+   to jamie.spinelli@cityofvancouver.us and accpay@cityofvancouver.us or by mail to
+   City of Vancouver, Jamie Spinelli, PO Box 1995, Vancouver, WA 98668.
+
+   City shall pay Contractor within 30 days of receipt of Contractor’s invoice. The City will
+   pay Contractor pursuant to Exhibit “B.” The City may correct any invoice overpaid
+   in error.
+
+   During the life of this Agreement, and in consideration of the City’s business needs,
+   the Contractor may make requests for compensation adjustments. In consideration
+   of market conditions, the City may allow an annual adjustment to compensation paid
+   supported by the Consumer Price Index for the Seattle-Tacoma-Bellevue area for the
+   previous four quarters. Contractor shall submit the request for consideration,
+   together with supporting documentation, before the anniversary date of this
+   Agreement. The City will review the request and, at its sole discretion, make a
+   decision. If accepted, the adjustment shall become effective on the anniversary date
+   of the Agreement and will be firm for the remainder of the contracted period. All
+   adjustments will be authorized by written contract amendment
+   The Parties agree that any amount paid in error by City does not alter the fee
+   schedule. City’s contract/purchase order (PO) number on the notice to proceed must
+   be referenced on any invoice submitted for payment.
+
+4. TERM OF AGREEMENT: The term of this Agreement begins on the October 1, 2026 and
+   continues until September 30, 2031. The Parties may agree in writing to renew the
+   Agreement up to 5 additional years. However, the total term, including any
+   renewal(s), shall not exceed ten years. The term and any renewal term are
+   collectively the “Term.”
+
+5. CITY DATA; DATA SECURITY
+
+5.1 City Data. Contractor may obtain and process City Data in connection with the
+    Services. “City Data” means the data City provides to Contractor in connection with
+    the receipt of the Services and any data generated by Contractor in connection with
+    providing the Services to City. City owns all City Data. City licenses City Data to
+    Contractor solely for the purposes of providing the Services to City or improving
+    the Services for City. Contractor shall not use City Data for any other purpose,
+    including as artificial intelligence training data. Contractor acknowledges that
+    compliance with Applicable Laws under Section 17 of the Agreement includes
+    compliance with all applicable federal, state, and local data protection laws in its
+    provision of the Services.
+
+5.2 Data Security. If Contractor maintains City Data on Contractor systems it will comply
+    with the following data security requirements.
+
+   5.2.1 Security Practices. Contractor shall develop, implement, and maintain
+         appropriate administrative, physical, and technical safeguards that are
+         designed to ensure the confidentiality, integrity and availability of City Data.
+         Contractor will enact safeguards that are compliant with industry best
+         practices for the specific City Data obtained by Contractor in connection with
+         the Services.
+
+   5.2.2 Location of City Data. Contractor shall maintain City Data solely in data
+         centers located in the United States.
+
+   5.2.3 Security Breaches. A “Security Breach” is any suspected or actual
+         unauthorized access to or use of City Data in Contractor’s possession.
+
+        a. Notice. Contractor will notify City within 24 hours of any Security Breach.
+           Notice will include details regarding the Security Breach including
+           impacted parties, specific data, and mitigation. Contractor will call
+           360.487.8888 (if after hours, follow prompt to connect to on-call
+           personnel);       email     City      with     a     read      receipt     to
+           help.desk@cityofvancouver.us; and email to the City personnel contact for
+           the Agreement.
+        b. Coordination. Immediately after Contractor provides notification of a
+           Security Breach the Parties will begin working together to contain, mitigate,
+           investigate, respond to and remediate the Security Breach. Contractor will
+           cooperate with all City requests in relation to the Security Breach in
+           compliance with Applicable Law.
+        c. Root Cause Analysis. As soon as possible following the Security Breach,
+           Contractor will complete a root cause analysis and will provide a plan to
+           City for remediation and prevention.
+        d. Third-Party Notice. Contractor will work together with City to ensure
+           compliance with RCW 19.255.010 if necessary and will make no statement
+           or send notice to any third party regarding the Security Breach without
+           City’s prior written consent.
+        e. Costs. In addition to its indemnification obligations, Contractor will
+           reimburse City for all costs City incurs associated with any Security Breach,
+           including forensic investigation, costs of providing notice to impacted
+           parties, call centers and credit monitoring as applicable. Contractor will
+           pay or reimburse City for all regulatory fines and other legal costs the City
+           incurs associated with the Security Breach.
+
+6. DELIVERABLES - INTELLECTUAL PROPERTY Contractor may create documents or
+   other work product in connection with providing the Services (“Deliverables”).
+   Contractor assigns and will assign to City all right, title, and interest in and to any
+   Deliverables it creates in connection with providing the Services. Contractor may
+   retain a copy of any Deliverable for its internal business purposes. Contractor’s know-
+   how, methodologies and processes are Contractor intellectual property. Contractor
+   grants City a perpetual, irrevocable, royalty-free, worldwide license to use all
+   Contractor intellectual property in connection with the Deliverables for any City
+   purpose.
+
+7. AUDIT RIGHTS: Contractor shall maintain records of all matters related to this
+   Agreement in accordance with generally accepted accounting principles.
+   Contractor shall provide the records to City or any other governmental agency with
+   jurisdiction for audit, at such reasonable times and places as City designates.
+
+8. PUBLIC DISCLOSURE COMPLIANCE: Records relating to Agreement are subject to the
+   following:
+8.1 Confidential Information. Any record of City business, including this Agreement,
+    related records, and City Data, is a public record under the Washington Public
+    Records Act, codified at chapter 42.56 RCW (“PRA”). City may be required to disclose
+    this Agreement or related records, including records in Contractor’s possession,
+    pursuant to a public disclosure request. City will provide third-party notice to
+    Contractor before disclosing records. Public records may be subject to exemptions
+    from disclosure under the PRA. City agrees to withhold its release of the requested
+    records in dispute for a reasonable amount of time (approximately 10 days) to allow
+    Contractor an opportunity to seek judicial protection pursuant to RCW 42.56.540 as
+    adopted or amended.
+
+8.2 Public Disclosure Compliance.
+    a. City Records. Any record of City business, including this Agreement, related
+       records, and City Data, is a public record under the Washington Public Records
+       Act, codified at chapter 42.56 RCW (“PRA”). City may be required to disclose this
+       Agreement or related records, including records in Contractor’s possession,
+       pursuant to a public disclosure request. For the avoidance of doubt, City
+       requires Contractor to maintain Services-related records pursuant to the Local
+       Government CORE schedule available at local-government-common-records-
+       retention-schedule-core-v.5.0-(october-2024).pdf. These records include
+       security footage, which must be retained a minimum of 30 days. City will provide
+       third-party notice to Contractor before disclosing records. Public records may
+       be subject to exemptions from disclosure under the PRA. City agrees to withhold
+       its release of the requested records in dispute for a reasonable amount of time
+       (approximately 10 days) to allow Contractor an opportunity to seek judicial
+       protection pursuant to RCW 42.56.540 as adopted or amended.
+
+      “City Data” means the data City provides to Contractor in connection with the
+      receipt of the Services and any data generated by Contractor in connection with
+      providing the Services to City. City owns all City Data. City licenses City Data to
+      Contractor solely for the purposes of providing the Services to City or improving
+      the Services for City. Contractor shall not use City Data for any other purpose,
+      including as artificial intelligence training data. Contractor acknowledges that
+      complying with applicable laws includes compliance with all applicable federal,
+      state, and local data protection laws in its provision of the Services.
+
+   b. Public Disclosure Compliance. City will comply with the PRA in its receipt of and
+      response to any public disclosure request for responsive records related to this
+      Agreement, subject to applicable exemptions. Under RCW 42.56.060, City will
+      have no liability to Contractor for disclosure of Contractor information acting in
+      good faith pursuant to its obligations under the PRA.
+
+   c. Subpoenas. If either Party receives a subpoena requiring the disclosure of the
+      other Party’s information, that Party will notify the other party and provide a
+      reasonable time for the affected party to obtain a protective order prior to
+       disclosing information. If a Party is prohibited by a court with jurisdiction over
+       the matter from disclosing the subpoena, that Party will provide only the
+       specific information required to be released under the subpoena on the advice
+       of counsel.
+
+   d. City Data Confidentiality. Notwithstanding Section 23(A-C), Contractor will
+      maintain the confidentiality of all City Data in its possession.
+
+8.3 Subpoenas. If either Party receives a subpoena requiring the disclosure of the other
+    Party’s information, that Party will notify the other party and provide a reasonable
+    time for the affected party to obtain a protective order prior to disclosing
+    information. If a Party is prohibited by a court with jurisdiction over the matter from
+    disclosing the subpoena, that Party will provide only the specific information
+    required to be released under the subpoena on the advice of counsel.
+
+8.4 City Data Confidentiality. Notwithstanding Section 8.1-3, Contractor will maintain
+   the confidentiality of all City Data in its possession in conformance with Section 8.
+
+9. STANDARD OF CARE: Contractor shall exercise the degree of skill and diligence
+   normally employed by consultants in the same industry, performing the same or
+   similar services. Contractor will re-perform any Services that breach this provision
+   at no cost to City.
+
+10. DISPUTE RESOLUTION: City and Contractor agree to negotiate in good faith for a
+    period of 30 days from the date of notice of all disputes between them prior to
+    exercising their rights under this Agreement or under law. All disputes between City
+    and Contractor not resolved by negotiation between the Parties may be mediated
+    only by mutual agreement of both Parties. If not mutually agreed to resolve the
+    claim by mediation, the claim will be resolved by legal action. The Parties agree
+    that if litigation is necessary to enforce any of the provisions of this Agreement,
+    each party shall pay all of their own attorney fees and costs related to the litigation.
+
+11. TERMINATION FOR CONVENIENCE: City may terminate this Agreement at any time for
+    convenience. City will pay Contractor for all Services completed up to the date of
+    termination for convenience. A decision by City to terminate for convenience does
+    not waive any legal rights City has to enforce the Agreement.
+
+
+
+12. INDEMNIFICATION: Contractor shall indemnify, defend, and hold harmless City and
+    its officers, councilmembers, commissioners, employees, volunteers, and agents,
+    from any claim, liability, loss, cost, expense, suit, and damages, including attorney’s
+   fees and consulting fees relating to (a) a third party claim for intellectual property
+   infringement relating to the Contractor’s Services or the Deliverables; (b)
+   Contractor’s negligence or willful misconduct; (c) Contractor’s material breach of
+   the Agreement; (d) Contractor’s non-compliance with applicable law; (e) a third-
+   party Washington Public Records Act claim involving Contractor information; and
+   (f) Contractor’s court action to enjoin release of Contractor information under the
+   Washington Public Records Act.
+
+   City will promptly notify Contractor of a claim under this Section 12 and will provide
+   reasonable cooperation to Contractor in the defense of the claim. Contractor will
+   have control over defense and settlement of the claim, except that Contractor will
+   not enter any settlement or related agreement without City’s prior written consent.
+   Notwithstanding the preceding sentence, City may participate in the defense or
+   settlement of any claim with counsel of its own choosing.
+
+   Solely for negligence indemnification claims under (b) above, if Contractor is
+   providing architectural, landscape architectural, engineering, or land surveying
+   services as the Services under this Agreement, and Contractor and City are
+   concurrently negligent, then Contractor will be required to indemnify City only to
+   the extent of Contractor’s negligence and will have no obligation to indemnify City
+   for City’s sole negligence, pursuant to RCW 4.24.115.
+
+   If Contractor or Contractor’s employee is a licensed architect, professional
+   engineer, land surveyor, or landscape architect and the Services are related to a
+   construction project, Contractor expressly waives its industrial insurance immunity
+   under the Washington Industrial Insurance Act Title 51 RCW. Contractor
+   acknowledges this waiver has been mutually negotiated and the Parties desire to
+   incorporate this waiver pursuant to RCW 4.24.115(1)(b).
+
+13. INSURANCE: Contractor shall maintain liability insurance for all claims for damages
+    to the City, persons or property that arise from Contractor’s performance during the
+    Term of this Agreement.
+
+   Contractor shall maintain the following insurance coverage.
+                                                                          LIMITS OF
+   COVERAGE
+                                                                          LIABILITY
+   I. Commercial General Liability:
+   Policy shall include Bodily Injury, Property Damage, Personal Injury
+   and Broad Form Contractual Liability
+            Each Occurrence                                               $1,000,000
+            General Aggregate Per Occurrence                              $2,000,000
+            Products & Completed Operations Aggregate                     $2,000,000
+            Personal and Advertising Injury                               $1,000,000
+            Blanket Contractual Liability                                 $1,000,000
+   II. Commercial Automobile Liability
+   Policy shall include Bodily Injury and Property Damage for any
+   owned, hired, and/or non-owned vehicles arising from the
+   performance of this Agreement.
+            Combined Single Limit                                         $1,000,000
+   III. Workers' Compensation (applicable to the State of Washington)
+   Per Occurrence
+            Employer's Liability                                          $1,000,000
+            Disease Each Employee                                         $1,000,000
+            Disease Policy Limit                                          $1,000,000
+            Each Claim                                                    $1,000,000
+            Annual Aggregate                                              $1,000,000
+   IV. Umbrella Liability
+   Each Claim                                                             $1.000.000
+   Annual Aggregate                                                       $5,000,000
+
+In addition to the coverage and limits listed above the Contractor’s insurance must
+all contain the following:
+
+
+
+   a. Compliance with other Insurance Policies - Contractor will remain compliant
+      with all other insurance obligations it may have pursuant to its personnel or
+      applicable law.
+
+   b. Coverage Trigger - Contractor’s insurance must be on an “occurrence” basis
+      rather than claims made. This type of coverage must be indicated on the
+      Certificate of Insurance.
+
+   c. Additional Insured Requirement - The City of Vancouver, its Agents,
+      Representatives, Officers, Directors, Elected and Appointed Officials, and
+      Employees must be named as additional insureds where permissible under
+      applicable law. The required Additional Insured endorsements shall be at
+          least as broad as ISO CG 20 10 11 85, or its equivalent CG 20 10 07 04 and CG
+          20 37 07 04 must be included with the Certificate of Insurance.
+
+       d. Certificates - The City of Vancouver shall be listed on the Certificate of
+          Insurance as the Certificate Holder. Contractor will provide the Certificate of
+          Insurance to City upon request on an ACORD or comparable form.
+
+   All policies shall be issued by an insurance company authorized to do business as
+   an insurance company in the State of Washington.
+
+14. RELATIONSHIP OF THE PARTIES. The relationship of the Parties under this
+    Agreement is that of independent contractors. Contractor is solely responsible for
+    the manner, method, and means of providing the Services. Contractor and its
+    employees are not City employees and will not be entitled to or receive any benefits
+    under this Agreement. Contractor will pay all Contractor personnel and pay all
+    taxes, contributions, and benefits that may be required related to its personnel.
+    Neither Party may bind the other except as expressly stated in this Agreement.
+
+15. SUBCONTRACTING: Contractor may subcontract for Services with City’s prior written
+    approval in its sole discretion.      Contractor is solely responsible for its
+    subcontractors’ compliance with this Agreement and will pass through the terms of
+    this Agreement to all subcontractors.
+
+16. COMPLIANCE WITH APPLICABLE LAW: Contractor shall comply with all applicable
+    federal, state, and local laws, rules, and regulations (“Applicable Laws”). Contractor
+    shall modify the Services as necessary to comply with Applicable Laws.
+
+17. E-VERIFY: Contractor shall enter into and register a Memorandum of Understanding
+    with the Department of Homeland Security E-Verify program within 60 days of
+    executing this Agreement. Contractor shall ensure all Contractor employees and
+    any subcontractors assigned to perform Services under this Agreement are eligible
+    to work in the United States. Contractor shall provide compliance verification upon
+    City’s request.
+
+18. TITLE VI COMPLIANCE: Depending on the Services Contractor provides, the City may
+    use federal funds to compensate Contractor. If federal funds are used. the City,
+    Contractor, and any approved subcontractor must comply with the provisions of
+    Title VI of the Civil Rights Act of 1964, (78 Stat. 252, 42 U.S.C. 2000d to 2000d-4) (CRA)
+    and the Civil Rights Restoration Act of 1987, Pub. L. No. 100-259, 102 Stat. 28 (1988)
+   (CRRA). Contractor must confirm with City whether Title VI is applicable under this
+   Agreement.
+
+
+19. EQUAL EMPLOYMENT OPPORTUNITY: The City is an equal opportunity employer.
+    Contractor shall not discriminate against any of its employees or applicants for
+    employment on the basis of race, color, creed, religion, sex (including gender
+    identity, sexual orientation, and pregnancy), national origin, citizenship or
+    immigration status, age (40 or older), the presence of any sensory, mental, or
+    physical disability or the use of a trained dog guide or service animal by a person
+    with a disability, genetic information, honorably discharged veteran or military
+    status, or any other class protected by federal, state, or local employment
+    discrimination laws.
+
+20. ANTI-KICKBACK. City officers and employees shall not have or acquire an interest in
+    the Agreement or solicit, accept, or give any item of value from a person or entity
+    with an interest in this Agreement.
+
+21. PERMITS, LICENSES, AND CERTIFICATIONS. Contractor is solely responsible for any
+    license, permit or certificate that may be required by any federal, state or local law
+    in connection with the performance of Contractor’s obligations under this
+    Agreement, including any business license. Contractor may contact the State of
+    Washington       Business       License    Service    (BLS)    at:      800-451-7985,
+    www.bls.dor.wa.gov/cities/vancouver.aspx or visit the City’s website found at
+    www.cityofvancouver.us/businesslicense for assistance with the determination.
+
+22. COOPERATIVE PURCHASING: The Washington State Interlocal Cooperation Act,
+    chapter 39.34 RCW, authorizes public agencies to cooperatively purchase goods and
+    services if all parties agree. By executing this Agreement, Contractor agrees that
+    other public agencies may purchase goods and services under this Agreement at
+    their own cost. City will have no liability or obligation related to Contractor related
+    to that separate agency agreement. Therefore, City agrees to allow other public
+    agencies to purchase services under this Agreement so long as City is not held
+    financially or legally liable for any separate agency services received pursuant to
+    the Agreement, and that any public agency purchasing under this Agreement file a
+    copy of it in accordance with RCW 39.34.040.
+23. DEBARMENT: Contractor certifies that it is not presently debarred, suspended,
+    proposed for debarment, and declared ineligible or voluntarily excluded from
+    covered transactions by any federal, state or local department or agency.
+
+24. NOTICES: All notices will be hand delivered, certified mail, or sent by electronic mail
+    if agreed by the Parties. Notice will be effective when received if hand delivered, on
+    the delivery date if certified mail, or when an email is sent. Notice must be
+    addressed to the Parties at:
+
+      For the City:                             For the Contractor:
+      Anna Vogel                                Brian Norris
+      City of Vancouver                         Live Love Outreach
+      415 W 6th Street                          2711 NE Andresen Road
+      P O Box 1995                              Vancouver, WA 98661
+      Vancouver WA 98668-1995                   Email: briann@liveloveoutreach.com
+      Email: anna.vogel@cityofvancouver.us
+
+   Either Party may update its address for notice by giving written notice to the other
+Party.
+
+25. ASSIGNMENT. Contractor shall not assign this Agreement without the express
+    written consent of City. Any assignment in violation of this subsection is void. All
+    terms of this Agreement are binding on any assignee.
+
+26. ORDER OF PRECEDENCE: If there is a conflict between the terms of any document, the
+    order of precedence is as follows: Amendments to this Agreement; this Agreement;
+    Contractor’s responsive proposal to City’s solicitation; and City’s solicitation. The
+    Parties agree that terms included on any Purchase Order or other document provided
+    by Contractor are not part of this Agreement.
+
+27. SURVIVAL. Sections 15 - 35 will survive any termination of this Agreement.
+
+28. WAIVER. A Party’s waiver of any term of this Agreement must be in writing and
+    signed by the Party waiving compliance.
+
+29. THIRD PARTY BENEFICIARIES. There are no third-party beneficiaries under this
+    Agreement.
+30. GOVERNING LAW: This Agreement is governed by the laws of the State of Washington
+    without regard to its conflicts of laws provisions. Venue for any action arising under
+   this Agreement will be the state or federal courts for Clark County, Washington. The
+   Parties waive any claim of inconvenient forum.
+
+31. SEVERABILITY. If a court with jurisdiction over the matter determines any clause of
+    this Agreement is unenforceable, it shall revise the clause to reflect the intent of
+    the Parties as closely as possible. If revision is not possible, the Court shall strike
+    the clause and the remainder of the Agreement will remain in full force and effect.
+
+32. AMENDMENTS: Any amendments to this Agreement must be in writing and signed by
+    all Parties to this Agreement.
+
+33. ENTIRE AGREEMENT: This Agreement, together with any amendments, is the entire
+    agreement between the Parties, and supersedes any other agreement or discussion
+    between them, whether written or oral in nature.
+
+34. COUNTERPARTS. This Agreement may be signed in counterparts. Each counterpart
+    will be deemed an original and together the separate parts will form one
+    Agreement.
+
+City and Contractor enter the Agreement as of the Effective Date.
+
+ CITY OF VANCOUVER                               CONTRACTOR:
+ A municipal corporation                         Live Love Outreach
+
+
+
+ Lon Pluckhahn, City Manager                     Signature
+
+
+ Date                                            Printed Name /Title
+
+ Attest:
+                                                 Date
+
+
+ Anthony Glenn, Deputy City Clerk
+
+ Approved as to form:
+
+
+
+ City Attorney’s Office
+                                     EXHIBIT “A”:
+
+                                    Scope of Work
+
+The Contractor shall be responsible to do the following:
+
+   1. Manage the site and day-to-day operations of the supported camp site(s);
+   2. Amending a base Code of Conduct with the campsite residents to meet their
+       needs while still meeting community expectations about the site;
+   3. Enforce a Code of Conduct and identify the process for removing those
+       individuals not following the rules;
+   4. Register and track clients in the Homeless Management Information System;
+   5. Assist clients with housing navigation services as a pathway to permanent
+       housing;
+   6. Provide strengths-based and trauma informed support and engagement to
+       individuals in camp community; and facilitate/coordinate connection to other
+       community partners to provide supportive services on-site such as mental
+       health counseling, substance use treatment, legal assistance, enrollment in
+       benefits,, literacy training, medical, dental care etc.;
+   7. Manage snacks and develop and enforce policy on receiving food from outside
+       people/agencies;
+   8. Provide an ambassador to monitor activity outside the perimeter of the facility
+       to mitigate loitering around the site and help the City maintain its commitment
+       as a Good Neighbor.
+   9. Maintain timely and accurate records which reflect service levels, participant
+       characteristics, specific actions taken to assist participants, service outcomes,
+       and expenditures
+   10. Work, in partnership, with Homeless Action Response Team (HART) and other
+       City staff, regarding operational problem-solving and community
+       communications about the sites.
+
+The City of Vancouver purchases and provides to Contractor certain property for use
+at the Safe Stay. These items may include but are not limited to sheds, and appliances
+(“City Property”). The City owns City Property. Contractor is prohibited from removing
+any City Property from the Safe Stay without City’s prior written consent. Contractor
+must inform the City in writing about any City Property that becomes unusable and
+how the City Property became unusable within 15 days of the occurrence. If the City
+Property has become unusable for any reason other than normal wear and tear or
+product failure (example: carport has faulty roof that leaks) Contractor must replace
+the unusable City Property at its cost. Contractor must obtain City’s prior written
+consent for any replacement that substitutes a different brand or style for the
+unusable City Property.
+
+City will reimburse Contractor’s replacement purchase for normal wear and tear or
+product failure. City may reimburse Contractor’s other City Property replacement
+purchases in its discretion with prior written consent. For the avoidance of doubt, all
+City Property that the City has purchased and provided to Contractor prior to the date
+of this Amendment but during the Agreement is covered under this Amendment.
+Exhibit C includes the current list of City Property subject to this Amendment. The City
+may amend Exhibit C without notice to Contractor to maintain a complete list of City
+Property. The City will send Contractor a copy of Exhibit C upon any list amendments.
+
+To ensure that the program is well coordinated, City staff will hold weekly joint
+meetings with the Provider with the goal of ensuring that the City and Provider remain
+on the same page as it relates to how the sites run and address any issues in a timely
+manner. The Provider will use this opportunity to bring up any challenges faced and
+make requests of the city for desired programmatic changes. The City will provide
+feedback to the Provider, make observations as to how the program is being run and
+make recommendations to the Provider.
+
+The Provider shall have a grievance and complaint procedure. Both procedures should
+be in writing and be developed in compliance with federal law regarding
+discrimination. Such procedures should include timelines for response or action and
+shall be available to any individual requesting a copy. The grievance process should
+include informal and formal resolution of the problem, including a
+mediation/arbitration process, if needed. The City reserves the right to review and
+approve the Provider’s grievance and complaint procedures.
+
+The Provider shall meet all licensing requirements that apply to its organization.
+Agencies must license, report and pay revenue taxes for the Washington State Business
+License and City of Vancouver Business License, if they are required by the laws of
+those jurisdictions.
+
+The City will be responsible for providing the following:
+
+      1) Site locations
+      2) On-site office/storage
+      3) Utilities—water, wastewater, storm water, solid waste, electricity and gas
+         services;
+                4) Garbage and sanitation services
+                5) Portable restrooms and handwashing stations
+                6) Fencing, and
+                7) Other potential physical infrastructure needs
+
+        Performance Measures
+
+
+    Result               Indicator                    Strategy                        Measure
+Program         •   Participant retention •   Quality service delivery   •   # of participants with
+participants        rate                  •   Clean and welcoming            negative exit from site
+feel safe and   •   Resident                  facility                   •   # of residents participating
+welcome in          participation in site •   Cultural competence in         in Resident
+the program         supports                  service delivery               Council/community
+                                          •   Provider/Resident              meetings
+                                              collaboration in           •   # of residents accessing
+                                              needed/wanted                  available services on-site or
+                                              supports and services          in community
+Increased       •   Positive exits from •     Partnering with            •   # of residents accessing
+stability,          site                      community health               mental/physical/behavioral
+health and      •   Fewer contacts with       workers and other              healthcare
+wellness for        emergency services        community-based            •   # of calls to emergency
+residents       •   Increased                 service providers              services
+                    employment/income •       Providing employment       •   Conducting exit interviews
+                                              opportunities within           and follow-up with
+                                              site, and partnering           residents exiting, when
+                                              with other low-barrier         possible
+                                              employment                 •   # of residents with
+                                              opportunities                  increased income and/or
+                                                                             employment activities
+Program         •   Average length of     •   Housing –focused           •   # of exits to permanent
+participants        program stay before       program                        housing
+acquire             housing acquisition   •   Acquisition of benefits    •   Length of time in program
+permanent       •   Exits to permanent        that reduce barriers to        prior to housing acquisition
+housing             housing                   housing
+    Result              Indicator                  Strategy                        Measure
+Neighborhood •     Reduced awareness    • Behavior modification        • # of calls to police in
+crime and          of incidents related     strategies                    neighborhood related to
+disorder are       to unsheltered       • Enforcement code of             unsheltered homelessness
+not increasing     homelessness in the      conduct                    • # of security incident
+and                surrounding          • Collaborative problem           reports generated within
+community          neighborhood             solving with City             specified time period
+residents      •   Community            • Enhanced cooperation         •  Community perception of
+support            members report           with police services          safety (qualitative)
+program            feeling safe and     • Provider and residents       • # of community
+                   support the site         participate in                activities/meetings
+                                            neighborhood                  participated in
+                                            activities/neighborhood
+                                            association meetings
+        The City of Vancouver wants to ensure that its investments make a real difference in
+        the lives of the community and are aligned with practical, evidence-based outcomes.
+        The following are the City’s expectations of measures of success with these three
+        overarching goals:
+
+           1. That staff and clients work together on the primary goal of acquiring permanent
+              housing, to include all other services which help reduce and remove barriers to
+              housing.
+           2. That the site is a safe, clean, and welcoming space
+           3. That the neighborhood impacts are mitigated
+
+
+
+        Reporting
+        The Provider will be required to input client-level data, program services/activities,
+        unduplicated numbers of individuals assisted, and program outcomes in the Homeless
+        Management Information System (HMIS) and provide documentation on how the
+        Operator is either currently using or has a plan for participating in the Clark County
+        HMIS
+
+           •   The Operator will provide a monthly report, to be received no later than the 5th
+               of the month and which will include:
+                   o Total # of clients served (unduplicated)
+                   o # of services accessed by type
+                         Peer Support services
+                         Laundry Services
+                         Transportation/Local transit support
+         IDs/documentation obtained
+         Housing assessments completed
+         Other
+o   # of referrals to partner agencies, including kind of services referred to
+         Inpatient detox/treatment services
+         Medication Assisted Treatment services
+         Ongoing case management
+         Housing assistance
+         Other
+o   # of residents who obtained medical insurance
+o   # of residents accessing mental/physical/behavioral healthcare
+o   # of clients who obtained employment/increased income
+o   # of housing assessments completed
+o   # of successful outcomes to housing and breakdown of housing
+    type/program referred to
+o   # of clients barred or discharged from program
+o   Average length of stay in program prior to housing acquisition
+o   Demographics
+         # of male clients
+         # of female clients
+         # of transgender and/or non-binary clients
+         # of couples living together
+         Racial breakdown
+         Breakdown by age
+o   # of activities to promote health and wellness, and client stability
+o   # of community engagement/connection activities and description of
+    those activities
+o   # of calls for emergency services to site and description
+o   List of trainings participated in by staff and/or residents
+o   Qualitative summary which includes:
+         A review of the month
+         Two stories of success
+         Two challenges
+         Steps to be taken to address challenges
+         Any support needed from the City
+ EXHIBIT “B”:
+Fee Schedule
+                                      EXHIBIT “C”:
+                                     City Property
+
+-   Tents
+-   Sheds
+-   Security Cameras
+-   Spare pallet supplies including: air conditioners, heaters, mattresses, box springs,
+    smoke detectors/carbon detectors.
+

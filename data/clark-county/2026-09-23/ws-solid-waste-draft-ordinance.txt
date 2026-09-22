@@ -1,0 +1,194 @@
+ 1                                ORDINANCE NO.
+ 2
+ 3   AN ORDINANCE amending Clark County Code related to solid waste and recycling, including
+ 4   sections CCC 2.37.030 through 2.37.040, CCC 24.12.370 through 24.12.380, and CCC 24.12.130,
+ 5   to align the code with current organizational structure, state regulatory requirements, and program
+ 6   administration.
+ 7          WHEREAS, maintaining the accuracy, consistency, and usability of the Clark County
+ 8   Code is essential to ensure that solid waste requirements remain clear, enforceable, and aligned
+ 9   with current state law and administrative practice; and
+10          WHEREAS, in March 2025, Solid Waste Operations and Solid Waste Education and
+11   Outreach programs were formally transferred from the Public Health Department to the Public
+12   Works Department, necessitating updates to Clark County Code to reflect current departmental
+13   responsibilities and program oversight; and
+14          WHEREAS, Ordinance No. 2017-09-10, later codified in CCC 24.12.130, established a
+15   temporary $1.43 per-ton solid waste tipping fee to support essential solid and hazardous waste
+16   assessment, response, and mitigation services, and this fee is no longer necessary under the revised
+17   administrative structure mutually established by Public Health and Public Works following the
+18   2025 transfer of solid waste functions; and
+19          WHEREAS, in 2022 the Washington State Legislature enacted Engrossed Second
+20   Substitute House Bill (ESSHB) 1799, codified in Chapter 43.19A RCW, requiring counties to
+21   adopt compost procurement measures, and Clark County subsequently adopted the required
+22   procurement, education, outreach, and reporting provisions in 2023; and updates by the
+23   Washington State Department of Ecology to statewide reporting timelines, combined with
+24   Ecology’s authorization to address compost education and reporting requirements through the
+25   local solid waste management plan, necessitate revision of CCC 2.37.030 and the rescission of
+26   corresponding sections of CCC 24.12; and
+27          WHEREAS, the Council is considering these matters at a duly advertised public hearing
+28   and finds that adoption of this ordinance will further the public health, safety, and welfare; now,
+29   therefore,
+30
+
+
+     Ordinance No.: xxxx-xx-xx                                                                Page 1 of 6
+     CCC Title       Amendments
+ 1          BE IT ORDERED, RESOLVED AND DECREED BY THE CLARK COUNTY
+ 2   COUNCIL, STATE OF WASHINGTON, AS FOLLOWS:
+ 3
+ 4          Section 1. Amendatory. Sec. 13 of Ord. 1978-02-01 as most recently amended by Sec.
+ 5   1 of Ord. 2017-09-10 and codified as CCC 24.12.130 are each amended to read:
+ 6          24.12.130 Fees.
+ 7          The jurisdictional board of health may establish reasonable fees for permits and renewal
+ 8          of permits. All permit fees collected by the jurisdictional board of health shall be
+ 9          deposited in the county treasury and to the account from which Clark County public
+10          health’s operating expenses are paid. In addition to such application fee, any permit
+11          issued hereunder shall be conditioned upon payment of a reasonable operations fee set by
+12          the jurisdictional board of health upon the recommendation of the solid waste advisory
+13          commission in an amount sufficient to cover the estimated costs to the county and the
+14          jurisdictional board of health in monitoring compliance with the requirements of this
+15          chapter and the permit. The county and the jurisdictional board of health shall by
+16          interlocal agreement provide for the distribution of the application and operation fees in
+17          accordance with the services provided by each.
+18
+19          ((In August, 2017, the jurisdictional board of health adopted, by ordinance, an amended
+20          tipping fee for solid waste disposal. The amended fee schedule is attached as Exhibit “A”.
+21          Exhibit “A” is on record with the Clark County Clerk.))
+22
+23          Section 2. Amendatory. Changes to Section 2.37.030 of the Clark County Code to read
+24   as follows:
+25          Section 2.37.030 Compost Procurement Policy
+26          General Policy. The County shall develop and maintain a procurement policy and plan for
+27          the purchase and use of compost materials.
+28                 (1) Before issuance of a solicitation for bids or proposals departments shall consider
+29                    whether compost can be utilized in a county project as required in
+30                    RCW 43.19A.120. In the event that a department identifies that compost can be
+31                    utilized, compost shall be specified for use on the project.
+     Ordinance No.: xxxx-xx-xx                                                                   Page 2 of 6
+     CCC Title       Amendments
+ 1              (2) Departments shall plan for the use of compost in any of the following categories
+ 2                  that are applicable to the departments’ operations and project types:
+ 3                     (a) Landscaping projects;
+ 4                     (b) Construction and post construction soil amendments;
+ 5                     (c) To prevent erosion, filter stormwater runoff, promote vegetative growth, or
+ 6                         improve the stability and longevity of roadways in accordance with Clark
+ 7                         County Development Code Title 40; and
+ 8                     (d) Low-impact development and green infrastructure either to filter pollutants
+ 9                         or keep water onsite, or both in accordance with Clark County Stormwater
+10                         Manual, 40.386.020.
+11              (3) Notwithstanding subsections (1) and (2) of this section, departments are not
+12                  required to use compost products if:
+13                      (a) Compost product availability or delivery timelines would unreasonably
+14                          delay the project schedule, including delays affecting critical path work;
+15                          ((products are not available within a reasonable time or distance from the
+16                          project));
+17                      (b) Compost products that are available do not comply with existing
+18                          purchasing standards;
+19                      (c) Compost products that are available do not comply with federal, state, or
+20                          local health, quality and safety standards;
+21                      (d) Compost purchase prices are not reasonable or competitive; or
+22                      (e) The terms of this section are in conflict with current state or federal
+23                          regulatory guidance.
+24              (4) Departments that use compost shall report the following information to the Clark
+25                  County Solid Waste and Recycling Division ((Public Health, Solid Waste
+26                  Program)), by March 1 of each year. This report shall include: ((each December
+27                  15))
+28                      (a) The volume and cost of compost purchased by the department or awarded
+29                          contractor in the previous ((that)) year; and
+30                      (b) The source or sources of the compost purchased by the department in that
+31                          year. (Sec. 2 of Ord. 2023-03-06)
+     Ordinance No.: xxxx-xx-xx                                                                  Page 3 of 6
+     CCC Title       Amendments
+ 1        Section 3. Amendatory. Changes to Section 2.37.040 of the Clark County Code to read as
+ 2   follows:
+ 3           Section 2.37.040 Compost Procurement
+ 4           Clark County Purchasing is responsible for:
+ 5              (1) Collaborating with departments to utilize specifications for compost products in
+ 6                  the use of sourcing and executing contracts for compost products; and
+ 7              (2) Assisting the Clark County Solid Waste and Recycling Division ((Public Health,
+ 8                  Solid Waste Program)) in annual reporting by providing information about
+ 9                  compost contracts.
+10
+11           Section 4. Retraction. Rescinding in its entirety Section 24.12.370 of the Clark County
+12   Code:
+13           ((Section 24.12.370 Education and outreach.
+14           The Clark County public health solid waste program is responsible for:
+15                  (1) Providing technical assistance and education regarding the use of compost to
+16                  Clark County departments and staff;
+17                  (2) Conducting educational outreach to inform residents about the value of
+18                  compost and how Clark County uses compost in its operations each year; and
+19                  (3) Reporting the total estimated tons of organic material diverted from the
+20                  Clark County waste stream because of compost use under this chapter. ))
+21
+22              Section 5. Retraction. Rescinding in its entirety Section 24.12.380 of the Clark
+23   County Code:
+24           (( 24.12.380 Compost reporting.
+25           The Clark County public health solid waste program is responsible for compiling and
+26           submitting the report required by RCW 43.19A.150 to the Washington State Department
+27           of Ecology by December 31, 2024, and each December 31st of even numbered years
+28           thereafter, with the following information:
+29                  (1) The total tons of organic material diverted from the Clark County waste
+30                  stream throughout the year;
+
+
+     Ordinance No.: xxxx-xx-xx                                                              Page 4 of 6
+     CCC Title       Amendments
+ 1                    (2) The volume and cost of compost purchased in the reporting period by the
+ 2                    county; and
+ 3                    (3) The source or sources of the compost purchased by the county or others
+ 4                    under this chapter in that reporting period. ))
+ 5
+ 6             Section 6. Effective Date. This ordinance shall be effective on January 1, 2027.
+ 7
+ 8             Section 7. Instructions to Clerk. The Clerk of the Council shall:
+ 9                1. Transmit a copy of this ordinance to the Clark County Assessor, Clark County
+10                    Treasurer, Clark County Auditor, Public Works Director, Public Health Director
+11                    and the Director of the Budget Office.
+12                2. Cause notice of adoption of this Ordinance to be published forthwith, pursuant to
+13                    Clark County Code 1.02.140.
+14                3. Provide a copy of this Ordinance to Code Publishing.
+15
+16             Section 8. Roll Call Vote. The following persons voted in favor of the above ordinance
+17   amendment:
+18
+19
+20
+21             The following persons voted in opposition to the above ordinance amendment:
+22   _____________________________________________________________________.
+23
+24             ADOPTED on this           day of                             ,      .
+25
+
+26                                                   COUNTY COUNCIL
+27                                                   CLARK COUNTY, WASHINGTON
+
+28   Attest:
+29
+30                                                   By:
+     Ordinance No.: xxxx-xx-xx                                                               Page 5 of 6
+     CCC Title       Amendments
+ 1   Clerk to the Council                Sue Marshall, Chair
+ 2
+ 3
+ 4   Approved as to Form Only:     By:
+ 5   ANTHONY F. GOLIK                    Glen Yung, Councilor
+ 6   Prosecuting Attorney
+ 7
+ 8   By:                           By:
+ 9   Katie L. Jolma                  Michelle Belkot, Councilor
+10   Deputy Prosecuting Attorney
+11
+12                                 By:
+13                                       Wil Fuentes, Councilor
+14
+15
+16                                 By:
+17                                       Matt Little, Councilor
+18
+19
+
+
+
+
+     Ordinance No.: xxxx-xx-xx                                    Page 6 of 6
+     CCC Title       Amendments
+

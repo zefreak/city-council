@@ -1,0 +1,1224 @@
+2025 Consolidated Annual
+Performance and Evaluation
+Report
+September 2026
+              These funds and programs are overseen by City
+                      of Vancouver’s Housing Team:
+                        Samantha Whitley, Housing Programs Manager
+                         Bryan Monroe, Associate Housing Coordinator
+                           Ian Alger, Associate Housing Coordinator
+                           Tasha Slater, Senior Housing Coordinator
+                       Justin Ventura, Housing Rehabilitation Specialist
+
+
+              With support and direction from the Economic
+                  Prosperity and Housing Department:
+                        Patrick Quinton, Economic Development Director
+                     Chris Harder, Deputy Economic Development Director
+             Victor Saldanha, Small Business & Entrepreneurship Program Manager
+                               Andrew Westlund, Financial Analyst
+                              Callie Taylor, Administrative Assistant
+
+
+                  Under the authority and oversight of the
+                          Vancouver City Council:
+                                  Mayor Anne McEnerny-Ogle
+                                 Councilmember Kim D. Harless
+                                  Councilmember Erik Paulsen
+                                 Councilmember Diana H. Perez
+                                  Councilmember Bart Hansen
+                                   Councilmember Ty Stober
+                                  Mayor Pro Tem Sarah J. Fox
+
+
+
+
+CITY OF VANCOUVER | 2025 CAPER                                                    2
+Introduction
+The City of Vancouver is pleased to present its 2025 Consolidated Annual Performance and
+Evaluation Report (CAPER). The CAPER is a requirement for U.S. Department of Housing and
+Urban Development (HUD) funding.
+
+Each year, the City receives Community Development Block Grant (CDBG) and HOME
+Investment Partnerships Program (HOME) funding through HUD as an entitlement jurisdiction.
+This report provides a comprehensive evaluation of the City’s progress toward meeting the goals
+and objectives outlined in the 2024-2028 Consolidated Plan, detailing the use of federal funds to
+address the identified housing and community development needs during the program year.
+
+In 2025, Vancouver continued to build upon its commitment to enhancing the quality of life for
+all residents by investing in affordable housing, supporting community development initiatives,
+and fostering economic opportunities. This CAPER shares the results of those investments and
+how they respond to the needs and priorities voiced by our community.
+
+This report also provides a snapshot of the challenges encountered over the past year,
+underscoring the City’s dedication to transparency and accountability in the administration of
+federal resources. Vancouver remains steadfast in its values and continues to use CDBG and
+HOME funding toward focus areas that align with HUD: supporting economic opportunity,
+housing and human needs, and vibrant neighborhoods.
+
+This report layout and information provided is determined by HUD and this report will be
+submitted online through HUD’s Integrated Disbursement and Information System (IDIS), which
+dictates the formatting and structure.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                              3
+CR-05 - Goals and Outcomes
+Progress the jurisdiction has made in carrying out its strategic
+plan and its action plan. 91.520(a)
+The City of Vancouver’s Community Development Block Grant (CDBG) and HOME Investment
+Partnerships (HOME) programs strive to provide a coordinated approach to addressing
+community needs. The programs are administered by the Economic Prosperity & Housing (EPH)
+Department, which partners with internal city departments, Clark County, Vancouver Housing
+Authority, and valuable nonprofit organizations that carry out these activities. This 2025 CAPER
+represents the second year in the 2024-2028 City of Vancouver Consolidated Plan.
+
+In program year (PY) 2025 (July 1, 2025 - June 30, 2026), City of Vancouver expended
+$1,678,783.65 in CDBG funds, and $723,477.59 in HOME funds. Additionally, $286,033.93 in HOME
+American Rescue Plan (HOME ARP) funds, allocated as part of the 2021 Action Plan, were
+expended for homelessness supportive services.
+
+In addition to CDBG and HOME funding, the City of Vancouver used local funding available
+through a voter approved property tax levy to construct and preserve affordable housing and
+provide temporary shelter, rental assistance, and homeownership opportunities for households
+with low to moderate income. The Affordable Housing Fund (AHF) levy was renewed and
+increased in 2024 by Vancouver voters and generates $10 million per year for ten years.
+
+The City also was awarded Washington State Home Electrification and Appliance Rebate (HEAR)
+funds to boost the outcomes of our HUD-funded Homeowner Rehabilitation program, and
+Connecting Housing to Infrastructure Program (CHIP) funding to assist with the cost of utility
+work and system development charges for new affordable housing.
+
+In PY2025, the City of Vancouver made a payment of $276,286 toward the principal and interest
+on its 2010 Section 108 loan for the Waterfront Access project. This loan is scheduled to mature
+on August 1, 2029. The Waterfront Access project is designed to enhance public access to the
+riverfront, supporting the community’s ability to utilize and enjoy waterfront resources.
+
+The City also used 2025 CDBG funds to make principal and interest payments totaling
+$312,627.31 on its second Section 108 loan, which was issued for the Fourth Plain Commons
+Community Center. The loan amount of $4,199,000 supported the opening of this facility in
+September 2023. The Fourth Plain Commons provides economic development opportunities
+with a commercial kitchen, community services and gathering space, which contributes to
+neighborhood vitality and provides essential resources for residents.
+
+In 2025, the goals and outcomes of the City’s programs continue to be impacted by steep
+inflation, increased cost of labor and materials, and increased interest rates for financing. Many
+of the City’s CDBG and HOME supported projects continued to see slower progress or fewer
+outcomes as organizations adjust to higher cost of living. The City continued to support its most
+vulnerable residents during this time.
+
+The CAPER provides a summary of the accomplishments and people assisted with CDBG and
+HOME funds during PY2025, including activities with funding from prior years.
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                                 4
+   Comparison of the proposed versus actual outcomes for each
+   outcome measure submitted with the consolidated plan and
+   explain, if applicable, why progress was not made toward meeting
+   goals and objectives. 91.520(g)
+                                                 Expected
+                                     Unit of      5 Year        Percent    Actual Expected     Actual
+     Goal            Indicator      Measure      Outcomes      Complete PY24        PY25        PY25
+                Rental units       Housing
+                                                     100         0.00%        0       20         0
+                constructed        Unit
+                Rental units       Housing
+                                                      50         0.00%        0        -          -
+                rehabilitated      Unit
+                Homeowner          Housing
+                                                      10         0.00%        0        -          -
+                Housing Added      Unit
+Affordable      Homeowner
+                                    Housing
+Housing*        Housing                               35        40.00%        9      18          5
+                                    Unit
+                Rehabilitated
+                Financial
+                Assistance to       Households        10        200.00%       8        0         12
+                Homebuyers
+                Tenant-based
+                                    Households       250        28.40%       39      52          32
+                rental assistance
+Economic        Businesses          Businesses
+                                                     600        72.33%       194     125         240
+Opportunity     assisted            Assisted
+                Public service      Persons
+                                                    20,000      17.89%      3,332   2,455        246
+                activities          Assisted
+                Homeless Person Persons
+Housing                                              200         0.00%        0        -          -
+                Overnight Shelter Assisted
+Stability,      New Overnight
+Poverty         Shelter/
+                                    Beds             250         0.00%        0        -          -
+Reduction       Transitional
+                Housing
+                Homelessness        Persons
+                                                      50         0.00%        0        -          -
+                Prevention          Assisted
+Neighborhood    Public Facility or
+                                    Persons
+Equity and      Infrastructure                      5,000       284.18% 14,209         -          -
+                                    Assisted
+Livability      Activities
+                 Table 1 - Accomplishments – Program Year & Strategic Plan to Date
+
+   *This outcome table does not include the number of people who were experiencing
+   homelessness and served through HOME-ARP funding, which was part of the 2021 Consolidated
+   Plan and Annual Action Plan. In PY2025, HOME-ARP assistance served an additional 64
+   households through coordinated outreach and housing navigation with rental assistance.
+
+
+
+
+   CITY OF VANCOUVER | 2025 DRAFT CAPER                                                      5
+In 2025, results varied across programs, with some services exceeding expectations and others
+falling short. The differences often reflect project timing, demand shifts, and program
+implementation factors.
+
+Affordable Housing & Homelessness
+    • Rental Units Constructed (0% of goal): One project was expected to use HOME funding
+       for the creation of new rental units, however, the developer returned the award due to
+       federal requirements, particularly around the Build America Buy America Act (BABA).
+    • Rehabilitated & Homeowner Housing Added: No applications were received for these
+       activities during the 2025 application cycle. These projects typically request local
+       Affordable Housing Funds, which are less restrictive than federal dollars.
+    • Homeowner Housing Rehabilitated (28% of goal): The goal was to rehabilitate 18 units,
+       but only 5 units were completed. The City prioritized the use of ARPA funds for mobile
+       home rehabilitation in the Fourth Plain area, which delayed the use of HOME funds in
+       this program. While HOME rehabilitation outcomes were lower this year, the City
+       exceeded its rehabilitation goals last year and anticipates making significant progress
+       again in 2026 as HOME-funded projects resume.
+    • Financial Assistance to Homebuyers (150% of goal): A 2023 subrecipient was delayed due
+       to some of the federal restrictions that required substituting home sales and contract
+       amendments. This resulted in the outcome of 12 households being served this contract
+       year.
+    • Tenant-Based Rental Assistance (62% of goal): Partners report that households require
+       longer-term support for both rental assistance and case management for housing
+       stability in the current economic environment.
+
+Economic Opportunity
+   • Businesses Assisted (192% of goal): Performance exceeded expectations. The goal was
+      not met in PY2024 due to a delayed HUD grant agreement and a portion of the outcomes
+      expected in 2024 were achieved in 2025.
+
+Housing Stability & Poverty Reduction
+   • Public Service Activities (10% of goal): Performance in this category was lower than
+      anticipated due to a revised outcomes methodology for one contract. Staff identified
+      that the subrecipient's proposed outcomes counted people who received no direct
+      service, which significantly overstated the number they expected to serve. Prior to
+      contract execution, staff corrected the scope and outcome targets to count only those
+      who received direct assistance, and the outcomes reflect this corrected count.
+   • Homeless Person Overnight Shelter, New Beds, Homelessness Prevention: No
+      applications were received for these activities during the 2025 application cycle. These
+      projects typically request local Affordable Housing Funds, which are less restrictive than
+      federal dollars.
+
+Neighborhood Equity & Livability
+   • Public Facility/Infrastructure Activities: No applications were received during the 2025
+      application cycle. This goal has been met for the 5-year Consolidated Plan goal through
+      the outcomes achieved by the Fourth Plain Community Commons Section 108
+      investment.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            6
+Assess how the jurisdiction’s use of funds, particularly CDBG,
+addresses the priorities and specific objectives identified in the
+plan, giving special attention to the highest priority activities
+identified.
+The primary focus of Vancouver's efforts during this cycle has been on activities aimed at
+supporting individuals with low to moderate income. The City uses CDBG and HOME funding to
+facilitate access to stable, affordable housing and economic growth. These federal funds have
+been directed towards various critical areas, including:
+
+   •   Affordable Housing: Investments made to increase the availability and preservation of
+       affordable housing, particularly homeownership. CDBG funding is critical to these
+       activities and is also used toward housing stability case management services to support
+       HOME rental assistance funding, which is used for rapid rehousing programs, to help
+       reduce homelessness.
+
+   •   Housing Stability: Although CDBG allows for a wide range of Public Service activities that
+       serve people with low to moderate income, the City targets this funding toward housing
+       support.
+
+   •   Economic Opportunity: Support for small businesses has been a key area, helping to
+       boost economic stability and growth within the community. These funds also support
+       capacity building for Community Based nonprofits that support local communities.
+
+Overall, these activities are designed to provide essential resources and support to those in
+need, aligning with Vancouver’s commitment to addressing and alleviating issues related to
+housing stability and economic security.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            7
+CR-10 - Racial and Ethnic composition of
+families assisted
+                                                              CDBG            HOME
+         White                                                      164               48
+         Black or African American                                   71                4
+         Asian                                                         4               0
+         American Indian or American Native                            7               0
+         Native Hawaiian or Other Pacific Islander                   56                4
+         Total                                                      302               56
+         Hispanic                                                    40                1
+         Not Hispanic                                               262               55
+        Table 2 – Table of assistance to racial and ethnic populations by source of funds
+
+Narrative
+Beneficiary demographics are accurately updated by City staff in IDIS each quarter based on
+partner agency reports for CDBG and HOME activities. The numbers in the table above,
+generated by HUD’s IDIS system, continue to inaccurately reflect the individuals served
+throughout the program year. One discrepancy to note is that the race categories shown in this
+CAPER reporting template do not include "Multi racial" or "Other" races although this is
+captured in IDIS.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                             8
+CR-15 - Resources and Investments 91.520(a)
+     Source of Funds              Source           Resources Made            Amount Expended
+                                                      Available             During Program Year
+  CDBG                    public - federal                 $1,689,308                 $1,678,784
+  HOME                    public - federal                 $1,258,035                   $723,478
+  HOME ARP                public - federal                   $620,000                   $286,034
+                             Table 2 - Resources Made Available
+
+Narrative
+Resources made available in 2025 do not align with the amount expended due to overlapping
+program years and contract timelines. In addition, expenditures shown include program income,
+which HUD requires be spent before entitlement funds. HOME-funded homebuyer assistance
+activities awarded in previous program years had a delayed start while new agency partnerships
+were established and environmental reviews were completed. Additionally, the 2025 HOME-
+awarded rental housing development project did not proceed and will return the HOME funds
+due to Build America, Buy America (BABA) requirements. Two HOME-ARP programs that were
+scheduled to start PY2025 had a delayed start due to completing previous year’s contracts and
+meeting federal requirements.
+
+Identify the geographic distribution and location of investments
+        Target Area        Planned Percentage      Actual Percentage of     Narrative Description
+                              of Allocation             Allocation
+  N/A
+            Table 3 – Identify the geographic distribution and location of investments
+
+Narrative
+The City of Vancouver does not allocate funding on a geographic basis. All activities are
+provided within city limits.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            9
+   Leveraging
+   The City of Vancouver assists partner agencies in applying for available funding to leverage
+   other resources to implement housing strategies and programs. The City has established a
+   network of partners from the private lending community, financial experts, and private and
+   nonprofit housing developers and consultants who can provide technical expertise in packaging
+   development proposals. The City of Vancouver provides letters of support and verification of
+   consistency for partner agency project applications, which support the goals and objectives
+   found in the City's Consolidated Plan.
+
+   The City’s CDBG and HOME application processes encourage leveraging by awarding
+   competitive points for projects that demonstrate secure matching funds. This approach supports
+   the City’s broader strategy of maximizing federal investments through coordinated use of local,
+   state, and private resources.
+
+   In PY2025, the City’s HOME Program continued to comply with 24 CFR 92.218. The IDIS PR33
+   report identifies a match liability of $112,028, reflecting the annual 25 percent matching
+   requirement. TBRA and homeownership activities also leverage state and private resources that
+   support tenants and homebuyers, including contributions toward program operations.
+
+   During PY2025, activities were removed and closed out from previous years, resulting in
+   leverage totals that differed from initial expectations. A 20-unit rental housing project awarded
+   HOME funds was withdrawn by the developer due to added costs associated with BABA
+   compliance requirements. Additionally, a PY2023 HOME funded homebuyer assistance activity
+   experienced delays while partnerships were established and required environmental reviews
+   were completed; however, the activity was successfully completed and recorded in PY2025.
+
+   HOME funds were also awarded to two tenant based rental assistance (TBRA) programs that
+   generated eligible match contributions. Because the City continues to maintain substantial
+   excess match, no additional HOME match will be documented for the current program year.
+
+                                     Fiscal Year Summary – HOME Match
+      1. Excess match from prior Federal fiscal year                                           $2,246,476
+      2. Match contributed during current Federal fiscal year                                           0
+      3. Total match available for current Federal fiscal year (Line 1 plus Line 2)            $2,246,476
+      4. Match liability for current Federal fiscal year                                        $112,028
+      5. Excess match carried over to next Federal fiscal year (Line 3 minus Line 4)           $2,134,448
+                           Table 4 – Fiscal Year Summary - HOME Match Report
+
+
+
+                            Match Contribution for the Federal Fiscal Year
+Project    Date   Cash       Foregone Appraised Required                Site Prep,     Bond          Total
+No. or            (non-      Taxes,      Land/Real Infrastructure Material,            Financing     Match
+Other ID          Federal)   Fees,       Property                       Donated
+                             Charges                                    labor
+N/A        N/A     $0.00     $0.00       $0.00        $0.00             $0.00          $0.00         $0.00
+                        Table 5 – Match Contribution for the Federal Fiscal Year
+
+
+
+
+   CITY OF VANCOUVER | 2025 DRAFT CAPER                                                               10
+                                        Program Income
+  Balance on hand    Amount received Total amount           Amount             Balance on hand
+  at beginning of    during reporting    expended during    expended for       at end of
+  reporting period   period              reporting period*  TBRA*              reporting period
+        $49,174.73          $68,503.09          $117,751.26   $117,751.26                     $0
+                                  Table 7 – Program Income
+
+*The expenditure totals in this report include three reimbursements from August 3, 2026, in the
+amounts of $73.44, $21,128.04 and $20,688.78. Although these draws occurred after the close of
+the program year (June 30, 2026), all costs were incurred and reimbursed within PY2025, which
+makes including them the most accurate representation of actual PY2025 project activity. IDIS
+does not allow the selection of a prior program year for HOME draws, so the system-generated
+IDIS reports will not perfectly align with this program income report. The amounts shown here
+reflect the full set of HOME-eligible expenses reimbursed for PY2025, including draws processed
+after the program year closed.
+
+Table 6 - Minority Business and Women Business Enterprises.
+
+Since HOME funding was only invested in TBRA and homebuyer assistance, there are no Minority
+Business nor Women Business Enterprises contracts or dollar amounts to report for construction
+projects completed during the program year.
+
+
+Table 7 – Minority Owners of Rental Property.
+
+Information on rental property owner demographics is not collected through the TBRA
+programs so there is no data to present for the Minority Owners of Rental Property table.
+
+
+                             Relocation and Real Property Acquisition
+                                                                     Number                Cost
+  Parcels Acquired                                                       12            $254,966
+  Businesses Displaced                                                    0                  $0
+  Nonprofit Organizations Displaced                                       0                  $0
+  Households Temporarily Relocated, not Displaced                         0                  $0
+                     Table 8 – Relocation and Real Property Acquisition
+
+HOME funds were used in 2025 to assist 12 first-time homebuyers in purchasing an affordable
+residence. All homes were purchased from the Vancouver Housing Authority transitioning their
+scattered site rental homes to ownership. No households nor businesses were displaced by these
+purchases.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                         11
+CR-20 - Affordable Housing 91.520(b)
+Evaluation of the jurisdiction's progress in providing affordable
+housing, including the number and types of families served, the
+number of extremely low-income, low-income, moderate-income,
+and middle-income persons served.
+                                                  One-Year Goal                  Actual
+
+  Number of Homeless households to be
+  provided affordable housing units                                72                         32
+  Number of Non-Homeless households to
+  be provided affordable housing units                             18                         17
+  Number of Special-Needs households to
+  be provided affordable housing units                              0                          0
+  Total                                                            90                         49
+                              Table 9 – Number of Households
+
+
+
+                                                  One-Year Goal                  Actual
+
+  Number of households supported
+  through Rental Assistance                                     52                            32
+  Number of households supported
+  through The Production of New Units                           20                             0
+  Number of households supported
+  through Rehab of Existing Units                               18                             5
+  Number of households supported
+  through Acquisition of Existing Units                          0                            12
+  Total                                                         90                            49
+                          Table 10 – Number of Households Supported
+
+
+
+Discuss the difference between goals and outcomes and problems
+encountered in meeting these goals.
+In PY2025, some programs did not meet their established goals due to a combination of market
+challenges, regulatory barriers, and shifts in funding availability.
+
+For Rental Assistance, the goal was to support 52 households, however, only 32 households were
+assisted. All households served in the TBRA program are experiencing homelessness at time of
+enrollment. Providers report that rent costs continue to rise and households are requiring longer
+periods of support to maintain housing stability. As a result, funds that were expected to serve
+additional households were instead used to extend assistance for existing clients, reducing
+overall throughput.
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                           12
+For the Production of New Units, the goal was to produce 20 units, but 0 units were completed.
+Community Roots chose not to move forward with using HOME funds for the Mill Plain project
+due to Build America, Buy America (BABA) requirements. This compliance barrier directly limited
+progress toward production goals and prevented HOME-funded unit creation in PY2025.
+
+For Rehabilitation of Existing Units, the goal was to rehabilitate 18 units, but only 5 units were
+completed. The City prioritized the use of ARPA funds for mobile home rehabilitation in the
+Fourth Plain area, which delayed the use of HOME funds in this program. While HOME
+rehabilitation outcomes were lower this year, the City exceeded its rehabilitation goals last year
+and anticipates making significant progress again in 2026 as HOME-funded projects resume.
+
+For Acquisition of Existing Units, a PY2023 subrecipient was delayed due to some of the federal
+restrictions that required substituting home sales and contract amendments. This resulted in the
+outcome of 12 households being served during PY2025.
+
+Overall, the primary barriers affecting program performance included rising costs, increased
+support for households, federal compliance requirements, and shifts in funding sources that
+changed the timing of HOME expenditures.
+
+
+Discuss how these outcomes will impact future annual action
+plans.
+The outcomes achieved in PY2025 and the Consolidated Plan will directly inform future Annual
+Action Plans and the strategies used to implement housing goals more effectively. While
+affordable housing remains a top priority for the City of Vancouver, this year’s performance
+highlights several areas where adjustments are needed.
+
+Rising rental costs and longer durations of assistance reduced the number of households served
+through Rental Assistance. Future plans will account for these market conditions by reassessing
+outcome goals, working closely with providers to refine cost assumptions, and ensuring funding
+levels more accurately reflect the extended support many households require. Starting PY2026,
+the City will also award 10 points in the application process to activities that help meet any
+unmet Consolidated Plan goals.
+
+The lack of progress in the Production of New Units, due largely to BABA compliance barriers,
+demonstrates the importance of aligning funding sources with project feasibility. As a result, the
+City will continue to emphasize the use of local funding, particularly the Affordable Housing
+Fund (AHF), for housing development. AHF’s flexibility and higher funding capacity remain
+essential tools for advancing affordable housing production without delays caused by complex
+federal requirements.
+
+For Rehabilitation of Existing Units, the shift to ARPA funding created delays in HOME-funded
+rehabilitation outcomes. Based on strong performance in the prior year, the City anticipates
+returning to higher rehabilitation output in 2026.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            13
+Overall, future Annual Action Plans will reflect the need to balance federal and local resources,
+incorporate realistic production expectations, and proactively address regulatory barriers. The
+City will continue prioritizing affordable housing construction and preservation, homelessness
+assistance, and homebuyer/homeowner support. The Affordable Housing Fund will remain
+central to this strategy, as it accelerates local development, leverages significant outside
+investment, and reduces reliance on federal funds when they create timing or compliance
+challenges. This approach will support more efficient project delivery and help the City address
+its housing needs more effectively in the future.
+
+
+Include the number of extremely low-income, low-income, and
+moderate-income persons served by each activity where
+information on income by family size is required to determine the
+eligibility of the activity.
+       Number of Households Served       CDBG Actual       HOME Actual
+  Extremely Low-income                             301               31
+  Low-income                                       118                 3
+  Moderate-income                                   67               10
+  Total                                            486               44
+                        Table 11 – Number of Households Served
+
+
+
+Narrative Information
+The City of Vancouver prioritizes services for households with low to moderate income (LMI),
+and income information is collected for eligibility in activities such as public services,
+microenterprise business assistance, tenant based rental assistance, homeowner rehabilitation,
+and homebuyer assistance. Under CDBG funded activities, public services supported 193
+individuals with extremely low income and 53 with low income, and an additional 5
+homeowners received housing preservation assistance through the rehabilitation program, all of
+whom qualified as low income. Business owners included 108 with extremely low income, 60
+with low income, and 67 with moderate income.
+
+Under HOME funded activities, 31 households with extremely low income were assisted with
+exiting homelessness through tenant based rental assistance, with one additional household
+qualifying as low income. HOME also supported 12 first-time homebuyers: 2 with low income
+and 10 earning moderate income. These combined outcomes illustrate the City’s continued
+commitment to serving residents with extremely low income through public services and rental
+assistance, while also supporting households with low to moderate income through housing
+rehabilitation and homebuyer programs.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            14
+CR-25 - Homeless and Other Special Needs
+91.220(d, e); 91.320(d, e); 91.520(c)
+Reaching out to homeless persons (especially unsheltered
+persons) and assessing their individual needs
+The City's Homeless Assistance and Resource Team (HART), made up of nine full-time
+employees from the City Manager's Office, Vancouver Police Department, Public Works, and the
+City Attorney's Office, provides regular, direct engagement with people living outdoors, conducts
+individual needs assessments, and connects residents to essential services, shelter options, and
+housing programs. Complementing HART's work, the City partners with Share, Janus Youth,
+Thrive 2 Survive and the Council for the Homeless (CFTH) to expand outreach capacity and
+support households experiencing or at risk of homelessness. CFTH administers the coordinated
+entry system for more than 40 local service providers and operates the Housing Solutions Center
+and Housing Hotline, offering streamlined access to emergency shelter, diversion services,
+housing assessments, and rental assistance. CFTH also coordinates the annual HUD-required
+Point in Time (PIT) Count, which identified 1,260 people experiencing homelessness in 2026, a
+18% decrease from 2025. The City provides CDBG, HOME, and AHF funds to support people
+experiencing homelessness. These resources expand shelters, improve outreach, and offer
+emergency rental assistance to maintain household stability and continue to reduce
+homelessness.
+
+Despite these efforts, several barriers continue to affect progress. Limited availability of
+affordable housing and rising rental costs constrain the number of placements available for
+individuals who are ready to exit homelessness. Growing numbers of unsheltered households
+increase demand for outreach staffing, behavioral health services, and low barrier shelter
+options. Individuals discharged from publicly funded institutions without sufficient transition
+planning also face heightened risk of homelessness, increasing the need for outreach and
+emergency response systems. Additionally, staffing shortages and capacity limitations among
+service providers affect the scale and frequency of outreach activities. To advance progress
+more effectively, the City will continue investing in shelter, homelessness prevention, diversion,
+and affordable housing programs.
+
+Addressing the emergency shelter and transitional housing needs
+of homeless persons
+The City of Vancouver continues to make progress in addressing the emergency shelter and
+transitional housing needs of individuals experiencing homelessness through a combination of
+City operated facilities and strong partnerships with local nonprofits. HART manages four Safe
+Stay Communities, each consisting of 20 non-congregate pallet shelters that provide short term
+accommodations for unsheltered residents. In addition, the City operates a Safe Park site
+offering more than 80 designated parking spaces for people living in vehicles, which has become
+an essential alternative for households that can’t access traditional shelter. The City is also
+opening a 150 bed Bridge Shelter, currently under construction, which will serve as a critical
+resource for individuals needing safe shelter while accessing treatment, case management, and
+housing navigation services. Together, these interventions expand the emergency shelter
+options and offer structured pathways toward stability.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                             15
+The City also supports a range of nonprofit partners through federal funds and the local AHF to
+deliver emergency and transitional housing. Share operates shelters for men, women, and
+families, providing essential services and case management that help residents transition
+toward permanent housing. Janus Youth manages a youth shelter and provides case
+management and rental assistance for young people experiencing homelessness or housing
+instability. YWCA Clark County operates the SafeChoice Domestic Violence Shelter, ensuring
+survivors have access to safe and confidential shelter options. Council for the Homeless (CFTH)
+coordinates service delivery across providers and supports shelter operations through
+coordinated entry, diversion strategies, and system wide data management.
+
+Helping low-income individuals and families avoid becoming
+homeless, especially extremely low-income individuals and
+families and those who are: likely to become homeless after
+being discharged from publicly funded institutions and systems of
+care (such as health care facilities, mental health facilities, foster
+care and other youth facilities, and corrections programs and
+institutions); and, receiving assistance from public or private
+agencies that address housing, health, social services,
+employment, education, or youth needs
+The City of Vancouver continues to strengthen efforts to help individuals and families
+experiencing homelessness, particularly those who are chronically homeless, families with
+children, veterans, and unaccompanied youth, transition to permanent housing and achieve
+independent living. Vancouver participates actively in the Coalition of Service Providers, a
+consortium of nonprofit organizations, businesses, faith-based groups, community members, and
+people with lived experience of homelessness. This collaborative group evaluates system
+performance, identifies service gaps, prioritizes community needs, and develops coordinated
+solutions aimed at reducing the length of and returns to homelessness. Prevention, diversion,
+and discharge planning strategies are embedded within the Clark County Homeless Action Plan,
+helping households resolve housing crises before entering the homeless system. The Housing
+Solutions Center and 211Info play a critical role in connecting individuals and families with
+agencies providing housing, health care, employment services, education, and youth supports. As
+the region's coordinated entry, Council for the Homeless assesses household needs, determines
+vulnerability, and prioritizes housing placements so that those at greatest risk receive timely
+support to prevent or end homelessness.
+
+Youth and young adults continue to benefit from targeted interventions. Janus Youth utilizes
+emergency shelter, intensive case management, and rental assistance to help assist foster youth
+and other young people stabilize, access supportive services, and transition successfully to
+permanent housing. Vancouver has also expanded housing options for individuals exiting the
+justice system through a recent investment of AHF in the Hazelwood Reentry Housing project,
+developed in partnership with the Vancouver Housing Authority and The Foundation.
+Hazelwood will provide seven transitional housing units, supporting approximately 14
+individuals reentering the community. The City's funding enabled renovation of the units, and
+The Foundation will deliver wraparound services, case management, and support groups to
+ensure residents have structured pathways to permanent housing and long-term stability.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                          16
+Although the City has made substantial progress, several barriers continue to affect the pace
+and effectiveness of housing transitions. The limited supply of affordable units across the region
+slows movement from shelter or transitional housing into permanent homes, extending the time
+individuals remain homeless. Households with complex behavioral health or substance-use
+challenges often require intensive support and longer stabilization periods, delaying housing
+placement. Additionally, people exiting institutions may struggle to secure housing quickly due
+to limited income, rental barriers, and the absence of robust discharge planning in some systems
+of care.
+
+To address these challenges, the City will continue partnerships with service agencies,
+institutional systems, and housing providers, and invest in prevention and diversion strategies
+designed to reduce inflow into homelessness and shorten the time households spend without
+stable housing.
+
+
+Helping homeless persons (especially chronically homeless
+individuals and families, families with children, veterans and their
+families, and unaccompanied youth) make the transition to
+permanent housing and independent living, including shortening
+the period of time that individuals and families experience
+homelessness, facilitating access for homeless individuals and
+families to affordable housing units, and preventing individuals
+and families who were recently homeless from becoming
+homeless again
+The Continuum of Care (CoC) Program is designed to promote a community wide commitment
+to ending homelessness by quickly rehousing people experiencing homelessness, including
+those fleeing domestic violence and unaccompanied youth, while minimizing the trauma and
+dislocation caused by homelessness and increasing access to mainstream services and supports.
+In 2025, the Clark County CoC, representing the City of Vancouver, was eligible to apply for
+$2,190,876 in renewal and new project funding. Programs that received 2025 CoC funding
+include:
+
+Council for the Homeless HMIS Renewal Project Application FY2024 ($174,355): Homeless
+Management Information System (HMIS) data system management and reporting for all
+homeless service providers in Clark County.
+
+Council for the Homeless CoC Planning Project Application FY2024 ($67,680): Planning,
+coordination, and support for the local CoC, Point in Time count, system performance reporting
+and annual CoC application.
+
+Janus Connections ($229,609): Permanent supportive housing program serving youth between
+the ages of 18 and 25 who have a disability and multiple complex needs.
+
+Council for the Homeless DV Bonus Renewal Project Application FY2024 ($151,787): Integrates
+domestic violence resources and supports into the coordinated entry system.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                              17
+Impact NW Permanent Supportive Housing ($259,633): Serves households that are chronically
+homeless through leasing assistance to provide stable housing.
+
+Share Story Street ($992,961): Permanent supportive housing through rental subsidies and case
+management for individuals and families who are experiencing homelessness and have high and
+complex needs.
+
+Council for the Homeless Way Home Too 2024 ($398,946): Housing assistance and case
+management for people with a disability who are chronically homeless and are high utilizers of
+psychiatric, medical, and other community system resources.
+
+The CoC continued strengthening its systemwide approach to helping chronically homeless
+individuals and families, families with children, veterans, and unaccompanied youth transition to
+permanent housing and achieve independent living. Through Coordinated Entry, diversion, and
+targeted case management, households with the highest needs were prioritized for rapid
+connections to housing resources, supportive services, and housing programs. The CoC also
+strengthened partnerships with hospitals, behavioral health facilities, foster care programs,
+youth serving agencies, and corrections institutions to improve discharge coordination practices,
+reducing how often individuals exited publicly funded systems into homelessness. Prevention
+and diversion strategies supported households with extremely low income in avoiding shelter
+entry, while supportive housing and wraparound case management helped recently housed
+individuals maintain stability and prevent returns to homelessness.
+
+The City’s Affordable Housing Fund (AHF) supported these efforts through the Everybody In
+program, delivered in partnership with the Council for the Homeless and Safe Stay Community
+providers. Everybody In provides rental assistance, flexible financial support, and wraparound
+case management to help Safe Stay and Safe Park residents transition from temporary shelter to
+permanent rental housing. By expanding case management capacity at each Safe Stay site, the
+program increases the number of residents who can stabilize, secure housing, and maintain long
+term tenancy. The TBRA program also supports households experiencing homelessness by
+offering rental subsidies and housing navigation services to help households secure units and
+remain stably housed.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                           18
+CR-30 - Public Housing 91.220(h); 91.320(j)
+Actions taken to address the needs of public housing
+The Vancouver Housing Authority (VHA) does not have any Public Housing. VHA manages
+and/or owns a portfolio of about 4,000 apartments across approximately 50 buildings. VHA
+partners with the City of Vancouver and its Affordable Housing Fund to help with needed
+renovations as well as new construction and acquisition. VHA also administers about 3,500
+rental assistance vouchers.
+
+Actions taken to encourage public housing residents to become
+more involved in management and participate in homeownership
+VHA does not have any Public Housing. VHA does have a very active Resident Advisory Board
+(RAB) and is currently working with the RAB to design an input structure that also includes
+residents of VHA’s affordable housing that do not have vouchers. VHA offers a homeownership
+program for its voucher residents and has partnered with a local nonprofit to provide credit and
+housing counseling. VHA also has a Supportive Services Department that provides service
+coordination, care coordination and a family self-sufficiency program across its housing and
+voucher portfolio. VHA is currently converting its single-family home rental portfolio to
+permanently affordable homeownership in partnership with two nonprofit organizations.
+
+Actions taken to provide assistance to troubled PHAs
+Not applicable. The VHA is not a troubled PHA.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                          19
+CR-35 - Other Actions 91.220(j)-(k); 91.320(i)-(j)
+Actions taken to remove or ameliorate the negative effects of
+public policies that serve as barriers to affordable housing such as
+land use controls, tax policies affecting land, zoning ordinances,
+building codes, fees and charges, growth limitations, and policies
+affecting the return on residential investment. 91.220 (j); 91.320 (i)
+In June 2026, the City Council adopted the Our Vancouver 2026-2045 Comprehensive Plan along
+with an updated Zoning Map and Code, which directly addresses several of the barriers named
+in this question. The update eliminated single-family-only zoning citywide, removed parking
+minimums, removed density maximums, and reformed impact fees to be based on unit size
+rather than a flat charge. These changes are aimed at land use controls, zoning ordinances, and
+fees that have historically constrained housing supply and raised per-unit development costs.
+
+The City also acted on the building code and fee/timing side of the barrier list. Single-stair and
+six-story wood construction (Type III-A) code alternatives, approved in February and June 2026
+respectively, give developers more flexibility in floor plans and unit sizes and can reduce
+construction costs for multifamily projects. On fees and charges, the City continues to defer
+System Development Charges and impact fees until late in construction, has eliminated parking
+minimums for affordable projects where at least half the units serve households at or below
+AMI, and adopted a Construction Sales Tax Deferral program that forgives sales and use taxes
+on qualifying affordable projects built on underutilized land after a 10-year affordability period.
+
+To address barriers affecting the return on residential investment, the City expanded Multifamily
+Tax Exemption incentives for market-rate projects, including waived application fees and
+deferred fee-in-lieu payments, and continues to pair Affordable Housing Fund resources with
+federal investments to help affordable developers secure the local funding commitment many
+other funders require for a competitive application. Together, these actions target the
+regulatory, fiscal, and financing-side barriers identified in this section while supporting
+continued housing production across the city.
+
+Actions taken to address obstacles to meeting underserved needs.
+91.220(k); 91.320(j)
+While the City has employed a range of strategies to address the identified needs within the
+community, the primary challenge remains the lack of financial resources. To overcome this
+obstacle, the City will continue to plan and fund housing and supportive service programs
+tailored for underserved populations, including the elderly, youth, and individuals with
+disabilities.
+
+The AHF levy plays a crucial role in advancing these efforts, providing resources that extend
+beyond the capabilities of CDBG and HOME funds. The AHF supports a diverse array of activities,
+including new construction, operation and rehabilitation of shelters, preservation of existing
+housing, homeownership assistance, rental assistance, and eviction prevention.
+
+By leveraging these funds, the City aims to enhance its ability to meet the needs of its most
+vulnerable residents and improve overall housing stability within the community.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                             20
+Actions taken to reduce lead-based paint hazards. 91.220(k);
+91.320(j)
+The City of Vancouver conducts lead-based paint screening on all rehabilitation activities. This
+screening determines whether a property was built before 1978 and, if so, whether planned
+rehabilitation work will disturb painted surfaces containing lead. When lead hazards are
+identified, the City follows procedures to ensure hazards are properly mitigated.
+
+TBRA activities also incorporate HUD’s lead-based paint requirements. For any TBRA assisted
+household residing in pre 1978 housing, agencies must provide the EPA approved lead hazard
+information pamphlet, ensure landlords disclose known lead-based paint hazards, and obtain
+any available records or reports regarding potential hazards. TBRA units built before 1978 must
+undergo a visual assessment during the inspection process prior to move in. If hazards are
+identified, agencies must follow Safe Work Practices and implement clearance procedures.
+These requirements ensure that TBRA participants, especially pregnant individuals and
+households with children under age six, are protected from potential exposure to lead based
+paint.
+
+Actions taken to reduce the number of poverty-level families.
+91.220(k); 91.320(j)
+Vancouver works with Clark County to alleviate poverty. Clark County receives the majority of
+state and federal funding to help people in need and performs a Community Needs Assessment
+(CNA) every 3 years in compliance with Community Service Block Grant (CSBG) requirements.
+The CNA includes a survey of needs and is an important part of developing community-wide
+policies, practices and services to respond to the needs prioritized by people with low income.
+
+The following actions were taken to achieve this goal:
+   • Supported outreach and diversion programs of the Council for the Homeless and other
+        nonprofits providing emergency and transitional shelter and services for people who are
+        homeless or at risk of becoming homeless;
+   • Council members and staff participate on the county’s Community Action Advisory Board
+        which recommends CSBG and other funding to nonprofit agencies for homelessness
+        prevention and other basic services;
+   • Continued to support nonprofits in the delivery of basic services through CDBG, HOME,
+        HOME ARP, and AHF funding for emergency shelter, transitional housing, case
+        management, youth programs, and resource connection;
+   • Continued CDBG support for microenterprise assistance through the Hispanic
+        Metropolitan Chamber, Northwest Native Chamber, Fourth Plain Forward, and
+        Microenterprise Services of Oregon (MESO). These programs provide technical support to
+        business owners or entrepreneurs with low to moderate income; and
+   • Continued use of the Affordable Housing Fund to provide income-restricted units and
+        rental assistance for households earning up to 50% AMI.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                               21
+Actions taken to develop institutional structure. 91.220(k);
+91.320(j)
+Vancouver works with a variety of organizations to plan and implement activities. Staff are
+responsible for managing day-to-day operations of CDBG and HOME programs. Key partners in
+the planning and implementation of activities include nonprofit organizations, other City
+departments, Clark County, housing developers, and the VHA. The primary strength of the
+institutional system for delivering programs is the interdepartmental coordination at the City as
+well as the collaboration of community partners. The primary weakness of the delivery system is
+a lack of financial resources to meet needs.
+
+Commissioners of the VHA are appointed by the City Council. Once appointed they have no
+further direct relationship with the City. However, there is close cooperation between the City
+and VHA through the City’s award of funding for housing activities operated by VHA. In addition,
+the City and VHA cooperate in reviewing the capital needs of VHA.
+
+In partnership with Clark County, Vancouver hosts a quarterly TBRA providers workgroup. This
+regular meeting is a chance for case managers and other staff from TBRA providers to hear HUD
+updates, ask questions, review policies and ask staffing questions to other providers. Staff
+maintain a library of documents and best practices, as well as FAQs in a central location and this
+resource, as well as the meetings, have strengthened the ability of TBRA providers to carry out
+the complex HUD requirements for the program.
+
+Actions taken to enhance coordination between public and
+private housing and social service agencies. 91.220(k); 91.320(j)
+Vancouver participates with Council for the Homeless and Clark County to enhance the
+community’s Continuum of Care system to end homelessness. This partnership includes a variety
+of community groups, government agencies and a coalition of more than 40 homeless service
+providers.
+
+Vancouver enhances coordination with public, private, and nonprofit housing providers, social
+service providers and faith-based communities through the following actions:
+    • Working with partners, including Clark County, Washington State, and the VHA, to
+        prioritize housing needs, provide services, and maximize the use of federal, state, and
+        local funds for affordable housing, community development, and related services;
+    • Participation in coordinated efforts for shelter and services assisting homeless
+        individuals and families through the Continuum of Care; and
+    • Participation in Ending Community Homelessness Organization (ECHO), a collaboration
+        between Clark County and its cities’ elected leadership, as well as the VHA and homeless
+        agency directors, discussing collaboration and homeless needs on a monthly basis.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            22
+Identify actions taken to overcome the effects of any impediments
+identified in the jurisdictions analysis of impediments to fair
+housing choice. 91.520(a)
+The last analysis of impediments (AI) report was issued in 2012. The 2012 AI assessed the impact
+of the City’s laws, regulations, policies and practices on the availability and accessibility of
+housing as well as an assessment of public and private sector conditions that affect fair housing
+choice.
+
+The 2012 AI identified the following strategies to reduce impediments to fair housing:
+
+   •     Support nonprofit and private sector efforts to increase the stock of affordable housing,
+         especially deeply subsidized rentals;
+   •     Monitor potential areas of racial/ethnic concentrations and high mortgage loan denials;
+         and
+   •     Improve access to and dissemination of fair housing information
+
+The City began updating this plan in 2019 when HUD’s requirements changed, but new guidance
+from HUD was never issued and the City’s planned update has been on hold. The strategies
+identified in 2012 are still relevant to the City in 2025. Vancouver has addressed the strategies
+through the Affordable Housing Fund levy, a significant resource to support 50% AMI affordable
+units.
+
+The Home Mortgage Disclosure Act (HMDA) data for Clark County in 2025 showed 12,788
+mortgage loans originated. For these loans, the following racial and demographic data was
+provided by the Consumer Financial Protection Bureau. The number of loans originated by
+Hispanic or Latino households is far below the population in Vancouver according to the latest
+census data.
+
+ Records by Ethnicity
+                          Action Taken Loan        Action Taken Loan        Vancouver 5 year ACS
+ in CLARK COUNTY,
+                          Originated - Count       Originated – Percent     Data 2023 – Percent
+ WA
+
+ Hispanic or Latino       623                      4.87%                    17.2%
+
+ Not Hispanic or
+                          9,815                    76.75%                   82.8%
+ Latino
+
+ Joint                    431                      3.37%                    Not available
+
+ Ethnicity Not
+                          1m918                    15.00%                   Not available
+ Available
+
+ Total                    12,788
+                           Table 14: Records by Ethnicity in Clark County
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            23
+ Records by Race in     Action Taken Loan      Action Taken Loan       Vancouver 5 year ACS
+ CLARK COUNTY, WA       Originated - Count     Originated – Percent    Data 2023 – Percent
+
+ American Indian or
+                        83                     0.65%                   0.7%
+ Alaska Native
+
+ Asian                  756                    5.91%                   5.3%
+
+ Black or African
+                        236                    1.85%                   3.1%
+ American
+
+ Native Hawaiian or
+                        79                     0.62%                   1.8%
+ Other Pacific Islander
+
+ White                  9,085                  71.04%                  70.6%
+
+ Joint                  585                    4.57%                   Not available
+
+ Race Not Available     1,935                  15.13%                  Not available
+
+ Total                  12,788
+                          Table 15: Records by Race in Clark County
+
+
+Lastly, Vancouver is improving access to and distribution of fair housing information and
+resources through its new Rental Habitability program that was launched January 2026. This
+program will help the City identify rental housing concerns and communicate with landlords
+and tenants about Fair Housing requirements and resources.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                         24
+CR-40 - Monitoring 91.220 and 91.230
+Describe the standards and procedures used to monitor activities
+carried out in furtherance of the plan and used to ensure long-
+term compliance with requirements of the programs involved,
+including minority business outreach and the comprehensive
+planning requirements
+All applications received are evaluated to determine eligibility and priority based on program
+policies, local, state, and federal regulations, consolidated plan goals, and local need. Vancouver
+utilizes four tools for monitoring to ensure program compliance:
+     1. clear policies and procedures,
+     2. agency risk assessments,
+     3. contract reporting requirements, and
+     4. program-specific monitoring.
+
+Prior to contracting, staff review all documents required through the application process and
+conduct a risk assessment of each agency and program. Staff review contract requirements with
+each agency and discuss needed documentation and reports. As part of the quarterly reporting,
+agencies submit data that is reviewed by staff and input in IDIS.
+
+Agency risk assessments are based on a range of risk factors. The scoring is used as a basis to
+determine which agencies to monitor each year. Vancouver ensures that all records are
+complete, and agencies comply with applicable rules and regulations including Political Activity,
+Davis Bacon and Related Acts, Civil Rights, Cash Management, Federal Financial Reports,
+Allowable Costs and Cost Principles, Drug Free Workplace Act, and other administrative
+requirements.
+
+Citizen Participation Plan 91.105(d); 91.115(d)
+Describe the efforts to provide citizens with reasonable notice
+and an opportunity to comment on performance reports.
+Vancouver follows a detailed community participation plan. All community members are
+encouraged to participate in the Action Plan development and implementation process
+including people with low to moderate income, non-English-speaking persons, people with
+disabilities, social service agencies, and residents of public and assisted housing developments.
+
+The draft 2025 CAPER is advertised in The Columbian newspaper at least 15 days prior to the
+submission to HUD, posted on the City’s website (www.cityofvancouver.us/cdbg) and social
+media and e-mailed to service providers to encourage comments on the proposed funding
+awards.
+
+A public hearing notice and request for comment will be published in the Columbian newspaper
+on September 4, 2026. The draft CAPER and request for comments are also posted on the City’s
+website (www.cityofvancouver.us/cdbg) and published through social media. The request for
+comments will expire on September 21, 2026.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            25
+Prior to the City Council meeting, City Council will receive a staff report that outlines the
+information provided in the CAPER. A City Council public hearing is scheduled for September 21,
+2026, at 6:30 p.m. All City Council meetings are broadcast on CVTV cable channels 23 / HD 323,
+and online at www.cvtv.org or on the City's Facebook page. City Hall is accessible and served by
+C-TRAN. Anyone who needs language interpretation services or accommodations with a
+disability may request it. Assistive listening devices and live Closed Captioning are available for
+the deaf, hard of hearing and general public use.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                             26
+CR-45 - CDBG 91.520(c)
+Specify the nature of, and reasons for, any changes in the
+jurisdiction’s program objectives and indications of how the
+jurisdiction would change its programs as a result of its
+experiences.
+In PY2025, Vancouver did not substantially change its overarching program objectives, which
+remain focused on expanding affordable housing, preventing homelessness, supporting
+neighborhood revitalization, and fostering economic opportunity. However, based on
+implementation experience, the City adjusted strategies within those objectives to improve
+effectiveness.
+
+Housing Rehabilitation Program policies were formalized to provide clearer, plain-language
+guidance and targeted outreach, ensuring the program operates under consistent, documented
+standards accessible to all eligible households.
+
+The City also rearranged its CDBG application timeline and scoring process, at Council's request,
+so that the public comment period closes prior to Council review, allowing Council to consider
+community input before final funding decisions are made.
+
+In addition, the City created a new CDBG set-aside for childcare business support, responding to
+an identified gap in childcare availability affecting the local workforce and households with low
+to moderate income.
+
+Looking ahead, the City is evaluating potential CDBG support for its Rental Registration and
+Habitability Program, which currently operates on locally controlled funds. Experience with the
+program to date, including its role in identifying substandard rental conditions before they result
+in displacement, has highlighted an opportunity to expand its reach that may benefit from CDBG
+resources, particularly for units serving tenants with lower income.
+
+The City is also monitoring emerging state climate resiliency resources that could support
+decarbonization of older residential housing stock, improving comfort, safety, and energy
+efficiency while lowering utility costs for vulnerable households, particularly seniors on fixed
+incomes.
+
+Together, these changes reflect a continued effort to align CDBG program design with
+community input, documented standards, and emerging housing needs identified through direct
+program experience, including the intersection of housing preservation, affordability, and
+resiliency for the community's most vulnerable residents.
+
+Does this Jurisdiction have any open Brownfields Economic
+Development Initiative (BEDI) grants?
+No
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                               27
+CR-50 - HOME 24 CFR 91.520(d)
+Include the results of on-site inspections of affordable rental
+housing assisted under the program to determine compliance
+with housing codes and other applicable regulations
+In 2026, Mercy Housing NW Columbia Heights, Community for Veterans Freedom’s Path, Vaughn
+Bay Grand Pacific, REACH CDC Isabella Court Phase 1 and 2, and REACH CDC McCallister Village
+were due for inspection using Housing Quality Standards checklists.
+
+On July 8, 2026, unit C42 and D47 were inspected at Columbia Heights. On July 15, 2026, unit 12
+and 42 were inspected at McCallister Village. On July 8, 2026, unit 301 was inspected at Grand
+Pacific. All units at these properties passed their HQS inspections.
+
+The City coordinated with the County to share inspections. The City inspected the County’s units
+for them at Columbia Heights and Grand Pacific. The County was responsible for inspecting the
+City’s units at Freedom’s Path and Isabella Court Phase 1 and 2. The City is still waiting to receive
+these inspection reports from the County.
+
+Provide an assessment of the jurisdiction's affirmative marketing
+actions for HOME units. 24 CFR 91.520(e) and 24 CFR 92.351(a)
+The City requires owners of housing projects with five or more HOME assisted units to use
+affirmative fair housing marketing practices in soliciting renters or buyers, determining their
+eligibility, and concluding all transactions. Although there are no HOME projects with 5 or more
+HOME assisted units, the City recommends affirmative marketing efforts for any and all
+affordable housing projects.
+
+Affirmative Marketing requires the following for the duration of the compliance period:
+
+Advertising: The Equal Opportunity logo or slogan must be used in all ads, brochures, and
+written communications to owners and potential tenants. Advertising media may include The
+Columbian (or any other local newspaper), radio, television, social media, housing organizations,
+brochures, leaflets, or may simply involve a sign in the window.
+
+Fair Housing Poster: Owners must display the HUD’s fair housing poster in rental offices or other
+appropriate locations.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                              28
+Special Outreach: Owners are encouraged to solicit applications for vacant units from persons in
+the housing market who are least likely to apply for HOME-assisted housing without the benefit
+of special outreach efforts. Vancouver recommends the following methods to reach this
+objective:
+    • Posting informational flyers in lower opportunity neighborhoods, including social service
+       agencies and housing agencies serving these areas.
+    • Use of culturally specific traditional and social media: HOME-assisted housing
+       opportunities may be advertised in specific newspapers (i.e., The Skanner, Portland
+       Observer, El Hispanic News, The Asian Reporter).
+    • Record Keeping: Owners must maintain a file containing documentation of all marketing
+       efforts (copies of newspaper ads, memos of phone calls, copies of letters, etc.). These
+       records must be available for inspection by Vancouver staff. Owners must maintain a
+       listing of all tenants residing in each unit.
+
+
+
+Refer to IDIS reports to describe the amount and use of program
+income for projects, including the number of projects and owner
+and tenant characteristics
+The City received $68,503.09 in HOME program income during PY2025, as reported in IDIS PR‑09.
+PR‑09 shows total program income expenditures of $26,686.27 for the reporting period. In
+addition to these expenditures, three TBRA invoices were processed and drawn down on August
+3, 2026, in the amounts of $73.44, $21,128.04, and $21,128.04. While these drawdowns occurred
+in PY2026, they were for expenses/services delivered prior to July 1, 2026, making them PY2025
+expenses. These expenses utilized PY2025 program income, expending the full balance of PI
+receipted in PY2025.
+
+When combined with the beginning program income balance of $49,174.73, a total of
+$117,751.26 in program income was available during PY2025, all of which was expended on
+tenant‑based rental assistance. Share was the only TBRA agency that utilized HOME program
+income, serving individuals and households experiencing homelessness, including households
+referred through coordinated entry.
+
+At year‑end, all program income had been fully expended, leaving no remaining balance to
+carry forward into PY2026.
+
+Program income is used in conjunction with annual entitlement funding and has not been split
+out from the overall outcomes for reporting purposes, except for the Council for the Housing,
+Housing Solutions Center project, who maintains their own program income, which is reported
+to the City on an annual basis. During the reporting period, the Council for the Homeless
+generated $7,342.76 in rent revenue from a CDBG-funded project. The agency invested this
+income into the Dynamic Diversion program ($9,052.90), a CDBG-eligible service. With a starting
+balance of $1,927.13, the PI fund ended at $216.99 for PY2025.
+
+
+Describe other actions taken to foster and maintain affordable
+housing. 24 CFR 91.220(k)
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                          29
+This is a primary focus for Vancouver and actions taken this year have been discussed
+throughout the CAPER. Actions in 2025 include Affordable Housing Fund and ARPA investments,
+pursuing state grants for affordable housing, eliminating parking minimums and deferring fees,
+providing density bonuses and fee waivers, providing housing preservation funding, Multifamily
+Tax Exemption, Construction Use and Sales Tax Deferral and waiver program, and the new
+habitability program to maintain affordable housing. Vancouver has also provided vacant land
+near City Hall downtown and in the Heights Redevelopment area to build affordable rental and
+homeowner housing.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                        30
+CR-58 – Section 3
+Identify the number of individuals assisted and the types of assistance provided
+
+Section 3 requirements apply to construction projects receiving more than $200,000 in HUD
+housing and community development financial assistance. Because the City’s homeowner
+rehabilitation projects are individually assisted properties and each project falls below the
+applicable Section 3 threshold, Section 3 reporting is not required for these activities.
+
+
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                            31
+                    City Hall | 415 W. 6th St. | Vancouver, WA 98660 | cityofvancouver.us
+
+
+CITY OF VANCOUVER | 2025 DRAFT CAPER                                                        32
+

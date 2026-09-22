@@ -5,3 +5,22 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-09-11-digest.md
 [19:02:26] digest written: /home/scottr/research/city-council/briefs/raw/2026-09-11-digest.md
 [19:02:26] invoking claude (model=opus)
+Done. Published live at https://zefreak.github.io/city-council/ — the push was the publish.
+
+**What the run found**
+
+The main item is the Clark County comprehensive plan work session, **Wednesday 16 September 9am**. The Planning Commission's 3 September recommendation arrives internally inconsistent: item 11, consolidating five multifamily/office-residential zones in the unincorporated Vancouver UGA into three (R‑12→R‑24, R‑18/R‑22→R‑36, R‑30/R‑43→R‑50), **failed 3–4**, while items 63 and 65 — the Title 40 minimum and maximum density standards *for those same zones* — **passed 4–3**. The argument is over minimum densities; the development board's position, quoted in the transcript, is "all for increasing the maximums but keeping the minimums." I flagged the counter-argument from `context/` rather than overselling it: zoned capacity is not the binding constraint here, state gap financing is.
+
+The enforceable farmland offset (1:1 permanent conservation, operational by 31 Dec 2027, urban holding designation) **failed 2–5, after every agricultural de-designation had already been approved**. Chair Johnson on the record about the last round: *"it wasn't staff, it was the Councilors said, no, they don't want that."*
+
+The genuinely good item: the **Manufactured Home Park Overlay over 41 parcels passed 7–0**, credited on the record to residents who sat through a three-hour hearing.
+
+**The DRA brief was rewritten, not amended.** The 57-page packet published after the 9 September run, so the earlier brief — written when only a one-page agenda existed — is superseded and says so. Degen & Degen, **$116,500** for two Hilton model rooms, with a whole-hotel Phase II priced nowhere; **$19,489,535** in escrow against $4,053,586 required; dedicated taxes at **180.7%** of a cap met on 12 May, the County PFD loan paid off 3 August. Clean SAO audit — said plainly. And at page 23 of the audit: in January 2026 the City **delayed transfers of bond-pledged lodging tax and PFD sales tax revenue**, released only after the DRA notified its bond trustee, then amended the DRA's bylaws in March to make the Executive Director a City at-will employee.
+
+**Hearing dates, now firm:** 1 October 4:00pm, continued 2 October 10:00am, 5 October if needed, adoption 13 October — from the Community Planning Director on the record, driven by a Growth Management Hearings Board compliance deadline. I corrected the 15 September brief accordingly. Its agenda is byte-for-byte unchanged since 4 September.
+
+**What I could not check:** the **DEAB letter** the Commission voted 5–2 to point Council at — not published anywhere, known only through conflicting characterisations in debate; the **draft drinking water ordinance** targeted for adoption 6 October; the total cost of the Hilton PIP; the subject and settlement terms of *Amadi vs. Clark County*; the City's side of the January 2026 DRA revenue dispute (this is written entirely from the DRA's own disclosure); and the Title 40 text behind most code items, including emergency shelters and permanent supportive housing at item 73, where I have the 7–0 vote but not the language.
+[19:18:08] claude exited rc=0
+notify-hook: taskwarrior task 1 created/updated
+[19:18:09] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:18:09] === run complete

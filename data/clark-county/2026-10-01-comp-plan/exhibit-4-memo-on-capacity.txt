@@ -1,0 +1,276 @@
+To:             County Council
+
+From:           Oliver Orjiako, Director
+
+Prepared by: Jose Alvarez, Land Use Program Manager
+
+Date:           October 1, 2026
+
+Subject:        Capacity by UGA and Income Band by Zoning
+
+
+Background
+
+Prior to the selection of the Preferred Alternative the Planning Commission was presented with tables
+comparing the alternatives by housing and employment capacity. Alternative 1 showed a deﬁcit of 3,856
+housing units and 5187 jobs, Alternative 2 had a surplus of 38,701 housing units and 3,352 jobs and
+Alternative 3 had a surplus of 45,924 housing units and 5,929 jobs.
+
+The Planning Commission recommendation resembled Alternative 2 with several exceptions. The PC
+moved to retain the Meadowglade area within the BG UGA. The PC also included the expansion areas in La
+Center and Ridgeﬁeld. The Council considered the PC recommendation and removed the Meadowglade
+area from the Battle Ground UGA, added the Nevin property in Camas, and included the expansion areas in
+La Center and Ridgeﬁeld. The selected Preferred Alternative was the basis for the FEIS published July 24,
+2026.
+
+Staff provided a memo to the Council dated April 27 prior to the Council selection of the Preferred
+Alternative on April 28. The memo highlights excess capacity in the DEIS alternatives and the need to make
+a correction to stay within the control totals. The only adjustment made was to the Vancouver UGA as
+described below.
+
+The analysis in the FEIS showed there is excess capacity in the Preferred Alternative countywide and in
+most of the jurisdictions.
+
+Vancouver UGA Allocation Reﬁnement
+
+Below is an overview of Vancouver Urban Growth Area (VUGA) housing allocation reﬁnement in the
+preferred land use alternative selected by the County Council on April 28, 2026.
+
+Reﬁnements were needed because:
+
+      1. Local jurisdictions cannot plan for more housing capacity than is needed in comprehensive plans
+         based on RCW 36.70A.110(2).
+      2. The Vacant Buildable Land Model (VBLM) showed excess capacity within the City of Vancouver and
+         Unincorporated VUGA in the Planning Commission recommended Preferred Alternative relative to
+         the allocation in RES. 2024-05-05.
+
+
+Community Planning                                                                            Page 1
+Prior to the county making any amendments, 1 the combined countywide housing capacity was 104,819.
+This number is well over the total housing units needed countywide of 103,695 and 28,155 over the
+combined allocation for the Vancouver UGA of 76,664.
+
+County staff proposed the following amendments to bring the VUGA within the control total:
+
+     1. Reduce all of the proposed upzoning in the 179th St/Fairgrounds area to current zoning, with the
+        exception of the existing Urban Medium zones that will be upzoned to R-24 and R-36 and one MX
+        zoned property that was upzoned to R-50.
+     2. Reduce the assumed housing density in the HWY 99 2 sub area
+     3. Reduce the assumed housing density in the R1-5, R1-6 and R1-7.5 zones.3
+
+Combined, these amendments reduced overall housing capacity in the VUGA by approximately 24%. This
+translates to a reduction of more than 10,000 housing units. This reduction is primarily from the changes to
+the R1 zones, accounting for about 62% of the reduction, followed by the reduction in upzoning in the 179th
+St/Fairgrounds area, accounting for approximately 30% of the reduction, further followed by the HWY 99
+amendments, accounting for about 8% of the reduction.
+
+These amendments were considered by County Council and included in the Preferred Alternative selected.
+See Table 1 below.
+
+Table 1. 2023 VBLM Summary Capacity Analysis on Preferred Alternative
+Jurisdiction Label             HousingUnits HousingUnits %    Jobs      Jobs %    GrossAcres   GrossAcres %     NetAcres        NetAcres %
+Battle Ground                          6,989            6.4     7,571        11.1      3,295            11.60           1,417          12.2
+Camas                                  6,436            5.9    12,421        18.2      3,428            12.07           1,636          14.0
+La Center                              2,368            2.2     2,234         3.3      1,028             3.62             444            3.8
+Ridgefield                             7,194            6.6     8,363        12.2      3,170            11.16           1,421          12.2
+Vancouver (City)                      47,518           43.4    21,698        31.7      6,753            23.78           2,367          20.3
+Vancouver UGA (Clark County)          32,830           30.0    14,190        20.7      8,682            30.57           3,546          30.4
+Washougal                              5,998            5.5     1,622         2.4      1,819             6.40             742            6.4
+Woodland                                 101            0.1                               95             0.34              23            0.2
+Yacolt                                   143            0.1       307         0.5        131             0.47              67            0.6
+Grand Total                          109,576         100.0     68,406       100.0     28,400            100.0          11,664         100.0
+
+Allocation Update
+
+The Housing for All Planning Tool (HAPT) is the mandatory tool that local jurisdictions must use now when
+planning for housing in comprehensive plans. The allocation used in the HAPT was updated (see Table 2) to
+create separate line items for the unincorporated Vancouver UGA and rural allocations (whereas, these
+were previously combined in RES. 2024-0505). The total City of Vancouver and Unincorporated Vancouver
+UGA allocation were combined into one Vancouver UGA allocation. The City of Vancouver allocation and
+
+
+1
+  The City of Vancouver also reﬁned it’s density assumptions in the VBLM to reduce its capacity from 61,616 to 47,518.
+2
+  HWY 99 Overlay areas have no limit on maximum density. The reduction was a result of changing the density
+assumption from 75 to 40 dwelling units per acre.
+3
+  The R1-5, R1-6 and R1-7.5 zones currently allow a maximum density of 21.8 dwelling units per acre. The reduction
+was a result of changing the assumption from 14 dwelling units per acre for each zone to a tiered density of 12, 10 and
+8 dwelling units per acre, respectively.
+
+Community Planning                                                                                                         Page 2
+capacity estimates from their FEIS were used for the City totals. The unincorporated VUGA total was
+calculated by subtracting the City of Vancouver allocation from the combined city and unincorporated
+VUGA allocation.
+
+Table 2. Housing Allocation Update
+
+      HALFWAY BETWEEN METHODS A AND B AND 75/25 FOR CAMAS -Vancouver unincorporated UGA absorbs 500 unit remainder.
+
+REORGANIZED TO DISTINGUISH VANCOUVER Total                                Non-PSH       PSH       >30-50%     >50-80%     >80-100% >100-120% >120%        Emergency beds
+
+Rural Clark County                                                3,899                                                                           3,899
+Battle Ground city                                                6,979           685       444      1,120       1,177         502        921     2,129                   237
+Camas city                                                        4,226           564       331        811         955         516        249       799                   172
+La Center city                                                    2,123           211       124        311         404         234        172       667                    66
+Ridgefield city                                                   5,814           744       413      1,167       1,812         698        515       466                   219
+Vancouver city **                                                44,112         4,423     2,600      5,890       8,099       3,351      3,296    16,453                 1,405
+ Vancouver unincorporated                                        32,552         5,801     3,292      6,948       3,329       2,520      4,030     6,632                 1,734
+Washougal city                                                    3,735           390       267        523         781         417        324     1,032                   143
+Woodland city                                                       105             8         6         13          20          12         11        35                     3
+Yacolt town                                                         150            26        14         (5)        (12)          2         36        90                     7
+Total 2023-2045                                                 103,695        12,852     7,491     16,779      16,565       8,252      9,553    32,203                 3,986
+                                                                                  12%        7%        16%         16%          8%         9%       31%
+*City is referencing UGA except the Vancouver UGA
+
+** Vancouver totals are based on the data in the City's FEIS and adopted plan and differ from the allocation in Resolution 2024-05-05. Adjustment proposed at 4/27/26
+hearing on Preferred Alternative to reduce excess capacity in the Vancouver UGA. The VBLM estimates capacity for Vancouver at a slightly higher capacity of 47,518.
+
+
+
+
+Capacity Comparison of Preferred Alternative to Allocation
+
+Table 3 below reﬂects the updated changes in the Vancouver UGA and indicates that with the revised
+housing allocation there still remains excess capacity of 10,498 housing units countywide. About 64% of
+the excess capacity are in jurisdictions that are not proposing boundary expansions. The jurisdictions of
+Camas, La Center and Ridgeﬁeld are all exceeding their allocation by 10% to 50% of their targeted
+allocation and proposing UGA boundary expansions. Table 4 includes the comparison of the employment
+allocation to the employment capacity. The comparison shows that net surplus of 1,874 in the Vancouver
+UGA which is not proposing a boundary expansion.
+
+The jurisdictions of Camas, La Center and Ridgeﬁeld are all exceeding their allocation and are proposing a
+boundary expansion. In our view there is a need for a discussion that all jurisdictions have undertaken
+some reasonable measures before concluding that expansion is necessary.
+
+
+
+
+Community Planning                                                                                                                                   Page 3
+Table 3. Housing Capacity Comparison
+
+Jurisdiction                         Housing Target_Revised* Proposed Plan Capacity                            Surplus/Deficit
+                                     4/27/26 Council Hrg
+
+Clark County (Rural)                                            3,899                               4,616                            717
+Battle Ground                                                   6,979                               6,989                             10
+Camas                                                           4,226                               6,436                          2,210
+La Center                                                       2,123                               2,368                            245
+Ridgefield                                                      5,815                               7,194                          1,379
+Vancouver City*                                                44,112                              47,518                          3,406
+Vancouver UGA*                                                 32,552                              32,830                            278
+Washougal                                                       3,735                               5,998                          2,263
+Woodland                                                          105                                 101                             (4)
+Yacolt                                                            150                                 143                             (7)
+Totals                                                        103,695                             114,193                         10,498
+Notes: Clark County (Rural) The excess capacity is based on existing zoning; in the past update there has always been excess rural capacity and has
+not counted towards the excess.
+
+Battle Ground - Adjustment was proposed to include roughly 400 ADU to account for the shortage in Alt. 2; PC Recommendation to retain
+Meadowglade accounts for approximately 300 housing units.
+
+Camas - 2,210 excess housing unit of those 987 housing units attributed to expansion area. As part of the initial allocation the County agreed to
+increase the Vancouver UGA allocation to take additonal housing units from Camas to reconcile the HAPT allocation
+
+La Center - Adjustments increased excess capacity by 80 housing units; 66 housing units are in the proposed expansion areas.
+
+Ridgeﬁeld - Even with adjustments have 1,329 excess housing units; 777 of the 1,329 excess housing units are in the proposed expansion area.
+
+*Vancouver City - Allocation was adjusted between the City of Vancouver and the unincorporated VUGA to have the same allocation overall by
+increasing the allocation to the city by 7,585 units. Even with adjustments the model exceeds the 44,100 housing units in their FEIS.
+
+*Vancouver UGA - Allocation was adjusted between the City of Vancouver and the unincorporated VUGA to have the same allocation overall by
+reducing the allocation to the unincorporated VUGA by 7,991 units. The County is proposing some adjustments to reduce overall capacity by
+limiting most of the upzoning in the 179th corridor and reducing density assumptions in the HWY 99 corridor.
+
+Washougal - The original allocation did not account for the full residential housing capacity; no adjustments proposed;
+
+Woodland - Propose reducing allocation given the limited capacity to the Horseshoe Lake property and the lack of development likelihood.
+
+Yacolt - PC Recommendation would leave them seven short of the allocation
+
+
+
+
+Community Planning                                                                                                               Page 4
+Table 4. Employment Capacity Comparison
+Jurisdiction                           Job Target - Revised*               Proposed Plan Capacity                       Surplus/Deficit
+                                        4/27/26 Council Hrg
+Battle Ground                                              7,847                                      7,571                                   (276)
+Camas                                                     11,615                                     12,421                                    806
+La Center                                                  2,142                                      2,234                                      92
+Ridgefield                                                 8,175                                      8,363                                    188
+Vancouver City*                                           20,573                                     21,698                                  1,125
+Vancouver UGA*                                            14,190                                     14,190                                    -
+Washougal*                                                 1,622                                      1,622                                    -
+Woodland                                                     NA                                         NA                                     N/A
+Yacolt                                                       368                                        307                                    (61)
+Totals                                                    66,532                                     68,406                                  1,874
+
+All Jurisdictions - Capacity not considered in vacant buildable lands model
+Type                                Jobs
+Work From Home                                          3,524
+Construction Field                                      5,038
+Government                                              8,600
+Rural                                                   4,405
+Total                                                  88,099
+
+Notes: Employment capacity allows more ﬂexibility in being over capacity, unless the over capacity is driven by or results in a boundary expansion.
+
+La Center - Post DEIS adjustments resulted in reduction of 773 jobs primarily based on removal of Tribal Land within city boundary and reduction in
+employment density in the Junction Plan zone. Expansion area to the north and one parcel to the south accounts for 499 jobs. Expansion area to the
+west of I-5 accounts for 189 jobs.
+
+Ridgeﬁeld - Ridgeﬁeld - Post DEIS adjustments resulted in an increase of 1,054 jobs; 188 excess jobs, 1,209 jobs in expansion area.
+
+*Vancouver City - Post DEIS adjustment would be to increase the city allocation by 2,149 to absorb the 1, 314 jobs in the Van UGA and the 835 jobs
+overallocated to the City of Washougal.
+
+*Vancouver UGA - Post DEIS adjustment (based on PC recommendation to not expand UGA for employment along NE 50th Ave or NE 10th Ave)
+resulted in a job capacity of 14,190 jobs. 1,314 jobs below the allocation total of 15,504 jobs to be re-allocated to the City of Vancouver.
+
+*Washougal - Post DEIS adjustment to allocate 835 jobs to the City of Vancouver. The City of Washougal was over allocated employment based on
+the existing zoning, which did not reﬂect proposed zoning changes to residential through a sub-area plan process done after the 2016 comp plan.
+
+
+Housing Allocation by Income Band
+
+Table 5 below illustrates the unincorporated VUGA zones that contribute to the capacity for each income
+band, the aggregate need for housing at each income band, the VBLM capacity by income band, and the
+surplus capacity (the difference in capacity between total capacity and need).
+
+
+
+Community Planning                                                                                                               Page 5
+Table 5. Income Band by Zoning in the unincorporated VUGA
+
+                 Comprehensive Plan Designations (Zoning          Aggregate Housing     Total               Surplus
+ Income Level    Districts)                                       Need                  Capacity            Capacity
+
+                 Urban Medium (R-24, R-36, OR-24, OR-36)
+                 Urban High (R-50, OR-50), Mixed Use (MX), Hwy
+                 99 Overlay (Tenny Creek and Totem,
+                 Transitional Areas, Parks Common and
+                 Minnehaha, Klineline, 99 Commons and Totem
+                 TC), Urban Low* (R1-5, R1-6, R1-7.5),
+                 Community Commercial, General Commercial,
+ 0-80%           Neighborhood Commercial                          19,370*               19,419              49
+
+
+ >80-120%        Low Density Residential (R1-5, R1-6)             6,550                 6,722               172
+
+
+ >120% AMI       Low Density Residential (R1-10, R1-20, R1-7.5)   6,632**               6,689               57
+
+
+ Total           NA                                               32,552                32,830              278
+
+ * Assumes 11% (1,253 units) of Urban Low capacity (R1-5, R1-6, R1-7.5) will be at 50% to 80% AMI
+ ** Assumes 30% (3,418 units) of Urban Low capacity (R1-5, R1-6, R1-7.5) will be greater than 120% AMI
+
+
+
+
+Community Planning                                                                                 Page 6
+

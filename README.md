@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 24 — through the 11 Sep run: Clark County Policy Priorities work session 14 Sep (facilitated retreat, no public comment), Clark County comp plan work session 16 Sep (PC recommendation — zoning consolidation failed 3–4 while its density standards passed 4–3; enforceable TDR failed 2–5 after the de-designations; MHP overlay passed 7–0), Clark County Council Time 16 Sep (drinking water ordinance, adoption targeted 6 Oct). Vancouver DRA 17 Sep **rewritten** — the 57-page packet published after the 9 Sep run: Degen & Degen $116,500, $3.72M claims, $19.5M escrow, and a Jan 2026 City withholding of bond-pledged revenue disclosed in a financial statement note |
+| Briefs written | 32 — through the 22 Sep run: Clark County comp plan hearing 1 Oct (staff's own memo says Camas, La Center and Ridgefield exceed their allocation and still seek UGA expansion; the county's 17 Sep letter to Commerce concedes proximity-based ag de-designation is not GMHB-defensible), Council Time 23 Sep (**TDR Discussion — no published materials**), work sessions 23 Sep ($1.43/ton hazardous-waste tipping fee rescinded with no revenue figure; compost education duty deleted), Board of Health 23 Sep (open-ended Health Officer contracting authority on consent, added 12:30pm Monday, form marks it a hearing), Vancouver TMC 6 Oct (three corridor redesigns, phase 2 engagement closes "early October"), Vancouver 28 Sep (public community forum announced only inside the 21 Sep packet). **Vancouver 21 Sep briefed retrospectively** — the 17 Sep run died on a DNS failure, so $7.4M of homelessness contracts passed on consent unbriefed, all five with a blank Exhibit B fee schedule |
 
 ## Layout
 
@@ -260,10 +260,18 @@ that ever changes.
   and full document sets), and the news-release pages linked from them. Automating this is the
   single highest-value change to the fetcher.
 - **A Clark County news release goes stale and nothing supersedes it.** The 5 August 2026 release
-  gives the Council comp plan hearing as 6 October; the Council reset it to 1/2/5 October at Council
-  Time on 26 August, in an item added to the agenda that morning, recorded only in the minutes. The
-  27 August decision table still says 10/13. **Read the most recent Council Time minutes before
-  trusting any published date.**
+  gives the Council comp plan hearing as 6 October; the Council reset it at Council Time on 26 August,
+  in an item added to the agenda that morning, recorded only in the minutes. The 27 August decision
+  table still said 10/13. **Read the most recent Council Time minutes before trusting any published
+  date.**
+
+  **Resolved, 22 September 2026.** The decision table republished for the hearing now heads its column
+  **"Council Decision 10/1/2026"**, and the comp plan events calendar carries a 1 October 4:00pm row
+  with the full document set. Two corrections to earlier notes here: the hearing is **1 October at
+  4:00pm**, continued **if needed to 2 October at 10:00am** — and **the "and then to the 5th if
+  needed" third day is in no published notice**. An earlier version of this file gave the dates as
+  "1/2/5 October"; the 5 October sitting was only ever in a verbal remark at the 3 September Planning
+  Commission hearing and does not appear on the meetings listing or the agenda. Do not plan around it.
 - **A Vancouver `agendaId` is assigned long before the agenda exists.** A future meeting can show
   a non-zero `agendaId` whose `Meetings/{id}` returns zero items. Item count is the test.
 - **Council skips weeks.** There was no Vancouver meeting on 31 Aug 2026. Confirm the meeting
