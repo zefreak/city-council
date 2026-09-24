@@ -120,6 +120,14 @@ Note that the **drinking water ordinance** and **youth gun violence** work sessi
 Health sittings take public comment; Council work sessions do not. In this instance the routing
 *widens* access rather than narrowing it.
 
+> **Overtaken, 23 September 2026 (evening run).** The minutes quoted above are accurate. But the
+> drinking water ordinance briefing was then listed as a plain **Council work session on
+> 30 September at 9:00am**, which takes no public comment, not as part of a Board of Health meeting.
+> The "widens access" reading above therefore no longer holds for that item. Its comment opening is
+> now the **20 October public hearing**. See `briefs/2026-09-30-clark-county-work-sessions.md`.
+> Where the youth gun violence prevention session lands has not been checked; it is not on any row
+> published so far.
+
 ---
 
 ## What I could not check

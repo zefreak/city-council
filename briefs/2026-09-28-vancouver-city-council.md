@@ -1,19 +1,28 @@
 # Vancouver City Council — Monday 28 September 2026
 
-**Council meeting 4:00pm. Agenda not yet published** — checked directly against the CivicClerk API at
-09:45 on 22 September: event 1510 → agendaId 1086, `agendaIsPublish: false`, `items: 0`. Item count
-is the test, not the presence of an id. Vancouver agendas post about a week out, so this should
-appear within days. **The Wednesday run must work** — the 17 September run died on a DNS failure and
-the 21 September agenda was consequently never briefed before that meeting.
+**Updated 23 September 2026, 19:10, from the published agenda.** The first version of this brief,
+written 22 September before the agenda existed, was wrong on two points; both are corrected below
+and named in the section at the end.
+
+- **There is no 4:00pm business meeting.** The 28 September Council meeting *is* the community
+  forum — 2:00pm at Rooted School Vancouver, with exactly two agenda items: Call to Order and
+  Community Forum. No consent agenda, no ordinances, no hearings.
+- **The forum is publicised.** It has its own page on the City's events calendar with an RSVP form.
+  The earlier version said the only notice lived inside the 21 September packet.
+
+Sources: agenda PDF, CivicClerk event 1510 → agendaId 1086, `agendaIsPublish: true`, 2 items,
+`agendaPacketIsPublish: false` (there is nothing to put in a packet) — cached at
+`data/vancouver/2026-09-28-cc/meeting-3022.pdf`; the City's event page, cached at
+`data/vancouver/2026-09-28-cc/forum-event-page.html`; the forum memo from the 21 September packet,
+`data/vancouver/2026-09-21-cc/community-forum-memo.pdf`.
 
 ---
 
 ## Bottom line
 
-**There is a Council community forum at 2:00pm on 28 September, two hours before the Council
-meeting, and it is open to the public** — but you would only know that from a memo attached to *last*
-week's agenda. It is being held at a school as the finale of a students-only civic leadership day,
-and the broader public is welcome from 1:30pm.
+**The whole Council sits at Rooted School on Fourth Plain at 2:00pm Monday to hear from young people
+and anyone else who turns up.** No votes are taken. It is worth attending. Written comment closes at
+**noon Monday**.
 
 ---
 
@@ -21,79 +30,101 @@ and the broader public is welcome from 1:30pm.
 
 ### Community Forum — Monday 28 September, 2:00–3:30pm
 
-**Rooted School Vancouver, 10401 NE Fourth Plain Blvd. Doors open 1:30pm. All community members are
-welcome to attend the forum**; the day-long civic leadership programme that precedes it (9am–2pm) is
-for Rooted students only.
+**Rooted School Vancouver, 10401 NE Fourth Plain Blvd. Doors open 1:30pm.** C-TRAN serves it.
 
-Source: memo from Joy Fowler, Director of Engagement and Access, to the Mayor and all six
-councillors, dated 21 September, with the forum agenda attached
-(`data/vancouver/2026-09-21-cc/community-forum-memo.pdf`). It was **Attachment B to the "Community
-Forum Pre-Planning" item on the 21 September Council agenda** — i.e. the notice for a public forum on
-28 September lives inside the packet for the previous week's meeting. It is not, so far as this
-project can see, published anywhere a resident would look for it.
+**How to take part** (agenda, p.1):
 
-**Format.** Independent facilitators from **PointNorth** run small-group table discussions.
-Participants are asked to speak "for 1-2 minutes at a time" and to "stay on topic… focused on the
-designated topics for each table group." The draft questions, chosen with Rooted students:
+- **In person.** Check in at Rooted School. The agenda says in-person participation is open *"for
+  those that are registered"*. **RSVP:** the form linked from
+  `cityofvancouver.us/events/city-council-community-forum-18/` (a Microsoft Form; it returns 200).
+- **In writing.** Email **council@cityofvancouver.us** by **12:00pm Monday 28 September**. Comments
+  are compiled, sent to Council and entered into the record.
+- **Limits.** Three minutes per speaker; up to 90 minutes for the forum overall. Give your name and
+  city of residence for the record.
 
-- (ice-breaker) What is your favorite place to go in Vancouver? Why is it special to you?
-- As you think about life after high school, what are your hopes for the future?
-- What issues or topics are most important to students in our community?
-- What is something our community needs that we don't have now?
+**On the registration requirement.** The event page is headed **"Registration Required"**. This is a
+meeting of the City Council under the Open Public Meetings Act, and **RCW 42.30.040** says a member of
+the public *"shall not be required, as a condition to attendance at a meeting of a governing body, to
+register his or her name and other information … or otherwise to fulfill any condition precedent to
+his or her attendance"* (cached at `data/wa-legislature/rcw-42.30.040.html`). The agenda's wording
+attaches registration to *participating*, not attending, which is a narrower thing and probably
+lawful as a way of organising table groups. **Practical advice:** RSVP, because it is easy and helps
+the organisers plan. But nobody can be lawfully turned away at the door for not having done so. If
+that happens, cite the statute.
 
-**This is a good thing and worth turning up to.** Youth engagement on Fourth Plain, run at a school
-rather than at City Hall at 5pm, reaches people the ordinary process does not. Two things to hold it
-to, and neither is a reason to stay away:
+**Format and framing.** The agenda gives the forum a main topic drawn from the Council's priorities of
+*"equity, safety and climate action"*. The event page says this one will *"focus on issues affecting
+young people in our community"*, and it is held early so high school students can attend. The
+21 September memo describes independent facilitators from **PointNorth** running small-group tables,
+with participants asked to speak *"1-2 minutes at a time"* and *"stay on topic"*. Its four draft
+questions include *"What is something our community needs that we don't have now?"* Attendees
+*"are welcome to talk about other issues"* (agenda).
 
-1. **Table-facilitated small groups with a "stay on topic" rule produce themes, not positions.** The
-   output is whatever PointNorth writes up. Ask when and where the write-up is published, and whether
-   raw notes are retained as a public record.
-2. **The stated outcomes are "increase youth engagement", "build trust" and "gather unique
-   insights"** — all process. None commits the Council to act on anything. The useful question at a
+**This is a good event.** It puts the Council at a school on Fourth Plain in the afternoon, rather
+than at City Hall at 5pm, and it reaches people the ordinary process does not. Two things to hold it
+to, neither a reason to stay away:
+
+1. **Facilitated tables produce themes, not positions.** The output is whatever PointNorth writes up.
+   Ask when and where the write-up is published, and whether the table notes are kept as a public
+   record.
+2. **The stated outcomes are all process** — "increase youth engagement", "build trust", "gather
+   unique insights" (memo). None commits the Council to act on anything. A useful question at a
    table is what the City will do differently, and by when.
 
-Worth noting alongside: the City Manager's recommended 2027-28 budget, previewed on 21 September,
-lists a **Youth Coordinator** under Boards and Commissions as **"Not Recommended"**, deprioritised in
-favour of a Boards and Commission Coordinator. A youth forum in September and a youth coordinator cut
-in October is a fair thing to raise at a table, and at the budget hearing on 16 November.
+**Worth raising:** the City Manager's recommended 2027-28 budget, previewed on 21 September, lists a
+**Youth Coordinator** under Boards and Commissions as **"Not Recommended"**. A youth forum in
+September and a youth coordinator cut in the budget is a fair point at a table. It can also go to
+the budget hearing on **16 November**. The recommended budget publishes on **1 October**.
 
 ---
 
-## Watch — what is likely on the 28 September agenda
+## Watch
 
-Not published, so this is inference from documents already in the record, clearly labelled as such:
+- **The next business meeting is Monday 5 October** (event 1473 → agendaId 1087). It was checked at
+  19:05 on 23 September: `agendaIsPublish: false`, **0 items**. It should post around 28 September.
+  Read its consent block first. The last consent block, on 21 September, carried five homelessness
+  contracts worth $7.4M; see `briefs/2026-09-21-vancouver-city-council.md`.
 
-- **Nothing on the budget.** The published calendar puts the Recommended Budget online on
-  **1 October**, the Operating Budget workshop on **12 October**, Capital on **26 October**, "Council
-  Consent of Budget" on **2 November** and the public hearing and adoption on **16 November**.
-- **The camping impact area ordinance** had its first reading on 14 September and its public hearing
-  on 21 September, with an effective date of **1 November 2026**. Whether final passage occurred on
-  21 September or comes back is not something the published record settles.
-- Vancouver's consent agenda routinely carries contract awards and claim vouchers. The vouchers alone
-  ran to **$13.85M** on 21 September.
+## Consent agenda
 
-**When the agenda posts, the consent block is the thing to read first.** Last week it carried five
-homelessness contracts worth $7.4M — see `briefs/2026-09-21-vancouver-city-council.md`.
+None. This meeting has no consent agenda.
 
----
+## Money and land
+
+None on this agenda. **PointNorth's contract and fee** for facilitating the forum series have not
+appeared in any packet this project has read.
 
 ## Noted
 
-- **Vancouver Planning Commission, Tuesday 22 September, 4:30pm — CANCELLED.** The City appends
-  "- Cancelled" to the event name and leaves `agendaId` at 0; there is no cancellation flag and no
-  notice document, so the title is the only evidence. The Planning Commission meets 2nd and 4th
-  Tuesdays, so the next scheduled sitting is 13 October.
-- **Vancouver City Council, Monday 5 October, 4:00pm** — agenda not published (event 1473 →
-  agendaId 1087, `agendaIsPublish: false`, 0 items).
+- **Civil Service Commission, 23 September 8:00am** — already passed. Its agenda was published but
+  its packet never was: `agendaPacketIsPublish` was still **false** at 19:05 on the day. The "New
+  Business" item was never documented publicly ahead of the meeting.
+- **Parks & Recreation Advisory Commission special meeting and retreat, 23 September.** Its agenda
+  and a 40-page packet appeared after the 22 September run, and the packet has substance: a regional
+  parks property tax is being prepared for a possible fall 2027 ballot. Briefed separately in
+  `briefs/2026-09-23-vancouver-parks-advisory-commission.md`.
 
 ---
 
 ## What I could not check
 
-- **Everything on the 28 September agenda.** It does not exist yet. Nothing above is a flag on an
-  agenda item; the forum is flagged from a memo attached to a different meeting.
-- **Whether the camping impact area ordinance passed on 21 September.** Minutes are not yet published.
-- **Whether the community forum is publicised anywhere the public would find it** — the City's events
-  page and any press release were not checked.
-- **What PointNorth is, and on what contract.** The facilitators are named in the memo; no contract
-  or fee appears in any packet read this run.
+- **Whether anyone will actually be turned away without an RSVP.** The page says "Registration
+  Required" and the agenda says participation is for registered attendees. How it is applied on the
+  door is unknown.
+- **The contents of the Microsoft RSVP form.** The URL resolves, but the form was not filled in or
+  read, so what information it asks for is unknown.
+- **PointNorth's contract, scope and fee.**
+- **Whether the camping impact area ordinance passed on 21 September.** Minutes are still
+  unpublished. Its effective date is 1 November either way.
+
+## Corrections to the earlier version of this brief (22 September)
+
+- It said the Council meeting would be at **4:00pm**, after the forum, and advised reading "the
+  consent block first when it posts". **Wrong, though the error came from the source.** The API
+  gave the event as 16:00 on 22 September (`briefs/raw/2026-09-22-digest.md`). By 23 September the
+  City had moved it to 14:00 and published an agenda with only the forum on it. There is no business
+  meeting and no consent block on 28 September.
+- It said the forum was announced *only* inside a memo attached to the 21 September agenda, and "not,
+  so far as this project can see, published anywhere a resident would look for it". **Wrong.** It
+  has a page on the City's events calendar with an RSVP form. The earlier run did not check the
+  events page; it recorded that gap under "What I could not check", and the gap was the error.

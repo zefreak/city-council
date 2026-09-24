@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 32 — through the 22 Sep run: Clark County comp plan hearing 1 Oct (staff's own memo says Camas, La Center and Ridgefield exceed their allocation and still seek UGA expansion; the county's 17 Sep letter to Commerce concedes proximity-based ag de-designation is not GMHB-defensible), Council Time 23 Sep (**TDR Discussion — no published materials**), work sessions 23 Sep ($1.43/ton hazardous-waste tipping fee rescinded with no revenue figure; compost education duty deleted), Board of Health 23 Sep (open-ended Health Officer contracting authority on consent, added 12:30pm Monday, form marks it a hearing), Vancouver TMC 6 Oct (three corridor redesigns, phase 2 engagement closes "early October"), Vancouver 28 Sep (public community forum announced only inside the 21 Sep packet). **Vancouver 21 Sep briefed retrospectively** — the 17 Sep run died on a DNS failure, so $7.4M of homelessness contracts passed on consent unbriefed, all five with a blank Exhibit B fee schedule |
+| Briefs written | 34 — through the 23 Sep evening run: Vancouver 28 Sep is **the community forum only** (2pm Rooted School; no business meeting; event page says "Registration Required", which RCW 42.30.040 bars as a condition of attendance), Clark County work sessions 30 Sep (drinking water ordinance, hearing 20 Oct, moved off the Board of Health slot the minutes had routed it to), Vancouver PRAC retreat 23 Sep briefed after the fact (countywide Greater Clark Parks District expansion — permanent levy, ~$15M/yr, possible Fall 2027 ballot). Comp plan hearing 1 Oct remains the headline |
 
 ## Layout
 
@@ -272,6 +272,7 @@ that ever changes.
   needed" third day is in no published notice**. An earlier version of this file gave the dates as
   "1/2/5 October"; the 5 October sitting was only ever in a verbal remark at the 3 September Planning
   Commission hearing and does not appear on the meetings listing or the agenda. Do not plan around it.
+- **Clark County session ids were renumbered by every new posting — fixed 23 Sep 2026.** `clark_meetings()` built ids as `clark-<date>-<len(out)>`, a counter across the whole listing, so a newly posted session shifted every older row's id and they all resurfaced in the digest with *identical* fingerprints. The 23 Sep digest re-listed three already-briefed sessions for this reason alone. Ids are now counted per date. **The first run after the fix will resurface every in-window Clark row once** under its new id; compare fingerprints against the old keys in `.agenda-watch-state.json` before treating any of them as changed.
 - **A Vancouver `agendaId` is assigned long before the agenda exists.** A future meeting can show
   a non-zero `agendaId` whose `Meetings/{id}` returns zero items. Item count is the test.
 - **Council skips weeks.** There was no Vancouver meeting on 31 Aug 2026. Confirm the meeting

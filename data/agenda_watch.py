@@ -219,6 +219,13 @@ def clark_meetings(days_ahead, pages=CLARK_PAGES):
     lo = dt.date.today() - dt.timedelta(days=LOOKBACK_DAYS)
     hi = dt.date.today() + dt.timedelta(days=days_ahead)
     out, seen_date = [], None
+    # Session index is counted PER DATE. An earlier version used len(out), a
+    # counter across the whole listing, so every newly posted session renumbered
+    # every older row and they all resurfaced as "changed" with identical
+    # fingerprints -- the 23 Sep 2026 digest re-listed three already-briefed
+    # 23 Sep sessions for exactly this reason. Per-date counting still shifts
+    # when a session is added to the SAME day, which is a genuine change.
+    per_date = {}
     for page in range(pages):
         body = get(f"{CLARK_LIST}?page={page}")[0].decode("utf-8", "replace")
         for row in re.findall(r"<tr[^>]*>(.*?)</tr>", body, re.S):
@@ -237,9 +244,11 @@ def clark_meetings(days_ahead, pages=CLARK_PAGES):
             if not (head or outline):
                 continue
             weekly = "weekly calendar" in head.lower()
+            n = per_date.get(seen_date, 0)
+            per_date[seen_date] = n + 1
             out.append({
                 "source": "clark",
-                "id": f"clark-{seen_date}-{len(out)}",
+                "id": f"clark-{seen_date}-{n}",
                 "when": seen_date.isoformat(),
                 "weekday": seen_date.strftime("%A"),
                 "body": ("Weekly Calendar" if weekly else

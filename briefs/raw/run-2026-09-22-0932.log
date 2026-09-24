@@ -5,3 +5,29 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-09-22-digest.md
 [09:33:19] digest written: /home/scottr/research/city-council/briefs/raw/2026-09-22-digest.md
 [09:33:19] invoking claude (model=opus)
+Done — pushed to `main`, which publishes. Live page returns 200.
+
+## What was found
+
+**The 1 October Clark County comprehensive plan hearing is the item.** The county's own Memo on Allocation and Capacity, written for that hearing, says Camas (+2,210 units), Ridgefield (+1,379) and La Center (+245) already exceed their 20-year housing allocation and are *still* proposing UGA expansions onto de-designated farmland, and that "there is a need for a discussion that all jurisdictions have undertaken some reasonable measures before concluding that expansion is necessary." Countywide excess capacity is 10,498 units, ~64% of it in jurisdictions proposing no expansion (staff's figure; I checked it — 6,664/10,498 = 63.5%). Six days earlier the Community Planning Director told Commerce in writing that proximity-based agricultural de-designation "historically has not been found to be defensible" by the Growth Management Hearings Board. **Written comment is open until the hearing.**
+
+**Council Time item 5.1 on Wednesday is "TDR Discussion" — four words, no staff report of any kind**, eight days before the hearing. The enforceable version failed 2–5 at the Planning Commission; the Commerce letter promises one "separate from urban growth expansion efforts", which is that policy with the urban holding designation — its only enforcement — removed. Flagged explicitly as briefed without attachments, because none exist.
+
+**The 17 September run died on a local DNS failure**, so the 21 September Vancouver agenda was never briefed. Five homelessness contracts worth **$7,378,079.51** passed on consent. All five carry an "Exhibit B: Fee Schedule" heading over a **blank page** — ceilings published, rates not, so cost per bed is not computable from the record. Briefed retrospectively; the terms started 1 October and the camping buffer takes effect 1 November, so it isn't moot.
+
+Also: the solid waste ordinance rescinds a $1.43/ton hazardous-waste tipping fee with **no revenue figure anywhere in the packet** and deletes the coded compost-education duty (hearing tentatively 6pm Tue 20 Oct); a Board of Health consent item added 12:30pm Monday gives open-ended Health Officer contracting authority with every budget field blank, and the department's own form marks it a *hearing*, not consent; Vancouver's TMC corridor-design comment window closes "early October"; and the 28 September public community forum is announced only inside the *21 September* packet.
+
+## Corrections made
+
+- The comp plan hearing date is settled — the decision table now heads **10/1/2026**, not 10/13, so the four-week stale-dates warning came down. **The "and then to the 5th if needed" third day is in no published notice**; README's "1/2/5 October" was wrong and is fixed.
+- ESHB 2442's children-and-family-services sales tax verified at **0.01%**, not 0.1%, against ch. 221 Laws of 2026 §202 — the standing repo gotcha would have pushed the other way here.
+
+## What I could not check
+
+Exhibit B for all five contracts (blank). What the $1.43/ton fee raises. How many parking spaces the three corridor redesigns remove. How many people camp inside the 1,500-ft buffer — still uncounted a week on, with the ban effective 1 November. The Swifts Terrace appellant's actual brief (11 MB scan, no extractable text), so that argument is known only through staff's summary of it. Appendix N, Appendix M, Exhibit 3 and the FEIS. The DEAB letter, still unpublished five weeks running. One URL in the county's letter to Commerce is malformed and its document id is outside the range of every other comp plan id — the zoning language it cites could not be retrieved.
+
+8 briefs written, 32 sources cached under `data/`, `agenda-watch.html` rebuilt, and the notification summary is at `briefs/raw/.last-bottom-line.txt`.
+[09:53:28] claude exited rc=0
+notify-hook: taskwarrior task 2 created/updated
+[09:53:28] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[09:53:28] === run complete

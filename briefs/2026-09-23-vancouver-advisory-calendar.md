@@ -1,5 +1,12 @@
 # Vancouver advisory bodies — Wednesday 23 September 2026
 
+> **Overtaken, 23 September 2026 (evening run).** The Parks & Recreation Advisory Commission agenda
+> and a 40-page packet were published after this brief was written, and the packet is substantive.
+> It shows a countywide Metropolitan Park District expansion being prepared for a possible fall 2027
+> ballot. See `briefs/2026-09-23-vancouver-parks-advisory-commission.md`. The "no agenda published
+> at all" statement below was true on 22 September and is no longer. The Civil Service Commission's
+> packet was still unpublished at 19:05 on the day of the meeting.
+
 Two Vancouver meetings this Wednesday, neither with substantive published material. Recorded so the
 reader can see nothing was hidden, not because either warrants attention.
 
