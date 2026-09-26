@@ -5,3 +5,31 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-09-23-digest.md
 [19:05:01] digest written: /home/scottr/research/city-council/briefs/raw/2026-09-23-digest.md
 [19:05:01] invoking claude (model=opus)
+Briefs are written, the page is rebuilt, and everything is pushed to `main` (commit `079bbbe`). The live page returns 200, though GitHub Pages can take a minute or two to show the new build.
+
+**Findings**
+
+- **Vancouver, Monday 28 Sep:** the whole Council meeting is the community forum, 2pm at Rooted School on Fourth Plain. The agenda has two items and no consent block. Written comment goes to council@cityofvancouver.us by noon Monday. The event page says "Registration Required", but RCW 42.30.040 says the public can't be made to register as a condition of attending. I cached a copy of the statute.
+- **Correction to the 22 Sep brief:** it said there would be a 4pm business meeting, and that the forum was announced only inside the previous week's packet. Both were wrong. The API had the meeting at 16:00 on 22 Sep and the City has since moved it. The forum also has its own events page with an RSVP form, which that run never checked.
+- **Parks tax:** the packet for Vancouver's Parks & Recreation Advisory Commission retreat (23 Sep) was published after yesterday's run. It shows the parks district that now covers only unincorporated urban Vancouver (the Greater Clark Parks District) being lined up to expand across the whole county.
+  - The retreat slide says "Focus is on expansion of existing MPD". The county task-team report ends with "Possible ballot measure in Fall 2027".
+  - It would raise about $15M a year at about 13¢ per $1,000 (report, p.16).
+  - It was chosen over a six-year levy that needs 60% and a renewal vote. The district option is permanent, needs a simple majority, and its rate is set every year by the County Council.
+  - The underfunding is real: 0.69 parks staff per 10,000 residents against a national median of 3.6 (Fig. 2).
+- **Clark County work sessions, 30 Sep:** the drinking water ordinance has its hearing on 20 Oct, the same evening as the solid waste hearing. The 16 Sep minutes had routed its briefing to a Board of Health meeting, which takes public comment; it has landed on a work session, which doesn't. The ordinance text isn't attached. The e-bike session has no proposal, and the WSAC item is a membership brochure.
+- **Fetcher bug, fixed:** Clark County session IDs came from one counter across the whole listing, so every new posting renumbered the older rows. The three 23 Sep sessions in this digest reappeared only because of that; their content hadn't changed. IDs are now counted per date in `data/agenda_watch.py`. The next run will re-list each in-window Clark row once under its new ID, and the README says how to check them.
+
+**What I couldn't verify**
+- The drinking water ordinance text, and the amount of the well fee created in 2025.
+- The rate ceiling an expanded parks district would carry, and whether its levy counts against the state's $5.90 combined property-tax limit.
+- What was said in the 23 Sep TDR discussion; no minutes are out yet.
+- The PRAC retreat outcome; no minutes yet.
+- Vancouver's 5 Oct agenda, and the 30 Sep Council Time agenda; neither is published.
+- The Civil Service Commission packet, which was never published.
+- Vancouver's helmet ordinance, which I have only from the Sheriff's written answers to the Council.
+
+The notification summary is at `briefs/raw/.last-bottom-line.txt`.
+[19:12:37] claude exited rc=0
+notify-hook: taskwarrior task 3 created/updated
+[19:12:37] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:12:37] === run complete

@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 34 — through the 23 Sep evening run: Vancouver 28 Sep is **the community forum only** (2pm Rooted School; no business meeting; event page says "Registration Required", which RCW 42.30.040 bars as a condition of attendance), Clark County work sessions 30 Sep (drinking water ordinance, hearing 20 Oct, moved off the Board of Health slot the minutes had routed it to), Vancouver PRAC retreat 23 Sep briefed after the fact (countywide Greater Clark Parks District expansion — permanent levy, ~$15M/yr, possible Fall 2027 ballot). Comp plan hearing 1 Oct remains the headline |
+| Briefs written | 35 — through the 25 Sep evening run: Clark County Council Time 30 Sep (NACo SAVE Act letter — worth supporting; Chair Marshall drafting an unpublished "cluster development on resource lands" comp plan amendment; Philbrook Farms flagged on title alone). Comp plan hearing brief updated with Commerce's 22 Sep final letter (existing UGAs sufficient) and a **correction**: Commerce itself recommended separating TDR from UGA expansion, which earlier briefs omitted. TDR deferred to an early-2027 round table. Hearing 1 Oct 4pm remains the headline |
 
 ## Layout
 

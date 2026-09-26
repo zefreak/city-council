@@ -11,6 +11,18 @@ Agenda: `data/clark-county/2026-09-23/council-time-agenda.pdf`.
 
 ---
 
+> **Correction, 25 September 2026.** This brief treated the County's promise of a TDR policy
+> "separate from urban growth expansion efforts" as the County quietly removing the enforcement
+> linkage. It did not mention that **the Department of Commerce itself recommended the
+> separation**. Commerce's view is that TDR "is not intended to be used as a mechanism to expand UGA
+> Boundaries" (comment letters of 9 and 22 September, item 4). Commerce's remedy for the farmland
+> loss is to remove the de-designated land from the expansions, not to strengthen TDR.
+>
+> **Outcome** (from the 23 September minutes): the Council agreed to a TDR round table with all
+> jurisdictions *"in early 2027"*. Chair Marshall also added a late item, "Cluster Development on
+> Resource Lands", and will draft a comp plan amendment. See
+> `2026-09-30-clark-county-council-time.md` and the 1 October hearing brief.
+
 ## Bottom line
 
 **Item 5.1 is "TDR Discussion" — four words, no staff report, no attachment, eight days before the

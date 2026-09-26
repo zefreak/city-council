@@ -1,0 +1,794 @@
+                                      STATE OF WASHINGTON
+                           DEPARTMENT OF COMMERCE
+         1500 Jefferson Street SE  PO Box 42525  Olympia, Washington 98501 (360) 725-4000
+                                        www.commerce.wa.gov
+
+
+
+
+September 22, 2026
+
+
+
+The Honorable Sue Marshall
+c/o Oliver Orjiako, Community Planning Director
+Clark County
+1300 Franklin Street
+Vancouver, WA 98666
+
+Sent Via Electronic Mail: oliver.orjiako@clark.wa.gov
+
+Re: 2026-S-14100 and 2026-S-14101 60-day Notice of Intent to Adopt - Periodic Update to
+Clark County’s Comprehensive Plan and Development Regulations.
+
+Dear Chair Marshall:
+
+Thank you for the opportunity to review and comment on the Clark County’s (county’s) draft
+comprehensive plan and development regulations. We appreciate the ongoing coordination
+with our agency as you work to achieve the community’s vision consistent with the goals and
+requirements of the Growth Management Act (GMA). Growth Management Services received
+the proposed amendment on July 24, 2026, and processed them with material identification
+numbers 2026-S-14100 and 2026-S-14101.
+
+Your submission represents a great deal of work towards the 2025 periodic update of your
+comprehensive plan and implementing development regulations, which were due December
+31, 2025.
+
+We have reviewed your submittal using Commerce’s Periodic Update Checklist and Expanded
+Housing Checklist. We encourage you and your community to consider the following as you
+finalize your drafts prior to adoption:
+
+
+
+
+                                                                                          Page: 1 of 4
+Department of Commerce: Submittal ID 2026-S-14100 and 2026-S-14101
+
+
+
+
+Comprehensive Plan
+
+1. Land Capacity Analysis
+   In our review, we did not find the county’s land capacity analysis identified insufficient land
+   capacity before urban growth area changes. Before UGA expansions, jurisdictions must
+   evaluate existing land capacity and that the jurisdiction has evaluated land use
+   designations, zoning and development regulations to increase capacity before expansions
+   (WAC 365-196-310(1)(f) and 310(5)(d), Draft Urban Growth Area Guidance, p. 61; Guidance
+   for Updating your Housing Element, p. 39-43 – specifically Step 6).
+
+   We recommend the county clearly identify that they have insufficient capacity for housing
+   needs, document how they have evaluated zoning changes to accommodate deficits in
+   housing capacity, and then document sufficient capacity with any UGA changes after these
+   previous steps. See more discussion on UGA expansions in Item #2.
+
+   Additionally, based on recent Growth Management Hearings Board (GMHB) cases findings,
+   it is recommended that jurisdictions disaggregate housing capacity by income level so that
+   it is clear where there are deficits for specific housing needs. At a minimum, Commerce
+   recommends disaggregating any housing capacity that does not include subsidies
+   (everything above 50% AMI).
+
+2. Urban Growth Area Expansions
+   a. In our review, we did not find sufficient analysis supporting the proposed expansion of
+      various urban growth areas outside of Vancouver to meet future population and
+      growth targets. WAC 365.196.310(1)(e) outlines that, “The combined urban growth
+      area may not exceed the areas necessary to accommodate the growth management
+      planning projections, plus a reasonable land market supply factor, or market factor.”
+      From our understanding of the county’s Vacant Buildable Lands Model (2023), it
+      appears the current urban growth area boundaries are sufficient for the projected
+      population increases expected within Clark County (HAPT compared to Alternative 1).
+   b. Additionally, we did not find any discussion or analysis documenting whether other
+      zoning strategies have been utilized before concluding expansion of the various urban
+      growth areas were necessary. The County’s Land capacity analysis is the appropriate
+      place to document and justify the need to expand the urban growth areas proposed in
+      the draft comprehensive plan. As mentioned above, we did not find the city’s land
+      capacity analysis documenting such need.
+   c. Finally, in our review we did not find documentation indicating how the County expects
+      urban levels of service will be provided to the expanded areas over the 20-year
+      planning horizon.
+
+3. De-designation of Resource Lands
+   a. In our review of the draft comprehensive plan and agricultural lands study, we did not
+      find any discussion clearly demonstrating that the lands proposed for de-designation
+      no longer meet the designation criteria. WAC 365.190.040(10)(c) outlines that
+
+
+
+                                                                            Page: 2 of 4
+Department of Commerce: Submittal ID 2026-S-14100 and 2026-S-14101
+
+
+           amendments to resource land designations should be based on consistency with either:
+            a change in circumstance related to the designation criteria,
+            a change in circumstance to the subject property that is related to the designation
+              criteria,
+            an error in designation, or
+            new information related to designation criteria.
+        b. Further, de-designations of agricultural lands based solely or primarily on proximity to
+           urban growth that otherwise meet the definition of agricultural lands, historically has
+           not been found to be defensible by the Growth Management Hearings Board1.
+
+        As land capacity, UGA expansion, and de-designation of resource lands are inherently
+        intertwined, we recommend re-evaluating each of these together. For consistency with
+        WAC 365.190.040, RCW 36.70A.110 and RCW 36.70A.050, we recommend either:
+           i. Removing the areas proposed to be de-designated from the various urban growth
+               area expansion proposals after the documentation that the land capacity analysis
+               demonstrates adequate capacity, or
+          ii. Including additional justification and analysis, consistent with RCW, that
+               demonstrates the need for expansion of the various urban growth areas and for the
+               de-designation of the associated resource lands.
+
+        Additional resources to assist in this work can be found using the links below:
+    -   Commerce’s Guidance for Updating Your Housing Element (Chapter 3).
+    -   Commerce’s Urban Growth Area Guidebook.
+    -   Commerce’s Natural Resource Lands website.
+        Department of Commerce staff are willing to meet to discuss and provide support to help
+        address these specific components of the draft comprehensive plan, if desired.
+
+4. Transfer of Development Rights (TDR) Program
+   In our review, we found Policy 1.1.24 potentially inconsistent with state statue. While the
+   stated goal of resource land preservation is aligned with RCW 43.362.005, TDR programs
+   are not intended to be used as a mechanism to expand UGA Boundaries. When designated
+   resource lands are already within a UGA, TDR programs provide a valuable mechanism to
+   ensure those lands do not face development pressure (WAC 365.196.310(5)(e)(v)). We
+   recommend separating the establishment of the TDR program from components of UGA
+   expansion. Please see Commerce’s Transfer of Development Rights website for more
+   information.
+
+5. Adequate Provisions
+   As required in RCW 36.70A.070(2)(d)(ii), the housing element must include documentation
+   of programs and actions needed to achieve housing availability including gaps in local
+   funding, barriers such as development regulations, and other limitations. Although the
+   housing element includes a description of barriers and the HOSAP (2022) includes a policy
+   and code review with recommended actions, we could not find documentation of specific
+   actions or policies that address the identified barriers. We recommend adding to the
+   housing element a list of current barriers to affordable housing need and local actions
+
+1
+    Clark County Natural Resources Council and Futurewise v. Clark County, Final Decision and Order, Case No. 09-2-0002
+
+
+                                                                                                    Page: 3 of 4
+Department of Commerce: Submittal ID 2026-S-14100 and 2026-S-14101
+
+
+      needed to remove those barriers to align with statute, including plans to address gaps in
+      local funding and incentives. Guidance on completing this requirement can be found in
+      chapter 4 of Guidance for Updating Your Housing Element (pg. 54-76).
+
+Zoning Code
+
+6. Density Bonus for Religious Institutions
+   In our review, we did not find provisions that allow an increased density bonus within
+   UGAs on real property owned or controlled by a religious organization. Consistent with
+   RCW 36.70A.545, at minimum, we recommend allowing a density bonus for affordable
+   housing on property owned or operated for affordable housing.
+
+7. Construction Flexibility
+   In our review, we found that the height standards outlined in Clark County Code did not
+   include provisions that would allow a building to exceed maximum roof height limits by at
+   least 48 inches to accommodate a roof-mounted solar energy system.
+    For consistency with RCW 36.70A.813, we recommend incorporating the ability to exceed
+    height standards for solar energy systems.
+
+Finally, as a friendly reminder, copies of adopted plans and development regulations must be
+submitted to Commerce within ten days after final adoption (RCW 36.70A.106(2)).
+
+Again, we appreciate the work your proposed amendments represent, and we wish you
+success in meeting the goals of the Growth Management Act. We are available for technical
+assistance. If you wish to discuss these comments, you may reach me at
+joshua.engelbrecht@commerce.wa.gov or 360-725-3046.
+
+Sincerely,
+
+
+
+Joshua Engelbrecht, AICP
+Senior Planner
+Growth Management Services
+
+
+cc:      David Andersen, FAICP, Managing Director, Growth Management Services
+         Ben Serr, AICP, Eastern Regional Manager, Growth Management Services
+         Carol Holman, MUP, Western Regional Manager, Growth Management Services
+         Anne Fritzel, AICP, Housing Section Manager, Growth Management Services
+         Laura Hodgson, Housing Planning and Data Manager, Growth Management Services
+
+
+
+
+                                                                             Page: 4 of 4
+                                      STATE OF WASHINGTON
+                           DEPARTMENT OF COMMERCE
+         1500 Jefferson Street SE  PO Box 42525  Olympia, Washington 98501 (360) 725-4000
+                                        www.commerce.wa.gov
+
+                                             DRAFT
+
+September 9, 2026
+
+The Honorable Sue Marshall
+c/o Oliver Orjiako, Community Planning Director
+Clark County
+1300 Franklin Street
+Vancouver, WA 98666
+
+Sent Via Electronic Mail: oliver.orjiako@clark.wa.gov
+
+Re: 2026-S-14100 and 2026-S-14101 60-day Notice of Intent to Adopt - Periodic Update to
+Clark County’s Comprehensive Plan and Development Regulations.
+
+Dear Chair Marshall:
+
+Thank you for the opportunity to review and comment on the Clark County’s (county’s) draft
+comprehensive plan and development regulations. We appreciate the ongoing coordination
+with our agency as you work to achieve the community’s vision consistent with the goals and
+requirements of the Growth Management Act (GMA). Growth Management Services received
+the proposed amendment on July 24, 2026, and processed them with material identification
+numbers 2026-S-14100 and 2026-S-14101.
+
+Your submission represents a great deal of work towards the 2025 periodic update of your
+comprehensive plan and implementing development regulations, which were due December
+31, 2025.
+
+We have reviewed your submittal using Commerce’s Periodic Update Checklist and Expanded
+Housing Checklist. We encourage you and your community to consider the following as you
+finalize your drafts prior to adoption:
+
+Comprehensive Plan
+
+1. Land Capacity Analysis
+   In our review, we did not find the city’s land capacity analysis, required by RCW
+
+
+                                                                                          Page: 1 of 5
+Department of Commerce: Submittal ID 2026-S-14100 and 2026-S-14101
+
+
+       36.70A.070(2)(c). To demonstrate sufficient land capacity for projected housing needs at
+       each income level, including emergency and permanent supportive housing, we
+       recommend including a summary of this analysis in the housing element and the full
+       analysis in an appendix. The analysis should include an estimate of how many housing units
+       at each income level may be accommodated under existing or planned zoning compared to
+       housing needs. We recommend including a complete land capacity analysis in your
+       comprehensive plan prior to final adoption.
+
+2. Urban Growth Area Expansions
+   a. In our review, we did not find sufficient analysis supporting the proposed expansion of
+      various urban growth areas outside of Vancouver to meet future population and
+      growth targets. WAC 365.196.310(1)(e) outlines that, “The combined urban growth
+      area may not exceed the areas necessary to accommodate the growth management
+      planning projections, plus a reasonable land market supply factor, or market factor.”
+      From our understanding of the county’s Vacant Buildable Lands Model (2023), it
+      appears the current urban growth area boundaries are sufficient for the projected
+      population increases expected within Clark County (HAPT compared to Alternative 1).
+   b. Additionally, we did not find any discussion or analysis documenting whether other
+      zoning strategies have been utilized before concluding expansion of the various urban
+      growth areas were necessary. The County’s Land capacity analysis is the appropriate
+      place to document and justify the need to expand the urban growth areas proposed in
+      the draft comprehensive plan. As mentioned above, we did not find the city’s land
+      capacity analysis documenting such need.
+   c. Finally, in our review we did not find documentation indicating how the County expects
+      urban levels of service will be provided to the expanded areas over the 20-year
+      planning horizon.
+
+3. De-designation of Resource Lands
+   a. In our review of the draft comprehensive plan and agricultural lands study, we did not
+      find any discussion clearly demonstrating that the lands proposed for de-designation
+      no longer meet the designation criteria. WAC 365.190.040(10)(c) outlines that
+      amendments to resource land designations should be based on consistency with either:
+       ▪ a change in circumstance related to the designation criteria,
+       ▪ a change in circumstance to the subject property that is related to the designation
+          criteria,
+       ▪ an error in designation, or
+       ▪ new information related to designation criteria.
+   b. Further, de-designations of agricultural lands based solely or primarily on proximity to
+      urban growth that otherwise meet the definition of agricultural lands, historically has
+      not been found to be defensible by the Growth Management Hearings Board1.
+
+As land capacity, UGA expansion, and de-designation of resource lands are inherently
+intertwined, we recommend re-evaluating each of these together. For consistency with WAC
+365.190.040, RCW 36.70A.110 and RCW 36.70A.050, we recommend either:
+      i. Removing the areas proposed to be de-designated from the various urban growth
+
+1
+    Clark County Natural Resources Council and Futurewise v. Clark County, Final Decision and Order, Case No. 09-2-0002
+
+
+                                                                                                    Page: 2 of 5
+Department of Commerce: Submittal ID 2026-S-14100 and 2026-S-14101
+
+
+           area expansion proposals after the documentation that the land capacity analysis
+           demonstrates adequate capacity, or
+     ii.   Including additional justification and analysis, consistent with RCW, that
+           demonstrates the need for expansion of the various urban growth areas and for the
+           de-designation of the associated resource lands.
+
+Additional resources to assist in this work can be found using the links below:
+   - Commerce’s Guidance for Updating Your Housing Element (Chapter 3).
+   - Commerce’s Urban Growth Area Guidebook.
+   - Commerce’s Natural Resource Lands website.
+Department of Commerce staff are willing to meet to discuss and provide support to help
+address these specific components of the draft comprehensive plan, if desired.
+
+4. Transfer of Development Rights (TDR) Program
+   In our review, we found Policy 1.1.24 potentially inconsistent with state statue. While the
+   stated goal of resource land preservation is aligned with RCW 43.362.005, TDR programs
+   are not intended to be used as a mechanism to expand UGA Boundaries. When designated
+   resource lands are already within a UGA, TDR programs provide a valuable mechanism to
+   ensure those lands do not face development pressure (WAC 365.196.310(5)(e)(v)). We
+   recommend separating the establishment of the TDR program from components of UGA
+   expansion. Please see Commerce’s Transfer of Development Rights website for more
+   information.
+
+5. Future Land Use Map
+   In our review, we could not find a future land use map included in the comprehensive plan.
+   We only found the proposed zoning map. When the zoning map is also used as the future
+   land use map, any process that rezone parcels must also be accompanied by a
+   comprehensive plan amendment, which is allowed to occur only once per year consistent
+   with RCW 36.70A.130. We recommend developing a separate and distinct future land use
+   map that outlines wider categories of land use and allowing the zoning map to be used to
+   apply Clark County Code specific development regulations.
+
+6. Non-ag Accessory Uses on Ag Designated Lands
+   In our review we could not find policies associated with designated agricultural lands that
+   limit non-agricultural uses to lands with poor soils or policies that limit the range of
+   allowable accessory uses. We recommend updating the proposed policies and regulations
+   for consistency with RCW 36.70A.177.
+
+7. Adequate Provisions
+   As required in RCW 36.70A.070(2)(d)(ii), the housing element must include documentation
+   of programs and actions needed to achieve housing availability including gaps in local
+   funding, barriers such as development regulations, and other limitations.
+   a. Although the housing element includes a description of barriers and the HOSAP (2022)
+       includes a policy and code review with recommended actions, we could not find
+       specific actions or policies that address the identified barriers.
+   b. We recommend adding to the housing element a list of barriers to affordable housing
+
+
+
+                                                                          Page: 3 of 5
+Department of Commerce: Submittal ID 2026-S-14100 and 2026-S-14101
+
+
+          need and local actions needed to remove those barriers to align with statute. Guidance
+          on completing this requirement can be found in chapter 4 of Guidance for Updating
+          Your Housing Element (pg. 54-76).
+       c. In consideration of recent Growth Management Hearings Board cases2, we also
+          recommend identifying the number of units that are likely to require subsidies and/or
+          incentives to be affordable at the designated income levels, the amount of funding
+          and/or incentives needed for these units, and potential local funding sources and
+          incentives for housing needs. Guidance on completing this requirement can be found in
+          chapter 4 of Guidance for Updating Your Housing Element (pg. 63-65) and Appendix B:
+          Adequate provisions checklist.
+
+8. Racially Disparate Impacts
+   a. In our review, we did not find identification of policies and regulations that result in
+      racially disparate impacts, displacement, and exclusion in housing, as required by RCW
+      36.70A.070(2)(e). For guidance on completing this requirement, please see Guidance to
+      Address Racially Disparate Impacts, particularly steps 3, 4 and 5 (pg. 33-48).
+   b. In our review, we did find a few policies and regulations that address and begin to undo
+      racially disparate impacts, displacement, and exclusion in housing caused by local
+      policies, plans, and actions. To be more consistent with RCW 36.70A.070(2)(f), we
+      recommend including policies or actions informed by the findings of the policy
+      evaluation (see comment above).
+
+9. Displacement Risk
+   While we did find polices that address displacement and risk of displacement, we
+   recommend strengthening the policies proposed in the comprehensive plan. Commerce
+   has collected this matrix of anti-displacement policies and strategies as an additional
+   resource.
+
+Zoning Code
+
+10. Density Bonus for Religious Institutions
+    In our review, we did not find provisions that allow an increased density bonus within
+    UGAs on real property owned or controlled by a religious organization. Consistent with
+    RCW 36.70A.545, we recommend including that density bonus option within the County’s
+    development regulations.
+
+11. Parking
+    In our review of the parking standards in Clark County Code 40.340, we did not find
+    amendments to residential parking regulations that are consistent with RCW 36.70A.622.
+    For consistency with statue, we recommend incorporating the provisions outlined in RCW
+    36.70A.622.
+
+12. Construction Flexibility
+    In our review, we found that the height and setback standards outlined in Clark County
+    Code did not include provisions that would allow for the following flexibility:
+
+2
+    Futurewise et al. v. City of Mercer Island, Final Decision and Order, Case No. 25-3-0003
+
+
+                                                                                               Page: 4 of 5
+Department of Commerce: Submittal ID 2026-S-14100 and 2026-S-14101
+
+
+         o Allow for new construction or retrofits of existing buildings for residential housing
+              to project into required setbacks and exceed height limits by up to eight inches to
+              accommodate the addition of necessary insulation.
+         o Allow for buildings that meet passive house requirements to project into required
+              setbacks and exceed height limits by up to eight inches to accommodate the
+              addition of necessary insulation.
+         o Measure gross floor area from the interior face of the exterior wall.
+         o Allow a building to exceed maximum roof heigh limits by at least 48 inches to
+              accommodate a roof-mounted solar energy system.
+      For consistency with RCW 36.70A.810, .812, and .813, we recommend incorporating the
+      ability to exceed height and setback standards in the above cases.
+
+13. Façade Modulation
+    In our review, we found that the form-based standards in Title 40 Appendix F did not
+    include provisions consistent with RCW 36.70A.815. We recommend including provisions in
+    the Clark County Code that explicitly state that Clark County regulations do not require
+    façade modulation or upper-level setbacks as a condition of permitting the following types
+    of construction:
+        o Affordable housing,
+        o New construction or retrofit of existing buildings meeting passive house
+            requirements,
+        o Conversion of existing buildings to housing or mixed-use development that includes
+            housing, modular construction, or mass timber construction.
+
+Finally, as a friendly reminder, copies of adopted plans and development regulations must be
+submitted to Commerce within ten days after final adoption (RCW 36.70A.106(2)).
+
+Again, we appreciate the work your proposed amendments represent, and we wish you
+success in meeting the goals of the Growth Management Act. We are available for technical
+assistance. If you wish to discuss these comments, you may reach me at
+joshua.engelbrecht@commerce.wa.gov or 360-725-3046.
+
+Sincerely,
+
+
+ Joshua Engelbrecht, AICP
+Senior Planner
+Growth Management Services
+
+
+cc:      David Andersen, FAICP, Managing Director, Growth Management Services
+         Ben Serr, AICP, Eastern Regional Manager, Growth Management Services
+         Carol Holman, MUP, Western Regional Manager, Growth Management Services
+         Anne Fritzel, AICP, Housing Section Manager, Growth Management Services
+         Laura Hodgson, Housing Planning and Data Manager, Growth Management Services
+
+
+
+
+                                                                             Page: 5 of 5
+From:          Judith Perez Keniston
+To:            Oliver Orjiako
+Cc:            Jose Alvarez; Harrison Husting; Jenna Kay; Susan Ellinger; Suzan Poisner
+Subject:       Clark County"s Comprehensive Plan Certification Review
+Date:          Wednesday, August 19, 2026 10:03:49 AM
+Attachments:   Outlook-iwnbeejl.png
+
+
+
+
+Oliver,
+
+Good morning! Thank you for providing the Southwest Washington Regional
+Transportation Council (RTC) with the opportunity to review the County’s draft
+comprehensive plan. We appreciate the substantial time and effort the County has
+invested in developing the draft and value the opportunity to review it in its current form.
+This early review allows us to assess the plan elements and help prepare the County’s
+plan for certification by RTC once the full plan has been adopted.
+
+The following comments identify areas where additional information or context may be
+needed as part of the County’s certification request submittal to support our final
+review. We recommend that the County consider the following items as it continues
+work on the comprehensive plan update to ensure consistency with the Regional
+Transportation Plan and the Growth Management Act.
+
+Transportation Element – Multimodal Level of Service (MMLOS)
+
+      We could not find references to state-owned transportation facilities subject to
+      MMLOS standards in the Transportation Element.
+           For consistency with RCW 36.70A.070(6)(a)(iii)(A), we recommend identifying
+           these facilities in the Transportation Element.
+           Page 41 of Chapter 5, Transportation Element, references WSDOT MMLOS
+           standards for state facilities; however, it does not identify the specific state
+           routes to which the MMLOS standards apply.
+
+      We did not find information describing how land use assumptions will be
+      reassessed to ensure that MMLOS standards will be met.
+           For consistency with RCW 36.70A.070(6)(a)(iv)(C), we recommend adding a
+           section to the Transportation Element describing how land use assumptions
+           will be reassessed and how the County will ensure that applicable MMLOS
+           standards are met.
+
+ADA Transition Plan
+
+      The ADA Transition Plan inventory was not included in Appendix L, ADA Transition
+       Plan. While summary tables are provided on pages 13–17, the full inventory was
+       not included.
+             For certification purposes, RTC will need to review the full inventory
+             alongside the ADA Transition Plan to assess how the County plans to
+             address deficiencies identified in the plan. We recommend including the
+             most recent completed inventory (via excel spreadsheet) prior to the
+             certification request submittal.
+
+We appreciate the work the County is undertaking and the opportunity to provide input
+at this stage of the comprehensive plan update. We are happy to continue working with
+you as the draft progresses through the adoption process.
+
+Please feel free to contact me if you have any questions or need additional information.
+
+
+My best,
+Judith R. Perez Keniston, AICP
+Principal Planner
+
+
+
+
+4th Floor Suite 430
+1601 E Fourth Plain Blvd – Bldg 17
+Vancouver, WA 98660
+
+
+P. 564-397-5231
+http://www.rtc.wa.gov
+From:            Lugo, Jason
+To:              Harrison Husting; Cnty 2025 Comp Plan
+Cc:              Lebowsky, Laurie; Albrecht, Gary; Bass, Dylan; Whitfield, Jacob; Schilperoort, LisaRene; Gibbens, Jason;
+                 Southwick, Michael; Hajda, Courtney
+Subject:         WSDOT Comments: Clark County Draft Transportation Capital Facilities Plan
+Date:            Tuesday, September 15, 2026 9:07:10 AM
+Attachments:     image002.png
+                 Clark County WSDOT commentsTransportation CFP.xlsx
+
+
+
+
+EXTERNAL: This email originated from outside of Clark County. Do not click
+links or open attachments unless you recognize the sender and know the
+content is safe.
+
+RE:   WSDOT Comments, Clark County Draft Transportation Capital Facilities Plan
+         September 15, 2026
+
+
+
+WSDOT values Clark County as a partner and appreciates our collaboration
+to develop and support a safe and efficient multimodal transportation network.
+
+Attached to this document is a form which contains a table with specific comments for your
+review.
+
+Thank you for the opportunity to review the draft Clark County Transportation Capital Facilities
+Plan.
+Please accept this email for the record.
+
+
+
+Jason Lugo | Development Review Planner, SWR
+11018 NE 51st Cir
+Vancouver, WA 98682-6686
+360-905-2084 | Jason.Lugo@wsdot.wa.gov
+                                                                                COMMENT FORM
+  Document title:              Appendix A: Transportation Capital Facilities Plan and Chapter 5 Transportation Element of
+  Reviewer(s):                 WSDOT SWR Staff-Planning and Traffic
+
+     No.        Section      Page          Table     Department/Division                          Comment
+      1     Table 9 -       31         9           Planning                Planning estimate for SR 500 Complete Street
+            WSDOT                                                          improvements was between $17-19 million for full
+            Projects - Road                                                build (roundabouts plus SUP on both sides). Not sure
+            Segments                                                       if County wants/needs cost estimate as it is not being
+                                                                           included in financial analysis.
+
+
+
+
+      2     Table 9 -       31         9           Planning                For all roadway segments with improvements needed
+            WSDOT                                                          to address peak-hour capacity deficiencies - have full-
+            Projects - Road                                                day operations been looked at? What are the
+            Segments                                                       improvements proposed?
+
+      3     Table 10           32      10          Planning                Why is SR 503/119th not included in this list? SR 503
+            WSDOT                                                          Corridor Plan calls out operations at this intersection
+            Projects -                                                     reaching failure in PM peak-hour in the horizon year.
+            Intersections
+      4     Table 10 WSDOT 32          10          Planning                RE; SR 503 at NE 144th, why this intersection? Is the
+            Projects -                                                     County also proposing to construct the arterial to the
+            Intersections                                                  west per the Arterial Atlas?
+
+      5     Table 10        32         10          Planning                RE: SR 503 at NE 131st, why this intersection? Did
+            WSDOT                                                          the County mean the proposed arterial to the north?
+            Projects -
+            Intersections
+      6     Table 9 -       31         9           Traffic                 Line item for Salmon Creek Interchange Project
+            WSDOT                                                          Phase 2. Does this item include the relocation of the I-
+            Projects - Road                                                205 SB off-ramp from 134th St to 139th St? Issues
+            Segments                                                       on 134th St are related to intersection spacing. What
+                                                                           about connection to I-205 SB on-ramp? Severe lane
+                                                                           imbalance at 20th Ave signal due to lane assignment.
+
+      7     Table 9 -       31         9           Traffic                 Line item for NE 88th St. Prject description lists
+            WSDOT                                                          signal upgrades. What signal upgrades? This
+            Projects - Road                                                intersection is huge and several lanes in every
+            Segments                                                       direction. More detail needed. Also, this does not
+                                                                           appear to be a WSDOT project.
+
+
+
+
+                                                                                                                                                  Page 1 of 6
+DRAFT - For internal discussion only                                                                                                  Date printed: 9/16/2026
+     No.        Section      Page          Table     Department/Division                           Comment
+      8     Table 9 -       31         9           Traffic                 Line item for NE Ward Rd. Not sure what is meant by
+            WSDOT                                                          "phased signals". Ward Rd SB already has two
+            Projects - Road                                                lanes. Additionally, there is already a signal here. A
+            Segments                                                       new one should not be added for the sake of
+                                                                           maintenance and operations lifecycle costs put onto
+                                                                           WSDOT.
+      9     Table 9 -       32         9           Traffic                 Table 9, 1st row on page 9 is for SR 500 (EB & WB).
+            WSDOT                                                          For clarity, include "NE Fourth Plain Blvd" to better
+            Projects - Road                                                identify project location because NE 65th St crosses
+            Segments                                                       SR 500 in multiple locations.
+
+     10     Table 9 -       32         9           Traffic                 Row 3 on this page is for SR 503 (NB). The
+            WSDOT                                                          boundries include "just north of intersection". WHat
+            Projects - Road                                                intersection?
+            Segments
+
+     11     Table 9 -       32         9           Traffic                 Line item for SR 502 (WB), it mentions I-5 SB on-
+            WSDOT                                                          ramp with capacity deficiencies. How was this
+            Projects - Road                                                identified? This roadway segment has two lanes.
+            Segments
+
+     12     Table 9 -       32         9           Traffic                 Last row in Table 9 on page 32 shows roadway
+            WSDOT                                                          segment from N of NE Padden Pkwy to N of NE
+            Projects - Road                                                Padden Pkwy. This is not a roadway segement. It
+            Segments                                                       describes a point.
+
+     13     Table 9 -       32         9           Traffic                 What are the deficiencies for these rows? I am not
+            WSDOT                                                          aware.
+            Projects - Road                                                SR 500 (EB&WB) NE 65th St to NE 182nd Ave
+            Segments                                                       Improvements needed to address peak hour capacity
+                                                                           deficiencies,
+                                                                           SR 502 (WB) NE 10th Ave to NB I-5 off ramp
+                                                                           Improvements needed to address peak hour capacity
+                                                                           deficiencies
+                                                                           SR 503 (NB) NE Roper Rd to NE Potter Rd
+                                                                           Improvements needed to address peak hour capacity
+                                                                           deficiencies
+     14     Table 10           32      10          Traffic                 SR 503 & NE 131st St. This one is on WSDOT's radar
+            WSDOT                                                          due to public complaints forwarded by Clark County. This
+            Projects -                                                     has been identified on previous studies and Clark
+            Intersections                                                  County's arterial atlas.
+
+
+
+
+                                                                                                                                                  Page 2 of 6
+DRAFT - For internal discussion only                                                                                                  Date printed: 9/16/2026
+     No.          Section        Page    Table   Department/Division                          Comment
+     15     n/a                n/a      n/a    Traffic                 Not listed in this document are intersections with
+                                                                       background and previous conversation with County
+                                                                       staff. First is SR 503 & NE 119th St. The westbound
+                                                                       approach experiences delay that exceeds level of
+                                                                       service standards. This roadway is a County
+                                                                       roadway. WSDOT has received feedback from the
+                                                                       public about delay and congestion. WSDOT planning
+                                                                       efforts have identified improvements needed. Adding
+                                                                       capacity on 119th will facilitate improve LOS scoring
+                                                                       and reduce congestion on the county roadway. The
+                                                                       signalized intersection was designed and built to
+                                                                       accommodate future widening on 119th. The signal
+                                                                       operations cannot improve without improvements
+                                                                       made on local roadway network.
+
+     16     n/a                n/a      n/a     Traffic                SR 500 (NE 117th Ave) & NE 65th St. Westbound
+                                                                       approach experiences high level of delay. Future
+                                                                       right turn lane would better facilitate movement and
+                                                                       improve efficiency at signalized intersection. If not
+                                                                       intersection improvement, adding parallel routes for
+                                                                       local traffic and better circulation to nearby access
+                                                                       points to state highway and local roadway network.
+
+     17     n/a                n/a      n/a     Traffic                SR 500 (NE 58th St) & NE 199th Ave. High crash
+                                                                       location and increase delay reducing LOS standards.
+
+     18     Table 10           32       10      Traffic                These locations on the table are two-way stop-
+            WSDOT                                                      controlled (TWSC) intersections, but I am not aware
+            Projects -                                                 capacity deficiencies.
+            Intersections                                              SR 503 NE 154th St Improvements needed to
+                                                                       address peak hour capacity deficiencies
+                                                                       SR 503 NE 144th St Improvements needed to
+                                                                       address peak hour capacity deficiencies
+                                                                       SR 500 NE 19th St Improvements needed to address
+                                                                       peak hour capacity deficiencies
+                                                                       I-5 NB off-ramp SR 502 Improvements needed to
+                                                                       address peak hour capacity deficiencies
+     19     WSDOT              32       9       Planning               None of the projects listed in Table 9 are included
+            Projects - Road                                            any WSDOT plan or planning study. Consider
+            Segments                                                   renaming the table. Were these projects identified as
+                                                                       needed improvements in the review of the travel
+                                                                       demand model run/capacity analysis? If so, possibly
+                                                                       rename the table title to reflect the analysis results.
+
+
+
+
+                                                                                                                                             Page 3 of 6
+DRAFT - For internal discussion only                                                                                             Date printed: 9/16/2026
+     No.         Section        Page    Table   Department/Division                          Comment
+     20     WSDOT              32      10     Planning                None of the projects listed in Table 10 are included
+            Projects -                                                any WSDOT plan or planning study. Consider
+            Intersections                                             renaming the table. Were these projects identified as
+                                                                      needed improvements in the review of the travel
+                                                                      demand model run/capacity analysis? If so, possibly
+                                                                      rename the table title to reflect the analysis results.
+
+     21     Chapter 5:         4-5             Planning               Does not include reference to the 2024 WSDOT
+            Transportation                                            Highway System Plan (HSP)
+     22     Chapter 5:         4-5             Planning               Include the following language in the description for
+            Transportation                                            the Highway System Plan: Under Revised Code of
+                                                                      Washington (RCW) 47.06.050: The State Highway
+                                                                      System Plan serves as a vital component of the
+                                                                      statewide multimodal transportation plan, outlining
+                                                                      long-term program needs, financing strategies and
+                                                                      system improvements. The 2024 HSP prioritizes the
+                                                                      following funding approaches for WSDOT facilities as
+                                                                      follows: 1.First fund operations maintenance,
+                                                                      capital preservation and critical programs such as
+                                                                      required fish passage projects and support programs.
+                                                                      2.Then for any remaining funds, $2 should be spent
+                                                                      on safety and efficiency strategies for every $1 spent
+                                                                      on highway expansion projects.
+
+
+     23     Appendix A:        31      9       Planning               Please check with RTC staff on this project. It is an
+            Transportation                                            unfunded feasibility study listed in their Unified
+            Capital Facilities                                        Planning Work Program.
+            Plan
+     24     Appendix A:        31-32   9       Planning               Projects listed in lines 5-14 are not listed in the RTC
+            Transportation                                            RTP or were not part of a WSDOT Planning study or
+            Capital Facilities                                        Complete Streets Pre-Design
+            Plan
+
+
+
+
+                                                                                                                                            Page 4 of 6
+DRAFT - For internal discussion only                                                                                            Date printed: 9/16/2026
+     No.         Section         Page   Table   Department/Division   Comment
+
+
+
+
+                                                                                            Page 5 of 6
+DRAFT - For internal discussion only                                            Date printed: 9/16/2026
+     No.         Section         Page   Table   Department/Division   Comment
+
+
+
+
+                                                                                            Page 6 of 6
+DRAFT - For internal discussion only                                            Date printed: 9/16/2026
+To:               Oliver Orjiako – Community Planning Director
+
+CC:               April Furth – Deputy County Manager
+                  David Kuhnhausen – Community Development Director
+
+From:             Jeremy Provenzola, PE – County Engineer
+                  Ken Lader, PE – Public Works Director
+
+Date:             09/09/2026
+
+Subject:          Traffic Impact Fee Formula (CCC 40.620.010)
+
+
+As part of the code amendments to be presented to Council within the 2025 Comprehensive Growth
+Management Plan Update, all references to the Traffic Impact Fee Technical Document are proposed for removal,
+thereby rendering the document obsolete. In conjunction with this proposed rescission, and to ensure the
+pass-by factor is applied accurately and consistently, CCPW respectfully proposes that the Traffic Impact
+Fee Formula in section 40.620.010 be amended as set forth below:
+
+                        TIF = (size of development by unit of measure/unit of measure) x
+      (daily trips per unit of measure) x (1 - pass-by factor) x (BEF) x (0.85) x (fee per daily trip by district)
+
+Thank you for your consideration, and please reach out if you have any questions.
+

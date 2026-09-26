@@ -13,6 +13,66 @@ letter to the Department of Commerce, and the Residential Code Updates draft mem
 
 ---
 
+## Update, 25 September — what has landed since the 22 September brief
+
+New documents read: Commerce's final comment letter of **22 September** (added on 24 September to
+*Compiled Agency Comments*, doc 236706 — the PDF's modification date is 24 Sep); *Compiled City
+Responses to Commerce Comments* (doc 237356, letters from Camas and Ridgefield dated 24 Sep); the
+**23 September Council Time minutes**; the draft Chapter 3 Rural and Natural Resources Element; and
+the Weekly Calendar. All cached under `data/clark-county/2026-10-01-comp-plan/` and
+`data/clark-county/2026-09-30-ct/`.
+
+1. **The state's final word matches this brief's case, point for point.** Commerce, 22 September:
+   - *"we did not find the county's land capacity analysis identified insufficient land capacity
+     before urban growth area changes"* (item 1).
+   - *"it appears the current urban growth area boundaries are sufficient for the projected
+     population increases"* (2a).
+   - *"we did not find any discussion clearly demonstrating that the lands proposed for
+     de-designation no longer meet the designation criteria"* (3a).
+   - It recommends **disaggregating housing capacity by income, "at a minimum … everything above
+     50% AMI"**. That is the same flaw §4 below finds in the single 0–80% bucket.
+   - It asks for documentation of **local funding gaps** (item 5, "Adequate Provisions"). That is
+     the subsidy gap §4 names.
+
+   **Commerce is advisory, not a veto.** But it is the agency whose position a Growth Management
+   Hearings Board appeal would start from.
+2. **The cities have answered, and their best argument deserves stating fairly.**
+   - **Ridgefield** says its middle-housing incentives since 2021 produced almost nothing: 6 duplex
+     units, 1 qualifying ADU, zero cottages, zero units over retail. Its mixed-use zones produced
+     495 units, and the expansions would add **840 units of sub-80% AMI capacity**. It frames its
+     1,359-unit surplus as a **23% local safety factor** inside a 10% countywide market factor.
+   - **Camas** argues the Nevin site is already cut into five-acre lots. The real choice, it says,
+     is rural ranchettes or **1,200+ multifamily units**. Its consultant's report puts the site's
+     hay revenue at ~$54,000/yr against ~$5.6M assessed value.
+
+   That is the strongest case *for* the expansions in the record. Two limits apply to it:
+   - The "sub-80% AMI" capacity is the same zoning-as-affordability proxy §4 criticises.
+   - The Nevin argument cuts both ways. If five-acre parcelisation makes farmland "characterized by
+     urban growth", then sprawl justifies more sprawl.
+3. **A late Council amendment is being drafted.** At Council Time on 23 September, Chair Marshall
+   added an item that morning, *"Cluster Development on Resource Lands"*. She said a change is
+   *"necessary in the Comprehensive Plan"* and that she would *"work with Oliver Orjiako on a
+   potential amendment."*
+   - No text has been published, and the minutes do not say whether clustering on AG-20 and
+     FR-40/80 land would be tightened or loosened.
+   - Draft policies 3.4.4 and 3.5.4 currently allow it "consistent with platting and zoning
+     requirements."
+   - **If it is moved on 1 October, ask for the text to be read into the record before the vote.**
+4. **TDR is off the table until 2027.** The 23 September minutes: the Council *"agreed to move
+   forward with scheduling the round table in early 2027."* David Toyer spoke at that meeting's
+   public comment. The Ridgefield letter names him as representing Ridgefield on TDR ("Toyer
+   Strategic Advisors"). His 23 September letter to the County on TDR is referenced by both cities
+   and **is not published**.
+5. **Logistics.**
+   - The 2 October continuation has **its own WebEx number: 2481 727 6548**, per the Weekly
+     Calendar. It is not the 1 October number.
+   - The hearing agenda's header reads *"Tuesday, October 1, 2026"*. 1 October is a **Thursday**;
+     every other notice says Thursday.
+   - The public comment compilation for 16 Sep – 1 Oct now runs to **six parts** (docs 236986,
+     237046, 237051, 237056, 237146, 237286).
+
+---
+
 ## Bottom line
 
 **Clark County's own planning staff say, in a memo written for this hearing, that Camas, La Center
@@ -98,6 +158,23 @@ designation — that linkage was the entire enforcement mechanism. The letter pr
 policy explicitly **separate from** the expansions. That is the version with the holding designation
 removed. If the Council adopts a "TDR policy" on 1 October, the question to ask is whether anything
 stops a converted acre being built on before a replacement acre is conserved.
+
+> **Correction, 25 September 2026.** The paragraph above, and the 23 September Council Time brief,
+> framed the County's promise of a TDR policy "separate from urban growth expansion efforts" as a
+> weakening chosen by the County. **That omitted the fact that the separation is what the Department
+> of Commerce asked for.** Commerce's comment letters — the 9 September draft and the 22 September
+> final, both in *Compiled Agency Comments* (doc 236706, item 4) — say Policy 1.1.24 is *"potentially
+> inconsistent with state statute"* because *"TDR programs are not intended to be used as a mechanism
+> to expand UGA Boundaries"*, and *"recommend separating the establishment of the TDR program from
+> components of UGA expansion."* So a TDR offset tied to the expansions was, in the state's reading,
+> itself legally suspect. The County's letter was complying with that, not freelancing.
+>
+> What still holds: with the linkage gone, **nothing in the plan offsets the converted farmland.**
+> But Commerce's remedy is not a stronger TDR. It is item 3's option (i): *"Removing the areas
+> proposed to be de-designated from the various urban growth area expansion proposals."* The
+> stronger ask at the hearing is therefore **drop the de-designations**, not **restore the TDR
+> linkage**. On 23 September the Council also pushed TDR to a round table *"in early 2027"*
+> (Council Time minutes), after adoption.
 
 **This is being shaped on Wednesday 23 September at Council Time** — see the separate brief for that
 meeting. There are no published materials for that discussion.
@@ -287,9 +364,14 @@ being patched in response. What the net effect on fee levels is, the memo does n
 - **The DEAB letter** that item 11A points the Council at. Still unpublished, four weeks running.
 - **Appendix N (Land Capacity Analysis) and Appendix M (Racially Disparate Impacts)** were located
   but not read — docs 236841 and 236836.
-- **Exhibit 3 (Compiled Code Changes), Exhibit 2 (Policy Change Table), Exhibit A (Issue Paper #8),
-  the FEIS, and the compiled agency comments** were not read. Exhibit 3 alone is the full Title 40
-  markup.
+- **Exhibit 3 (Compiled Code Changes), Exhibit 2 (Policy Change Table), Exhibit A (Issue Paper #8)
+  and the FEIS** were not read in full. Exhibits 2 and 3 were downloaded on 25 September and
+  searched only for "cluster". Exhibit 3 alone is the full Title 40 markup. *Compiled Agency
+  Comments* was read on 25 September, but only the Commerce letters in it.
+- **The text of Chair Marshall's cluster development amendment.** None has been published.
+- **David Toyer's 23 September TDR letter**, cited by Camas and Ridgefield. Not published.
+- **La Center's response to Commerce.** The compiled city responses contain only Camas and
+  Ridgefield.
 - **One link in the County's letter to Commerce is broken**: it cites draft zoning code language at
   `https://clark.wa.gov/mediadocument/260915` — missing a slash, and the document id is far outside
   the range of every other id on the comp plan page (233xxx–236xxx). Whatever parking, construction

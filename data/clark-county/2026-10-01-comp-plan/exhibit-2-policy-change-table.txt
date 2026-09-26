@@ -1,0 +1,2522 @@
+EXHIBIT 2: GOAL AND POLICY PROPOSED AMENDMENTS
+The proposed new and edited goals and policies are found in the following table. This table does not include goals and policies that only had edits to re-
+number an existing policy, and/or the addition of [GHG], [RES] or [GHG, RES] at the end of existing policy language to indicate the policy helps support
+the Climate Element.
+
+The table has three columns.
+
+    •    Column 1 provides the corresponding goal/policy number in the Comprehensive Plan. Please note:
+
+             o   Framework Plan policies have an “F” in them, to distinguish them from other policies that may have the same number.
+
+             o   Policies to be deleted have a “D” added to the end of the policy number
+
+             o   Strategies have a number assigned for the chapter or corresponding goal plus an “S”
+
+             o   Headings have a number assigned for the chapter or goal plus an “H”
+
+    •    Column 2 identifies if the proposed amendment is to a goal, policy , or strategy
+
+    •    Column 3 includes the proposed new or amended language
+
+
+CHAPTER 1 LAND USE ELEMENT
+ NUMBER          TYPE          PROPOSED AMENDMENT
+
+                               COUNTYWIDE PLANNING POLICIES
+
+ 1.1.7           Policy        1.1.7 Clark County and cities shall review their designated urban growth area or areas in compliance with
+                               Chapter 36.70A.215. The purpose of the review and evaluation program shall be to determine whether Clark
+                               County and its cities are achieving urban densities within Urban Growth Areas. This shall be accomplished by
+                               comparing the growth and development assumptions, targets and objectives (Appendix K) contained in these
+                               policies (and in county and city comprehensive plans) with actual growth and development that has occurred.
+
+
+
+
+                                                                        Page 1 of 71
+                  RATIONALE: PROPOSE INCLUSION OF A REFERENCE TO AN APPENDIX THAT CONTAINS THE
+                  ZONING DENSITY ASSUMPTIONS PROPOSED BY THE JURISDICTIONS AND USED IN THE
+                  VACANT BUILDABLE LANDS MODEL (VBLM).
+1.1.11   Policy   1.1.11 Population projections used for designating urban growth areas will be based upon information provided
+                  by the Office of Financial Management within forecast range provided by the Office of Financial Management.
+                  and appropriate bi-state/regional sources.
+
+                  RATIONALE: THE LANGUAGE IS MORE CONSISTENT WITH RCW 43.62.035 AND CLARIFIES THAT
+                  OFM IS THE SOURCE FOR POPULATION PROJECTION USED FOR THE COMPREHENSIVE PLAN
+                  UPDATES.
+1.1.14   Policy   1.1.14 Coordination of land use planning and development:
+                  • Clark County and each municipality shall cooperatively prepare land use and transportation plans and
+                      consistent development guidelines for the urban area.
+                  • Comprehensive Plans must be coordinated. The comprehensive plan of each county or city shall be
+                      coordinated with and consistent with, the comprehensive plans adopted by other counties or cities with
+                      which Clark County or city has, in part, common borders or related regional issues. The cityies and Clark
+                      County shall play partnership roles in the production of plans which provide the opportunity for public and
+                      mutual participation, review and comment.
+                  • Conversion of industrial or employment lands to non-industrial or non-employment center districts may
+                      occur within the following parameter:
+                          o Protect and preserve lands zoned heavy industrial for heavy industrial uses.
+                          o Protect employment center lands from conversion to residential.
+                          o Consider rezoning of employment center lands to non-retail commercial or business park if the
+                               proponent can show that (a) the zone change would accommodate unforeseen and rapidly changing
+                               commercial development needs and (b) the proposed designation is more suitable than the current
+                               designation given the land’s site-specific characteristics and (c) the proposed zone change will
+                               generate greater economic benefitjobs at a higher density than the current comprehensive plan zone
+                               allocation.
+                  • Urban development shall be limited to areas designated by the urban growth boundary. Clark County and
+                      each local jurisdiction urban areas would have a higher average density than currently exists, approximately
+                      4, 6 to 8, units per net residential acre depending on the specific urban area. No more than 75 percent of the
+                      new housing stock would be of a single product type (e.g., single-family detached residential or attached
+                      multi-family). This would not apply to the Yacolt urban growth area due to wastewater management issues.
+                      will plan for and provide housing based on the allocation and at the income levels in the Housing for All
+                      Planning Tool (HAPT) in Appendix J.
+
+
+
+
+                                                         Page 2 of 71
+                  •   The zoning density targets, proposed by each jurisdiction, will be used for estimating capacity in the Vacant
+                      Buildable Lands Model (VBLM) in Appendix K.
+
+                  RATIONALE: PROPOSE TO ADD TWO APPENDICES THAT CONTAIN THE HOUSING ALLOCATION
+                  AND INCOME BANDS FOR EACH JURISDICTION BASED ON THE HAPT AND THE ZONING
+                  DENSITY ASSUMPTIONS, PROPOSED BY THE JURISDICTIONS, USED IN THE VACANT
+                  BUILDABLE LANDS MODEL (VBLM). EMPLOYMENT CENTER IMPLIES A DISTRICT THAT MAY NOT
+                  BE COMMON TO ALL JURISDICTIONS, REMOVING “CENTER” ALLOWS FOR A BROADER
+                  INTERPRETATION REGARDLESS OF THE SPECIFIC ZONE OR DISTRICT. PROPOSAL TO MAKE THE
+                  LANGUAGE MORE FLEXIBLE BY CHANGING “JOBS AT A HIGHER DENSITY” TO “GREATER
+                  ECONOMIC BENEFIT.” NOTE: THE TECHNICAL COORDINATING COMMITTEE DID NOT REACH
+                  FULL CONSENSUS ON AMENDMENTS TO THE TEXT IN THE THIRD BULLET AND ASSOCIATED
+                  SUB-BULLETS IN THE LIST.
+1.1.15   Policy   1.1.15 Urban Growth Area Centers (UGA) have a full range of urban levels of services and can be divided into
+                  three main categories in the following density tiers:
+                  • Vancouver Urban Growth Area is now or will be a major urban area activity centers with a full range of
+                      residential, commercial and industrial uses, high-capacity transit corridors, schools, major cultural and
+                      public facilities. Major urban areas centers, have or will have, urban densities of development of at least 8 or
+                      more units per net residential acre as overall averages. Areas along high capacity transit corridors and priority
+                      public transit corridors may have higher than average densities while other areas would have lower densities
+                      (e.g. established neighborhoods and neighborhoods on the fringes of the urban area). Regional institutions
+                      and services (government, museums, etc.) should be located in the urban core.
+                  • Urban Growth Areas of Battle Ground, Camas, Ridgefield and Washougal, will have a full range of residential,
+                      commercial and industrial uses, schools, neighborhood, community and regional parks and are within
+                      walking distance to HCT corridors or public transit. These areas will have employment opportunities and
+                      lower densities than a major urban area centers, averaging at least 6 units per net residential acre (4.5 gross
+                      units per acre). Higher densities occur along transit corridors and in the community center, with lower
+                      densities in established neighborhoods and on the outskirts of the community. These urban growth areas
+                      centers should have a center focus that combines commercial, civic, cultural and recreational uses.
+                  • Urban Growth Areas of La Center and Woodland will have predominantly residential uses with at least 4
+                      housing units per net residential acre (3 gross units per acre) and includes pedestrian-oriented commercial
+                      uses, schools and small parks.
+                  • There are no standards for the Yacolt Urban Growth Area due to lack of public sewer. A mix of residential
+                      uses and densities are or will be permitted. Neighborhoods are to have a focus around parks, schools, or
+                      common areas.
+
+
+
+
+                                                          Page 3 of 71
+                   RATIONALE: PROPOSE REMOVING SPECIFIC UGA DENSITY TARGETS AND PLACING A
+                   REFERENCE IN POLICY 1.1.7 TO AN APPENDIX THAT CONTAINS THE ZONING DENSITY
+                   ASSUMPTIONS PROPOSED BY THE JURISDICTIONS AND USED IN THE VACANT BUILDABLE
+                   LANDS MODEL (VBLM).
+1.1.17    Policy   1.1.17 Establish consistent regional criteria to determine the size of urban growth areas for the 20-year
+                   comprehensive plans that:
+                   • Aassume the need for residential market factor lands added to the amount called for in the population
+                       forecast to build in flexibility.
+                   • include a household size of 2.66 people per householdconsistent with the Department of Commerce’s
+                       Housing for All Planning Tool (HAPT)
+                   • conserve designated agriculture, forest or mineral resource lands;
+                   • utilize innovative programs, including the transfer of development rights;
+                   • ensure an adequate supply of buildable land;
+                   • have the anticipated financial capability to provide infrastructure/services needed for the 20-year growth
+                       management population projections; and,
+                   • balance industrial, commercial and residential lands.
+
+                   RATIONALE: COMMERCE’S HAPT INCLUDES A 2045 PERSONS PER HOUSEHOLD SIZE FOR
+                   EACH COUNTY, BY REMOVING REFERENCE TO THE NUMBER IT WOULD NOT HAVE TO BE
+                   AMENDED WITH EVERY UPDATE. THE EDIT REGARDING INNOVATIVE PROGRAMS, INCLUDING
+                   TRANSFER OF DEVELOPMENT RIGHTS WAS SUGGESTED BY THE CITIES OF RIDGEFIELD, LA
+                   CENTER, AND CAMAS. NOTE: THE TECHNICAL COORDINATING COMMITTEE DID NOT REACH
+                   FULL CONSENSUS ON THIS AMENDMENT.
+1.1.19D   Policy   1.1.19 There shall be no net material increase in cardroom capacity within the La Center Urban Growth Area.
+
+                   RATIONALE: RE-NUMBERED AND MOVED LOCATION OF EXISTING COUNTYWIDE PLANNING
+                   POLICY TO 1.1.25.
+1.1.19    Policy   1.1.19 Clark County and each municipality shall give special consideration to achieving environmental justice in
+                   comprehensive plan goals and policies, including targeted efforts to avoid creating or worsening environmental
+                   health disparities and improve health outcomes in all communities. The jurisdictions shall collaborate on
+                   environment and health issues that cross jurisdictional boundaries, such as air and water quality.
+
+
+
+
+                                                         Page 4 of 71
+                  RATIONALE: NEW CWPP BEING CONSIDERED BY JURISDICTIONS TO ADDRESS AMENDMENTS
+                  TO RCW36.70A.070(1) ENVIRONMENTAL JUSTICE AND HEALTH DISPARITIES.
+1.1.20   Policy   1.1.20 Clark County and each municipality shall plan for residential neighborhoods that protect and
+                  promote the health and well-being of residents by supporting equitable access to parks and open space, safe
+                  pedestrian and bicycle routes, clean air, soil and water, fresh and healthy foods, high-quality education from
+                  early learning through K-12, affordable and high-quality transit options and living wage jobs and by avoiding or
+                  mitigating exposure to environmental hazards and pollutants.
+
+                  RATIONALE: NEW CWPP BEING CONSIDERED BY JURISDICTIONS TO ADDRESS AMENDMENTS
+                  TO RCW36.70A.070(1) ENVIRONMENTAL JUSTICE AND HEALTH DISPARITIES.
+1.1.21   Policy   1.1.21 Clark County and each municipality shall evaluate comprehensive plans for potential physical,
+                  economic, and cultural displacement of marginalized residents and businesses. Each jurisdiction shall use a
+                  range of strategies to mitigate displacement impacts.
+
+                  RATIONALE: NEW CWPP BEING CONSIDERED TO ADDRESS AMENDMENTS TO RCW
+                  36.70A.070(1) ENVIRONMENTAL JUSTICE AND HEALTH DISPARITIES REQUIREMENTS.
+1.1.22   Policy   1.1.22 Engage and partner with communities disproportionately impacted by planning decisions and
+                  practices to inform strategies, actions, regulations and resource allocation decisions that reduce and repair
+                  harm to these communities.
+
+                  RATIONALE: NEW CWPP BEING CONSIDERED TO ADDRESS AMENDMENTS TO RCW
+                  36.70A.070(1) ENVIRONMENTAL JUSTICE AND HEALTH DISPARITIES REQUIREMENTS.
+1.1.23   Policy   1.1.23 Clark County, each municipality, and Clark County Public Health shall collaborate to develop an
+                  agreed upon methodology for metrics and tracking outcomes related to improving environmental justice,
+                  reducing health disparities, and minimizing displacement. The methodology should acknowledge the
+                  complexity of measuring these challenges and the cumulative impacts on populations and places from
+                  compounding and intersecting impacts.
+
+                  RATIONALE: NEW CWPP BEING CONSIDERED TO ADDRESS AMENDMENTS TO RCW
+                  36.70A.070(1) ENVIRONMENTAL JUSTICE AND HEALTH DISPARITIES REQUIREMENTS.
+
+
+
+
+                                                        Page 5 of 71
+1.1.24   Policy   1.1.24 Clark County and participating cities shall work cooperatively to adopt a countywide transfer of
+                  development rights (TDR) program to support mutually agreed upon conservation goals (i.e., the preservation
+                  of agricultural lands) and require that any expansion of any urban growth boundary shall require participation
+                  in the program. When Clark County expands an urban growth boundary contingent upon the use of the TDR
+                  program, the county and the participating city shall enter into an interlocal agreement that, at a minimum,
+                  includes the following provisions:
+
+                  •   Establishing requirements for completing expansions to the urban growth boundaries contingent upon
+                      the transfer of development rights from eligible sending areas designated by the county to the receiving
+                      areas created by the expansion.
+                  •   Setting timelines for full implementation of the transfer of development rights program and any
+                      requirements or limitations placed on the expansion area until such a time as a TDR program is
+                      implemented.
+                  •   Identifying guidelines for monitoring, reporting, and reassessing market conditions.
+
+                  RATIONALE: PROPOSED POLICY WAS SUGGESTED BY THE CITIES OF RIDGEFIELD, LA CENTER,
+                  AND CAMAS. NOTE: THE TECHNICAL COORDINATING COMMITTEE DID NOT REACH FULL
+                  CONSENSUS ON THIS POLICY LANGUAGE.
+1.1.25   Policy   1.1.25 There shall be no net material increase in cardroom capacity within the La Center Urban Growth Area.
+
+                  RATIONALE: RE-NUMBERED AND MOVED LOCATION OF EXISTING COUNTYWIDE PLANNING
+                  POLICY. PREVIOUSLY WAS COUNTYWIDE PLANNING POLICY 1.1.19.
+
+                  COUNTY 20-YEAR PLANNING POLICIES
+
+1.3.4    Policy   1.3.4 Zoning ordinances and other implementing measures shall specify maximum and minimum residential
+                  densities within the residential zoning districts.
+
+                  RATIONALE: GRAMMATICAL CORRECTION.
+1.4.1    Policy   1.4.1 Plan for connected and accessible communities in the unincorporated Vancouver urban growth area
+                  where a significant majority of daily needs can be met within a convenient and safe walk, ride, roll, or transit
+                  ride by planning for amenity-rich activity centers and corridors, areas of dense, mixed-use urban
+
+
+
+
+                                                        Page 6 of 71
+                 development, neighborhood-scale commercial opportunities, and safe connections between destinations.
+                 [GHG, RES]
+
+                 RATIONALE: CAG RECOMMENDATION G19-P4
+1.4.2   Policy   1.4.2 Encourage mixed land use in the unincorporated Vancouver urban growth area to locate many
+                 activities near each other and locate mixed land use near public transit stops. [GHG, RES]
+
+                 RATIONALE: CAG RECOMMENDATION G19-P2
+1.5     Goal     1.5:    Encourage resilient development within the unincorporated urban growth area and away from areas
+                 that are prone to climate-related hazards such as flooding and wildfire. (See additional policies related to this
+                 goal in Chapter 14 – Climate Element). [RES]
+
+                 RATIONALE: CAG RECOMMENDED G23
+1.5.1   Policy   1.5.1 Seek to reduce natural hazard exposure through land use planning and ensure that land use planning
+                 processes are informed by the most current hazard information including the Clark Regional Natural Hazard
+                 Mitigation Plan by: identifying and mapping hazards, assessing vulnerability, and implementing measures to
+                 reduce risk, such as avoiding development in floodplains, wildfire-prone areas, and landslide zones to the
+                 maximum extent possible, incentivizing climate-smart building practices and fire-wise practices. [RES]
+
+                 RATIONALE: CAG RECOMMENDED G23-P1
+1.5.2   Policy   1.5.2 Periodically review the county’s Wildland Urban Interface/Intermix ordinance for consistency with
+                 best practices and revise if necessary. [RES]
+
+                 RATIONALE: WILDFIRE MITIGATION IS A NEW POLICY REQUIREMENT IN RCW 36.70A.070(1):
+                 “… THE LAND USE ELEMENT MUST REDUCE AND MITIGATE THE RISK TO LIVES AND PROPERTY
+                 POSED BY WILDFIRES BY USING LAND USE PLANNING TOOLS, WHICH MAY INCLUDE, BUT ARE
+                 NOT LIMITED TO, ADOPTION OF PORTIONS OR ALL OF THE WILDLAND URBAN INTERFACE
+                 CODE DEVELOPED BY THE INTERNATIONAL CODE COUNCIL…”
+1.6     Goal     1.6:   Advance environmental justice through the Clark County Comprehensive Growth Management Plan
+                 and associated plans, policies, development regulations, and strategies. [GHG, RES]
+
+
+
+
+                                                       Page 7 of 71
+                 RATIONALE: CAG RECOMMENDED G2
+1.6.1   Policy   1.6.1 Review, evaluate, and update as needed practices, processes, procedures and structures to
+                 advance environmental justice through all Comprehensive Growth Management Plan amendments,
+                 associated plans, policies, development regulations and strategies per RCW 36.70A.070. [GHG, RES]
+
+                 RATIONALE: CAG RECOMMENDED G2- P1
+1.6.2   Policy   1.6.2 Improve sustainability and environmental justice by engaging with overburdened communities on
+                 new county-led planning projects. [GHG, RES]
+
+                 RATIONALE: CAG RECOMMENDED G2- P2
+1.6.3   Policy   1.6.3 Review county development regulations for polluting and hazardous uses and recommend ways to
+                 eliminate or minimize potential harm. [GHG, RES]
+
+                 RATIONALE: CAG RECOMMENDED G2- P3
+1.6.4   Policy   1.6.4 Avoid creating or worsening environmental health disparities and work towards eliminating
+                 environmental health disparities. [GHG, RES]
+
+                 RATIONALE: RCW 36.70A.070 (1) WAS AMENDED TO ADDRESS ENVIRONMENTAL HEALTH
+                 DISPARITIES: “THE LAND USE ELEMENT MUST GIVE SPECIAL CONSIDERATION TO ACHIEVING
+                 ENVIRONMENTAL JUSTICE IN ITS GOALS AND POLICIES, INCLUDING EFFORTS TO AVOID
+                 CREATING OR WORSENING ENVIRONMENTAL HEALTH DISPARITIES.”
+1.6.5   Policy   1.6.5 Design and implement an unincorporated county anti-displacement strategy to discourage
+                 displacement of vulnerable population groups due to gentrification while fostering housing affordability and
+                 availability. [GHG, RES]
+
+                 RATIONALE: THIS POLICY IS CONSISTENT WITH, AND ALIGNS WITH ANTI-DISPLACEMENT
+                 POLICY 5.2.3 IN THE TRANSPORTATION CHAPTER AND RELATES TO CAG RECOMMENDATION
+                 G19-P1. SIMILAR POLICY IN BOTH LAND USE AND TRANSPORTATION CHAPTERS BECAUSE IT
+
+
+
+
+                                                      Page 8 of 71
+                      RELATES TO BOTH CHAPTERS AND BECAUSE THE CAG G19 POLICIES WERE SPLIT UP BETWEEN
+                      THESE CHAPTERS.
+1S       Strategies   Strategies
+
+                      Vancouver Urban Growth Area
+
+                      •   Develop parking standards that reflects the community's desire which should include redevelopment
+                          potential of under-utilized parking lot parcels, establishing maximum parking requirements and shared
+                          parking.
+                      •   Establish city- and county-sponsored neighborhood associations supported by staff liaisons throughout
+                          the Vancouver urban area.
+                      •   Develop standards for affordable housing which consider parking requirements, vehicle trip generation,
+                          levels-of-service, neighborhood character and overall livability.
+
+                      RATIONALE: GRAMMAR CORRECTION
+
+
+CHAPTER 2 HOUSING ELEMENT
+NUMBER   TYPE         PROPOSED AMENDMENT
+
+                      COUNTYWIDE PLANNING POLICIES
+2.1.1    Policy       2.1.1 The Comprehensive Plan of the county and each municipality shall identify sufficient land for housing,
+                      including, but not limited to, government-assisted housing, housing for moderate, low, very low, and
+                      extremely low-income families households, manufactured housing, multifamily housing and group homes,
+                      and foster care facilities, emergency housing, emergency shelters, and permanent supportive housing. All
+                      jurisdictions will cooperate to plan for a "fair share" of the region's affordable housing needs and housing for
+                      special needs population, consistent with their HAPT allocation [RES]
+
+                      RATIONALE: BETTER ALIGNS WITH COMMERCE GUIDANCE AND NEW LEGISLATION AMENDING
+                      RCW36.70A.070
+
+
+
+
+                                                            Page 9 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+2.1.3    Policy   2.1.3 Link transportation and housing strategies to assure reasonable access to multi-model modal
+                  transportation systems and to encourage housing opportunities in locations that will support the development of
+                  public transportation. [GHG, RES]
+
+                  RATIONALE: CORRECT SCRIVENER’S ERROR.
+2.1.7    Policy   2.1.7 Encourage flexible and cost efficient land use regulations that allow for the creation of alternative
+                  housing types which will meet the needs of an economically diverse population. plan for and accommodate
+                  housing for all economic segments of the population. [RES]
+
+                  RATIONALE: BETTER ALIGNS WITH COMMERCE GUIDANCE AND NEW LEGISLATION AMENDING
+                  RCW36.70A.070
+2.1.8    Policy   2.1.8 Clark County and each municipality shall adopt incentives, strategies, actions, regulations, and consider
+                  funding tools that increase the supply of housing for households with extremely low-, very low- and low-incomes
+                  and with special needs by private or public developers. [RES]
+
+                  RATIONALE: NEW CWPP BEING CONSIDERED BY JURISDICTIONS TO ADDRESS AMENDMENTS
+                  TO RCW36.70A.070(2)(D-H) RELATING TO RACIALLY DISPARATE IMPACTS, DISPLACEMENT AND
+                  EXCLUSION IN HOUSING.
+2.1.9    Policy   2.1.9 Clark County and each municipality shall implement strategies that address cost barriers to housing
+                          affordability, including, but not limited to:
+                  • updating development standards and regulations;
+                  • shortening permit timelines;
+                  • implementing online permitting;
+                  • optimizing residential densities;
+                  • reducing parking requirements;
+                  • developing programs, policies, partnerships, and incentives to decrease costs to build and preserve
+                      affordable housing [RES]
+
+
+
+
+                                                        Page 10 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+
+                  RATIONALE: NEW CWPP BEING CONSIDERED BY JURISDICTIONS TO ADDRESS AMENDMENTS
+                  TO RCW36.70A.070(2)(D-H) RELATING TO RACIALLY DISPARATE IMPACTS, DISPLACEMENT AND
+                  EXCLUSION IN HOUSING.
+2.1.10   Policy   2.1.10 Identify and begin to undo local policies and regulations that result in racially disparate impacts,
+                  displacement, and exclusion in housing including zoning that may have a discriminatory effect and areas of
+                  disinvestment and infrastructure availability. [RES]
+
+                  RATIONALE: NEW CWPP BEING CONSIDERED BY JURISDICTIONS TO ADDRESS AMENDMENTS
+                  TO RCW36.70A.070(2)(D-H) RELATING TO RACIALLY DISPARATE IMPACTS, DISPLACEMENT AND
+                  EXCLUSION IN HOUSING.
+2.1.11   Policy   2.1.11 Promote homeownership opportunities for low-income and moderate-income families and individuals
+                  while recognizing historic inequities in access to homeownership opportunities for communities of color. [RES]
+
+                  RATIONALE: NEW CWPP BEING CONSIDERED BY JURISDICTIONS TO ADDRESS AMENDMENTS
+                  TO RCW36.70A.070(2)(D-H) RELATING TO RACIALLY DISPARATE IMPACTS, DISPLACEMENT AND
+                  EXCLUSION IN HOUSING.
+2.1.12   Policy   2.1.12 Plan for and provide housing based on the allocation and at the income levels in the Housing for All
+                  Planning Tool (HAPT) in Appendix J. [RES]
+
+                  RATIONALE: PROPOSE TO ADD AN APPENDIX THAT CONTAINS THE HOUSING ALLOCATION
+                  AND INCOME BANDS FOR EACH JURISDICTION BASED ON THE HAPT.
+                  COUNTY 20-YEAR PLANNING POLICIES
+2.2.1    Policy   2.2.1   Ensure that implementation measures recognize variety of family household structures. [RES]
+
+                  RATIONALE: HOUSEHOLD IS A BROADER TERM THAT INCLUDES BOTH FAMILY AND NON-
+                  FAMILY HOUSEHOLDS.
+
+
+
+
+                                                        Page 11 of 71
+NUMBER    TYPE      PROPOSED AMENDMENT
+
+2.2.5     Policy    2.2.5 Preserve the character of stable existing residential neighborhoods through selective and innovative
+                    zoning techniques that discourage disinvestment, displacement, and exclusionary housing. [RES]
+
+                    RATIONALE: BETTER ADDRESSES AMENDMENTS TO RCW36.70A.070(2)(D-H) RELATING TO
+                    RACIALLY DISPARATE IMPACTS, DISPLACEMENT AND EXCLUSION IN HOUSING..
+2.2H      Heading   Washougal Urban Growth Area
+
+                    RATIONALE: REMOVE REFERENCE AND POLICIES SPECIFIC TO WASHOUGAL UGA.
+2.2.10D   Policy    2.2.10 The Development Code will provide for mobile and manufactured housing in a manner that ensures that
+                    such developments contribute to the design quality, landscape standards and safety of the community.
+
+                    RATIONALE: REMOVE REFERENCE AND POLICIES SPECIFIC TO WASHOUGAL UGA.
+2.2.11D   Policy    2.2.11 The Development Code will provide for mobile and manufactured housing in a manner that ensures that
+                    such developments contribute to the design quality, landscape standards and safety of the community.
+
+                    RATIONALE: REMOVE REFERENCE AND POLICIES SPECIFIC TO WASHOUGAL UGA.
+2.2.12D   Policy    2.2.12 The Development Code will provide for group homes and other institutional housing for special needs
+                    persons.
+
+                    RATIONALE: REMOVE REFERENCE AND POLICIES SPECIFIC TO WASHOUGAL UGA.
+2.2.13D   Policy    2.2.13 The City will encourage individual and neighborhood beautification programs using garden clubs,
+                    schools and other local groups.
+
+                    RATIONALE: REMOVE REFERENCE AND POLICIES SPECIFIC TO WASHOUGAL UGA.
+2.3.1     Policy    2.3.1 Assure that codes and ordinances allow for a continuum of care and housing opportunities for special
+                    needs populations, such as emergency housing, permanent supportive housing, transitional housing, extensive
+                    support, minimal support, independent living, family based living, or institutions. [RES]
+
+
+
+
+                                                         Page 12 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+
+                  RATIONALE: TO INCLUDE A NEW CATEGORY OF HOUSING ADDED BY THE LEGISLATURE. RCW
+                  36.70A.030(31) DEFINES PSH AS SUBSIDIZED, LEASED HOUSING WITH NO TIME LIMITED FOR
+                  PERSONS WITH DISABLING BEHAVIORAL OR PHYSICAL HEALTH CONDITIONS WHO HAVE
+                  EXPERIENCED HOMELESSNESS OR RISK OF HOMELESSNESS PAIRED WITH VOLUNTARY
+                  SUPPORTIVE SERVICES.
+2.3.8    Policy   2.3.8 Ensure housing policies, codes and regulations encourage the development of units for moderate,
+                  low, very low, and extremely low-income households. [RES]
+
+                  RATIONALE: BETTER ALIGNS WITH COMMERCE GUIDANCE AND NEW LEGISLATION AMENDING
+                  RCW36.70A.070
+2.3.9    Policy   2.3.9 Assure that codes and ordinances promote a variety of residential densities and housing types, and
+                  encourages preservation of existing housing stock. [RES]
+
+                  RATIONALE: BETTER ALIGNS WITH COMMERCE GUIDANCE AND NEW LEGISLATION AMENDING
+                  RCW36.70A.070
+2.3.10   Policy   2.3.10 Establish anti-displacement policies, with consideration given to the preservation of historical and
+                  cultural communities as well as investments in low, very low, extremely low, and moderate-income housing.
+                  [RES]
+
+                  RATIONALE: BETTER ALIGNS WITH COMMERCE GUIDANCE AND NEW LEGISLATION AMENDING
+                  RCW36.70A.070
+2.4.5    Policy   2.4.5 Maintain the housing stock by rehabilitation rehabilitating homes rated as fair or below by the local
+                  assessor. [GHG, RES]
+
+                  RATIONAL: CORRECT GRAMMAR.
+2.7.1    Policy   2.7.1 Provide opportunities for new development types to occur. There shall be no more than 75 percent of any
+                  single product type of housing in any jurisdiction (e.g., single-family detached residential). Strategies to achieve
+                  these opportunities include but are not limited to:
+
+
+
+
+                                                         Page 13 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  •   Minimum density for single family and multi-family. These should average: eight or more dwelling units per
+                      acre within the Vancouver urban growth area, six or more units per acre with the Battle Ground, Camas,
+                      Ridgefield and Washougal urban growth area and four or more units per acre within the La Center and
+                      Woodland urban growth area.
+                  •   Provisions for Accessory Dwelling Units.
+                  •   Provision for duplexes, triplexes, quadplexes, and cottages in single family.
+                  •   Provisions for townhouses/row houses.
+                  •   Allowance of manufactured home parks.
+                  •   Provision for diversified single-family and middle housing types throughout low-density zones.
+                  •   Recognition of the flexibility allowed in housing types as part of a Mixed Use Development (e.g. living units
+                      above commercial areas).
+                  •   Recognition of Assisted Living Units as a housing type.
+                  •   Provision for diversified housing types allowed as part of a mixed use development.
+                  •   Recognition of Senior Housing Units as a housing type. [RES]
+
+                  RATIONALE: EXISTING DENSITY BY UGA IS NOT CONSISTENT WITH THE MORE SPECIFIC AND
+                  TARGETED INCOME BAND APPROACH IN THE GUIDANCE FROM COMMERCE.
+2.8      Goal     2.8:    Plan for and support diverse, affordable, climate-resilient housing options throughout the county.
+                  Encourage and support equal access to housing for renters, homeowners, and people without stable shelter
+                  to protect public health and safety. [RES]
+
+                  RATIONALE: CLIMATE ADVISORY GROUP (CAG) RECOMMENDATION G7.
+2.8.1    Policy   2.8.1 Ensure that policies, codes, regulations, and practices increase and protect access to safe,
+                  affordable housing, especially in overburdened communities. Access to safe, stable housing provides
+                  protection during extreme weather events, while affordable housing leaves residents more resources to
+                  spend on resilience-building essentials such as air conditioning, air purification, food, and health care. [RES]
+
+
+                  RATIONALE: CAG RECOMMENDATION G7-P1.
+2.8.2    Policy   2.8.2   All Housing Element policies are also considered Climate Element resilience policies. [RES]
+
+                  RATIONALE: CAG RECOMMENDATION G7-P2.
+
+
+
+
+                                                         Page 14 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+2.9      Goal     2.9: Prevent discrimination, address displacement, and mitigate past harm in the development and
+                  maintenance of housing. [RES]
+
+                  RATIONALE: RCW 36.70A.070(2)(E) AND (F)) REQUIRES JURISDICTIONS TO ADDRESS RACIALLY
+                  DISPARATE IMPACTS, DISPLACEMENT AND EXCLUSION IN LOCAL POLICIES AND
+                  REGULATIONS AND IDENTIFY AND IMPLEMENT POLICIES AND REGULATIONS TO UNDO THEM.
+2.9.1    Policy   2.9.1 Collaborate with community leaders, organizations, non-profits, and businesses to help vulnerable
+                  groups obtain and maintain housing. [RES]
+2.9.2    Policy
+                  2.9.2 Support resident ownership and nonprofit ownership of manufactured home parks. Develop and
+                  apply an overlay zone for existing and new manufactured home parks that supports continued manufactured
+                  home park use and limits redevelopment to other uses. Evaluate options for enhanced notification and
+                  relocation assistance in the event of park closures. [RES]
+
+2.9.3    Policy   2.9.3   Evaluate the potential for displacement on lands proposed for rezone or redevelopment. [RES]
+
+
+CHAPTER 3 RURAL AND NATURAL RESOURCE ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTY 20-YEAR PLANNING POLICIES
+3.1.8    Policy   3.1.8 Sewer lines shall not be extended into rural areas except to correct existing health hazards, provide
+                  public sewer to regional parks, or to serve a school pursuant to RCW 36.70A.213. Sewer lines shall not be
+                  extended until other means for treatment, such as state approved alternative technologies, have been assessed
+                  and determined not to be feasible due to environmental constraints.
+
+                  RATIONALE: ADD TEXT FOR EXCEPTIONS FOR PARKS AND SCHOOLS TO ALIGN WITH CAPITAL
+                  FACILITIES POLICY 6.3.8 AND RCW 36.70A.213.
+
+
+
+
+                                                       Page 15 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+3.5.9    Policy   3.5.9 Land use activities within or adjacent to agricultural land shall be located and designed to minimize
+                  conflicts with agricultural management and other activities on agricultural land, to include the following:
+                  • residential development adjacent to agricultural land shall be approximately appropriately buffered from
+                      agricultural activities;
+                  • public services and utilities within and adjacent to designated agricultural areas should be designed to
+                      prevent negative impacts on agriculture and allow for continued resource activity;
+                  • notification shall be placed on all plats and binding site plans that the adjacent land is in resource use and
+                      subject to a variety of activities that may not be compatible with residential development. [RES]
+
+                  RATIONALE: REPLACE “APPROXIMATELY” WITH “APPROPRIATELY” FOR PHRASE CLARITY.
+                  [RES] RATIONALE: EDIT TO SUPPORT INTEGRATION WITH CLIMATE ELEMENT. POLICY
+                  IDENTIFIED TO SUPPORT CLIMATE RESILIENCE.
+3.6      Header   3.6 Policies
+
+                  RATIONALE: ALL PROPOSED AMENDMENTS TO SECTION 3.6 MINERAL LANDS POLICIES
+                  SHOWN HERE ARE TO CORRECT A SCRIVENER’S ERROR THAT DID NOT INCORPORATE
+                  RESOLUTION 2014-12-08 INTO THE 2016 COMPREHENSIVE PLAN. THE HIGHLIGHTED AND
+                  UNDERLINED AREA IS THE SAME AS INCLUDED IN THE ADOPTED 2014 RESOLUTION.
+3.6.2    Policy   3.6.2 Designate mineral resource lands based on the following:
+                      • geological, environmental and economic factors;
+                      • surrounding land uses, zoning and parcel size; and,
+                      • the suitability of public access roads to be used as haul roads.
+                  a.      Geological, environmental, and economic factors, including, without limitation, consideration of the
+                  evidence of the quality, quantity and characteristics of the resource deposits in the area of interest; proximity
+                  to unstable slopes, riparian and wetland areas, habitat for endangered or threatened species, flood hazard
+                  areas, parks, public preserves, or other sensitive lands; and economic impacts of mining and other uses of
+                  the area;
+                  b.      Surrounding land uses, zoning, and parcel size, including, without limitation, consideration of
+                  proximity to and impacts on residentially zoned areas with existing densities of predominantly one dwelling
+                  unit per five acres or higher, and proximity to and impacts on agricultural and forest lands; and
+                  c.      Suitability and safety of the existing transportation system to bear the traffic associated with mining,
+                  including, without limitation, the suitability of public access roads to be used as haul roads, the distance to
+                  market, the need to route truck traffic through residential areas, and adequacy of intersections to handle
+
+
+
+
+                                                         Page 16 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  mining traffic plus other traffic. Consideration of future improvements to the transportation system may be
+                  considered only of the specific improvements are identified and funded as part of the county’s transportation
+                  plan.
+                  d.     The surface mining overlay shall not be designated on parcels zoned Rural (R).
+                  e.     Consideration that reclamation of mineral resource lands occurs after mining and that such lands
+                  may be re-purposed consistent with the comprehensive plan.
+3.6.3    Policy   3.6.3   Ensure that mining-related activities on mineral resource lands follow best management practices.
+3.6.4    Policy   3.6.4 Ensure that mineral extraction and processing operations minimize and mitigate any significant adverse
+                  impacts on water, fish, wildlife, and nearby land uses.
+3.6.5    Policy   3.6.5 Ensure that the use of adjacent lands will not interfere with the continued use of designated mineral
+                  resource lands for the extraction of minerals.
+3.6.6    Policy   3.6.6 Establish notification standards whereby developments on lands in the vicinity of designated mineral
+                  resource lands are given notice that they are locating in or adjacent to a potential mining area.
+3.6.7    Policy   3.6.7   Surface mining shall not occur within 100-year floodplains.
+3.7.2    Policy   3.7.2 Those areas with an Urban Reserve Comprehensive Plan overlay designation shall have a residential
+                  density of one dwelling unit per 10 and 20 acres. The Urban Reserve Overlay is implemented by Urban Reserve-10
+                  (UR-10) for future urban residential development and Urban Reserve-20 (UR-20) for all other types of future urban
+                  development. When applied, the underlying zoning will remain.
+
+                  RATIONALE: ADD “UR-20” TEXT FOR INTERNAL CONSISTENCY AND CLARITY.
+3.8D     Goal     3.8:    Support freight rail dependent uses where the use is dependent on and makes use of the short line
+                  railroad, as defined by the Surface Transportation Board.
+
+                  RATIONALE: SB 5820 REMOVED PROVISIONS RELATED TO CLARK COUNTY FREIGHT RAIL
+                  DEPENDENT USES.
+3.8.1D   Policy   3.8.1 Support freight rail dependent uses in rural lands, as well as agriculture, forest and mineral resource
+                  lands, where the use is dependent on and makes use of the short line railroad within the county.
+3.8.2D   Policy   3.8.2 Freight rail dependent uses will be allowed on parcels with a freight rail dependent use overlay, where
+                  such uses minimize impacts on adjacent rural and resource uses.
+
+
+
+
+                                                        Page 17 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+3.8.3D   Policy   3.8.3 Freight rail dependent uses means buildings and other infrastructure that are used in the fabrication,
+                  processing, storage, and transport of goods where the use is dependent on and makes use of an adjacent short
+                  line railroad. Such facilities are both urban and rural development. Clark County may include development of
+                  freight rail dependent uses on land adjacent to a short line railroad in the transportation element of this plan. The
+                  County may also modify development regulations to include development of freight rail dependent uses that do
+                  not require urban governmental services in rural lands.
+
+
+CHAPTER 4 ENVIRONMENTAL ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTY 20-YEAR PLANNING POLICIES
+4.2.3    Policy   4.2.3 Protect groundwater and surface water as a resource for drinking water, commerce, recreation and for
+                  wildlife under changing climate conditions by:
+                  •        minimizing the amount of impervious area created by developments;
+                  •        promoting the use of non-toxic pesticides and fertilizers;
+                  •        minimizing potential application of sludge or animal waste material in or near sensitive areas such as
+                  aquifer recharge areas or surface water bodies as required by state law;
+                  •        providing stormwater management service as specified in the Capital Facilities and Utilities Element
+                  (Chapter 6) of the 20-Year Plan; and
+                  •        using biological engineering methods to control stream bank erosion.
+                  •   Implementing a comprehensive and forward-looking stormwater management program to reduce
+                      stormwater run-off and erosion, promote stormwater infiltration, and reduce sources of non-point
+                      pollution under a variety of climate scenarios. (See additional Stormwater policies in Chapter 6.)
+                  •   Implementing and enforcing critical areas regulations and the Shoreline Master Program in accordance
+                      with state laws. (See Shoreline Master Program policies in Chapter 13).
+                  •   Promoting and prioritizing the use of non-toxic pesticides and fertilizers.
+                  •   Minimizing the amount of impervious area created by developments.
+                  •   Educating and incentivizing climate-resilient nature-scaping, water conservation, and rainwater capture
+                      county-wide.
+
+
+
+
+                                                         Page 18 of 71
+                 •   Utilizing climate resilient, nature-based techniques for streambank and watershed restoration on county
+                     land.
+                 •   Strategically acquiring lands for conservation and restoration. [RES]
+
+                 RATIONALE: TEXT EDITS ARE CLIMATE PROJECT COMMUNITY ADVISORY GROUP (CAG)
+                 RECOMMENDATION G16-P3.
+4.2.7   Policy   4.2.7 Coordinate with other jurisdictions and agencies to protect environmentally critical lands, particularly
+                 ecosystems and watershed processes that span jurisdictional boundaries. Focus on maintaining habitat
+                 connectivity by protecting priority wildlife areas, open spaces, and interconnecting corridors. Encourage
+                 consistency regarding methods of critical area definition, mapping, mitigation strategies and policy treatment.
+                 [RES]
+
+                 RATIONALE: NEW LANGUAGE IS RECOMMENDED FROM WASHINGTON DEPARTMENT OF FISH
+                 AND WILDLIFE (WDFW) STAFF. AND, EDIT TO SUPPORT INTEGRATION WITH CLIMATE ELEMENT.
+                 POLICY IDENTIFIED TO SUPPORT CLIMATE RESILIENCE.
+4.2.8   Policy   4.2.8 Facilitate public education and outreach programs explaining the variety of critical areas and habitat
+                 resources that exist in Clark County and the benefits and opportunities for conservation, protection and hazard
+                 mitigation. [RES]
+
+                 RATIONALE: GRAMMAR CORRECTION. AND, EDIT TO SUPPORT INTEGRATION WITH CLIMATE
+                 ELEMENT. POLICY IDENTIFIED TO SUPPORT CLIMATE RESILIENCE.
+4.2.9   Policy   4.2.9   Allow or promote flexible density and lot configurations to protect critical areas. [RES]
+
+                 RATIONALE: NEW POLICY IS RECOMMENDED BY WDFW. AND, EDIT TO SUPPORT INTEGRATION
+                 WITH CLIMATE ELEMENT. POLICY IDENTIFIED TO SUPPORT CLIMATE RESILIENCE.
+4.3     Goal     4.3: Identify, protect, preserve, and rewild: environmentally critical areas; riparian areas, wetlands, prairies,
+                 and forests; and urban and rural open space. [RES]
+
+                 RATIONALE: CAG RECOMMENDED GOAL G13.
+4.3.1   Policy   4.3.1   Improve ecosystem health and function.
+
+
+
+
+                                                        Page 19 of 71
+                 •   Ensure no net loss of ecosystem composition, structure, and functions in alignment with Growth
+                     Management Act requirements for wetland and fish and wildlife habitat conservation areas (see Shoreline
+                     Master Program for shoreline management area-specific policies) and strive for net ecological gain to
+                     enhance climate resilience.
+                 •   Ensure habitat connectivity and protect areas that provide for safe passage of migratory species in
+                     alignment with Washington Department of Fish and Wildlife guidance.
+                 •   Strategically protect and ecologically enhance county lands. [RES]
+
+                 RATIONALE: CAG RECOMMENDED POLICY G13.
+4.3.2   Policy   4.3.2 Community-wide restoration efforts and restoration projects on county-owned properties must be
+                 developed and implemented such that species composition, species conservation, and ecosystem
+                 processes are sustainable. Advocacy for statewide programmatic support will be needed to successfully
+                 achieve this on ecosystem scales. [RES]
+
+                 RATIONALE: EDIT TO SUPPORT INTEGRATION WITH CLIMATE ELEMENT. POLICY IDENTIFIED TO
+                 SUPPORT CLIMATE RESILIENCE. CAG RECOMMENDATION G13-P2. NOTE, SPLIT G13-P2 INTO
+                 TWO POLICIES, THIS IS THE FIRST HALF.
+4.3.3   Policy   4.3.3 Restoration efforts should include native bee habitat protection and expansion, and the county
+                 should consider pursuing a bee-friendly county designation. [RES]
+
+                 RATIONALE: CAG RECOMMENDED POLICY G13-P2. NOTE, SPLIT G13-P2 INTO TWO POLICIES,
+                 THIS IS THE SECOND HALF.
+4.4     Goal     4.4: Protect and recover endangered and threatened species within Clark County. [RES]
+
+                 RATIONALE: NEW LANGUAGE IS RECOMMENDED FROM LOWER COLUMBIA FISH RECOVERY
+                 BOARD (LCFRB) STAFF. ALSO, EDIT TO SUPPORT INTEGRATION WITH CLIMATE ELEMENT.
+                 POLICY IDENTIFIED TO SUPPORT CLIMATE RESILIENCE.
+4.4.1   Policy   4.34.1 In cooperation with the Washington Department of Fish and Wildlife (WDFW), other natural resource
+                 agencies, and Tribes, establish appropriate avoidance, minimization and mitigation measures that functionally
+                 replace or improve affected species habitat. [RES]
+
+
+
+
+                                                      Page 20 of 71
+                 RATIONALE: NEW LANGUAGE IS RECOMMENDED FROM LCFRB. ALSO, EDIT TO SUPPORT
+                 INTEGRATION WITH CLIMATE ELEMENT. POLICY IDENTIFIED TO SUPPORT CLIMATE
+                 RESILIENCE.
+4.4.2   Policy   4.34.2 Solicit review assistance from the (WDFW), other natural resource agencies, and Tribes for development
+                 proposals directly affecting state or federal sensitive, threatened, or endangered species. [RES]
+                 RATIONALE: NEW LANGUAGE IS RECOMMENDED FROM LCFRB. ALSO, EDIT TO SUPPORT
+                 INTEGRATION WITH CLIMATE ELEMENT. POLICY IDENTIFIED TO SUPPORT CLIMATE
+                 RESILIENCE.
+4.5     Goal     4.5: Protect, conserve and recover salmonids and all native aquatic species within Clark County. [RES]
+
+                 RATIONALE: NEW TEXT IS CAG RECOMMENDATION G15.
+4.5.1   Policy   4.45.1 Restore and maintain properly functioning ecosystem conditions for salmonids in all county waters.
+                 Implement recovery plans adopted by the National Marine Fisheries Service (NMFS) and the Lower Columbia
+                 Fish Recovery Board. Support implementation of the Lower Columbia Salmon Recovery and Fish & Wildlife
+                 Subbasin Plan, including the regional habitat strategy. [RES]
+
+                 RATIONALE: NEW LANGUAGE IS RECOMMENDED FROM WDFW. ALSO, EDIT TO SUPPORT
+                 INTEGRATION WITH CLIMATE ELEMENT. POLICY IDENTIFIED TO SUPPORT CLIMATE
+                 RESILIENCE.
+4.5.5   Policy   4.5.5 Coordinate with WSDOT and WDFW to plan and prioritize culvert replacements to ensure fish passage
+                 barrier removal. Utilize the best available local and regional data to inform this work, such as the Lower
+                 Columbia Estuary Partnership initiative to centralize and prioritize fish passage barriers for the lower
+                 Columbia River. [RES]
+
+                 RATIONALE: NEW POLICY IS RECOMMENDED BY WDFW. ALSO, EDIT TO SUPPORT
+                 INTEGRATION WITH CLIMATE ELEMENT. POLICY IDENTIFIED TO SUPPORT CLIMATE
+                 RESILIENCE.
+4.5.6   Policy   4.5.6 Restore the structure and function of streams, floodplains, and wetlands to increase habitat climate
+                 resilience for coldwater fish.
+
+
+
+
+                                                      Page 21 of 71
+                 For county-led projects, seek consultation from the Cowlitz Indian Tribe, regional Tribal governments, and the
+                 Columbia River Inter-Tribal Fish Commission. Prioritize restoration projects in collaboration with partner
+                 agencies and community organizations and in alignment with the Clark County Shoreline Restoration Plan
+                 and recovery plans adopted by the National Marine Fisheries Service (NMFS) and the Lower Columbia Fish
+                 Recovery Board. [RES]
+
+                 RATIONALE: CAG RECOMMENDED POLICY G15-P1.
+4.6     Goal     4.6: Require sewer service within urban growth areas and discourage septic use within urban growth areas.
+
+                 RATIONALE: EDIT TO CLARIFY AREA OF SEPTIC DISCOURAGEMENT.
+4.7.1   Policy   4.67.1 Minimize impacts to waters of the county through an effective stormwater management program that
+                 includes stormwater basin planning and promotion of on-site infiltration and low impact development to
+                 effectively address stormwater in developed and urbanizing urban and rural areas. [RES]
+
+                 RATIONALE: CAG POLICY RECOMMENDATION G17-P2.
+4.7.7   Policy   4.7.7 Identify high priority retrofit areas to increase stormwater infiltration and manage localized flooding.
+                 [RES]
+
+                 RATIONALE: CAG POLICY RECOMMENDATION G17-P1.
+4.8     Goal     4.8: Manage water resources sustainably to meet the needs of the public and ecosystems under changing
+                 climate conditions. [RES]
+
+                 RATIONALE: NEW GOAL 4.8 IS CAG RECOMMENDATION G16.
+4.8.1   Policy   4.8.1 Support projects that foster collaboration for providing water for people, fish, and farms, such as
+                 water banks, irrigation modernization, and other mechanisms to ensure sufficient water supply for all. [RES]
+
+                 RATIONALE: CAG POLICY RECOMMENDATION G16-P1.
+4.8.2   Policy   4.8.2 Evaluate the long-term adequacy of water delivery infrastructure to ensure that changes in
+                 hydrological patterns (e.g., increases in flooding frequency or reduction of late-summer water availability
+
+
+
+
+                                                       Page 22 of 71
+                  associated with climate change) can be anticipated and managed effectively and take actionable next steps
+                  based on findings. [RES]
+
+                  RATIONALE: CAG POLICY RECOMMENDATION G16-P2.
+4.8.3    Policy   4.8.3 Implement water conservation methods in all county-owned buildings, landscaping, and parks and
+                  recreation areas. [RES]
+
+                  RATIONALE: CAG POLICY RECOMMENDATION G16-P4.
+4.10.2   Policy   4.810.2 Link urban and rural parks and open spaces to form functional wildlife corridors, which then can be
+                  joined to outlying habitats. [RES]
+
+                  RATIONALE: NEW LANGUAGE IS RECOMMENDED FROM WDFW. ALSO, EDIT TO SUPPORT
+                  INTEGRATION WITH CLIMATE ELEMENT. POLICY IDENTIFIED TO SUPPORT CLIMATE
+                  RESILIENCE.
+4.11     Goal     4.11:   Maintain and enhance Improve the region’s air quality. [GHG, RES]
+
+                  RATIONALE: CAG RECOMMENDATION G8.
+4.11.3   Policy   4.911.3 Partner with the Southwest Clean Air Agency and Department of Ecology to monitor and improve air
+                  quality, particularly where it is worst.
+                  This policy could involve community organizations and schools as partners in monitoring and/or air quality
+                  improvement projects. [GHG, RES]
+
+                  RATIONALE: CAG POLICY RECOMMENDATION G8-P1.
+
+
+CHAPTER 5 TRANSPORTATION ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTYWIDE PLANNING POLICIES
+
+
+
+
+                                                       Page 23 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+5.0.1    Policy   5.0.1   Clark County, Metropolitan Planning Organization (MPO) and the Regional Transportation Planning
+                          Organization (RTPO), state, bi-state, municipalities and C-TRAN shall work together to establish a
+                          truly regional transportation system which:
+                          • reduces reliance on single occupancy vehicle transportation through development of a balanced
+                              transportation system which emphasizes transit, high-capacity transit, bicycle and pedestrian
+                              improvements and transportation demand management;
+                          • encourages energy efficiency;
+                          • recognizes financial constraints; and,
+                          • minimizes environmental impacts of the transportation systems development, operation and
+                              maintenance.
+
+                  RATIONALE: SPELLING EDIT
+5.0.5    Policy   5.0.5 The county, local municipalities and MPO/RTPO shall, to the greatest extent possible, establish
+                  consistent roadway standards, multimodal level-of-service standards and methodologies, and functional
+                  classification schemes to ensure consistency throughout the region.
+
+                  RATIONALE: RCW 36.70A.070(6)(A)(III)(D) WAS AMENDED TO INCLUDE THE WORD
+                  “MULTIMODAL”, ALONG WITH NEW REQUIREMENTS FOR PERFORMANCE METRICS FOR ACTIVE
+                  TRANSPORTATION FACILITIES.
+5.0.7    Policy   5.0.7 The state, MPO/RTPO, county, local municipalities and C-TRAN shall work cooperatively to consider the
+                  development of transportation corridors for high-capacity transit and adjacent land uses that support such
+                  facilities.
+
+                  RATIONALE: SPELLING EDIT
+5.0.9D   Policy   5.0.9 The state, county, MPO/RTPO and local municipalities shall work together to establish a regional
+                  transportation system which is planned, balanced and compatible with planned land use densities; theses
+                  agencies and local municipalities will work together to ensure coordinated transportation and land use planning
+                  to achieve adequate mobility of goods and people.
+
+                  RATIONALE: THIS POLICY IS THE SAME AS 5.0.8
+
+
+
+
+                                                        Page 24 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+5.0.10   Policy   5.0.10 The state, county, MPO/RTPO and local municipalities shall work together to equitably implement the
+                  multimodal network.
+
+                  RATIONALE: ALIGNS WITH NEW ENVIRONMENTAL JUSTICE REQUIREMENTS OF RCW
+                  36.70A.070(6)
+5.0.11   Policy   5.0.11 Apply an equity lens to prioritize transportation system investments needed in overburdened
+                  communities.
+
+                  RATIONALE: ALIGNS WITH NEW ENVIRONMENTAL JUSTICE REQUIREMENTS OF RCW
+                  36.70A.070(6)
+5.0.12   Policy   5.0.12 Implement transportation programs and projects that provide access to opportunities while preventing
+                  or mitigating negative impacts to vulnerable populations.
+
+                  RATIONALE: ALIGNS WITH NEW ENVIRONMENTAL JUSTICE REQUIREMENTS OF RCW
+                  36.70A.070(6)
+5.0.13   Policy   5.0.13 Ensure mobility choices for people with special transportation needs, including persons with disabilities,
+                  older adults, youth, and people with low incomes , and people who rely on alternative transportation options,
+                  such as transit and active transportation modes.
+
+                  RATIONALE: ALIGNS WITH NEW ENVIRONMENTAL JUSTICE REQUIREMENTS OF RCW
+                  36.70A.070(6)
+5.0.14   Policy   5.0.14 Road projects and programs shall be implemented in ways that avoid or minimize negative impacts for
+                  vulnerable populations. Projects and programs shall seek to provide tangible, positive benefits.
+
+                  RATIONALE: ALIGNS WITH NEW ENVIRONMENTAL JUSTICE REQUIREMENTS OF RCW
+                  36.70A.070(6)
+5.0.15   Policy   5.0.15 Leverage funds to invest in bicycle and pedestrian projects that improve safety, access, equity, and
+                  health.
+
+
+
+
+                                                        Page 25 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+
+                  RATIONALE: ALIGNS WITH NEW ENVIRONMENTAL JUSTICE REQUIREMENTS OF RCW
+                  36.70A.070(6)
+
+                  COUNTY 20-YEAR PLANNING POLICIES
+5.1.1    Policy   5.1.1    The capital facilities plans, within each UGA should be jointly undertaken with the city and reviewed
+                  for regional consistency by the Southwest Washington Regional Transportation Council.
+
+                  RATIONALE: GRAMMATICAL EDIT.
+5.1.2    Policy   5.1.2    County Road Projects and transportation improvements are proposed through development shall be
+                  consistent with the current adopted Clark County Road Standards, Complete Street Guidelines, Arterial
+                  Atlas, 2010 Clark County Bicycle and Pedestrian Master Plan, Concurrency Management System, RTC’s
+                  Regional Transportation Plan, and the Washington Transportation Plan.
+
+                  RATIONALE: THE COUNTY UPDATED THE COMPREHENSIVE PLAN TO INCLUDE COMPLETE
+                  STREET POLICIES AND ADOPTED A COMPLETE STREETS ORDINANCE (ORD. 2019-11-05) IN
+                  2019, FOLLOWING RCW 47.04.320. THE RECOMMENDED CHANGES ARE ALSO IN RESPONSE
+                  TO FEEDBACK RECEIVED FROM THE BICYCLE AND PEDESTRIAN ADVISORY COMMITTEE
+5.1.4D   Policy    5.1.4 The county shall provide opportunity for full and fair participation by all communities in the
+                  transportation decision-making process.
+
+                  RATIONALE: MOVED TO 5.2.1. THE EXISTING LANGUAGE IN THIS POLICY ALIGNS WITH THE
+                  DEFINITION OF “ENVIRONMENTAL JUSTICE” THAT WAS ADDED IN RCW 36.70A.030 WITH HB
+                  1181.
+5.1.4    Policy   5.2.101.4 Long range land use and transportation plans shall be coordinated with high-capacity transit plans.
+                  [GHG, RES]
+
+
+
+
+                                                         Page 26 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+
+                  RATIONALE: EXISTING POLICY MOVED FROM 5.2.10. THIS POLICY WOULD FIT BETTER UNDER
+                  A GOAL THAT IS FOCUSED ON REGIONAL COLLABORATION AND CONSISTENCY WITH LAND
+                  USE POLICIES.
+5.1.5    Policy   5.21.5 Regional airport planning shall include all affected jurisdictions to provide compatibility with surrounding
+                  land uses and to support adequate ground transportation to move people and goods to and from airports.
+
+                  RATIONALE: EXISTING POLICY MOVED FROM 5.2.5. THIS POLICY WOULD FIT BETTER UNDER A
+                  GOAL THAT IS FOCUSED ON REGIONAL COLLABORATION AND CONSISTENCY WITH LAND USE
+                  POLICIES.
+5.2      Goal     5.2:   Ensure that the transportation system, and its implementation, is inclusive and equitable to support
+                  the needs of all users and addresses disproportionate environmental and health impacts.
+
+                  RATIONALE: THE PROPOSED ADDITION OF THIS GOAL IS IN RESPONSE TO AMENDMENTS TO
+                  RCW 36.70A.070(6)(A)(III)(B), RCW 36.70A.070(6)(A)(III)(F), AND RCW 36.70A.070(6)(A)(III)(G).
+                  AMENDMENTS UNDER HB1181 (2023) ADDED LANGUAGE THAT DIRECTS LOCAL
+                  JURISDICTIONS TO “STRIVE TO EQUITABLY IMPLEMENT THE MULTIMODAL TRANSPORTATION
+                  NETWORK” IN A WAY THAT IS CONSISTENT WITH ENVIRONMENTAL JUSTICE. ADDITIONALLY,
+                  THE TRANSPORTATION ELEMENT MUST NOW INCLUDE AN ADA TRANSITION PLAN.
+5.2.1    Policy   5.1.42.1      The county shall provide opportunity for Promote and facilitate full and fair participation by all
+                  communities in the transportation decision making process.
+
+                  RATIONALE: EXISTING POLICIES MOVED FROM 5.1.4. THE EXISTING LANGUAGE IN THIS
+                  POLICY ALIGNS WITH THE DEFINITION OF “ENVIRONMENTAL JUSTICE” THAT WAS ADDED IN
+                  RCW 36.70A.030 THROUGH HB 1181. THE RECOMMENDED CHANGES ARE CONSISTENT WITH
+                  THE “ENVIRONMENTAL JUSTICE FRAMEWORK” THAT WAS DEVELOPED FOR PUBLIC WORKS BY
+                  A CONSULTANT IN APRIL 2023. WHILE THE COUNTY CURRENTLY PROVIDES PUBLIC
+                  ENGAGEMENT OPPORTUNITIES FOR PROJECTS, THE PROPOSED LANGUAGE CHANGE WOULD
+                  ACTIVATE THE COUNTY TO TAKE ADDITIONAL STEPS TO ACTIVELY ENGAGE THE COMMUNITY
+
+
+
+
+                                                         Page 27 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  AND TRY TO REACH THOSE WHO TYPICALLY AREN’T AS INVOLVED IN THE DECISION-MAKING
+                  PROCESS.
+5.2.2    Policy   5.2.2 Implement policies under this chapter to: prioritize benefits to overburdened communities and
+                  individuals experiencing barriers to transportation, and improve air quality, especially where it is worst in the
+                  unincorporated county. [GHG, RES]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P1). POLICY RECOMMENDATION FROM CAG WAS CHANGED TO BE THREE SEPARATE
+                  POLICIES.
+5.2.3    Policy   5.2.3 Proactively assess the potential impacts that transportation projects have on displacement and
+                  develop strategies to prevent or mitigate displacement. Anti-displacement strategies must be designed and
+                  implemented in coordination with policies under this chapter to discourage displacement of vulnerable
+                  population groups due to gentrification while fostering housing affordability and availability. (See Chapter 1 –
+                  Land Use Element for additional policies related to this topic.) [GHG, RES]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P1). POLICY RECOMMENDATION FROM CAG WAS CHANGED TO BE THREE SEPARATE
+                  POLICIES.
+5.2.4    Policy   5.2.4 Transportation system improvements should: improve safety and accessibility for people
+                  experiencing transportation barriers such as being hard of hearing, visually impaired, use a wheelchair, or
+                  speak a language other than English; and advance environmental justice through engagement with
+                  overburdened communities in transportation system projects. [GHG, RES]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P1). POLICY RECOMMENDATION FROM CAG WAS CHANGED TO BE THREE SEPARATE
+                  POLICIES.
+5.2.5    Policy   5.2.5   Implement the county’s transportation ADA Transition Plan. [GHG, RES]
+
+
+
+
+                                                        Page 28 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+
+                  RATIONALE: RCW 36.70A.070(6)(A)(III)(G) REQUIRES A TRANSPORTATION ADA TRANSITION PLAN
+                  AS PART OF THE TRANSPORTATION ELEMENT. THIS REQUIREMENT WAS ADDED THROUGH HB
+                  1181
+5.3.1    Policy   5.23.12 Endorse the concept of complete streets, which promotes roadways that are safe and convenient
+                  accessible for all users. [GHG, RES]
+
+                  RATIONALE: EXISTING POLICY MOVED FROM 5.2.12. RECOMMENDED CHANGES BASED ON
+                  FEEDBACK FROM THE BICYCLE AND PEDESTRIAN ADVISORY COMMITTEE
+5.3.4    Policy   5.3.4 Support equitable, safe, reliable and convenient transit services throughout Clark County, including
+                  increasing frequency, improving reliability, and expanding routes to align with key destinations and land use
+                  planning policies (including zoning and development) that encourage transit use. Facilitate expansion of
+                  community transportation options in rural Clark County and explore alternatives such as regional rail on new and
+                  existing rail lines, prioritizing electric rail when possible. Transit service improvements should include robust
+                  language access where information is accurately available in multiple languages to serve the county's
+                  linguistically diverse population. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P10).
+5.3.5    Policy   5. 23.25      Transit related options, including high-capacity transit, shall be encouraged prioritized in order to
+                  reduce congestion and to improve and maintain air quality. [GHG, RES]
+
+                  RATIONALE: RECOMMENDED CHANGES IN RESPONSE TO FEEDBACK RECEIVED FROM THE
+                  BICYCLE AND PEDESTRIAN ADVISORY COMMITTEE
+5.2.5D   Policy   5.2.5 Regional airport planning shall include all affected jurisdictions to provide compatibility with surrounding
+                  land uses and to support adequate ground transportation to move people and goods to and from airports.
+
+                  RATIONALE: EXISTING POLICY MOVED TO 5.1.4. THIS POLICY WOULD FIT BETTER UNDER A
+                  GOAL THAT IS FOCUSED ON REGIONAL COLLABORATION AND CONSISTENCY WITH LAND USE
+                  POLICIES.
+
+
+
+
+                                                         Page 29 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+5.3.10   Policy   5.3.10 Expand the interconnected network of safe, accessible pedestrian sidewalks, bicycle facilities, trails,
+                  and multiuse paths by integrating active transportation into transportation engineering and planning,
+                  implementing complete streets, and updating and implementing standards for sidewalk and bicycle facilities to
+                  align with best practices.
+
+                  Network expansion should be strategic and prioritize engagement with overburdened communities in project
+                  priorities and design; improve air quality and physical health in overburdened communities; connect key
+                  destinations to help reduce vehicle miles traveled; and create pathways so that active commuters and
+                  recreational users do not need to cross traffic.
+
+                  Improved connections can also serve as potential evacuation routes in emergencies. Evacuation routes should
+                  be planned in collaboration with Clark Regional Emergency Services Agency (CRESA) and community partners
+                  and prioritize where new evacuation routes are most needed. [GHG, RES]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P12)
+5.3.11   Policy   5. 23.811        The county supports coordination among the jurisdictions and agencies in the identification and
+                  development of an interconnected, county-wide network of bikeway and pedestrian active transportation
+                  facilities. [GHG]
+
+                  RATIONALE: RECOMMENDED CHANGES BASED ON FEEDBACK FROM THE BICYCLE AND
+                  PEDESTRIAN ADVISORY COMMITTEE
+5.3.12   Policy   5. 23.912       Supports efforts to the funding and construction of bicycle and pedestrian improvements active
+                  transportation facilities identified in Clark County’s Bicycle and Pedestrian Master Plan without the loss of
+                  streets and/or highway vehicular lane capacity. [GHG, RES]
+
+                  RATIONALE: AS IS CURRENTLY WRITTEN, THIS POLICY WOULD CONFLICT WITH NEW
+                  MULTIMODAL LEVEL OF SERVICE STANDARD REQUIREMENTS AND THE AMENDED LANGUAGE
+                  TO RCW 36.70A.070(6)(A)(III)(E) AS A RESULT OF HB1181. RCW 36.70A.070(6)(A)(III)(E) NOW
+                  STATES THAT A TRANSPORTATION ELEMENT SHOULD BE DEVELOPED IN A WAY THAT
+                  “…BALANCES TRANSPORTATION SYSTEM SAFETY AND CONVENIENCE TO ACCOMMODATE ALL
+                  USERS OF THE TRANSPORTATION SYSTEM TO SAFELY, RELIABLY, AND EFFICIENTLY PROVIDE
+                  ACCESS AND MOBILITY TO PEOPLE AND GOODS. PRIORITY MUST BE GIVEN TO INCLUSION OF
+
+
+
+                                                        Page 30 of 71
+NUMBER    TYPE     PROPOSED AMENDMENT
+
+                   TRANSPORTATION FACILITIES AND SERVICES PROVIDING THE GREATEST MULTIMODAL SAFETY
+                   BENEFIT TO EACH CATEGORY OF ROADWAY USERS FOR THE CONTEXT AND SPEED OF THE
+                   FACILITY.” THE RECOMMENDED CHANGES ARE ALSO BASED ON FEEDBACK RECEIVED FROM
+                   THE BICYCLE AND PEDESTRIAN ADVISORY COMMITTEE.
+5.2.10D   Policy   5.2.10 Long range land use and transportation plans shall be coordinated with high capacity transit plans.
+
+                   RATIONALE: THIS POLICY WAS MOVED TO 5.1.4. THIS POLICY WOULD FIT BETTER UNDER A
+                   GOAL THAT IS FOCUSED ON REGIONAL COLLABORATION AND CONSISTENCY WITH LAND USE
+                   POLICIES.
+5.2.12D   Policy   5.2.12 Endorse the concept of complete streets, which promotes roadways that are safe and convenient for all
+                   users.
+
+                   RATIONALE: EXISTING POLICY MOVED TO 5.3.1
+5.2.13D   Policy   5.2.13 Design and construct complete streets wherever feasible and practicable.
+
+                   RATIONALE: EXISTING POLICY MOVED TO 5.3.2
+5.2.4     Policy   5.2.14 Priority must be given to the inclusion of transportation facilities and services that provide the
+                   greatest multimodal safety benefit to each category of roadway user when it is unattainable to meet all
+                   established multimodal level of service standards on a roadway.
+
+
+                   RATIONALE: NEW POLICY RECOMMENDATION TO PROVIDE DIRECTION WITH IMPLEMENTING
+                   NEW MULTIMODAL LEVEL OF SERVICE REQUIREMENTS IN RCW 36.70A.070(6)(A)(III)(B),
+                   WHICH WAS AMENDED AS A RESULT OF HB1181 . MOST OF THE LANGUAGE FROM THIS NEW
+                   POLICY IS TAKEN FROM RCW 36.70A.070(6)(A)(III)(E). THIS NEW POLICY WOULD ALSO HELP
+                   MEET REQUIREMENTS IN RCW 36.70A.070(6)(A)(III)(D).
+5.2.15    Policy   5.2.15 Consider low stress active transportation facilities on parallel routes where it is infeasible to achieve
+                   the desired level of service standard on a roadway.
+
+
+
+
+                                                         Page 31 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+
+                  RATIONALE: NEW POLICY RECOMMENDATION TO PROVIDE DIRECTION WITH IMPLEMENTING
+                  NEW MULTIMODAL LEVEL OF SERVICE REQUIREMENTS IN RCW 36.70A.070(6)(A)(III)(B),
+                  WHICH WAS AMENDED AS A RESULT OF HB1181. THIS NEW POLICY WOULD ALSO HELP MEET
+                  REQUIREMENTS IN RCW 36.70A.070(6)(A)(III)(D).
+5.2.16   Policy   5.2.16 Develop performance metrics and annual reporting procedures to measure active transportation
+                  implementation and system performance.
+
+                  RATIONALE: RECOMMENDED NEW POLICY IN RESPONSE TO FEEDBACK FROM THE BICYCLE
+                  AND PEDESTRIAN ADVISORY COMMITTEE.
+5.4.2    Policy   5.4.2 Improve existing county roads to reduce miles traveled by vehicles (vehicle miles traveled, or VMT) and
+                  emissions per mile traveled, including maintenance and repair, and incorporating advanced technologies that
+                  improve efficiency and safety, etc. Road improvement projects should prioritize reducing emissions in areas of
+                  the county with the worst air quality. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P8)
+5.4.5    Policy   5.4.5 Road maintenance and preservation projects shall consider improvements to reduce the level of
+                  traffic stress, enhance safety, and improve access for pedestrians, bicyclists, transit riders, and persons of
+                  all abilities.
+
+                  RATIONALE: NEW POLICY RECOMMENDATION TO PROVIDE DIRECTION ON IMPLEMENTING
+                  NEW MULTIMODAL LEVEL OF SERVICE REQUIREMENTS IN RCW 36.70A.070(6)(A)(III)(B),
+                  WHICH WAS AMENDED AS A RESULT OF HB1181. THIS NEW POLICY WOULD ALSO HELP MEET
+                  REQUIREMENTS IN RCW 36.70A.070(6)(A)(III)(D).
+5.4.6    Policy   5.4.46 The county shall support and promote a Transportation Demand Management (TDM) programs and
+                  strategies to reduce the peak hour travel demand from single occupant motor vehicles.
+
+                  RATIONALE: THE COUNTY HAS AN INTER-LOCAL AGREEMENT WITH THE CITY OF VANCOUVER
+                  TO IMPLEMENT THE COMMUTE TRIP REDUCTION (CTR) PROGRAM, WHICH IS A FORM OF TDM.
+
+
+
+
+                                                        Page 32 of 71
+NUMBER   TYPE        PROPOSED AMENDMENT
+
+                     CTR AFFECTED EMPLOYERS ARE REQUIRED TO PARTICIPATE, OTHER TDM PROGRAMS COULD
+                     BE DEVELOPED BY OTHERS.
+5.4S     Strategies 5.4     Implementation Strategies
+                    • Install medians where feasible on arterial roadways that have inappropriate levels of land access as
+                        defined in the County Transportation Standards.
+                    • Discourage the construction of cul-de-sacs and other forms of dead-end streets especially those without
+                        pedestrian and bicycle linkages. Require new development to provide for street/pedestrian connectivity
+                        where practicable considering environmental and other constraints. Existing unconnected streets should
+                        be retrofitted to provide bicycle and pedestrian linkages.
+                    • Preservation program priorities will be established using the Pavement Management System.
+                    • Truck access shall be restricted where gross weight will adversely impact the structural integrity of
+                        streets.
+                    • Incorporate Intelligent Transportation System (ITS) where possible within urban growth areas when it is
+                        cost-efficient and will result in achieving county transportation goals.
+                    • Require private developments to access collector and local access streets, versus direct access to the
+                        arterials. Encourage consolidation of access in developing commercial and high-density residential areas
+                        through shared use driveways, interconnected parking lots and local access streets that intersect with
+                        arterials.
+                    • Use transportation, land use and other measures to maintain or reduce vehicle miles traveled and peak
+                        hour trips by single occupant vehicles.
+                    • Maintain the county railroad right-of-way as an industrial-commercial-tourist-recreational resource.
+
+                     RATIONALE: GRAMMATICAL EDIT.
+5.5.4    Policy      5. 45.4 County roadways and intersections shall be designed when practical to achieve the lowest possible level
+                     of traffic stress to ensure the highest level of safety and accessibility for all modes roadway users.
+
+                     RATIONALE: PROPOSED CHANGES TO ALIGN WITH AMENDMENTS TO RCW 36.70A.070(6) THAT
+                     NOW REQUIRE MULTIMODAL LEVEL OF SERVICE STANDARDS, AS WELL AS THE
+                     RECOMMENDED PERFORMANCE METRIC (LEVEL OF TRAFFIC STRESS) TO JUDGE THE
+                     PERFORMANCE OF ACTIVE TRANSPORTATION FACILITIES.
+
+
+
+
+                                                          Page 33 of 71
+NUMBER   TYPE        PROPOSED AMENDMENT
+
+5.5.5    Policy      5.5.5 Arterial streets shall provide facilities for automobiles, transit, bicycles, and pedestrians mobility as
+                     defined in the Arterial Atlas and county’s adopted multimodal level of service standards and shall include
+                     landscaping.
+
+                     RATIONALE: PROPOSED CHANGES TO ALIGN WITH AMENDMENTS TO RCW 36.70A.070(6) THAT
+                     NOW REQUIRE MULTIMODAL LEVEL OF SERVICE STANDARDS, AS WELL AS THE
+                     RECOMMENDED PERFORMANCE METRIC (LEVEL OF TRAFFIC STRESS) TO JUDGE THE
+                     PERFORMANCE OF ACTIVE TRANSPORTATION FACILITIES.
+5.5S     Strategies 5.5     Implementation Strategies
+                    • Complete regional corridors and address corridor bottlenecks.
+                    • Allocate or reserve corridor capacity for land uses likely to produce family wage jobs.
+                    • Reduce corridor speed and intersection delay standards where transit is available at 15-minute
+                        headways during peak hours.
+                    • Provide for reduced trip rate calculations for transit supportive development.
+                    • Emphasize transit and ridesharing in the design and construction of all transportation facilities through
+                        the implementation of transportation system management techniques (signal timing, signal prioritization)
+                        and transit-only and high occupancy vehicle lanes.
+                    • Continually test for changes in concurrency due to major development projects.
+                    • Incorporate a “no-build” analysis into the design process for all transportation projects that would add
+                        general purpose lanes.
+                    • Ensure that freight corridors are designed, maintained, and operated to provide efficient movement of
+                        truck and rail traffic.
+                    • Use intelligent transportation system technology to alert motorists, bicyclists, and pedestrians to the
+                        presence and anticipated length of closures due to train crossings.
+                    • Evaluate the feasibility of grade separation in locations where train crossings result in significant delays
+                        and safety issues for other traffic, and improve the safety and operational conditions at rail crossings of
+                        streets.
+                    • Work with freight stakeholders and the Port of Vancouver to maintain and improve intermodal freight
+                        connections involving Port terminals, rail yards, industrial areas, interchange tracks and regional
+                        highways.
+
+
+
+
+                                                            Page 34 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  •   Support efficient and safe movement of goods by rail where appropriate and promote efficient operation
+                      of freight rail lines.
+                  •   Identify and minimize impacts that freight movements have on adjacent residential neighborhoods and
+                      on resource uses.
+                  •   Work with local jurisdictions and railroads to coordinate land use plans and policies to preserve and
+                      protect rail corridors, and take into account consider community needs in relation to the rail system.
+
+                  RATIONALE: GRAMMATICAL AND CLARIFYING EDITS.
+5.6.3    Policy   5.6.3 Improve the safety, accessibility, and maintenance of the existing network of pedestrian sidewalks,
+                  bicycle facilities, and multiuse paths by funding improvements using safety and accessibility recommendations
+                  from adopted countywide transportation safety and accessibility plans. [GHG, RES]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P10)
+5.7      Goal     5.7:    Reduce vehicle trips and miles viewed through an equity lens within the county through changes to land
+                  use, transportation infrastructure (transit, walking, bicycling, rolling), and commuting options/modes. (See
+                  additional policies related to this goal in Chapter 1 – Land Use and Chapter 2 – Housing.) [GHG]
+
+                  RATIONALE: NEW GOAL RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19)
+5.7.1    Policy   5.7.1 Reduce or remove parking requirements where appropriate to support more dense, mixed land use. To
+                  implement this policy, the county must:
+                  • Conduct a parking and/or parking requirement analysis to inform next steps;
+                  • Consider the positive and negative impacts of possible options through an environmental justice and climate
+                      lens; and
+                  • Develop an approach in collaboration with the community and consistent with all applicable laws. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P5)
+5.7.2    Policy   5.7.2 Encourage remote work through collaboration on incentives with local employers and improving
+                  broadband infrastructure where needed. Remote work incentives should be paired with commute trip reduction
+
+
+
+
+                                                       Page 35 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  strategies like carpooling, transit passes, and walking/biking to work for those who do not have the option to work
+                  from home. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P6)
+5.7.3    Policy   5.7.3 Collaborate with transportation planning partner agencies and service providers to expand and improve
+                  carpooling/rideshare networks. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P7)
+5.7.4    Policy   5.7.4 Collaborate with C-Tran, Tri-Met, Community in Motion, city and regional partners, local employers, and
+                  community based organizations to provide education, marketing, incentives, and/or vouchers for existing public
+                  transit services, prioritizing overburdened communities and removing barriers to access these offerings. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P9)
+5.7.5    Policy   5.7.5 Provide subsidies to purchase, and/or programs to share, micromobility and active transportation
+                  devices and safety equipment. Micromobility devices include but are not limited to: e-bikes, scooters, and
+                  wheelchairs. Prioritize benefits for overburdened communities and households experiencing transportation
+                  barriers. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P14)
+5.7.6    Policy   5.7.6 Collaborate with school districts to improve transportation options for school children and reduce
+                  vehicle traffic and idling. [GHG, RES]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P15)
+5.7.7    Policy   5.7.7 Collaborate with agency and community partners to improve accessible and coordinated
+                  comprehensive transportation services throughout the county based on "Universal Mobility-as-a-Service"
+                  principles. [GHG, RES]
+
+
+
+
+                                                         Page 36 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G19-
+                  P16)
+5.8      Goal     5.8:   Promote equitable adoption of electric vehicles (EVs) to achieve greenhouse gas reduction target and
+                  improve air quality where it is worst. [GHG]
+
+                  RATIONALE: NEW GOAL RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G21)
+5.8.1    Policy   5.8.1 The county's approach to planning for electric vehicles (EVs) and EV infrastructure shall prioritize
+                  reducing vehicle emissions and improving air quality in overburdened communities and equitable charging
+                  solutions for multifamily housing and households with lower incomes. Planning must involve inclusion of
+                  overburdened communities. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G21-
+                  P1)
+5.8.2    Policy   5.8.2 Offer incentives for, and education on, electric vehicle (EV) purchases. Education should include, but is
+                  not limited to the range of electric transportation options and household and commercial ownership
+                  experiences. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G21-
+                  P2)
+5.8.3    Policy   5.8.3 Enhance availability and accessibility of electric vehicle (EV) infrastructure (charging stations). The
+                  county's approach shall address: infrastructure in both urban and rural areas of the unincorporated county,
+                  multi-family housing charging solutions, availability of fast chargers, and access to charging options for a wide
+                  range of electric vehicles and electric micromobility options, such as electric bicycles. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G21-
+                  P3)
+5.8.4    Policy   5.8.4 Collaborate with state, regional, and local agency partners on equitable development and
+                  implementation of an electric vehicle charging network and the electrification of non-personal vehicles such as
+                  transit (bus, train, ferry) and freight (truck and rail). [GHG]
+
+
+
+
+                                                         Page 37 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G21-
+                  P4)
+5.8.5    Policy   5.8.5 As an interim strategy while electric vehicle technology and other carbon-free vehicle fuel sources
+                  become more widely available and accessible, encourage availability of renewable diesel at existing fuel stations
+                  in the unincorporated county. [GHG]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G21-
+                  P5)
+5.9      Goal     5.9:   Ensure resilience throughout the transportation system. [RES]
+
+                  RATIONALE: NEW GOAL RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G22)
+5.9.1    Policy   5.9.1 Plan for enhanced resilience throughout the local transportation system — including infrastructure,
+                  routes, and travel modes — that can withstand and recover quickly from the impacts of extreme weather events
+                  and other hazards exacerbated by climate change and equitably address transportation system disruptions.
+                  [RES]
+
+                  RATIONALE: NEW POLICY RECOMMENDATION FROM THE CLIMATE PLANNING PROJECT (G22-
+                  P1)
+5.10.4   Policy   5. 610.4A portion of available transportation funds shall be dedicated to sidewalk and bicycle active
+                  transportation facilities consistent with state law. [GHG, RES]
+
+                  RATIONALE: RECOMMENDED CHANGES BASED ON FEEDBACK FROM THE BICYCLE AND
+                  PEDESTRIAN ADVISORY COMMITTEE
+
+
+CHAPTER 6 CAPITAL FACILITIES AND UTILITIES ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTYWIDE PLANNING POLICIES
+
+
+
+                                                        Page 38 of 71
+6.0.5    Policy   6.0.5 The county, municipalities and special districts shall agree on a full range of services to meet the
+                  needs of the urban area, including sewer, water, stormwater management drainage, transportation, police,
+                  fire, parks, etc.
+
+                  RATIONALE: THE SENTENCE WAS CHANGED FOR CLARIFICATION.
+6.0.14   Policy   6.0.14 Within Urban Growth Areas, cities, and towns, and special purpose districts should be the providers
+                  of urban services. Cities and towns should not extend utilities without annexation or commitments for
+                  annexation. Exceptions may be made in cases where human health is threatened. In areas where utilities
+                  presently extend beyond city or town limits, but are within Urban Growth Areas, the city, or town, or special
+                  purpose districts and the county should jointly plan for the development, with the county adopting
+                  development regulations which are consistent with the city or town standards.
+6.0.17   Policy   6.0.17 Establish a stormwater treatment management plan for existing and future developments that supports
+                  complies with salmon recovery objectives.
+
+                  RATIONALE: MINOR CORRECTION. SCRIVENER’S ERROR.
+6.0.18   Policy   6.0.18 The county or city shall identify all public entities that own capital facilities and endeavor in good faith
+                  to work with other public entities, such as special purpose districts, to gather and include within its capital
+                  facilities element the information required by RCW 36.70A.070(3).
+
+                  RATIONALE: TO COMPLY WITH NEW LANGUAGE IN HB 1181 CODIFIED IN RCW36.70A.070(3).
+6.0.19   Policy   6.0.19 The county, municipalities, school districts, library districts, other partner agencies, and online
+                  communication service providers should work together to provide equitable access to online communication
+                  tools and infrastructure throughout the county.
+
+                  RATIONALE: TO ADDRESS DIGITAL ACCESS DISPARITIES IN THE COUNTY.
+                  COUNTY 20-YEAR PLANNING POLICIES
+6.1.8    Policy   6.1.8 Incorporate climate resilience, greenhouse gas reduction, vehicle miles traveled per capita
+                  reduction, and environmental justice measures into Capital Facilities Plans and projects in alignment with
+                  the GMA climate and resiliency goal and the goals and policies in the Comprehensive Plan Climate Element
+                  (Chapter 14). Examples include but are not limited to:
+
+
+
+
+                                                         Page 39 of 71
+                 •   Plan and build new facilities, utilities, and infrastructure projects to avoid or withstand flooding, wildfires,
+                     landslides and associated climate impacts (e.g., changing floodplains).
+                 • Develop and implement a county building greenhouse gas emissions reduction plan to reduce county
+                     building energy to net zero greenhouse gas emissions. Align equipment upgrades with maintenance and
+                     replacement schedules.
+                 • Integrate clean renewable energy sources and backup infrastructure where feasible into county building
+                     energy/operations.
+                 (See additional resilience, greenhouse gas emissions, vehicle miles reduction, and environmental justice
+                 policies in Chapter 14 - Climate Element as well as other comprehensive plan chapters including: Chapter 1 –
+                 Land Use, Chapter 4 – Environment, and Chapter 5 – Transportation.) [GHG, RES]
+
+                 RATIONALE: WITH THE PASSAGE OF HB1181, THE GMA ADDED A NEW CLIMATE CHANGE AND
+                 RESILIENCY GOAL. THIS POLICY ADDRESSES THAT. SINCE SOME CLIMATE ELEMENT GOALS
+                 AND POLICIES (RECOMMENDED BY THE CLIMATE ADVISORY GROUP) ARE APPLICABLE TO
+                 CAPITAL FACILITIES, THIS POLICY IS INTENDED TO POINT TO CHAPTER 14 AND SOME OF THE
+                 OTHER CHAPTERS WITH CLIMATE POLICIES THAT RELATE TO CAPITAL FACILITIES.
+6.2.3   Policy   6.2.3 In cases where public water service is needed, it shall be provided by a water purveyor under the
+                 following order of preference, articulated within the Coordinated Water System Plan (CWSP):
+                 • Direct or satellite service by the water utility designated utility. by the CWSP to serve the area.
+                 • Interim or permanent service by an adjacent water utility, CWSP service areas designations shall be adjusted
+                      if permanent service is arranged.
+                 • Satellite service on an interim basis by Clark Public Utilities PU, if the new service development to be served
+                      is located outside Clark’s mainline CPUs service territory.
+                 • Formation of a new utility; service areas are adjusted. and construction of a new public water system to serve
+                      only the development. CWSP service area shall be adjusted to reflect the change.
+
+                 RATIONALE: THE CHANGES BETTER REFLECT CURRENT PROCESS.
+6.2.5   Policy   6.2.5 CPU Clark Public Utilities shall continue to be recognized as the satellite water system management
+                 agency for Clark County.
+
+                 RATIONALE: MINOR CORRECTION.
+6.2.8   Policy   6.2.8 Water transmission lines constructed in rural areas for the purpose of connecting water systems shall be
+                 limited the number of distribution from use for tributary line tie-ins.
+
+
+
+
+                                                        Page 40 of 71
+                  RATIONALE: CLARIFICATION REFLECTS INTENT AND CURRENT PROCESS.
+6.2.9    Policy   6.2.9 The CWSP shall be amended to reflect any w Water service extensions in the rural area shall be reflected in
+                  each individual utility’s Water System Plans and adopted by reference in the CWSP.
+
+                  RATIONALE: CLARIFICATION TO REFLECT CURRENT PROCESS.
+6.2.13   Policy   6.2.13 Practice and encourage water conservation. (See additional policies related to this topic in Chapter 4 –
+                  Environment.) [RES]
+
+                  RATIONALE: THE CLIMATE ELEMENT PROJECT COMMUNITY ADVISORY GROUP (CAG)
+                  RECOMMENDATION INCLUDED REVISED AND ADDITIONAL WATER POLICIES IN CHAPTER 4.
+                  THIS AMENDMENT WOULD HELP DIRECT READERS TO THE APPROPRIATE LOCATION FOR
+                  RELATED POLICIES.
+6.3.6    Policy   6.3.6 Work with the Public Health to support efforts to establish mandatory subsurface sewage disposal
+                  septic inspection/maintenance programs for existing septic systems, particularly areas needing
+                  environmental health guarantees.
+
+                  RATIONALE: SCRIVENER’S ERROR.
+6.3.8    Policy   6.3.8 Extension of public sewer service shall not be permitted outside urban growth areas, except in
+                  response to documented health hazards; or to provide public sewer to regional park facilities, or to serve a
+                  school pursuant to RCW36.70A.213, K-12 public schools, in designated rural centers; or where the county
+                  has contractually committed to permit public sewer connection.
+
+                  RATIONALE: ADD TEXT TO ALIGN WITH RCW 36.70A.213.
+6.4      Goal     6.4:   Provide a long-range stormwater management program to minimize impacts of from stormwater
+                  discharge from existing and new development in changing climate conditions. (Ffor additional policies see
+                  Chapter 4 – Environmental Element.) [RES]
+6.4.1    Policy   6.4.1 Maintain clear development review standards for the control of the quantity and quality of stormwater
+                  discharge from development projects which emphasize on-site retention, water quality treatment and
+                  infiltration of run-off to minimize impacts on the established wastewater system and local streams, rivers
+                  and lakes.
+
+
+
+
+                                                        Page 41 of 71
+                 RATIONALE: CLARIFICATION THAT THIS IS ABOUT STORMWATER THROUGH WATER QUALITY
+                 TREATMENT, NOT WASTEWATER.
+6.4.3   Policy   6.4.3 Develop and implement comprehensive stormwater management plans, including funding
+                 provisions, for all watersheds in the county.
+
+                 RATIONALE: CLARIFY THAT THE FUNDING PROVISIONS ARE NOT INCLUDED IN THE
+                 STORMWATER MANAGEMENT PLAN THAT IS ADDRESSED IN THE CAPITAL IMPROVEMENT PLAN.
+6.4.5   Policy   6.4.5   Explore the possible formation of a regional stormwater facility facilities.
+
+                 RATIONALE: CLARIFY THAT THERE MAY BE THE NEED FOR MORE THAN ONE SINGULAR
+                 FACILITY.
+6.4.6   Policy   6.4.6 Establish a coordinated approach with local jurisdictions to address both protect and restore surface
+                 water and groundwater quality issue.
+
+                 RATIONALE: CLARIFY LANGUAGE TO BE CONSISTENT WITH THE PLAN OBJECTIVES.
+6.4.7   Policy   6.4.7 Clark County shall monitor and update the Stormwater Code and Manual stormwater control
+                 ordinance and related policies and standards to implement and enhance stormwater management.
+
+                 RATIONALE: CLARIFICATION OF WHAT DOCUMENTS ARE BEING UPDATED.
+6.7     Goal     6.7:   Provide solid waste services efficiently and cost-effectively to residents of Clark County. (See
+                 additional policies related to this goal in Chapter 14 – Climate Element.)
+
+                 RATIONALE: THE COMMUNITY ADVISORY GROUP RECOMMENDATION FROM THE CLIMATE
+                 PROJECT INCLUDES POLICIES RELATED TO SOLID WASTE. THIS ADDITION WOULD POINT
+                 READERS TO THAT SECTION OF THE COMPREHENSIVE PLAN.
+6.7.1   Policy   6.7.1 Continue implementation of the county's Solid Waste Management Plan, or CSWMP, to achieve solid
+                 waste goals outlined in RCW 70A.205 and RCW 70A.300 over in order to achieve a 50 percent reduction in the
+                 solid waste stream in the next 20 years and update on a regular basis.
+
+
+
+
+                                                         Page 42 of 71
+                 RATIONALE: THE GOALS OF THE SOLID WASTE MANAGEMENT PLAN WOULD CONTINUE TO BE
+                 IMPLEMENTED PURSUANT TO RCW 70A.205 AND RCW 70A.300.
+6.7.2   Policy   6.7.2 The CSWMP shall be reviewed and updated at a minimum of every five years. CSWMP language shall be
+                 reviewed and amended annually, if necessary, and when legislation changes.
+
+                 RATIONALE: THE GOALS OF THE SOLID WASTE MANAGEMENT PLAN WOULD CONTINUE TO BE
+                 IMPLEMENTED PURSUANT TO RCW 70A.205 AND RCW 70A.300.
+6.7.3   Policy   6.7.3 Expand and upgrade solid waste handling facilities to meet current and future demand.
+                 RATIONALE: THE GOALS OF THE SOLID WASTE MANAGEMENT PLAN WOULD CONTINUE TO BE
+                 IMPLEMENTED PURSUANT TO RCW 70A.205 AND RCW 70A.300.
+6.7.5   Policy   6.7.53 Continue on-going consideration of the needed balance in solid waste disposal between land filling,
+                 incineration and recycling and consider further reduction measures, such as deposits, product take back
+                 programs, extended producer responsibility for packaging and paper products, and product container and
+                 packaging bans.
+
+                 RATIONALE: THE GOALS OF THE SOLID WASTE MANAGEMENT PLAN WOULD CONTINUE TO BE
+                 IMPLEMENTED PURSUANT TO RCW 70A.205 AND RCW 70A.300.
+6.8     Goal     6.8:  Facilitate the provision of electricity, natural gas and other utility services to the residents of Clark
+                 County. (See additional policies related to this goal in Chapter 14 – Climate Element.) [RES]
+
+                 RATIONALE: WITH THE ADDITION OF A CLIMATE CHANGE AND RESILIENCY GOAL IN THE
+                 COMPREHENSIVE PLAN, LANGUAGE IN THIS GOAL IS PROPOSED FOR REVISION TO INCLUDE A
+                 BROADER RANGE OF UTILITY PROVIDERS. NEW EMERGING UTILITY SYSTEMS, SUCH AS
+                 THERMAL ENERGY NETWORKS, ARE ANTICIPATED OVER THE PLANNING HORIZON.
+6.8.5   Policy   6.8.5 Encourage and coordinate coordination with other utility providers in the provision of electricity, gas,
+                 energy, telecommunications and cable systems consistent with RCW 36.70A.070(4).
+
+                 RATIONALE: WITH THE PASSAGE OF HB1181 AND THE ADDITION OF A CLIMATE CHANGE AND
+                 RESILIENCY GOAL IN THE COMPREHENSIVE PLAN, LANGUAGE IN THIS POLICY IS PROPOSED
+                 FOR REVISION TO INCLUDE A BROADER RANGE OF UTILITY PROVIDERS, PARTICULARLY
+                 RELATED TO ENERGY SYSTEMS. ENERGY SYSTEMS WOULD BE INCLUSIVE OF NATURAL GAS
+
+
+
+
+                                                        Page 43 of 71
+                  SYSTEMS BUT ALSO NEW AND EMERGING ENERGY SYSTEMS SUCH AS THERMAL ENERGY
+                  NETWORKS.
+6.9.5    Policy   6.9.5 Develop standards or guidelines to determine how the sufficiency of governmental services, including
+                  fire protection, law enforcement, solid waste service, telecommunications, electricity, natural gas, energy,
+                  government buildings, libraries and other services shall be addressed during the development review process.
+
+                  RATIONALE: WITH THE PASSAGE OF HB1181 AND THE ADDITION OF A CLIMATE CHANGE AND
+                  RESILIENCY GOAL IN THE COMPREHENSIVE PLAN, LANGUAGE IN THIS POLICY IS PROPOSED
+                  FOR REVISION TO INCLUDE A BROADER RANGE OF UTILITY PROVIDERS, PARTICULARLY
+                  RELATED TO ENERGY UTILITIES. ENERGY UTILITIES WOULD BE INCLUSIVE OF NATURAL GAS
+                  SYSTEMS BUT ALSO NEW AND EMERGING ENERGY SYSTEMS SUCH AS THERMAL ENERGY
+                  NETWORKS.
+
+
+CHAPTER 7 PARKS, RECREATION & OPEN SPACE ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTY 20-YEAR PLANNING POLICIES
+7.2.2    Policy   7.2.2 Establish a brand identity for Clark County Parks, with a consistent look and feel to through
+                  educational and promoting materials.
+
+                  RATIONALE: GRAMMATICAL EDIT.
+7.2.6    Policy   7.2.6 Engage CVTV to produce a series of park and trail stories that serve to inform the community about the
+                  variety of outdoor recreation resources available in the county.
+
+                  RATIONALE: THIS POLICY IS BETTER SERVED AS AN ON-GOING POLICY.
+7.2.7    Policy   7.2.7 Actively eEngage local media more actively to report on county parks activities, events, volunteer work
+                  parties, etc.
+
+                  RATIONALE: GRAMMATICAL EDIT.
+
+
+
+
+                                                        Page 44 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+7.4.3    Policy   7.4.3 Trail System: Promote active lifestyles by providing more trails connections and coordinating coordinate
+                  with other jurisdictions and providers to create a seamless system. [RES]
+
+                  RATIONALE: GRAMMATICAL EDIT AND POLICY IDENTIFIED TO SUPPORT CLIMATE RESILIENCE.
+7.4.4    Policy   7.4.4 Water Access: Provide safe and appropriate water access for recreation and education and to inspire
+                  appreciation and stewardship for aquatic resources and habitat.
+
+                  RATIONALE: GRAMMATICAL EDIT.
+7.6.6    Policy   7.6.6 Initiate a Administer the volunteer camp host program to increase parks’ presence and hospitality at
+                  community and regional parks.
+
+                  RATIONALE: UPDATED TO REFLECT CURRENT STATUS OF THE VOLUNTEER CAMP HOST
+                  PROGRAM.
+
+
+CHAPTER 8 HISTORIC, ARCHAEOLOGICAL AND CULTURAL
+PRESERVATION ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTY 20-YEAR PLANNING POLICIES
+8.1.1    Policy   8.1.1 Coordinate with DAHP to iIdentify and evaluate archaeological and historic sites to determine which
+                  should be preserved. Identification and evaluation is a constant, ongoing process.
+
+                  RATIONALE: DAHP IS GENERALLY THE LEAD AGENCY FOR ARCHAEOLOGICAL AND HISTORICAL
+                  INVENTORY IDENTIFICATION WORK.
+
+
+
+
+                                                       Page 45 of 71
+NUMBER   TYPE        PROPOSED AMENDMENT
+
+8.1.3    Policy      8.1.3 Nominate Facilitate nomination of historic and cultural resources to the local, state and national Historic
+                     Registers. The Cultural Resources Inventory should be used as a reference in the identification of significant
+                     structures and places eligible for nomination.
+
+                     RATIONALE: CLARIFY THAT THE COUNTY’S ROLE IS TO FACILITATE NOMINATIONS, GENERALLY
+                     NOT TO NOMINATE. ADD TERM “HISTORIC.”
+8.1.5    Policy      8.1.5 Review of land use actions should be sensitive and give consideration to protection of cultural resources
+                     while ensuring compliance with the county and City of Vancouver historic preservation ordinances.
+
+                     RATIONALE: ADD PHRASE MENTIONING HISTORIC PRESERVATION ORDINANCES TO CLARIFY
+                     AND EMPHASIZE THE COUNTY AND CITY’S ROLE IN REGULATORY COMPLIANCE.
+8.2.5    Policy      8.2.5 Clark County shall pursue its cultural resource goals through collaboration with residents, property
+                     owners, cultural organizations, public agencies, tribes, schools districts, libraries and others.
+
+                     RATIONALE: GRAMMATICAL EDIT.
+8.3.2    Policy      8.3.2 Identify, on a regular an ongoing basis, county-owned properties that may be historically significant.
+                     Listing in the Clark County Heritage Register should be considered for county properties when appropriate.
+
+                     RATIONALE: CHANGE “REGULAR” TO “ONGOING” BECAUSE SUCH WORK IS DONE AS
+                     NEEDED, NOT ON A SET TIMEFRAME.
+8.4.2    Policy      8.4.2 Support Eexpansiond of the variety of incentives available to property owners to encourage historic
+                     preservation. Although many cultural resources are in private ownership, public agencies can offer incentives for
+                     their preservation and maintenance.
+
+                    RATIONALE: ADD THE WORD “SUPPORT” WITH THE UNDERSTANDING THAT GENERALLY THE
+                    INCENTIVES ARE ADMINISTERED BY OTHER AGENCIES.
+8.4S     Strategies 8.4   Strategies
+                        • Support the Waive waiver or reductione of permit and impact fees for re-use or rehabilitation projects
+                          that are consistent with surrounding land uses.
+
+
+
+                                                           Page 46 of 71
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                     •   Increase Ppublic awareness of cultural resources should be increased through educational and
+                         interpretive projects that highlight sites included on the county inventory or those eligible for inclusion
+                         in local and/or state heritage registers, or National Registers of Historic Places.
+                     •   Review the county’s and its cities’ policies for consistency regarding preservation of cultural and
+                         historic resources.
+                     •   Provide assistance to developers, landowners and the construction trade regarding appropriate re-
+                         use and rehabilitation of identified historic sites and buildings.
+
+                     •   Provide assistance to developers, landowners and others interested in obtaining grants and receiving
+                         available tax incentives for re-use and rehabilitation of identified historic sites and buildings,
+                         including administration of the county’s Historical Promotion Grant program.
+
+                  RATIONALE: GRAMMATICAL AND CLARIFYING EDITS.
+
+
+CHAPTER 9 ECONOMIC DEVELOPMENT ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTYWIDE PLANNING POLICIES
+9.1.11   Policy   9.1.11 Conversion of industrial or employment center lands to non-industrial or non-employment center
+                  districts may occur within the following parameters:
+                  a. Protect and preserve lands zoned heavy industrial for heavy industrial uses.
+                  b. Protect employment center lands from conversion to residential.
+                  c. Consider rezoning of employment center lands to non-retail commercial or business park if the proponent
+                      can show that (a) the zone change would accommodate unforeseen and rapidly changing commercial
+                      development needs and (b) the proposed designation is more suitable than the current designation given the
+                      land’s site-specific characteristics and (c) the proposed zone change will generate greater economic
+                      benefitjobs at a higher density than the current comprehensive plan zone allocation.
+
+                  RATIONALE: EMPLOYMENT CENTER IMPLIES A DISTRICT THAT MAY NOT BE COMMON TO ALL
+                  JURISDICTIONS, REMOVING “CENTER” ALLOWS FOR A BROADER INTERPRETATION
+
+
+
+
+                                                        Page 47 of 71
+                  REGARDLESS OF THE SPECIFIC ZONE OR DISTRICT. PROPOSAL TO MAKE THE LANGUAGE
+                  MORE FLEXIBLE BY CHANGING “JOBS AT A HIGHER DENSITY” TO “GREATER ECONOMIC
+                  BENEFIT.”
+9.1.13   Policy   9.1.13 Following consultation with interested cities, the county may, consistent with state requirements,
+                  designate Major industrial developments RCW 36.70A.365 and /or Master planned developments – Master
+                  planned locations RCW 36.70A.367 outside urban growth areas. Appropriate or required Intergovernmental
+                  Agreements consistent with the provisions of the state law shall accompany such designation.
+
+                  RATIONALE: THE PROVISION HAS SUNSET IN THE RCW.
+
+                  COUNTY 20-YEAR PLANNING POLICIES
+9.3.1    Policy   9.3.1  In cooperation with local jurisdictions, maintain a minimum 10-year supply of industrial land based on
+                         average absorption rates over the last five years.
+                  a. Designate the necessary acreage of vacant industrial land for the 20-year planning period.
+                  b. Discourage removal of land from the inventory if that results in a less than 10-year supply of industrial sites.
+                  c. Encourage industrial land banking of large sites and “future urban reserve areas” to preserve large parcels at
+                     key locations for future industrial sites (RCW 36.70A.367).
+                  d. New industrial sites that are part of a major industrial land bank shall be consistent with RCW36.70A.365
+                  and RCW 36.70A.367.
+
+                  RATIONALE: THE PROVISION HAS SUNSET IN THE RCW.
+9.3.4D   Policy   9.3.4 Conversion of industrial or employment lands to non-industrial or non- employment districts may
+                  occur within the following parameters:
+                  a.      Protect and preserve lands zoned heavy industrial for heavy industrial uses.
+                  b.      Protect employment lands from conversion to residential.
+                  c.      Consider rezoning of employment lands to non-retail commercial or business park if the proponent can
+                  show that (a) the zone change would accommodate unforeseen and rapidly changing commercial development
+                  needs and (b) the proposed designation is more suitable than the current designation given the land’s site-
+                  specific characteristics and (c) the proposed zone change will generate jobs at a higher density than the current
+                  comprehensive plan zone allocation.
+
+                  RATIONALE: REDUNDANT WITH COUNTYWIDE PLANNING POLICY 9.1.11 ABOVE
+
+
+
+
+                                                         Page 48 of 71
+CHAPTER 10 SCHOOL ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTYWIDE PLANNING POLICIES
+10.1.3   Policy   10.1.3 The county and each city shall include sufficient vacant land at adequate sizes in the future land use
+                  categories to meet projected demand for new schools and appropriately designate and zone school
+                  properties for school-related uses.
+
+                  RATIONALE: REQUEST FROM SCHOOL DISTRICT REPRESENTATIVE TO EMPHASIZE LAND
+                  ALREADY ZONED TO ALLOW SCHOOLS.
+                  COUNTY 20-YEAR PLANNING POLICIES
+
+10.2.2   Policy   10.2.2 School facilities may be located in the rural areas where necessary to serve population growth within the
+                           urban growth area, subject to the following:
+                  • School facilities shall be located as close to the urban growth boundary as possible, preferably within ¼ mile.
+                  • Before siting a school facility outside the urban growth area, the school district shall demonstrate that the
+                      proposed site is more suitable than alternative sites within the existing urban growth area. Suitability
+                      includes factors such as size, topography, zoning, surrounding land uses, transportation, environmental
+                      concerns and location within the area to be served.
+                  • The school district shall demonstrate that the transportation facilities serving the site are adequate to
+                      support site generated traffic, including buses.
+                  • Uupon locating any school facility in the urban reserve or rural area, the school district shall agree to
+                      connect to public water and sewer, subject to agreement of the county and any affected cities, and with
+                      all costs of such extension being borne by the applicable school district. Such service shall have access
+                      restrictions precluding service to the Rural Areas. when they become available within 300 feet or less of
+                      the site, provided such a connection does not necessitate special facilities (e.g., pump stations) or
+                      capital improvements (e.g., larger pipes) to increase the capacity of the system.
+
+                  RATIONALE: THE PROPOSED CHANGE RESPONDS TO RCW 36.70A.213, REVISED 2017.
+10.2.3   Policy   10.2.3 School facilities may be located in rural areas where necessary to serve population growth and
+                  attendance areas principally lying outside of the UGA or Rural Centers, subject to the following:
+                  • Before siting school facilities in the rural area, the district shall demonstrate that the proposed site is more
+                      suitable than alternative sites within a UGA, urban reserve area or Rural Center. Suitability includes factors
+
+
+
+
+                                                         Page 49 of 71
+                      such as size, topography, zoning, surrounding land uses, transportation, environmental concerns and
+                      location within the area to be served.
+                  • The school district shall demonstrate that the transportation facilities serving the site are adequate to
+                      support site generated traffic, including buses.
+                  • Upon locating any school facility in the urban reserve or rural area, the school district shall agree to
+                      connect to public water and sewer, subject to agreement of the county and any affected cities, and with
+                      all costs of such extension being borne by the applicable school district. Such service shall have access
+                      restrictions precluding service to the Rural Areas.
+                  •        Upon locating any school facility in a rural area, the school district shall agree to connect to public
+                  water when it becomes available within 300 feet or less of the site, provided such a connection does not
+                  necessitate special facilities or capital improvements to increase the capacity of the system.
+                  •        The school district shall agree to connect to public sewer when it becomes available within 300 feet or
+                  less of the site, provided such a connection does not necessitate special facilities or capital improvements to
+                  increase the capacity of the system. Such sewer extension shall be tight-lined and have access restrictions
+                  precluding service to the Rural Areas.
+
+                  RATIONALE: THE PROPOSED CHANGE RESPONDS TO NEW RCW 36.70A.213, REVISED 2017
+10.3.1   Policy   10.3.1 The county, each city and school districts should explore the possibility of siting new facilities jointly
+                  with private, non-profit, or other local government owned facilities on sites that are in locations that best
+                  serve the growth projected by the comprehensive plan.
+
+                  RATIONALE: MINOR CORRECTION. THIS SECTION OF POLICIES ONLY APPLIES TO CLARK
+                  COUNTY AND IS NOT A COUNTYWIDE POLICY.
+
+
+CHAPTER 12 ANNEXATION ELEMENT
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+                  COUNTYWIDE PLANNING POLICIES
+12.0.3   Policy   12.0.3 The county shall encourage, facilitate and support annexations to cities and town within Urban Growth
+                  Areas if consistent with the policies contained within the annexation element.
+
+                  RATIONALE: ADDS CLARITY TO COUNTY’S ROLE.
+
+
+
+
+                                                         Page 50 of 71
+                   20-YEAR COUNTY PLANNING POLICIES
+12.2.1D   Policy   12.2.1 The Fisher Swale area will be served by the City of Vancouver or the City of Camas by agreement of the
+                   two cities until one or both of these areas are annexed.
+
+                   RATIONALE: THE FISHER SWALE AREA HAS ALREADY BEEN ANNEXED.
+
+
+CHAPTER 14 CLIMATE ELEMENT
+NUMBER    TYPE     PROPOSED AMENDMENT
+
+14H                Chapter 14 Climate Element
+
+                   RATIONALE FOR ADDITION OF CLIMATE ELEMENT AND ALL THE GOALS AND POLICIES WITHIN
+                   IT: PASSAGE OF HB1181 IN 2023 (CODIFIED IN RCW 36.70A) MANDATES A CLIMATE ELEMENT
+                   BE ADDED INTO CLARK COUNTY’S COMPREHENSIVE PLAN IN ALIGNMENT WITH SPECIFIC
+                   RESILIENCE, GREENHOUSE GAS REDUCTION, ENVIRONMENTAL JUSTICE AND BEST AVAILABLE
+                   SCIENCE REQUIREMENTS AND CLIMATE ELEMENT GUIDANCE PROVIDED BY THE DEPARTMENT
+                   OF COMMERCE.
+                   COUNTYWIDE PLANNING POLICIES
+
+
+                   NOTE ABOUT COUNTYWIDE PLANNING POLICIES: THE FOLLOWING COUNTYWIDE PLANNING
+                   POLICIES WERE RECOMMENDED BY THE TECHNICAL COORDINATING COMMITTEE, A WORK
+                   GROUP OF STAFF FROM THE CITIES, COUNTY, AND COWLITZ INDIAN TRIBE. COUNTYWIDE
+                   PLANNING POLICIES ULTIMATELY NEED APPROVAL OF ALL THE CITY COUNCILS IN CLARK
+                   COUNTY AND COUNTY COUNCIL. THE FOLLOWING COUNTYWIDE PLANNING POLICIES ALIGN
+                   WITH HB1181 REQUIREMENTS AND SUPPORT COORDINATION BETWEEN JURISDICTIONS.
+14.1.1    Policy   14.1.1 The county and the cities of Battle Ground, Camas, Ridgefield, Vancouver, and Washougal shall
+                   cooperate to reduce greenhouse gas emissions, reduce vehicle miles traveled per capita, and improve
+                   environmental justice through development of a greenhouse gas emissions reduction subelement in each
+
+
+
+
+                                                         Page 51 of 71
+                  local government’s respective comprehensive plan, and its related development regulations that identify the
+                  actions the jurisdiction will take during the planning cycle that will:
+                  •   Result in reductions in overall greenhouse gas emissions generated by transportation and land use within
+                      the jurisdiction but without increasing greenhouse gas emissions elsewhere in the state or region;
+                  •   Result in reductions in per capita vehicle miles traveled within the jurisdiction but without increasing
+                      greenhouse gas emissions elsewhere in the state or region; and
+                  •   Prioritize reductions that benefit overburdened communities in order to maximize the cobenefits of
+                      reduced air pollution and environmental justice.
+
+                  Greenhouse gas reduction subelements shall be consistent with Chapter 36.70A, Department of Commerce
+                  guidelines, and supported by scientifically credible projections and scenarios. [GHG]
+14.1.2   Policy   14.1.2 Greenhouse gas reduction subelements shall be developed with an overall target of reaching net-zero
+                  greenhouse gas emissions by 2050 in alignment with the statewide greenhouse gas emissions reductions set
+                  forth in RCW 70A.45.020(1) and in accordance with all applicable laws. Individual jurisdictions may choose to
+                  set greenhouse gas reduction targets more ambitious than the statewide goals. Jurisdictions shall use a
+                  consistent methodology for measuring greenhouse gas emissions reduction progress over time using each
+                  jurisdiction’s individual 2022 (or 2023 inventory for the City of Vancouver) greenhouse gas emissions
+                  inventory for baseline greenhouse gas emissions values and establishment of the scientifically credible
+                  inventory protocol to use moving forward to track progress. [GHG]
+14.1.3   Policy   14.1.3 Each jurisdiction with a greenhouse gas reduction subelement shall collaborate to develop vehicle
+                  miles traveled per capita reduction targets and methodology for monitoring vehicle miles traveled per capita
+                  over time in collaboration with the Regional Transportation Council. Each jurisdiction’s greenhouse gas
+                  reduction subelement shall include vehicle miles traveled per capita reduction goal(s) and policies in
+                  alignment with regional vehicle miles traveled per capita reduction planning initiatives. [GHG]
+14.1.4   Policy   14.1.4 Each jurisdiction with a greenhouse gas reduction subelement should set 5-year incremental
+                  greenhouse gas reduction and vehicle miles traveled per capita reduction objectives or targets. [GHG]
+14.1.5   Policy   14.1.5 Each jurisdiction with a greenhouse gas reduction subelement will provide progress reports to the
+                  Department of Commerce every five years according to the Department of Commerce progress report
+                  guidelines adopted under RCW 36.70A.130. [GHG]
+14.1.6   Policy   14.1.6 Each jurisdiction with a greenhouse gas reduction subelement should coordinate with the Southwest
+                  Clean Air Agency (SWCAA) on reducing air pollution. [GHG]
+
+
+
+
+                                                       Page 52 of 71
+14.1.7    Policy   14.1.7 The county and each municipality shall cooperate to equitably enhance resiliency to, and avoid or
+                   substantially reduce the adverse impacts of, climate change in human communities and ecological systems
+                   through goals, policies, and programs consistent with the best available science and scientifically credible
+                   climate projections and impact scenarios that moderate or avoid harm, enhance the resiliency of natural and
+                   human systems, and enhance beneficial opportunities through development of a resiliency subelement in
+                   each local government’s respective comprehensive plan, consistent with Chapter 36.70A.
+                   Specific goals, policies, and programs of the resiliency subelement must include, but are not limited to,
+                   those designed to:
+                   •   Identify, protect, and enhance natural areas and green infrastructure to foster resiliency to climate
+                       impacts, as well as areas of vital habitat for safe passage and species migration;
+                   •   Identify, protect, and enhance community resiliency to climate change impacts, including social,
+                       economic, and built environment factors, that support adaptation to climate impacts consistent with
+                       environmental justice; and
+                   •   Address natural hazards created or aggravated by climate change, including landslides, flooding,
+                       drought, heat, smoke, wildfire, and other effects of changes to temperature and precipitation patterns.
+
+                   Each jurisdiction’s resiliency subelement must prioritize actions that benefit overburdened communities that
+                   will disproportionately suffer from compounding environmental impacts and will be most impacted by
+                   natural hazards due to climate change. [RES]
+14.1.8    Policy   14.1.8 The county and municipalities shall improve environmental justice in each jurisdiction’s climate
+                   element consistent with the environmental justice definition and policy requirements in Chapter 36.70A,
+                   including meaningful involvement with overburdened communities to identify policies that will benefit them.
+                   [GHG, RES]
+14.1.9    Policy   14.1.9 The county and municipalities shall work together in the development of each jurisdiction’s climate
+                   element and implementation of climate elements. [GHG, RES]
+14.1.10   Policy   14.1.10         The county and municipalities shall consult with the Cowlitz Indian Tribe in the development
+                   of each jurisdiction’s climate element and implementation of climate elements. [GHG, RES]
+                   COUNTY 20-YEAR PLANNING POLICIES
+
+
+
+
+                                                        Page 53 of 71
+                  NOTE ABOUT 20-YEAR COUNTY PLANNING POLICIES: THE FOLLOWING COUNTY 20-YEAR
+                  PLANNING POLICIES WERE RECOMMENDED BY THE CLIMATE PROJECT COMMUNITY ADVISORY
+                  GROUP (CAG). THE CAG WAS MADE UP OF 20 COUNTY MANAGER APPOINTED MEMBERS
+                  REPRESENTING A WIDE RANGE OF INTERESTS. THE GROUP USED A CONSENSUS-BASED
+                  PROCESS TO DEVELOP THEIR RECOMMENDATIONS. DRAFT POLICIES WERE REVIEWED BY THE
+                  ENVIRONMENTAL JUSTICE COALITION (EJC) WHO HELPED THE COUNTY APPLY AN EQUITY
+                  LENS TO DRAFT CLIMATE POLICIES AND INCORPORATE FEEDBACK HEARD THROUGH PUBLIC
+                  ENGAGEMENT. THE EJC WAS MADE UP OF 15 COMMUNITY-BASED ORGANIZATIONS WHO
+                  HELPED THE COUNTY CONDUCT COMMUNITY ENGAGEMENT FOCUSED ON REACHING
+                  COMMUNITY MEMBERS VULNERABLE TO CLIMATE IMPACTS. THE EJC AND COUNTY STAFF,
+                  COMBINED, HEARD FEEDBACK FROM APPROXIMATELY 2,000 PEOPLE THAT HELPED INFORM
+                  THE FOLLOWING PROPOSED POLICIES. DRAFT POLICIES WERE REVIEWED BY THE PARTNER
+                  AGENCY TEAM, A TECHNICAL REVIEW COMMITTEE MADE UP OF STAFF FROM MULTIPLE
+                  COUNTY DEPARTMENTS AND OUTSIDE AGENCIES (SUCH AS CITIES, STATE AGENCY STAFF,
+                  PORTS, FIRE DISTRICTS, SCHOOLS, ETC.). PROJECT STAFF AND CONSULTANTS REVIEWED
+                  PROPOSED POLICIES FOR CONSISTENCY WITH HB1181 REQUIREMENTS AND DEPARTMENT OF
+                  COMMERCE CLIMATE ELEMENT GUIDANCE.
+14.2     Goal     14.2: In accordance with all applicable laws, facilitate a just transition to net zero greenhouse gas
+                  emissions and equitably enhance community and ecological resilience to climate impacts. [GHG, RES]
+14.2.1   Policy   14.2.1 Implement Climate Element policies in alignment with following guiding principles:
+                  • Evaluate who is most impacted by the issue or decision (positively or negatively), what the data tells us
+                      (consider qualitative and quantitative data), and what ways the recommended action could be modified
+                      to enhance positive impacts or reduce negative impacts.
+                  • Prioritize engagement with communities vulnerable and at risk from climate impacts.
+                  • Design engagement to align with the unique characteristics of vulnerable populations that are at higher
+                      risk from climate impacts.
+                  • Directly limit harm, address past harm where possible, and be effective at reducing greenhouse gas
+                      emissions and/or improving resilience.
+                  • Collaborate with communities and community organizations and consult with Tribes (and seek funding
+                      necessary to support collaboration). Community organizations include, but are not limited to: local non-
+
+
+
+
+                                                       Page 54 of 71
+                      governmental organizations and businesses, service providers, faith based institutions, and partner
+                      government agencies.
+                  •   Design projects to help communities meet their day-to-day needs and build resilience in the face of
+                      climate impacts. Climate actions should avoid creating harm to vulnerable populations by, for example,
+                      compounding day-to-day financial burdens or making climate impacts worse.
+                  •   Remove barriers to participation and to benefits. Make climate projects, programs, and their associated
+                      benefits, easily accessible. Barriers to participation include physical and non-physical barriers. Examples
+                      include: access and safety challenges for people with certain physical health conditions or
+                      developmental disabilities, language barriers, financial assistance program requirements, availability of
+                      food, childcare, and transportation, and meeting time or location convenience.
+                  •   Provide culturally inclusive outreach and educational information in multiple languages and formats with
+                      accurate translations.
+                  •   Design educational opportunities for multiple audiences and ages and seek opportunities to integrate
+                      county efforts with community initiatives (i.e. cultural arts, youth, community organization, or school
+                      programs).
+                  •   Help create a healthier environment and community. [GHG, RES]
+
+14.2.2   Policy   14.2.2 Evaluate Comprehensive Growth Management Plan amendments, and associated plans, policies,
+                  and development regulations with the primary criteria of the climate element requirements in RCW
+                  36.70A.070(9), where proposed actions are evaluated for whether or not they:
+                  a) result in a reduction in greenhouse gas emissions generated by transportation and land use within
+                     unincorporated Clark County without increasing greenhouse gas emissions elsewhere in the state;
+                  b) result in reductions in per capita vehicle miles traveled within unincorporated Clark County without
+                     increasing greenhouse gas emissions elsewhere in the state;
+                  c) enhance resiliency to climate change impacts in human communities and ecological systems; and
+                  d) benefit overburdened communities by maximizing the cobenefits of: reduced air pollution, environmental
+                     justice, and reduced disparities from compounding environmental impacts. [GHG, RES]
+
+14.2.3   Policy   14.2.3 The following environmental justice related goal and policies in the Chapter 1 – Land Use Element
+                  help support this goal and are also considered Climate Element policies: 1.6, 1.6.1, 1.6.2, 1.6.3, 1.6.4, 1.6.5.
+                  [GHG, RES]
+
+
+
+
+                                                        Page 55 of 71
+14.3     Goal     14.3: Ensure the most vulnerable county residents do not bear disproportionate impacts from climate
+                  change by protecting community health and well-being from the impacts of climate-exacerbated hazards
+                  and prioritizing focus on overburdened communities. [RES]
+14.3.1   Policy   14.3.1 Implement policies under this goal in collaboration with community-based organizations and in
+                  consultation with Tribes to engage with vulnerable communities to design and implement approaches that
+                  meet overburdened community needs, including but not limited to: linguistically and culturally appropriate
+                  information; safe options for undocumented residents; approaches for recent immigrants or refugees;
+                  approaches for people who rent housing or do not have housing; approaches for people with physical or
+                  developmental disabilities, physical or mental health conditions that put them at higher risk to climate
+                  impacts; ensuring information is available in key languages and through appropriate formats and platforms,
+                  etc. [RES]
+
+14.3.2   Policy   14.3.2 Evaluate and implement habitat reduction and population control for arthropod disease vectors (e.g.,
+                  mosquitos and ticks) and zoonotic disease reservoirs (e.g., rodents) using integrated pest-management
+                  methods. Incentivize property managers to address pests and mold in housing, and to manage indoor and
+                  outdoor pests without the use of toxic chemicals that harm human or environmental health. [RES]
+
+14.3.3   Policy   14.3.3 Promote ways to protect the health and wellbeing of outdoor workers exposed to extreme heat and
+                  other climate-exacerbated hazards including, but not limited to: compliance with Washington State (Labor &
+                  Industries) legislation health and wellbeing protections related to severe weather and providing training on
+                  ways to protect the health and wellbeing of outdoor workers and indoor workers who lack access to cooling
+                  in extreme heat. [RES]
+
+14.3.4   Policy   14.3.4 Improve access to resiliency and mitigation information by implementing a hazard mitigation
+                  communication program (i.e., retro-fit information, fire-wise strategies, etc.), in collaboration with partner
+                  agencies and schools, to support public outreach and education as well as other climate action items.
+                  Incorporate teaching how and where to sign-up for advisory alerts related to hazards such as poor air
+                  quality/smoke, heat, etc. [RES]
+
+14.3.5   Policy   14.3.5 Develop a comprehensive data- and community-based assessment framework to identify the needs
+                  of people who are most vulnerable to climate change-exacerbated hazards (e.g., people who are houseless,
+                  elderly, undocumented, socially isolated, have health conditions or disabilities that put them at higher risk to
+
+
+
+
+                                                        Page 56 of 71
+                  climate impacts, or live in high-risk areas) and take action to improve the adaptive capacity and resilience of
+                  at-risk communities. [RES]
+
+14.3.6   Policy   14.3.6 Develop resilience hubs — community-serving facilities that are designed to support and connect
+                  residents, coordinate communication, distribute resources, and reduce carbon pollution while enhancing
+                  quality of life.
+                  •   Resilience hubs (or hubs) can be regularly open locations and/or emergency centers during and after an
+                      extreme weather event or emergency.
+                  •   Collaborate with community organizations to develop hubs.
+                  •   Prioritize establishing hubs in underserved and overburdened areas.
+                  •   Establish a task force to help the county plan the resilience hub network, such as identifying locations
+                      and critical hub needs.
+                  •   Address the distinct hub needs in urban and rural areas.
+                  •   Consider the location of hubs outside of hazard-prone areas and easily accessible to the community.
+                  •   Create spaces that feel safe, are linguistically and culturally inclusive, and serve a full spectrum of ages,
+                      from youth to elders.
+                  •   Hubs could serve many purposes to build community resilience and design should be thoughtfully
+                      considered. For instance, hubs could serve as places to organize community connection, skill-building,
+                      reciprocity and mutual aid type initiatives in addition to connecting with government-supported
+                      resources. [RES]
+
+14.4     Goal     14.4: Establish and maintain on-going consultation with the Cowlitz Indian Tribe, regional Tribal
+                  governments, and culturally-specific groups on climate resilience efforts. [RES]
+14.4.1   Policy   14.4.1 Consult with the Cowlitz Indian Tribe, regional Tribal governments, and culturally-specific groups on
+                  projects to identify important sites and resources in the county that are threatened by impacts of climate
+                  change. The county shall recognize and respect that Tribes may not wish to share the location of certain sites
+                  and resources. [RES]
+14.4.2   Policy   14.4.2 Consult with the Cowlitz Indian Tribe, regional Tribal governments, and culturally-specific groups on
+                  projects to develop culturally appropriate climate adaptation, community education, and emergency
+                  response strategies. [RES]
+
+
+
+
+                                                        Page 57 of 71
+14.4.3   Policy   14.4.3 Ensure that cultural resources and practices — are resilient to the impacts of climate change
+                  including significant historic sites, culturally important traditional foods such as salmon, and natural
+                  resources. Resources and sites include those meaningful to the original inhabitants of Clark County. [RES]
+14.5     Goal     14.5:   Promote holistic and resilient local food economies. [RES]
+14.5.1   Policy   14.5.1 Expand local food security and the food-related economy to address climate impacts by increasing
+                  access to healthy, affordable, pesticide-free foods that can be sustainably produced under projected future
+                  climate conditions. [RES]
+14.5.2   Policy   14.5.2 Take steps to preserve existing agriculture by prioritizing the infrastructure that keeps the existing
+                  agriculture operationally sustainable, including education, research, and technology, such as cold storage
+                  facilities, development of programs that support food transportation, and showcasing education, research
+                  and technology resources. [RES]
+14.5.3   Policy   14.5.3 Support relocation of food distribution nodes located in hazard-prone areas to protect from future
+                  damage, repetitive and severe repetitive loss. [RES]
+14.5.4   Policy   14.5.4 Establish sustainable and climate resilient "agricultural production" areas, corridors, or
+                  neighborhood networks, to focus and coordinate food transportation, distribution, and other resources.
+                  [GHG, RES]
+14.5.5   Policy   14.5.5 Develop a comprehensive food access and availability plan based on “agricultural production” areas
+                  and local and regional food networks for food sales and distribution, such as farmers' markets, farm stands,
+                  food hubs, food banks, and neighborhood food pantries that can be easily accessed throughout the county
+                  year-round and if there are climate disruptions to food delivery systems. [RES]
+14.5.6   Policy   14.5.6 Promote and support public and private food-producing gardens, market farms, and urban
+                  agriculture at homes, apartments, and community spaces to improve reliability of food access during
+                  emergencies, severe weather, and throughout the year. Partner with Washington State University Extension
+                  to encourage community participation. [RES]
+14.5.7   Policy   14.5.7 Develop and implement "The Right To Food" policies and strategies for Clark County that support
+                  community-wide access to sufficient nutritious food. This right ensures equitable access to enough high
+                  quality food in the county under a variety of climate emergency scenarios and year round. [RES]
+14.5.8   Policy   14.5.8 Enhance food waste prevention and diversion programs throughout the food system. Prioritize
+                  increasing food security for low-income and food-insecure residents and supporting farmers. [GHG, RES]
+
+
+
+
+                                                        Page 58 of 71
+14.5.9    Policy   14.5.9 Collaborate with community partners on public education for household and business food waste
+                   reduction strategies. Education should be implemented in multiple languages, in multiple formats, and in
+                   culturally inclusive ways in collaboration with schools and community organizations. Approaches that are
+                   practical in multifamily housing complexes should be addressed. [GHG]
+14.5.10   Policy   14.5.10         The following policies in Chapter 3 – Rural and Natural Resource Element help support this
+                   goal and are also considered Climate Element policies: 3.1.1, 3.1.3, 3.1.5, 3.3.4, 3.5.1, 3.5.2, 3.5.6, and 3.5.9.
+                   [RES]
+14.6      Goal     14.6: Promote holistic, regenerative, and sustainable agriculture and landscaping community-wide that
+                   provides high quality food while reducing greenhouse gas emissions and improving resilience to changing
+                   environmental conditions. [GHG, RES]
+14.6.1    Policy   14.6.1 Facilitate collaboration with community partners to provide support for low- or zero-greenhouse gas
+                   emitting farming and landscaping equipment rental, repair, and access, including equipment shares. [GHG]
+14.6.2    Policy   14.6.2 Seek funding for programmatic grants and incentives to reduce agriculture and landscaping related
+                   greenhouse gas emissions associated with fertilizer and amendments through use of natural fertilizers,
+                   improved fertilizer management, use of native species in landscaping, and manure management, such as
+                   promoting methane capture from manure. [GHG]
+14.6.3    Policy   14.6.3 Collaborate with partner agencies to expand community-wide education on regenerative and
+                   sustainable agricultural practices, including: soil health, carbon sequestration, cover crops, agro-forestry,
+                   permaculture, crop diversity, seasonal eating, water storage, and water conservation strategies, etc. [GHG,
+                   RES]
+14.6.4    Policy   14.6.4 Reduce barriers to agriculture throughout Clark County such as by: providing regenerative and
+                   sustainable agriculture education, increasing access to urban agriculture (including urban farms, market and
+                   community gardens), supporting farmer-friendly long-term leases and programs that facilitate land
+                   purchases for new farmers, supporting incubator spaces, promoting living wage agriculture jobs and farmer
+                   succession planning, and other efforts as coordinated through the Clark County Agricultural Advisory
+                   Commission. [GHG, RES]
+14.6.5    Policy   14.6.5 Support conservation programs, research, technical assistance, and resources that provide direct or
+                   indirect financial assistance to farmers, whether they lease or own land, to implement best management
+                   practices that address impacts of climate change. An example of this includes, but is not limited to: helping
+                   farmers access relevant grants and small business loans. [RES]
+
+
+
+
+                                                         Page 59 of 71
+14.7     Goal     14.7: Connect outdoor recreation to public health. Improve access to green spaces, parks, and
+                  recreational areas, which provide opportunities for physical activity, stress reduction, and social connection,
+                  contributing to overall health and well-being, while also mitigating urban heat island effects and enhancing
+                  resilience to extreme weather events. [RES]
+14.7.1   Policy   14.7.1 The following policies in Chapter 7 - Parks, Recreation, and Open Space Element are also considered
+                  Climate Element policies: 7.3.1, 7.3.3, 7.3.4, 7.4.1, 7.4.2, 7.4.3, and 7.5.1. [RES]
+14.8     Goal     14.8: Promote long-term economic development and job generating activities that will improve
+                  environmental quality and climate resilience. [GHG, RES]
+14.8.1   Policy   14.8.1 Support development of a local, diverse green workforce by facilitating opportunities for "green jobs"
+                  with a focus on job-creation within communities most impacted by climate hazards. Examples of green job
+                  fields include, but are not limited to: designing, installing and maintaining green infrastructure or
+                  renewable/clean energy infrastructure; sustainable building and landscaping; responding to severe weather
+                  events; urban and rural ecosystem management; restoration; natural resource management; stewardship;
+                  outdoor and environmental education; agriculture; and food systems.
+
+                  County green workforce development initiatives must:
+                  •   Prioritize job programs for communities experiencing high barriers to employment;
+                  •   Be culturally and linguistically inclusive;
+                  •   Be designed and implemented in collaboration with community based organizations, businesses, and
+                      public-sector agencies;
+                  •   Prioritize professional growth pathways, such as worker to owner; and
+                  •   Consider the full range of options for how the county can help, including but not limited to supporting or
+                      facilitating: apprenticeship programs, "second chance" programs, training and skill development
+                      programs, opportunities for reskilling, career counseling, grant programs to support new innovative green
+                      business opportunities, etc. [GHG, RES]
+
+14.8.2   Policy   14.8.2 Support local businesses' efforts to bolster climate preparedness and continuity of operations.
+                  Encourage continuing education, skills upgrading, mentoring and lifelong learning programs suitable for large
+                  and small employers. Prioritize support for businesses owned by members of vulnerable populations and
+                  serving overburdened communities. [RES]
+
+
+
+
+                                                       Page 60 of 71
+14.8.3   Policy   14.8.3 Promote local economic, industrial, and residential development to support a circular economy that
+                  increases demand for reused and recycled materials and reduces demand for new raw materials and their
+                  embodied carbon emissions. [GHG]
+14.9     Goal     14.9: Protect and plant more trees in rural and urban areas and equitably increase tree canopy cover
+                  through targeted planting and maintenance support. [GHG, RES]
+14.9.1   Policy   14.9.1 Implementation of policies under this goal must:
+                  • Be designed in collaboration with community partners such as community based organizations, Tribes,
+                      and partner agencies;
+                  • Include culturally inclusive and accessible community engagement;
+
+                  Policies under this goal should:
+                  •   Link with other efforts, such as those related to job creation, workforce development, conservation, and
+                      education initiatives; and
+                  •   Include opportunities for homeowners, landowners, and renters to create habitat dispersal corridors and
+                      connectivity. [GHG, RES]
+14.9.2   Policy   14.9.2 Develop and adopt a tree plan and implementing ordinance to maximize planting and protection of
+                  trees in alignment with best practices and relevant state and federal laws.
+                  The tree plan must:
+                  •   Establish community-wide tree canopy cover targets and tree equity goals.
+                  •   Include strategies to address tree loss from development and other site altering activities, extreme heat,
+                      drought, wildfire, extreme precipitation and storms, diseases, pathogens, pests, and other tree stressors.
+                  •   Include sustainable strategies to build climate resilience, carbon sequestration, ecosystem and
+                      watershed health.
+                  •   Prioritize benefits to overburdened communities.
+                  •   Align with tree requirements in the county’s Phase 1 Municipal Stormwater Permit and all applicable laws
+                      and regulations, including but not limited to: RCW 76.09 Forest Practices Act and associated rules and
+                      RCW 36.70A Growth Management Act and associated rules. [GHG, RES]
+
+14.9.3   Policy   14.9.3 Expand and seek funding for tree planting, tree maintenance, invasive species management, and
+                  reforestation activities through both County-led and community-led activities. [GHG, RES]
+
+
+
+
+                                                       Page 61 of 71
+14.9.4    Policy   14.9.4 Ensure new tree plantings are the "right species" in the "right places." Prioritize planting diverse and
+                   resilient vegetation that provides building shading, and reduces heat in urban heat islands and overburdened
+                   communities, and removal of invasive species. "Right species" and "right place" is not prescriptive and can
+                   be defined differently in different neighborhoods, etc. with community input. [GHG, RES]
+14.9.5    Policy   14.9.5 Establish, enhance, and maintain policies that support diverse tree plantings, greenspaces, and
+                   gardens in new urban and rural developments. Examples of policy mechanisms could include: a
+                   conservation credit system for developers; tree, habitat, or garden "banking" systems; conservation
+                   easements or land trust approaches; cluster lot and planned unit development approaches. Policies need to
+                   address both initial development and long-term maintenance. [GHG, RES]
+14.10     Goal     14.10: Increase, enhance, and protect County-owned plantings and greenspaces. [GHG, RES]
+14.10.1   Policy   14.10.1        Expand youth environmental volunteer opportunities and service learning through tree
+                   planting and green space stewardship opportunities. These programs must be available in multiple
+                   languages for multiple audiences and ages and in multiple formats, culturally relevant and inclusive of the
+                   county's diverse population. [GHG, RES]
+14.10.2   Policy   14.10.2         Enhance, expand, protect, and maintain County-owned greenspace and tree canopy, while
+                   providing opportunities for community engagement and stewardship around green space. Assess tree
+                   canopy on county-owned properties and set tree canopy targets for county-owned green spaces. Identify and
+                   plan to protect legacy forests in county owned spaces. Increase plantings that provide shade in urban heat
+                   islands and overburdened communities, help to stabilize soils, improve soil health, and sequester carbon.
+                   Plant food forests in accessible, appropriate locations. [GHG, RES]
+14.10.3   Policy   14.10.3          In greenspace tree planting and restoration efforts, choose a diverse selection of native
+                   drought- and pest-resistant trees, shrubs, perennials, and grasses to support climate resilience; and remove
+                   invasive species. Implement in collaboration with community based organizations and seek opportunities to
+                   link with other efforts, such as those related to job creation, workforce development, conservation, food
+                   security, and education initiatives. [GHG, RES]
+14.10.4   Policy   14.10.4        The following Parks, Recreation, and Open Space Element policy is considered a Climate
+                   Element policy that helps achieve this goal: 7.4.1. [RES]
+14.10.5   Policy   14.10.5       Collaborate with schools, public and private community based organizations to seek funding
+                   to expand educational awareness and volunteer engagement opportunities to foster pride in and knowledge
+
+
+
+
+                                                        Page 62 of 71
+                   of the County system of parks and natural spaces. Develop programs that teach the value of trees and
+                   natural areas, and about greenspace creation, maintenance, and health. [GHG, RES]
+14.11     Goal     14.11: Promote regenerative and sustainable forestry practices community-wide. [GHG]
+14.11.1   Policy   14.11.1         Expand the county forestry team and work with other local agency forestry departments,
+                   universities, and community organizations to promote and provide education on sustainable and ecosystem-
+                   based forestry practices, stewardship, and maintenance in the urban and rural unincorporated areas,
+                   including practices such as fire management, salvage logging, biodiversity conservation, invasive species
+                   and pest management, and edible forests, etc. [GHG]
+14.11.2   Policy   14.11.2         Strongly advocate to the state legislature and Washington State Department of Natural
+                   Resources to prohibit clear-cutting on forested lands, protect legacy and old growth trees, and avoid the use
+                   of pesticides. [GHG]
+14.11.3   Policy   14.11.3       Utilize the Washington State Department of Natural Resources Reconveyance of State
+                   Forestlands and Trust Land Transfer programs where possible. [GHG]
+14.12     Goal     14.12: Improve public awareness of environmental topics including native plant varieties, benefits, and care;
+                   ecosystem functions; water quality and watershed functions; climate science; conservation; human
+                   relationships to nature, and ways to reduce an individual’s personal carbon footprint. [GHG, RES]
+14.12.1   Policy   14.12.1          Develop education programs targeting all communities and age groups, from youth to the
+                   elderly, that build resilience by increasing understanding of environmental processes, challenges,
+                   stewardship strategies, human-nature connections such as impacts on mental health, and ways to reduce
+                   an individual’s personal carbon footprint. County-sponsored education and information programs should:
+                   use multiple methods to share information, such as social media and billboards, be culturally and
+                   linguistically inclusive, and involve collaboration with community partners and schools. [GHG, RES]
+14.13     Goal     14.13: Reduce vehicle trips and miles viewed through an equity lens within the county through changes to
+                   land use, transportation infrastructure (transit, walking, bicycling, rolling), and commuting options/modes.
+                   [GHG]
+14.13.1   Policy   14.13.1          The following Land Use, Housing, and Transportation Element policies support reducing
+                   vehicle miles traveled and are also considered Climate Element policies: 1.3.2, 1.3.3, 1.4.1, 1.4.2, 1.4.3,
+                   1.4.4, 1.4.5, 1.4.6, 1.4.7, 1.4.8, 1.4.9, 1.4.10, 1.4.11, 2.1.3, 2.1.4, 2.1.5, 2.1.6, 2.2.3, 2.2.7, 2.2.8, 2.3.2, 5.1.3,
+                   5.1.4, 5.2.2, 5.2.3, 5.2.4, 5.2.5, 5.3.1, 5.3.2, 5.3.4, 5.3.5, 5.3.7, 5.3.8, 5.3.9, 5.3.10, 5.3.11, 5.3.12, 5.3.13,
+                   5.4.2, 5.5.6, 5.6.2, 5.6.3, 5.7.1, 5.7.2, 5.7.3, 5.7.4, 5.7.5, 5.7.6, 5.7.7, 5.10.3, and 5.10.4. [GHG, RES]
+
+
+
+
+                                                            Page 63 of 71
+14.14     Goal     14.14: Reduce emissions for County-owned vehicles to zero [GHG]
+14.14.1   Policy   14.14.1           Enforce green fleet policies to convert County-owned vehicles and equipment to electric,
+                   hybrid, or hydrogen (replace as phasing out old vehicles/equipment), and encourage carpooling for County
+                   staff on official business. Until the fleet is fully converted, the County shall replace diesel fuel stations with
+                   renewable diesel. [GHG]
+14.14.2   Policy   14.14.2         Install publicly accessible electric vehicle (EV) chargers at all county properties. [GHG]
+14.15     Goal     14.15: Encourage resilient development within the unincorporated urban growth area and away from areas
+                   that are prone to climate-related hazards such as flooding and wildfire. [RES]
+14.15.1   Policy   14.15.1       Incorporate climate resilience goals, policies, and regulations (as appropriate) into all Clark
+                   County planning documents (Clark County Natural Hazard Mitigation Plan, Shoreline Master Program, Parks,
+                   Recreation & Open Space Plan, etc.). [RES]
+14.15.2   Policy   14.15.2          Plan and build new facilities, utilities, and infrastructure projects to avoid or withstand
+                   flooding, wildfires, landslides and associated climate impacts (e.g., changing floodplains). [RES]
+14.15.3   Policy   14.15.3         Where appropriate, support retrofitting, relocation, or acquisition from willing property
+                   owners of structures located in hazard-prone areas to protect structures from future damage, with repetitive
+                   and severe repetitive loss as a priority. Seek to leverage partnerships within the planning area in these
+                   pursuits. [RES]
+14.15.4   Policy   14.15.4        The following policies also help support this goal: 1.5.1, 1.5.2, 4.2.4, 4.2.5, 4.2.8, 4.2.9, 4.12,
+                   4.12.1, and 4.12.2. [RES]
+14.16     Goal     14.16: Promote energy efficient buildings [GHG, RES]
+14.16.1   Policy   14.16.1        Policies under this goal must prioritize:
+                   • Helping low-income and overburdened households and businesses improve energy efficiency to save
+                       money and improve indoor comfort and health;
+                   • Removing barriers to access benefits by making initiatives accessible to people living in unincorporated
+                       Clark County regardless of language spoken, immigration status, disability, or whether someone rents or
+                       owns a household dwelling, building, or commercial space. (An example of removing a barrier includes
+                       providing an appliance discount instead of an approach requiring payment in full before receiving a
+                       rebate); and
+
+
+
+
+                                                          Page 64 of 71
+                   •   Careful coordination with utility partners to support and complement existing programs and avoid
+                       duplication of efforts. [GHG, RES]
+
+14.16.2   Policy   14.16.2        Collaborate with local utilities and partner agencies to promote free and low cost options for
+                   energy audits and performance standards for commercial and residential properties. [GHG]
+14.16.3   Policy   14.16.3        Collaborate with local utilities and community based organizations to support programs that
+                   provide weatherization, energy efficiency upgrades, and heat capture for commercial and residential
+                   buildings. [GHG, RES]
+14.16.4   Policy   14.16.4        Incentivize energy efficient building design, including passive building principles. [GHG, RES]
+14.16.5   Policy   14.16.5      Support the best available technology improvements for:
+                   • Residential and commercial heating and cooling equipment, such as heat pumps; and,
+                   • Other types of residential and commercial building equipment and appliances. [GHG, RES]
+
+14.16.6   Policy   14.16.6         Collaborate with existing service providers to pick up at a reduced cost and properly dispose
+                   of aging appliances to support replacement. [GHG]
+14.16.7   Policy   14.16.7          Collaborate with community based organizations, utilities, and additional partners to provide
+                   free culturally and linguistically appropriate public education on energy efficiency products, how to optimize
+                   using them, and opportunities for operational cost savings. [GHG]
+14.17     Goal     14.17: Promote a just approach to increasing clean, renewable, and diverse building energy options in
+                   unincorporated Clark County to achieve net zero greenhouse gas emissions. [GHG, RES]
+14.17.1   Policy   14.17.1       Implementation of policies under this goal shall: consider various scales of projects (utility-
+                   scale, community-scale, and household scale), prioritize benefits for people who rent housing or commercial
+                   space and households and businesses with limited income, avoid causing harm in overburdened
+                   communities, and involve community education and feedback. [GHG, RES]
+14.17.2   Policy   14.17.2        Promote self-reliance and community capacity to respond to emergencies, such as with
+                   distributed energy resources and energy management systems, microgrids, and virtual power plants. [RES]
+14.17.3   Policy   14.17.3        Pursue innovations to expand and improve accessibility to a diversity of clean renewable
+                   energy options. Renewable energy resources are defined in RCW 54.04.190. Clean renewable energy
+                   includes renewable resources that have low or zero greenhouse gas emissions.
+                   Examples include but are not limited to:
+
+
+
+
+                                                        Page 65 of 71
+                   •   Collaborate with Northwest Natural and Clark Public Utilities on utility-led decarbonization plans and
+                       renewable energy programs
+                   •   Remove barriers for renewable energy in site and building design
+                   •   Facilitate efficient siting of renewable energy development
+                   •   Facilitate the development of community-owned, small-scale renewable energy generation projects
+                   •   Advance pilot projects to test emerging and heritage technologies and collect community feedback on
+                       projects to inform next steps
+                   •   Facilitate learning opportunities from projects in other communities [GHG]
+
+14.17.4   Policy   14.17.4        Incentivize new construction to be "future-ready" through incorporation of design elements
+                   that support building owners and renters to easily adapt to changing energy needs, preferences, and
+                   conditions over time, such as considerations for: future electricity demand, electric vehicle charging, onsite
+                   renewable energy and battery storage, connection to thermal energy networks and other new energy options,
+                   etc. [GHG]
+14.17.5   Policy   14.17.5         Provide communitywide education about building energy choices to support informed
+                   consumer decision-making, including but not limited to:
+                   • Building energy options (for example: information on the options available),
+                   • Energy decarbonization pathways (for example: information on pathway options, opportunities, and
+                       challenges), and,
+                   • Energy efficiency (for example: information on the options, emerging technology, and available
+                       incentives).
+
+                   Educational offerings must include: cost, resilience and greenhouse gas emissions reduction effectiveness,
+                   environmental justice, and co-benefits information related to the topic covered. [GHG]
+14.18     Goal     14.18: Reduce building energy emissions for County owned and operated buildings and facilities to net zero
+                   [GHG]
+14.18.1   Policy   14.18.1        Audit County buildings and facilities to identify and prioritize weatherization and energy
+                   efficiency upgrades and retrofits that are needed or provide cost savings (as well as consolidate buildings
+                   and relinquish unused space). [GHG]
+
+
+
+
+                                                        Page 66 of 71
+14.18.2   Policy   14.18.2        Develop and implement a county building greenhouse gas emissions reduction plan to reduce
+                   county building energy use to net zero greenhouse gas emissions. Align equipment upgrades with
+                   maintenance and replacement schedules. [GHG]
+14.18.3   Policy   14.18.3        Integrate clean renewable energy sources and backup infrastructure where feasible into
+                   building energy/operations. [GHG]
+14.18.4   Policy   14.18.4       Purchase renewable energy certificates if needed as a supplement to reduce county
+                   operations emissions to zero while prioritizing measures that directly reduce emissions. [GHG]
+14.19     Goal     14.19: Promote green building and sustainable building practices [GHG]
+14.19.1   Policy   14.19.1         Implementation of policies under this goal shall remove barriers for green building practices,
+                   prioritize benefits for renters, low income households, and populations more vulnerable to negative health
+                   outcomes from climate change and air pollution, and shall support local workforce professional
+                   development in the green building field, particularly for communities experiencing barriers to employment.
+                   [GHG]
+14.19.2   Policy   14.19.2        Collaborate with communities and agencies to adopt a county green building policy that
+                   incorporates learnings from the City of Vancouver and other existing examples. [GHG]
+14.19.3   Policy   14.19.3        Incentivize green building programs, including, but not limited to: certifications for new
+                   construction, operational affordability standards, green building practices and adaptive reuse of existing
+                   buildings. [GHG]
+14.19.4   Policy   14.19.4        Facilitate sustainable building education opportunities for communities and professionals in
+                   the county in collaboration with partner organizations.
+                   Examples of sustainable building education topics include, but are not limited to:
+                   •   Climate adaptive and resilient design;
+                   •   Net-zero building examples; and,
+                   •   Regenerative building approaches. [GHG, RES]
+
+14.20     Goal     14.20: Promote accessible waste reduction, composting, and recycling community-wide to reduce solid
+                   waste greenhouse gas emissions and support a more resilient and resourceful community. [GHG, RES]
+14.20.1   Policy   14.20.1          Accessible waste management includes, but is not limited to: communicating about
+                   initiatives in multiple languages, in multiple formats, and in culturally relevant ways in collaboration with
+
+
+
+
+                                                         Page 67 of 71
+                   schools and community organizations. Approaches that are practical in multifamily housing complexes shall
+                   also be addressed. [GHG]
+14.20.2   Policy   14.20.2        Improve access to composting of yard debris and food waste throughout urban and rural
+                   Clark County through curbside, drop-off, and at home options. [GHG]
+14.20.3   Policy   14.20.3        Incentivize commercial and household composting and waste reduction. [GHG]
+14.20.4   Policy   14.20.4       Provide outreach, education, and technical assistance to households and businesses, and
+                   advocacy to the state on improving access to and participation with recycling and composting to encourage
+                   behavior change, including County-led programs and community-based programs. [GHG]
+14.20.5   Policy   14.20.5        Repurpose organic waste for compost, energy, or other practical purposes (such as an input
+                   for renewable natural gas or providing compost to farmers). This policy must be implemented through
+                   approaches that reduce greenhouse gas emissions and do not worsen air quality. [GHG, RES]
+14.20.6   Policy   14.20.6        Where possible, enhance capacity or programs for removing and composting of solid waste
+                   and large vegetative debris in the aftermath of a storm or other severe weather event. [RES]
+14.21     Goal     14.21: Reduce waste emissions associated with County purchases. [GHG]
+14.21.1   Policy   14.21.1        Review, revise if needed, and implement the county’s environmentally responsible
+                   purchasing policy and guidelines, including prioritization guidelines for purchasing low carbon construction
+                   materials, sustainable packaging, and local goods. [GHG]
+14.22     Goal     14.22: Encourage using less and support a local maintenance, repair, reuse and resale economy for
+                   household and business items [GHG]
+14.22.1   Policy   14.22.1        Policies under this goal related to education and community programs should be designed to
+                   be accessible to any county resident or business, regardless of language, income, or culture. County
+                   provided education should be available in multiple languages, in multiple formats, and in culturally inclusive
+                   ways in collaboration with schools and community organizations. [GHG]
+14.22.2   Policy   14.22.2       Sustain existing goods reuse and repair programs, and sponsor events and programs led by
+                   the County, businesses and community that improve the demand for reused and recycled goods and
+                   materials. [GHG]
+14.22.3   Policy   14.22.3        Provide accessible public education on household and business maintenance, repair and
+                   reuse strategies, as well as the benefits of purchasing used goods. [GHG]
+
+
+
+
+                                                        Page 68 of 71
+14.22.4   Policy   14.22.4         Develop a local pollution surcharge -- for large producers of air pollutants, wastewater, and
+                   solid waste that cannot be reused or recycled -- which may be used to fund complementary environmental
+                   resilience projects in overburdened communities. [GHG, RES]
+14.23     Goal     14.23: Effectively implement Climate Element policies. [GHG, RES]
+14.23.1   Policy   14.23.1          Develop and maintain county government staff members' capacity, technical expertise, and
+                   skills related to climate change and environmental justice so as to improve countywide policy
+                   implementation, equity, and resilience. [GHG, RES]
+14.23.2   Policy   14.23.2        Establish a clear and coordinated approach for organizing implementation of Climate
+                   Element policies across county departments, including a designated department for leading implementation
+                   coordination and designated staff across departments to lead implementation of specific policies. [GHG,
+                   RES]
+14.23.3   Policy   14.23.3          Develop Climate Element priority policies and greenhouse gas emissions inventory updates in
+                   alignment with the mandatory 5-year Department of Commerce Climate Element monitoring and reporting
+                   schedule. For each 5-year cycle, identify implementation successes and barriers to progress to help inform
+                   priorities for the next 5-years. [GHG, RES]
+14.23.4   Policy   14.23.4        Reduce unincorporated Clark County greenhouse gas emissions and county operations
+                   emissions to net-zero by the year 2050 with incremental targets as follows, where percent reductions are
+                   based on a 2022 baseline:
+                   •   45% reduction by 2030;
+                   •   57.5% reduction by 2035;
+                   •   70% reduction by 2040;
+                   •   85% reduction by 2045; and,
+                   •   100% reduction by 2050. [GHG]
+
+14.24     Goal     14.24: Improve resilience of county operations to hazards exacerbated by climate change. [RES]
+14.24.1   Policy   14.24.1         Strengthen and build redundancy into infrastructure, prioritizing areas that may be socially or
+                   physically isolated from supportive services. [RES]
+14.24.2   Policy   14.24.2         Consider climate impacts when planning county response operations including public works
+                   road clearing strategies during and after severe weather events, and Sheriff’s Office operations during severe
+                   weather. [RES]
+
+
+
+
+                                                         Page 69 of 71
+COMMUNITY FRAMEWORK PLAN
+NUMBER   TYPE     PROPOSED AMENDMENT
+
+F                 FRAMEWORK POLICIES
+F1.1.1   Policy   1.1.1 Urban Growth Area Centers (UGA) have a full range of urban level-of-services and can be divided into
+                  three main categories in the following density tiers:
+                  •   Vancouver Urban Growth Area is now or will be a major urban area activity centers with a full range of
+                      residential, commercial and industrial uses, high-capacity transit (HCT) corridors, schools, major cultural
+                      and public facilities. Major urban areas centers, have or will have, urban densities of development of at
+                      least 8 units per net residential acre (6 gross units per acre) as an overall average. Areas along high
+                      capacity transit corridors and priority public transit corridors may have higher than average densities
+                      while other areas would have lower densities (e.g. established neighborhoods and neighborhoods on the
+                      fringes of the urban area). Regional institutions and services (government, museums, etc.) should be
+                      located in the urban core.
+                  •   Urban Growth Areas of Battle Ground, Camas, Ridgefield and Washougal will have a full range of
+                      residential, commercial and industrial uses, schools, neighborhood, community and regional parks,
+                      within walking distance to HCT corridors or public transit. These areas will have employment
+                      opportunities and lower densities than a major urban area centers, averaging at least 6 units per net
+                      residential acre. (4.5 gross units per acre). Higher densities occur along transit corridors and in the
+                      community center, with lower densities in established neighborhoods and on the outskirts of the
+                      community. These urban growth areas centers should have a center focus that combines commercial,
+                      civic, cultural and recreational uses.
+                  •   La Center Urban Growth Areas of La Center and Woodland will have predominantly residential usesis
+                      located in a growing area with at least 4 housing units per net residential acre (3 gross units per acre) and
+                      includes pedestrian-oriented commercial uses, schools and small parks.
+                  •   There are no standards for the Yacolt urban growth area due to lack of public sewer. A mix of residential
+                      uses and densities are or will be permitted. Neighborhoods are to have a focus around parks, schools, or
+                      common areas.
+
+                  RATIONALE: PROPOSE REMOVING SPECIFIC UGA DENSITY TARGETS TO ALIGN WITH SHIFT TO
+                  USING ZONING DENSITY ASSUMPTIONS PROPOSED BY THE JURISDICTIONS AND USED IN THE
+
+
+
+                                                        Page 70 of 71
+                  VACANT BUILDABLE LANDS MODEL (VBLM). MORE SPECIFIC POLICIES ARE INCLUDED IN THE
+                  LAND USE CHAPTER COUNTYWIDE PLANNING POLICIES RELATED TO THE NEW APPROACH.
+F1.2.0   Policy   1.2.0 Establish consistent regional criteria to determine the size of urban growth areas for the 20-year
+                  comprehensive plans that:
+                  • Aassume the need for a residential market factor – lands added to the amount called for in the population
+                  forecast to build in flexibility;
+                  • include a household size of 2.59 people per householdconsistent with the Department of Commerce’s
+                  Housing for All Planning Tool (HAPT);
+                  •   conserve designated agriculture, forest or mineral resource lands;
+                  •   utilize innovative programs, including the transfer of development rights;
+                  •   ensure an adequate supply of buildable land;
+                  • have the anticipated financial capability to provide infrastructure/services needed for the 20-year growth
+                  management population projections; and,
+                  •   balance industrial, commercial and residential lands.
+
+                  RATIONALE: COMMERCE’S HAPT INCLUDES A 2045 PERSONS PER HOUSEHOLD SIZE FOR
+                  EACH COUNTY, BY REMOVING REFERENCE TO THE NUMBER IT WOULD NOT HAVE TO BE
+                  AMENDED WITH EVERY UPDATE. THE EDIT REGARDING INNOVATIVE PROGRAMS, INCLUDING
+                  TRANSFER OF DEVELOPMENT RIGHTS WAS IN ALIGNMENT WITH THE SUGGESTION BY THE
+                  CITIES OF RIDGEFIELD, LA CENTER, AND CAMAS REGARDING AN EQUIVALENT COUNTYWIDE
+                  PLANNING POLICY IN THE LAND USE CHAPTER. NOTE: THE TECHNICAL COORDINATING
+                  COMMITTEE DID NOT REACH FULL CONSENSUS ON THIS AMENDMENT.
+
+
+
+
+                                                        Page 71 of 71
+
