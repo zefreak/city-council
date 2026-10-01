@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 35 — through the 25 Sep evening run: Clark County Council Time 30 Sep (NACo SAVE Act letter — worth supporting; Chair Marshall drafting an unpublished "cluster development on resource lands" comp plan amendment; Philbrook Farms flagged on title alone). Comp plan hearing brief updated with Commerce's 22 Sep final letter (existing UGAs sufficient) and a **correction**: Commerce itself recommended separating TDR from UGA expansion, which earlier briefs omitted. TDR deferred to an early-2027 round table. Hearing 1 Oct 4pm remains the headline |
+| Briefs written | 38 — through the 30 Sep evening run: Vancouver Council 5 Oct (initiatives resolution hearing; HB 1491 on consent, exemption map left administrative; budget appendix assumes SHARE Talkin' Trash contract ends June 2027; scofflaw boot/tow code, $100 of fines → $643.52). Comp plan hearing brief updated with Councilor Little's decoupled TDR amendment, Appendix O (no dollar figures) and 2–3× traffic impact fees. 13 Oct Planning Commission listed "Cancelled" with an uncancelled agenda |
 
 ## Layout
 

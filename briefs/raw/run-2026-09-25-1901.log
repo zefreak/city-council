@@ -5,3 +5,33 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-09-25-digest.md
 [19:01:59] digest written: /home/scottr/research/city-council/briefs/raw/2026-09-25-digest.md
 [19:01:59] invoking claude (model=opus)
+I wrote the briefs and rebuilt the page, then committed and pushed (`079bbbe..ffa7c76 main -> main`), so the page is live. The notification summary is written to `briefs/raw/.last-bottom-line.txt`.
+
+**Bottom line:** the state's final comment letter on Clark County's comp plan (Department of Commerce, 22 September) says *"the current urban growth area boundaries are sufficient for the projected population increases."* It recommends taking the de-designated farmland out of the Camas, La Center and Ridgefield expansions unless the need is shown. Written comment on the whole plan stays open until the hearing on Thursday 1 October at 4pm.
+
+**What was new in this digest.** Most meetings in it were already briefed. The new material:
+- **Clark County Council Time, 30 Sep** (new brief, `briefs/2026-09-30-clark-county-council-time.md`):
+  - **Item 5.2** is a blank template letter from the National Association of Counties asking Senators to oppose the SAVE America Act, the federal proof-of-citizenship voter registration bill. It's genuinely good and worth a supportive three-minute comment; you must name item 5.2.
+  - **The 23 Sep minutes** show Chair Marshall added "Cluster Development on Resource Lands" the morning of that meeting and is drafting a comp plan amendment on it. No text is published and the direction isn't recorded. It could surface at the 1 Oct hearing without ever going through the Planning Commission.
+- **The 1 Oct hearing brief** is updated with:
+  - Commerce's final letter, including its request to break housing capacity out by income above 50% AMI.
+  - The Camas and Ridgefield replies. These are the strongest case *for* the expansions, and the brief sets them out fairly.
+  - The Council's decision to defer the farmland-offset (TDR) programme to a round table in early 2027, after the plan is adopted.
+  - The 2 Oct continuation's separate WebEx number: 2481 727 6548.
+  - A note that the hearing agenda's header wrongly says "Tuesday".
+- **Vancouver:** the 5 Oct agenda is still unpublished (0 items). The 28 Sep meeting is still the community forum only.
+
+**Correction.** The 23 Sep Council Time brief and the hearing brief treated the County's promise of a TDR policy "separate from urban growth expansion" as the County weakening it. They left out that Commerce itself asked for that separation, because TDR "is not intended to be used as a mechanism to expand UGA Boundaries." Correction notes are now in both briefs and on the page. The stronger ask is now Commerce's own remedy: drop the de-designated farmland from the expansions, rather than restore the offset.
+
+**What I could not check:**
+- What "Philbrook Farms" (item 5.1) is. There's no attachment, and web search was denied permission in this run.
+- The NACo figures in the SAVE template, and the claim that the House defence bill carries the Act.
+- The cluster amendment text.
+- David Toyer's 23 Sep TDR letter, which both cities cite but which isn't published.
+- La Center's reply to Commerce, which isn't in the compiled city responses.
+- The 2027 legislative item, which has no attachment.
+- Exhibits 2 and 3 of the comp plan package: I only searched them for "cluster" and didn't read them in full.
+[19:06:42] claude exited rc=0
+notify-hook: taskwarrior task 4 created/updated
+[19:06:42] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:06:43] === run complete

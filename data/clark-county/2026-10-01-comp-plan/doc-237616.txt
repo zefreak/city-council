@@ -1,0 +1,1937 @@
+1    CHAPTER 2
+2    Housing Element
+3    Introduction
+ 4   The purpose of the Housing Element is to identify the need for and mechanisms that will lead to
+ 5   the construction and preservation of decent housing for all economic segments of the Clark
+ 6   County population. Regionallywide in orientation, the Housing Element addresses needs
+ 7   throughoutall of Clark County. It sets policy direction for lands under county government
+ 8   jurisdiction, is coordinated to the greatest extent possible with housing policies developed by
+ 9   cities and towns within greater Clark County, and provides practical implementation guidance.
+10   The need for mechanisms to ensure a variety of housing prices and neighborhood designs is
+11   discussed as well as the types of housing that should be available in the future.
+
+12   Relationship to other elements and plans
+13   The Housing Element of the 20-Year Plan builds upon principles and policies established in earlier
+14   county comprehensive plans. Earlier plans discussed housing primarily in light of its land use
+15   implications. This plan addresses housing in broader terms, reaching beyond land use patterns and
+16   densities to discuss issues such as affordability, special needs, and community character, and
+17   racially disparate impacts and displacement.
+18
+19   The Housing Element also builds upon principles and policy direction provided by the Countywide
+20   Planning Policies and the Community Framework Plan. These policies, developed through an
+21   extensive public participation process, are intended to provide long-term, overall guidance for
+22   Clark County and its cities in developing the Housing Element for the 20-Year Plan.
+23
+24   RCW 36.70A.070 outlines GMA climate change and resiliency requirements. Chapter 14 –
+25   Climate Element contains most climate change and resilience policies in the Comprehensive Plan,
+26   but other elements also include climate policies. Climate-related goals and policies within this
+27   element are noted in the goals and policies section of this chapter. See Chapter 14 for a
+28   comprehensive discussion of climate policies, some of which overlap with housing.
+
+29   CLARK COUNTY/CONSOLIDATED HOUSING AND
+30   COMMUNITY DEVELOPMENT PLAN
+31   The Housing Element of the 20-Year Plan has a relationship to the Clark County Consolidated
+32   Housing and Community Development Plan (HCD). Each jurisdiction that receives assistance from
+33   the US Department of Housing and Urban Development (HUD) is required to prepare a plan that
+34   addresses the needs for low-income people. Clark County recently completed a five-year
+35   HCDConsolidated plan for 2015-2019 20250-20294 which is designed to:
+
+36      •   provide an assessment of housing, homeless, and community development needs in Clark
+37          County;
+38      •   Provide an analysis of the housing market;
+
+                                                     1
+ 1       •   identify resources and key players;
+ 2       •   develop strategies and goals to ensure affordable housing and decent living environments
+ 3           for person who earn 80-percent or less of the area’s median income ($58,800 for a family
+ 4           of four – HUD 2015 data), including homeowners, renters, the elderly, families, people
+ 5           with special housing needs and people who are homeless;
+ 6       •   develop strategies and prioritize goals to ensure support for programs and facilities that
+ 7           promote viable communities and address community development, infrastructure and
+ 8           human service needs of urban and rural areas; and
+ 9       •   Develop an annual action plan and descriptive method for distribution of CDBG and
+10           HOME funds and to carry out activities in support of this strategic plan for the first year of
+11           the Five-Year planning period.
+12       •   report the annual use of HUD entitlement funds.
+13
+14   The Housing Element uses many of the statistics and needs assessments prepared in the
+15   HCDConsolidated Plan. Implementation of the policies in the Housing Element through
+16   ordinances and programs will assist in meeting needs identified in the HCDConsolidated Plan.
+17
+18   Special needs populations, such as people who are homeless, people at risk for homelessness, the
+19   frail/elderlyolder adults, single parents, physically disabled, victims of domestic abuse, veterans,
+20   chronically mentally ill, developmentally disabled, migrant farm workers and persons living with
+21   HIV/AIDS or chemical addictions are addressed in both the Housing Element and the
+22   HCDConsolidated Plan.
+23
+24   Housing affordability is a key component within the Growth Management legislation. Housing
+25   affordability will be affected by policies adopted in the other elements including transportation,
+26   public facilities, utilities, open space and recreation, land use and (for the county only) rural lands.
+27   Likewise, the pattern and density of housing development will affect the cost to the county; to
+28   local utilities to extend services such as water lines, sewer lines, transit service, fire protection,
+29   etc.; and, ultimately, to the businesses and residents of Clark County in user fees and taxes.
+30
+31   Updates of the county zoning ordinance, land division ordinance, Transportation Impact Fee (TIF),
+32   and Parks Impact Fee (PIF), Schools Impact Fee (SIF), and Fire Impact Fee (FIF) ordinances and
+33   new ordinances and programs created as a result of this planning process, will implement the goals
+34   and policies established in the Housing Element. These land use and development ordinances are
+35   prepared by the respective municipal jurisdictions and should be reviewed for compatibility with
+36   the plan.
+
+37   Housing Element requirements
+38   The Growth Management Act of 1990 (GMA), as amended, per RCW 36.70A.070(2) and WAC
+39   365-196-410, requires that 20-Year Comprehensive Plans have a housing element ensuring the
+40   vitality and character of established residential neighborhoods that:
+
+41       •   Recognizes the vitality and character of established residential neighborhoods;
+42       •   Includes an inventory and analysis of existing and projected housing needs that identifies
+43           the number of housing units necessary to manage projected growth and includes units for
+
+
+
+
+                                                         2
+ 1           moderate, low, very low, and extremely low-income households; and emergency housing,
+ 2           emergency shelters, and permanent supportive housing 1;
+ 3       • Includes a statement of goals, policies and objectives for the preservation, improvement
+ 4           and development of housing, including single-family residences, and within an urban
+ 5           growth area boundary, moderate density housing options including, but not limited to
+ 6           duplexes, triplexes, and townhomes;
+ 7       • Identifies sufficient capacity of land for housing, including, but not limited to, government
+ 8           assisted housing, housing for moderate, low, very low and extremely low-income
+ 9           familieshouseholds, manufactured housing, multifamily housing, and group homes,
+10           emergency housing, emergency shelters, permanent supportive housing and foster care
+11           facilities; and
+12       • Makes adequate provisions for existing and projected needs of all economic segments of
+13           the community, including: (i) Incorporating considerations for low, very low, extremely
+14           low, and moderate-income households; (ii) Documenting programs and actions needed to
+15           achieve housing availability including gaps in local funding, barriers such as development
+16           regulations, and other limitations; (iii) Consideration of housing locations in relation to
+17           employment location; and (iv) Consideration of the role of accessory dwelling units in
+18           meeting housing needs.
+19       • Identifies local policies and regulations that result in racially disparate impacts,
+20           displacement, and exclusion in housing, including: (i) Zoning that may have a
+21           discriminatory effect; (ii) Disinvestment; and (iii) Infrastructure availability.
+22       • Identifies and implements policies and regulations to address and begin to undo racially
+23           disparate impacts, displacement, and exclusion in housing caused by local policies, plans,
+24           and actions.
+25       • Identifies areas that may be at higher risk of displacement from market forces that occur
+26           with changes to zoning development regulations and capital investments.
+27       • Establishes antidisplacement policies, with consideration given to the preservation of
+28           historical and cultural communities as well as investments in low, very low, extremely low,
+29           and moderate-income housing; equitable development initiatives; inclusionary zoning;
+30           community planning requirements; tenant protections; land disposition policies; and
+31           consideration of land that may be used for affordable housing.
+32   The Procedural Criteria for Adopting Comprehensive Plans and Development Regulations for the
+33   Act further specify that the Housing Element of the 20-Year Plan (WAC 365-195-310) shall, at a
+34   minimum, contain:
+
+35       •   An inventory and analysis of existing and projected housing needs;
+36       •   A statement of the goals, policies and objectives for the improvement, preservation and
+37           development of housing;
+38       •   Identification of sufficient land for housing, including but not limited to, government
+39           assisted housing, housing for low income families, manufactured housing, multifamily
+40           housing and group homes and foster care facilities; and
+
+
+     1
+      See Appendix N for the land capacity analysis and breakdown of housing need by income band and by
+     zoning.
+                                                        3
+ 1      •   Adequate provision for existing and projected housing needs of all economic segments of
+ 2          the community.
+
+ 3   The Act and its Procedural Criteria provide the legislative framework for preparation of the
+ 4   Housing Element.
+
+ 5   Organization of the element
+ 6   The Housing Element consists of three sections: the Background and Existing Conditions section
+ 7   including statistics supporting the county's Housing Element. It summarizes existing conditions
+ 8   and information in Clark County and focuses on inventory data, which support the policy
+ 9   orientation on growth management; 2) the Goals and Policies section, on an issue by issue basis,
+10   presents a comprehensive set of goals and policies to guide the implementation of the plan; and 3)
+11   the Strategy section consists of a set of planning strategies related to housing in Clark County. See
+12   the Consolidated PlanHCD for additional information on county housing issues.
+
+13   Background and existing conditions
+14   The housing needs of Clark County are determined by the characteristics of its existing and
+15   projected population (age, household size, income, special needs, etc.), when compared to the
+16   characteristics of the existing and expected housing supply (size, cost, condition, etc.). Clark
+17   County is expected to add approximately 128, 586190,754 people or 48,340103,698 households
+18   over the next twenty years. The issue facing local governments is where to direct this growth
+19   given environmental constraints and the cost of providing public services and how to ensure that a
+20   range of housing types and prices are available.
+21
+22   Much of the data contained in this section comes from the HCDConsolidated Plan prepared by
+23   Clark County Department of Community Services, and the Housing Inventory and Analysis: Clark
+24   County Unincorporated Vancouver Urban Growth Area which was issued in March 2021 in
+25   conjunction with the Housing Options Study and Action Plan.
+26
+27   The HCDConsolidated Plan is required under the Cranston-Gonzalez National Affordable
+28   Housing Act of 1990. All jurisdictions eligible for funding under this act and wishing to participate
+29   in the program are required to prepare a plan identifying the different types of housing needed in
+30   the community and setting priorities for addressing them.
+31
+32   This report also contains data from the U.S. Bureau of the Census for 1990, 2000 and 2010the
+33   years 2016 – 2020, as provided . Between the 2000 and 2010 census, data was being collected
+34   through the American Community Survey (ACS). Some of the data previously collected in the
+35   decennial census was no longer being asked in the long form decennial census and was only
+36   available through the ACS. This makes comparison to previous decennial census information a
+37   challenge. The ACS data provided in this report is primarily of the 5-year survey which is more
+38   reliable than the 1-year or 3-year survey. In addition to the Consolidated Plan and the ACS, data
+39   from the Housing Inventory and Analysis (HIA) report as contained within the larger Housing
+40   Options Study and Action Plan is also referenced herein. The HIA’s purpose is to summarize
+41   quantitative analysis and qualitative information collected through stakeholder interviews to
+42   paint a picture of current housing issues in the unincorporated portion of the Study Area. The
+43   findings in this report provide a coherent analysis of housing supply, demand, needs, and
+44   preferences throughout the Study Area to provide context for evaluating potential actions.
+
+                                                       4
+1    POPULATION
+2    Table 2.1 shows the population trends of the cities and unincorporated areas of Clark County
+3    from 1990 2010 to 202015. There has been a significant increase in the overall population of the
+4    county in the last two and a half decades15 years. Clark County population has increased
+5    approximately 90 percent in population since 1990 with a 30 18 percent increase since 20100,
+6    based on the decennial census.
+
+7    Table 2.1 | Population Trends in Clark County, 19980-20215 2
+                Area                 1990             2000             2010             2015        2020             2025
+         Clark County                238,053          345,238          425,363          451,820     503,311         542,400
+         Unincorporated              173,844          166,305          203,339          214,585     233,048         245,750
+         Incorporated                 64,209          178,933          220,024          237,235     270,263         296,650
+         Battle Ground                 3,758            9,322           17,571           19,250      20,743          22,790
+         Camas                         6,798           12,534           19,355           21,210      26,065          27,970
+         La Center                       483            1,654            2,800            3,100       3,424           4,270
+         Ridgefield                    1,332            2,147            4,763            6,400      10,325          16,290
+         Vancouver                    46,380          143,560          161,791          170,400     190,915         205,100
+         Washougal                     4,764            8,595           14,095           15,170      17,039          18,360
+         Woodland 3                       94               92               83               85          84              85
+         Yacolt                           600            1,055             1,566          1,620        1,668            1,785
+ 8   Sources: OFM Forecasting, State of Washington web site. The 2010, 2014 and 2015 population numbers are based on April 1, 2020
+ 9   estimates. Note: * The portion of the City of Woodland population that resides in Clark County.
+10
+11   This growth has occurred in both unincorporated areas and in cities. The unincorporated areas
+12   had a 23 percent increase in population since 1990 and 15% of the overall increase occurring
+13   between 2010 and 2020a 4.4 percent decrease between 1990 and 2000. This decrease is in large
+14   part due to a large annexation of previously developed unincorporated Clark County into
+15   Vancouver in 1997. Incorporated areas of the county grew substantially in the past twenty
+16   fivefifteen years, increasing by 269 percent since 1990, and 33 23 percent since 201000. By
+17   204535, the county anticipates a population increase of 128,586190,754 or a 36 42 percent
+18   increase over the 20150 census count of 425,363451,820with estimating a total population of
+19   577,431718,154.
+
+20   AGE
+21   Table 2.2 shows the changes in the distribution of the age of the county’s population since 1990.
+22   The data shows the largest population group for 20120 are childrenpersons aged 0-1920-39
+23   (122,255130,267). Persons aged 40-59 were the next largest group (120,008130,003). Clark
+24   County's population continues to be family households with children. Housing policy should make
+25   efforts to address the needs of this significant population.
+
+
+
+
+     2
+      Sources: OFM Forecasting, State of Washington web site. The 2010, 2020 and 2025 population numbers are based on April 1, 2020
+     estimates.
+     3
+         The portion of the City of Woodland population that resides in Clark County.
+
+                                                                         5
+1    Table 2.2 | Age Distribution of Clark County Residents, -1990-20102010-2020 4
+             Age           1990          2000         2010          2020         % Change         % Change
+                                                                                  1990-           2002010 -
+                                                                                  20200            20210
+         0-19              74,164      108,037      123,429         129,915       46%75%               145%
+         20-39             75,080       97,649      108,959         130,267        30%4%              1220%
+         40-59             54,623       95,130      120,008         130,003      74%138%               268%
+         60-85+            34,186       44,422       72,967         113,126      30%231%              5055%
+         Total           238,053       345,238      425,363         503,311      45%111%              2318%
+2    Source: U.S. Bureau of the Census; Office of Program Planning and Fiscal Management,
+3    Corrected 1990 Population by County by 5-Year Age Groups, State of Washington. April, 2000.
+4
+5    Comparing percentage change data provides insight into future growth trends. The largest
+6    percentage increase occurred in the 60-85+ group, reflecting the aging of the baby boomer
+7    generation. This trend will continue and require more attention be paid to the housing needs of an
+8    aging population. Young adults may find themselves increasingly pushed out of Clark County's
+9    market, compared to persons aged 40-59 who may have more financial ability to pay for housing.
+
+10   RACE AND ETHNICITY
+11   According to the 20210 U.S. Census, the total minority population represents 1527 percent
+12   (44,747136,584) of the county's population, up from 157 percent in 20101990. The
+13   HCDConsolidated Plan (2025-2029) contains information on special populations and their
+14   housing needs in 2000. It reviewed the percentage of minority persons in each census tract and
+15   found no concentrations of minority persons in any one area of the county. In recent years, there
+16   has been an influx of immigrants from Eastern Europe and Russia into Clark County. These new
+17   residents, while not racial minorities, are a distinct ethnic community. Their housing needs are
+18   being met by the private market, although they may require assistance adjusting to their new
+19   communities. Table 2.3 shows the distribution of population by race in Clark County in 1990 2000
+20   and 20200. From 2000 to 2010, the Hispanic population in Clark County also substantially
+21   increased from 4.7 percent (16,248) to 7.6 percent (32,166).
+
+22   Table 2.3 | Clark County Population by Race and Ethnicity 5
+                                                                          % of County                          % of County
+                                                    Total Persons         Population           Total Persons   Population
+                         Race and Ethnicity             2000                 2000                  2010           2010
+                       White                          306,648                89.0%               363,397          85.4%
+                       Black                            5,813,                1.7%                  8,426          2.0%
+                       Native American                   2,910                0.8%                  3,624          0.9%
+                       Asian/Pacific                   12,369                 3.6%                20,212           4.7%
+                       Islander*
+                       Two or More Races                 10,641                 3.1%              17,219           4.0%
+                       Hispanic                          16,248                 4.7%              32,166           7.6%
+                       Other Race                         6,857                 2.0%              12,485           2.9%
+                       Total**                          345,238                100%              425,363          100%
+23
+
+     4
+         Source: U.S. Bureau of the Census; Office of Program Planning and Fiscal Management
+     5
+         Source: U.S. Bureau of the Census, 2020 Decennial Census.
+
+                                                                           6
+              Race and                 Total              % of              Total              % of                 Total         % of
+              Ethnicity               Persons           County             Persons           County                Persons      County
+                                       2000            Population           2010            Population              2020       Population
+                                                         2000                                 2010                               2020
+         White                     306,648              89.0%            363,397             85.4%            366727           72.86%
+         Black                       5,813               1.7%              8,426              2.0%             10850            2.16%
+         Native                      2,910               0.8%              3,624              0.9%              3051            0.61%
+         American
+         Asian/Pacific                 2,369              3.6%            20,212               4.7%            29,037           5.77%
+         Islander 6 *
+         Two or More                 10,641               3.1%            17,219               4.0%            32,320           6.42%
+         Races
+         Hispanic                      6,248              4.7%            32,166               7.6%            58,790          11.68%
+         Other Race                    6,857              2.0%            12,485               2.9%             2,536           0.50%
+         Total 7**                 345,238               100%            425,363              100%            503,311           100%
+1    Source: U.S. Bureau of the Census. * Native Hawaiian and Other Pacific Islander were separated from Asian in 2010 and accounts for
+2    .6% of total (2,708) persons **Hispanic is considered ethnicity, not a separate race category and is not included in total percentage.
+
+
+3    HOUSEHOLDS
+4    A household is includes all of the people living in one housing unit, whether or not they are related.
+5    A single person renting an apartment is a household, just as is a family living in a single-family
+6    house. The number and type of households in a community can indicate the housing needs of that
+7    community. Table 2.4 gives historic information on the numbers of households in Clark County
+8    and each of its cities. As is the case with population, most of the household growth has occurred in
+9    incorporated communities over the past 20 since 2010years.
+
+10   Table 2.4 | Number of Households in Clark County, 1980-20101990-2020 8
+                Jurisdiction/Area                  1990           2000            2010             2020            % Change    % Change
+                                                                                                                    1990-       2010 -
+                                                                                                                     2020        2020
+         Total Clark County                       88,571         127,208          167,413          195036           120.20%       16.50%
+         Total Incorporated Clark                 26,630          69,129           91,915          110468           314.83%       20.18%
+         County
+         Total Unincorporated Clark               61,941          58,079           75,498            84568            36.53%      12.01%
+         County
+         Battle Ground                             1,341           3,071            5,952             7449          455.48%       25.15%
+         Camas                                     2,438           4,480            7,072             9234          278.75%       30.57%
+         La Center                                   129             552              981             1248          867.44%       27.22%
+         Ridgefield                                  441             739            1,695             3688          736.28%      117.58%
+         Vancouver                                20,135          56,638           70,005            81809          306.30%       16.86%
+
+
+     6
+         Native Hawaiian and Other Pacific Islander were separated from Asian in 2010 and accounts for .6% of total (2,708) persons
+     7
+         Hispanic is considered ethnicity, not a separate race category and is not included in total percentage.
+     8
+         Source: Intercensal Estimates of Housing Units, Washington State Office of Financial Management.
+
+
+                                                                           7
+                Jurisdiction/Area           1990          2000           2010            2020         % Change      % Change
+                                                                                                       1990-         2010 -
+                                                                                                        2020          2020
+         Washougal                           1,898          3,294            5,673            6444     239.52%        13.59%
+         Woodland (part)                        49             46               53              55      12.24%         3.77%
+         Yacolt                                199            319              484             541     171.86%        11.78%
+
+1
+                                                                                                Change          Change
+                      Jurisdiction/Area              1990         2000            2010         1990-2000       2000-2010
+              Total Clark County                     88,571       127,208         167,413         +38,637       ++40,205
+              Total Incorporated Clark County        26,630        69,129          91,915         +42,499        +22,786
+              Total Unincorporated Clark             61,941        58,079          75,498          -3,862        +17,419
+              County
+              Battle Ground                           1,341          3,071            5,952        +1,730         +2,881
+              Camas                                   2,438          4,480            7,072        +2,042         +2,592
+              La Center                                 129            552              981         +423           +429
+              Ridgefield                                441            739            1,695         +298           +956
+              Vancouver                              20,135         56,638           70,005       +36,493         13.367
+              Washougal                               1,898          3,294            5,673        +1,396         +2,379
+              Woodland (part)                            49             46               53            -3             +7
+              Yacolt                                    199            319              484         +120           +165
+2          Source:U.S. Bureau of the Census.
+3
+4    The county's growth patterns will change as a result of adopting this plan to implement the GMA.
+5    Household growth, like population growth, will be directed to cities or urban growth areas which
+6    will eventually be annexed to cities. If growth patterns in the future are similar to those of the
+7    past, households in rural areas will be larger on average than those in urban areas, by
+8    approximately 10 percent. Table 2.5 shows the county’s household growth patterns since
+9    19801990.
+
+10   Table 2.5 Household Characteristics in Clark County, 1980- 20101990 - 2020 9
+         Year        Total           Persons          Senior           Non-Senior
+                   Households          Per          Households         Households
+                                    Household
+         1980           68,750             2.76           11,086              57,664
+         1990           88,571             2.66           15,243              73,328
+         2000          127,208             2.69           23,131             104,077
+         2010          158,099             2.67           35,395             122,704
+         2020          178,478             2.68           52,580             125,898
+11                          Source: U.S. Bureau of the Census and Washington Office of Financial Management.
+
+
+12   INCOME
+13   The relationship of household income to housing prices is the main factor affecting the ability of
+14   Clark County's residents to secure adequate housing. Table 2.6 compares median household
+
+     9
+         Source: U.S. Bureau of the Census and Washington Office of Financial Management.
+                                                                   8
+1    incomes for Clark County and each of the cities. Median income is defined as the mid-point of all of
+2    the reported incomes; that is, half the households had higher incomes and half the households had
+3    lower incomes than the mid-point, with the county median household income very similar to the
+4    statewide average.
+
+5    Table 2.6 | Median Household Incomes in Clark County, 1990- 20102000-2020 10
+          Jurisdiction/Area      2000             2010             2020            % Change      % Change
+                                                                                  2000-2020     2010-2020
+      Total Clark County          $48,376         $58,262           77,184          60%              32%
+      Battle Ground               $45,070         $57,134           89,626          99%              57%
+      Camas                       $60,187         $77,334           99,917          66%              29%
+      La Center                   $55,333         $71,522           96,151          74%              34%
+      Ridgefield                  $46,012         $76,295          102,508          123%             34%
+      Vancouver                   $41,618         $48,875           70,385          60%              44%
+      Washougal                   $38,719         $61,121           89,608          131%             47%
+      Yacolt                      $39,444         $53,452           76,429          94%              43%
+      Washington State            $45,776         $57,244           77,006          68%              35%
+6
+
+                                                                                     Change
+                          Jurisdiction/Area          2000              2010         2000-2010
+                         Total Clark County          $48,376            58,262            20%
+                         Battle Ground               $45,070            57,134            27%
+                         Camas                       $60,187            77,334            28%
+                         La Center                   $55,333            71, 522           29%
+                         Ridgefield                  $46,012            76,295            65%
+                         Vancouver                   $41,618            48,875            17%
+                         Washougal                   $38,719            61,121            58%
+                         Yacolt                      $39,444            53,452            35%
+                         Washington State            $45,776            57,244            25%
+ 7                             Source: U.S. Bureau of the Census
+ 8
+ 9   The definitions of extremely low, very low and moderate-income households are established by
+10   the U.S. Department of Housing and Urban Development (HUD). These terms are based on a
+11   percentage of the area's median household income for a family of four. They are used to evaluate
+12   income levels in Clark County. Table 2.7 shows the numbers of households in each income
+13   category for 201000 and 202012.
+14
+
+15   Table 2.7A | Households by Income Group in Clark County, 2000 – 20122016-2020 11
+                                                                                              2000 2012
+
+
+16
+
+
+
+
+     10
+          Source: U.S. Bureau of the Census
+     11
+          Source: 2016-2020 Comprehensive Housing Affordability Strategy (CHAS)
+                                                                   9
+                         Income Group                          2016-2020           Percent of       2016-2020#          2016-2020
+                                                                 Owner            Total 2016-       Households        Percent of Tota
+                                                               Households         2020 Renter       (Combined)
+      Extremely low income (<= 30% HAMFI)Very                  7,97026,90         11,74523%         33,71519,71          21%11%
+      Low Income (Less than 50% of median)                          2                                    5
+      Very Low Income (>30 to <= 50% HAMFI) Low                9,59521,97         10,18516%         19,78028,97          18%11%
+      Income (50% to 80% of median)                                 0                                    0
+      Low Income (>50% to <=80% HAMFI)                         20,07510,9           16,125%         36,20017,61             20%
+      Moderate Income* (81% to 95% of median)                      66                                    0
+      Moderate Income* (>80% to <=100% HAMFI)                  14,24567,4          6,96553%         21,21078,07          50%12%
+      Middle and Upper Income* (More than 95% of                   22                                    0
+      median)
+      Middle and Upper Income* (>100% HAMFI)                      70,665             16,605            87,270               47%
+
+1    Table 2.7B | Households by Income Group in Clark County, 2000 – 20122016-2020 12
+                                     Median Income**$48,376
+                                          $70,786$77,184
+ 2            Source: 2008-2012 Comprehensive Housing Affordability Strategy (CHAS). * 2008-2012 CHAS data for moderate income
+ 3            parameter changed to >80% to <=100 HUD Adjusted Median Family Income (HAMFI); Middle and Upper Income is >100%
+ 4            HAMFI ** 2008-2012 CHAS data uses estimates of median family income for the Portland-Vancouver-Hillsboro, OR-WA
+ 5            Metropolitan Statistical Area (MSA)
+ 6
+ 7   Extremely low-income households include households whose incomes are 30% of median and
+ 8   below. Very low-income households are those whose incomes are less than 50 percent of the
+ 9   area's median family income. In 202000, a family of four making between $14,51330,994 and $24,
+10   18851,657 fell into this category for a total of 26,90239,495 households or 223 percent. For
+11   2012, a family of four making less than $35,393 fell into this category. This represents a two
+12   percent decrease in the number of families with very low incomes between 2000 and 2012
+13   butThis constitutes more than one-fifth of the county's households. Low-income households are
+14   those whose incomes are between 50 percent and 80 percent of the area's median family income.
+15   A family of four making between $24,18851,656 and $38,70182,650 fell into this category. There
+16   were 21,97036,200 households (16 approximately 20 percent of the total) that were defined as
+17   low income in20200. In 2012, a family of four making between $35,393 and $56,629 fell into this
+18   category for a total of 28,970 households, or 18 percent. This represents a two percent increase in
+19   the number of families with low incomes between 2000 and 2012. Together, in 2012 low income
+20   and very low-income households constituted 39 percent of the county's households.
+21
+22   Moderate-income households are those whose incomes are between 80 percent and 10095
+23   percent of the area's median family income. In 20200, a family of four making between
+24   $31,80082,650 and $103,31348,376 fell into this category. There were 10,96621,210
+25   households (approximately 128percent of the total) that were defined as moderate income in
+26   202000. In 2012, a family of four making between $57,337 and $70,786 fell into this category.
+27   This represents a 3 percent increase in the number of moderate-income families between 2000
+28   and 2012. Together, in 202012 moderate, low and very low-income households constituted over
+29   50 percent of Clark County’s households.
+
+
+     12
+          Source: 2016-2020 Comprehensive Housing Affordability Strategy (CHAS)
+                                                                 10
+ 1   PERCENT OF INCOME SPENT ON HOUSING
+ 2   HUD defines housing cost burden as the extent to which gross housing costs, including utility
+ 3   costs, exceed 30 percent of gross income, based on data published by the U.S. Census Bureau. This
+ 4   is the threshold at which the cost of housing typically becomes a burden. At this point the money
+ 5   available for other necessary expenses such as food and medical care is reduced.
+ 6
+ 7   Generally, upper income households can afford a higher percentage of income for housing than
+ 8   can lower income households. The percentage of income spent on housing increases as income
+ 9   decreases. The lowest income households are, therefore, most likely to be overpaying for housing
+10   relative to their income and in need of assistance.
+11
+12   The HCD Consolidated Plan notes that between 20002015 and 20122020, the median home
+13   value increased from $153,100234,800 to $254,200391,700, a 6640% increase. During the same
+14   time period, the median contract rents increased from $6061,026 to $1,375773 per month; a
+15   2834% increase 13. The mMedian sale prices are still increasing faster than wages in the county.
+16   This means that more and more people are being priced out of the market. Based on the projected
+17   increases in housing costs, new housing could be unaffordable to extremely low, very low, low
+18   income and moderate-income households of Clark County.
+
+19   SPECIAL HOUSING NEEDS
+20   Some people in Clark County need modified housing units or special services in order to live
+21   independently. Other people require living in a group home or institutional environment. While
+22   some of these people will have the resources to take care of their needs, many will not. The HCD
+23   Consolidated Plan identified these special housing needs populations in Clark County and made
+24   recommendations for serving those needs.:
+
+25   PHYSICALLY CHALLENGED PERSONS
+26         •   Physically Challenged: The US Census Bureau, 2010-20142015 - 2020 ACS 5-year
+27             estimate identifies approximately 34,60333,101 noninstitutionalized people under the
+28             age of 64 have a disability, mobility and/or self-care limitations.
+29         •   Frail Elderly: The 2015 – 2020 ACS indicates thatIn 2012, 37 33 percent of Clark County
+30             seniors report having a disability (ACS 2010-2012).
+31         •   Developmentally Disabled: As of 20152021, the Clark County Department of Community
+32             Services estimates that there are approximately 7,9269,060 persons (1.71.8 percent of
+33             the 2020 county population) with developmental disabilities in the county. As of
+34             20152021, there are 2,3733,122 individuals known to the state Developmental
+35             Disabilities Administration who are eligible to receive state funded services. (see
+36             Developmental Disabilities Comprehensive Plan 2010-20142021-2025)
+37
+38   The majority of the housing needed for physically challenged persons is among the elderlyolder
+39   adults. These people may need special housing with ramps instead of stairs, elevators for units
+40   with two or more stories and modified facilities. The federal Americans with Disabilities Act (ADA)
+41   of 1990 requires changes to building and zoning codes thatto improve access for disabled persons.
+
+     13
+          Per the Washington Center for Real Estate Research website (County Dashboard – Real Estate
+     Research)
+                                                        11
+ 1   These codes will apply to new construction and to major rehabilitation or remodeling of existing
+ 2   units.
+ 3
+ 4   Experience in states which have had similar legislation for the past decade indicates that
+ 5   adaptations to ensure accessibility and mobility for the disabled add less than $1,000 on average
+ 6   to the cost of new multi-family housing. It, notably, is more expensive and not always possible to
+ 7   modify an existing unit for handicapped accessibility. Older units, particularly older multi-family
+ 8   structures, are very expensive to retrofit for disabled occupants because space is rarely available
+ 9   for modifications such as elevator shafts, ramps and widened doorways. Much of the existing
+10   multi-family housing (traditionally the more affordable housing) cannot economically be modified
+11   to meet the needs of disabled residents.
+
+12   SENIOR CITIZENS
+13   Senior citizens are defined as people over age 652, according to the US Census, and. The elderly
+14   are generally considered a special needs group because of the high correlation between age and
+15   disability. Also, many older adultsseniors live on a fixed income, and. They cannot afford higher
+16   rents. and iIf they own their own home, they may not be able to afford the cost of increasing taxes
+17   or maintenance. A fixed income also may not permit them to rent a new apartment in a new facility
+18   that would provide them with a full range of care services.
+19
+20   In 202010, there were 48,71074,453 senior citizens living in Clark County. Of which, 88 70
+21   percent (33,00252,004) of senior citizens live in family households headed by people over age 65 -
+22   Table 2.8. Another 2624 percent (12,60418,142) live alone and 4 percent (2,960) live with non-
+23   relatives. At least 2 percent (1,1721,347) of the senior citizens live ingroup quarters (e.g. nursing
+24   or retirement homes) and 4 percent (1,932) live with family or friends.
+25
+
+26   Table 2.8 | Senior Citizens Housing Arrangements in Clark County, 202000 14
+             Household Type             Total Numbers   Percent of
+                                          of Persons      Total
+      Family Household                   33,00252,004        6870
+      Non-Family Households              14,53621,102        3028
+      Living Alone                       12,60418,142          24
+      Group Quarters                       1,1721,347           2
+      Total                              48,71074,453         100
+27             Source:   U.S. Bureau of the Census
+28
+29   The population of elderly residents is increasing and will continue to increase through the end of
+30   the decade. In addition, people are living longer and the number of people over 75 is increasing.
+31   Currently tThe 202010 census reports that there are 55,192 persons over the age of 75 living in
+32   Clark County, an increase of 20,62834,564 persons, a 167% increase from as recorded in the
+33   2010 censusover the age of 75 living in Clark County. The majority of the elderly populations
+34   prefer to live independently in family units or alone. This population would be well served by a
+35   variety of housing types that lend themselves to smaller, affordable and accessible rental and
+
+
+     14
+          Source: U.S. Bureau of the Census, 2016-2020 American Community Survey 5-Year Estimates
+                                                            12
+1    housing units. Elderly persons who live with family or friends might benefit from zoning provisions
+2    that allow for another, smaller unit to be built on single-family lots.
+
+3    HOMELESS PERSONS
+ 4   HUD defines "homeless" as those persons or families which "(1) lack a fixed, regular and adequate
+ 5   nighttime residence; or (2) Individual or family who will imminently lose their primary nighttime
+ 6   residence; (3) Unaccompanied youth under 25 years of age, or families with children and youth,
+ 7   who do not otherwise qualify as homeless under this definition; and, (4) any individual or family
+ 8   who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking,
+ 9   or other dangerous or life-threatening conditions and has no other residence, and lacks the
+10   resources or support networks to obtain other permanent housing. 15whose nighttime residence is
+11   a public or private emergency shelter, an institution that provides temporary residence for
+12   individuals intended to be institutionalized, or a public or private place not designed for, or
+13   ordinarily used as, a regular sleeping accommodation for human beings." This definition does not
+14   include persons forced to live with friends or relatives, in unsafe or inappropriate housing. This
+15   definition also excludes recently homeless persons who are in transitional housing programs but
+16   have not yet attained housing self-sufficiency.
+17
+18   The Council for the Homeless notes in the 2023 Homeless Crisis Response System Report that the
+19   fastest growing groups of homeless persons in Clark County are categorized as Black, Indigenous
+20   and People of Color (BIPOC), representing 42% of the people who were homeless.two parent
+21   families with children, single women with children, single persons and older adults. The Emergency
+22   Shelter ClearinghouseCouncil for the Homeless operates a referral hotline from 9:00 am until
+23   8:00 pm seven days a week to refer homeless persons to available shelter.
+24
+25         Families with Children: This is one of Clark County's largest un-housed populations. Both
+26         single and two parent families are sheltered in all except one shelter facility on a space
+27         available basis. Most shelters allow a 30-day stay.
+
+28         Youths: Of the 8,752 people who experienced homelessness in Clark County in 2023, 737
+29         were Youth ages 12-17, and 735 were Young Adults ages 18-24. Combined that means 16% of
+30         people experiencing homelessness in 2023 were aged 12–24.Southwest Washington had no
+31         community-based services to help homeless and runaway at-risk youth and their families,
+32         which led to the opening of the area’s first-ever emergency shelter in 1996. The Oak Bridge
+33         and Oak Grove Youth shelters assist more than 385 youth in crisis every year.Domestic
+34         Violence: There is currently one emergency shelter (28 spaces) in Clark County for victims of
+35         domestic violence. In 2014, Safe Choice, the domestic violence shelter, provided 5,115 bed-
+36         nights of emergency shelterAs reported in their 2025 audited financial statement, the
+37         SafeChoice Domestic Violence Program served 1,165 unduplicated survivors of domestic
+38         violence and responded to 10,590 calls to our 24-hour crisis line during the 2025 fiscal year.
+39         The emergency shelter provided up to 9,486 bed nights for 51 adults and 72 children.
+
+40         Aging Adults: In 2023, adults aged 55+ experiencing homelessness decreased by 4% from
+41         2022. To support this positive shift and continue the downward trend, the addition of more
+42         focused senior programs, should be considered.
+
+
+     15
+          See Federal Title 24 CFR 578.3
+                                                       13
+1    Based on this information, homeless persons have a significant need for housing in Clark County.
+2    Housing policies should address the needs of this population, as well as the needs of persons at 30
+3    percent of area median income and below. Since some homeless families and individuals have
+4    disabilities or require a period of extra support, a strategy should include permanent supportive
+5    housing.
+
+6    PROJECTED HOUSEHOLD GROWTH
+ 7   The population growth forecast of OFM is translated into approximately 48,340103,698
+ 8   additional households who will be seeking housing in Clark County by the year 20352045. Table
+ 9   2.9 highlights the percent change of 10 years and the average annual change within the county.
+10   Based on growth projections from the Washington Office of Financial Management (OFM), the
+11   county will grow at a rate of 1.426 percent per year. The characteristics of these households are
+12   likely to change over the period covered by the 20-Year Plan as the population of the county, the
+13   state and the United States as a whole age. In 19902010, households with elderly heads made up
+14   6.417.5 percent of the total households. In 2020, the number of households with elderly heads
+15   increased to 25.41 percent. Projections indicate that elderly households will increase to 17.5
+16   percent of the total in 2010, almost a threefold increase.
+17
+18
+
+
+
+
+                                                     14
+1    Table 2.9 | Population Trends, 1950-204535 in Clark County 16
+          Year         Total                10-year              10-year %             Average
+                     Population             Increase              Change               Annual %
+                                                                                        Change
+      1950                85,307                     NA                     NA                   NA
+      1960                93,809                  8,502                    10.0                   1.0
+      1970               128,454                 34,645                    36.9                   3.7
+      1980               192,227                 63,773                    49.6                   2.0
+      1990               238,053                 45,826                    23.8                   2.4
+      2000               345,238                107,185                     45                    4.7
+      2010               425,363                 80,125                    23.2                   2.1
+      2020               527,400                102,037                    19.3                   1.9
+      20352         577,431718,1                    N/A                    N/A                   N/A
+      045                     54
+2          Sources: Washington State Office of Financial Management, April 1 Intercensal and Postcensal Estimates of the Total Resident
+3          Population by Year 1968-2002; Washington State Growth Management Population Projections for Counties: 2010 to 2040
+
+
+4    HOUSING RESOURCES
+ 5   Table 2.10 shows the number and type of housing units in Clark County for the period 1980-
+ 6   20102000-2020. The total number of housing units in Clark County in 2010 was 169,520. Single
+ 7   family homes make up 73 percent (122,935) of this stock. Multi-family homes constitute 22
+ 8   percent (38,096) of this stock. Manufactured homes make up 4.7 percent (8,031) of the housing
+ 9   stock of Clark County.
+10
+
+11   Table 2.10 | Number of Housing Types in Clark County, 1990-20102000-2020 17
+            Housing Types                19902000              20002010               20102020
+      Single Family Units 18             63,68194,664         94,664122,935        122,935132,960
+      Multi-Family Units                 21,03330,217          30,21738,096          38,09638,334
+      Manufactured/Mobile                  7,5208,833             8,8338,031            8,0317,184
+      Home Units 19
+      Unknown                                   615316                316458                   458- -
+      Total Units                      92,849134,030        134,030169,520         169,520178,478
+12   Source: U.S. Bureau of the Census
+13   * Includes attached and detached units and2010-2014 American Community Survey (ACS) 5-year Estimates
+14   **The ACS uses the term mobile home instead of manufactured
+15
+16   Using 1990-20102000 - 2020 figures, the total number of housing units in the county has risen by
+17   267.29 percent since 201000 and 8333 percent since 19902000. The number of single family
+
+     16
+        Sources: Washington State Office of Financial Management, April 1 Intercensal and Postcensal Estimates
+     of the Total Resident Population by Year 1968-2002; Washington State Growth Management Population
+     Projections for Counties: 2010 to 2040
+     17
+        Source: U.S. Bureau of the Census
+     18
+        Includes attached and detached units and 2010-2014 American Community Survey (ACS) 5-year
+     Estimates
+     19
+        The ACS uses the term mobile home instead of manufactured
+                                                                     15
+1    units has risen 308.15 percent since 20002010 and 9340.45 percent since 19902000. Multi-
+2    family units have increased in number by 26less than 1 percent since 20002010 and 8126.86
+3    percent since 19902000. Manufactured (and other) housing has shown the smallest increasea
+4    decrease of 17 21.48 percent over 1990 2000 figures but moreand an additional decrease of
+5    significantly a 15.37 percent declinesince 2000.
+
+6    COUNTY FUNDING FOR AFFORDABLE HOUSING
+ 7   Clark County utilizes Community Development Block Grant (CDBG) and HOME Investment
+ 8   Partnership Funds (HOME) for funding of capital projects related to affordable housing, and state
+ 9   Consolidated Homelessness Grant (CHG) and local Document Recording Fees (DRF) for operating
+10   funds for shelters, transitional, and permanent housing.
+11
+12   Oversight for CDBG and HOME funds is provided by the Urban County Policy Board (UCPB),
+13   which is composed of elected public official from each local government outside City Vancouver,
+14   or a designated alternate. The UCPB adopts procedures and criteria for the allocation of HOME
+15   and CDBG funds; reviews and recommends proposals for funding; reviews Consolidated Plan and
+16   Annual Action Plan. Proposals for funding are received through a competitive public solicitation
+17   that takes place on an annual cycle. The public solicitation make available the annual allocation of
+18   CDBG and HOME funds of approximately $1,500,000 of CDBG and $600,000 of HOME funds. A
+19   program history of CDBG funded projects can be found on the Community Services CDBG web
+20   page at https://clark.wa.gov/community-services/community-development-block-grant and a
+21   program history of HOME funded projects can be found on the Community Services HOME
+22   webpage at https://clark.wa.gov/community-services/home-investment-partnerships-program.
+23
+24   Oversight of the CHG and DRF funds allocated as operating funds for shelters, transitional, and
+25   permanent housing is provided by the Clark County Council, under the advice of the Community
+26   Action Advisory Board (CAAB). The CAAB is composed of elected public official from each local
+27   government outside City Vancouver, or a designated alternate. The role of the CAAB is to
+28   advocate on behalf of people who are low-income to ensure services are available and equitable
+29   and reviews and recommends proposals related to homeless housing and services for funding.
+30   Proposals for funding are received through a competitive public solicitation for proposals that
+31   takes place on a three-year cycle. The amount of funding available in the solicitation varies,
+32   depending on the CHG amount the County receives from the State as well as the local collection of
+33   DRF which is contingent on real estate transactions. Over the past couple of years, Clark County
+34   has received an average of $14,000,000 per year in CHG funds from the State and collected
+35   almost $6,000,000 per year in local DRF. Detailed revenue and expenditure reporting per year, as
+36   well as reporting on outcomes can be found in the CAAB Meeting Documents section of the
+37   Community Services CAAB webpage at https://clark.wa.gov/community-services/caab-
+38   community-action-advisory-board.
+39
+40   In 2026, the Clark County Council approved a 0.1 percent sales tax that will generate about $6.5
+41   million a year for affordable housing and behavioral health services. The tax revenues can be used
+42   for the construction, acquisition and maintenance of affordable housing for those who make 60
+43   percent of the area median income or less.
+44   In the spring of 2003, Clark County memorialized the recommendations to dedicate document
+45   recording fees to affordable housing as presented by community stakeholders. This funding
+46   source was developed as a result of House Bill 2060, which was passed by the Washington State
+47   Legislature during the 2002 session. SB 2060 established a dedicated source of revenue for
+                                                      16
+ 1   affordable housing, a $10 recording fee. The fees are collected by County Auditor who may retain
+ 2   up to 5 percent for administration. The remaining funds are split into two categories. Sixty percent
+ 3   (60%) of the funds are to go to local jurisdictions for the sole use of housing for people between 0 -
+ 4   50% of the area median income. The remaining 40 percent goes to the Department of Commerce
+ 5   for allocation of operational support to state funded projects that service households from 0 –
+ 6   30% of the area median income.
+ 7
+ 8   The CDBG and HOME Program staff hosted two community meetings to solicit recommendations
+ 9   for the use of the local funding. The total is estimated to be $750,000 annually. The community
+10   group developed the following recommendations regarding the distribution of funds:
+11       Capital funds for transitional and permanent housing: Thirty percent (30%) of the funds
+12       would be used for development of transitional and permanent housing, including acquisition
+13       and rehab or new construction costs. New construction is only an eligible use if vacancy rates
+14       are under 10%. The document recording fee revenues can leverage other capital resources
+15       such as HOME and CDBG.
+
+16      Operating funds for shelters, transitional and permanent housing: Forty percent (40%) of the
+17      funds would be used to maintain the current level of shelter services, provide operating
+18      subsidies to transitional or permanent housing providers, or rental assistance vouchers to
+19      private for-profit and non-profit housing providers.
+
+20      Creation of a Local Housing Bond: Approximately 1/3 (a flat $250,000) per year of the
+21      available revenue would be used to purchase a 10-year low-income housing bond. Bond
+22      proceeds, estimated at approximately $2,000,000, will be deposited in an interest bearing
+23      account for the purpose of land or housing acquisition. The land banking approach, made
+24      possible with the bond, would allow Clark County to secure property while costs and interest
+25      rates are as low as they are likely to be in the foreseeable future. This bonding mechanism
+26      would also assist Clark County and the cities within the county to meet their housing goals as
+27      outlined in the Growth Management Act, including goals for affordable housing.
+
+28   The Clark County Housing Review Board (CHRB), a local group of citizens appointed by the
+29   county, was given responsibility for oversight of the Clark County funds associated with SB 2060.
+30   The county approved the plan and goals designed by the CHRB. In response to the approved plan,
+31   staff worked with stakeholders to implement the plan goals.
+32
+33   Manufactured housing is a major source of affordable housing in Clark County. Manufactured
+34   housing units are distinguished from "mobile homes" because they are more durable and less
+35   mobile in nature. Once manufactured housing units are sited they are rarely moved. Additionally,
+36   manufactured housing meets HUD standards, which makes it possible to get a loan to purchase a
+37   new manufactured home with little or no down payment. The buyer can also purchase the land to
+38   site the manufactured home on contract with little down payment. This is a very attractive option
+39   for those with little savings.
+
+40   HOUSING TENURE
+41   Table 2.11 shows housing units by type of occupancy over time. In 202010, five four percent
+42   (9.3144%) of the total units were vacant. This Typically, six percent is considered a normal or
+43   healthy vacancy rate. The remaining 95 percentunits (158,099178,478) were occupied. Of these,
+
+
+                                                      17
+1    6667 percent (104,003119,725) of the units in Clark County were owner-occupied. The remaining
+2    3433 percent (54,09658,753) were occupied by renters.
+3
+
+4    Table 2.11 | Number of Housing Units by Occupancy Type in Clark County, 1980-20002000-2020 20
+      Housing Occupancy Type           2000            2010             2020
+
+      Total Housing Units              134,030          167,413         186,317
+      Vacant Units                        6,822            9,314          7,839
+      Occupied Units                   127,208          158,099         178,478
+      Owner-Occupied Units               85,550         104,003         119,725
+      Renter Occupied Units              41,658          54,096          58,753
+
+5
+
+                                Housing Occupancy              1990            2000     2010
+                                       Type
+                              Total Housing Units           92,849         134,030    167,413
+                              Vacant Units                  4,409          6,822      9.314
+                              Occupied Units                88,440         127,208    158,099
+                              Owner-Occupied Units          56,872         85,550     104,003
+                              Renter Occupied Units         31,568         41,658     54,096
+6                                   Source: U.S. Bureau of the Census
+
+
+7    HOUSING COSTS
+ 8   The HCD Consolidated Plan report notes that affordable housing is generally associated with an
+ 9   adequate supply of older housing. The 20002020 Census indicated that Clark County has over
+10   7,481approximately,6,693 housing units that were built in 1939 or earlier. This is 2.94 3 percent
+11   of the current housing stock.There are 5,063 owner-occupied units and 2,418 rental units that
+12   were built in 1939 or earlier. Future affordability will be greatly affected by market conditions.
+13   However, it can be assumed that existing older housing stock will continue to provide many of the
+14   more affordable units in the future, unless there is some form of public intervention in helping to
+15   reduce the costs of new units.
+
+16   RENTAL COSTS
+17   Table 2.12 shows the average rental costs for the Vancouver area for the period of 2011-2016for
+18   the years 2015, 2020, and 2025. The data reflects modestan average rental increase for each size
+19   of unit frombetween 2011-20152015-2020 of 59 percent. Between 2020 and 2025, the region
+20   saw another and then alarge increase of approximately 2732% in the 2016rental data for one,
+21   two, and three-bedroom units. This 91 percent rent increase in this 10-year time ere is a much
+22   larger increase across the board in 2016 that seems to more accurately reflects the housing
+23   affordability crisis.
+24
+25
+
+
+
+     20
+          Source: U.S. Bureau of the Census
+                                                                   18
+1    Table 2.12 | Fair Market Rents in theClark County, 2010-20152015, 2020, and 2025 21
+            Year          One Bedroom        Two Bedroom         Three Bedroom
+      20112015                 $783$793            $905$944         $1,318$1,391
+      20122020                  7711,289            8911,495          2,1571,297
+      20132025                  7561,750            9121,997          1,3442,739
+      2014                           774                 922               1,359
+      2015                           793                 944               1,391
+      2016                        $1,021              $1,208              $1,757
+ 2                            Source: US Department of Housing and Urban Development
+ 3                            FY2011-2016 Fair Market Rent
+ 4
+ 5   Renters in Clark County are diverse. For some moderate and upper income households, renting is
+ 6   a choice despite the fact that they have the financial means to buy a home. For some young
+ 7   households, renting is a stepping stone to future homeownership. For many low and moderate-
+ 8   income households, however, renting is the only financially feasible choice due to the high cost of
+ 9   ownership, including initial investment costs. The rising cost of renting has the greatest effect on
+10   the most vulnerable of Clark County's population. Once rents get too high, low-income
+11   households are forced to double up with family members, live in an apartment that is far away
+12   from their job, school, or social networks or sometimes are even forced into homelessness.
+
+13   SUBSIDIZED HOUSING
+14   According to HCDthe Consolidated Plan, rent assistance programs are available to assist only a
+15   portion of the 4,32522,575 low-income renter households in need of rent assistanceClark County.
+16   Single person non-elderly (or non-disabled) households are not eligible for assisted housing under
+17   the programs now offered in the county.
+18
+19   The Vancouver Housing Authority (VHA) administers rental assistance vouchers for about 3,500
+20   Clark County households. That includes both tenant-based vouchers as well as project-based
+21   vouchers. VHA and partner nonprofits also own and or manage about 400 subsidized apartments
+22   through the HUD 202, HUD 811, and New Construction Section 8 programs.
+
+23   The Vancouver Housing Authority (VHA) serves a total of 3,153 Clark County households with
+24   rental assistance and subsidized housing. The VHA owns 1,054 units of federally subsidized Low
+25   Rent Public Housing and Section 8 New Construction. This program includes 150 units at Skyline
+26   Crest (a development that is also home to the RISE & STARS Community Center); two downtown
+27   Vancouver high-rises for elderly, frail elderly and disabled people; 30 units at Fruit Valley; 14 in
+28   Camas; 12 in Ridgefield; and 269 units scattered throughout Clark County.
+29
+30   In 2003, the VHA contracted with U.S. Department of Housing and Urban Development to
+31   administer 2,300 Housing Choice and Mod Rehab rental vouchers. Both the low-rent public
+32   housing and the voucher program are designed to allow low-income families, elderly and disabled
+33   residents to pay 30 percent of their income for rent.
+34   The VHA also contracts with several nonprofit corporations to manage two properties for
+35   disabled people, two group homes, three properties that provide transitional housing and five
+
+     21
+       Source: US Department of Housing and Urban Development FY2011-2016 Fair Market Rent, for the
+     Portland-Vancouver-Hillsboro, OR-WA MSA
+                                                           19
+1    properties for low-income seniors. In addition, the VHA owns 100 units of Medicaid assisted living
+2    for low-income frail elderly people and 2,136 non-subsidized affordable workforce housing units.
+3    Workforce housing is defined as housing that is closer to market rate and is used as an investment
+4    to provide local funding for deeply subsidized housing.
+
+5    MARKET AND INSTITUTIONAL INFLUENCES ON HOUSING
+6    PRODUCTION
+7    Typical of most communities in the Unites States, the primary influences on housing price in the
+8    county include, but are not limited to:
+
+ 9      •   land use controls which limit both the areas where housing may be built and the density of
+10          development, with a resulting impact on land cost and development costs;
+11      •   building code requirements (such as those related to the Americans with Disabilities Act;
+12          energy efficiency, etc.) which may increase construction costs and ultimately increase
+13          housing price;
+14      •   off-site improvement requirements;
+15      •   finance costs such as interest rates, other loan costs;
+16      •   tax limitations measures that limit the public sector’s ability to subsidize housing
+17          development;
+18      •   materials and construction costs; and,
+19      •   in-migration and mismatches in housing supply and demand.
+20
+21   Most notably, the construction costs and home purchase prices rise with interest rates. Since the
+22   large number of savings and loan failures in the late 1980s, federal regulators have reduced the
+23   percentage of an institution's portfolio, which can be in real estate development. This has resulted
+24   in making financing of residential development more difficult. Similarly, increases in land costs or
+25   construction costs will increase the cost of the housing which is developed unless more units can
+26   be built on the same site. Rising energy costs increase the costs of construction and maintenance
+27   of housing units; however, conservation measures can reduce lifecycle costs for energy.
+
+28   THE HOUSING NEEDS CONTINUUM IN CLARK COUNTY
+29   Housing affordability issues impact all households in all income groups. Every household has an
+30   income at one level or another and must find housing that meets but does not exceed the
+31   requirements of thethat income level. Sometimes this relationship is called "attainability."
+32   Households at higher incomes have fewer housing affordability problems, largely because their
+33   incomes allow greater flexibility to access housing at, or less than, their incomes. In addition, there
+34   are generally more housing units available within their income ranges. Persons with lower
+35   incomes have more housing affordability problems partially because their ability to access housing
+36   in their target price range is limited by persons from higher ranges "buying down," and by limited
+37   numbers of units. In addition, the lower the income range, the less potential the household has for
+38   "buying down".
+39
+40   What is affordable housing? Housing affordability is defined by financial lenders, government
+41   officials and ordinary citizensresidents in different ways. Lenders generally claim that affordable
+42   housing is housing expenditure at or below 30 percent of household income. A household earning
+
+
+                                                       20
+ 1   $58,262124,100 (the county median in 202510) should spend no more than $17,47937,230 per
+ 2   year or $ 1,4573,103 per month on housing. This may be in rent or in housemortgage payments.
+ 3
+ 4   It is apparent that the definition of affordable housing has altered over time and continues to be in
+ 5   dispute depending on the perspective of the groups involved. Lenders and bureaucrats respond in
+ 6   a manner assessing the total debt limit that appears to be a reasonable lending risk at any point in
+ 7   time. Families respond in terms of their personal preferences and their other debts. Low and
+ 8   moderate-income advocates respond in terms of the impracticality of accumulating four-figure
+ 9   down payments and in terms of the potentially disastrous impact on people with fragile incomes
+10   when every available penny is committed to housing. There are six components when addressing
+11   the affordability issue as follows:
+
+12          •   availability of properly zoned and buildable land;
+13          •   cost of borrowing money;
+14          •   regulatory restrictions influence affordability;
+15          •   consumer expectations;
+16          •   wage/housing balance, which is the relationship between the wages earned by people
+17              in the community and the housing price; and
+18          •   jobs/housing balance, which is the relationship between the location of jobs and the
+19              location of housing.
+
+20   All these components need to be addressed in determining the affordability issue for a community.
+21   This Chapter defines housing affordability as a range of expenditure, which should be between 30
+22   percent of income and/or house purchases at 2.5 times household income. These are conservative
+23   measures, which serve to decrease the amount of expenditure suitable for housing from those
+24   levels illustrated by many lenders in their standard publications. It is believed that these measures,
+25   however, are more reflective of the real level of expenses that moderate- and low-income
+26   households can bear, noting that most households have standing financial commitments that
+27   decrease their loan to value ratios.
+28
+
+29   HOUSING BARRIERS AND STRATEGIES MATRIX
+30   The Clark County Housing Options Study and Action Plan (HOSAP) identifies housing challenges and
+31   opportunities to encourage development of housing that is affordable to a variety of household
+32   incomes through removal of regulatory barriers and implementation of other strategies. These
+33   strategies are needed to help ensure future generations have access to affordable, quality and
+34   diverse housing opportunities. Appendix O lists the range of housing actions that will address the
+35   identified housing barriers.
+36
+
+37   RACIALLY DISPARATE IMPACTS AND DISPLACEMENT
+38   Racially disparate impacts occur when neutral policies or practices policies, practices, rules or
+39   other systems result in a disproportionate impact on one or more racial groupseffects on a defined
+40   group or groups of people. The county evaluated Clark County’s process considered social justice
+41   and equity, and accessibility as part of its Housing Options and Study Action Plan (HOSAP) in
+42   2022. The study evaluated housing policies and how regulatory barriers affect access to
+43   moderate, low-income, and very low-income residents. The study evaluated the impacts of
+
+                                                      21
+ 1   disparity and displacement. And although displacement does not appear to be a significant
+ 2   challenge for the county, manufactured home parks, as one of the largest sources of housing that
+ 3   is affordable to lower income households, is most vulnerable to redevelopment and in need of
+ 4   protection through zoning and code amendment. The Growth Management Act requires housing
+ 5   elements to identify local policies and regulations that result in racially disparate impacts,
+ 6   displacement and exclusion in housing, identify and implement policies and regulations to address
+ 7   and begin to undo racially disparate impacts, displacement, and exclusion, identify areas that may
+ 8   be at higher risk of displacement, and establish antidisplacement policies. Appendix M provides a
+ 9   racially disparate impacts analysis related to these topics in addition to the following information.
+10
+
+11   Table 2.13 | Clark County Income by Race and Ethnicity, 2020 22
+                Race and Ethnicity              Total      % of County   Median      % of
+                                              Households   Population    Income    County
+                                                2020          2020        2020     Median
+                                                                                   Income
+                       White                   155,670       83.3%       $77,184    102%
+            Black or African American           3,263         1.8%       $61,475    80%
+            American Indian and Alaska           974          .5%        $63,939    83%
+                      Native
+                      Asian                     7,441         4.2%       $89,583   116%
+            Native Hawaiian and Other           1,186         .70%       $66,505    86%
+                 Pacific Islander
+                 Some other race                6,675         1.8%       $49,611    64%
+                Two or more races               11,756        3.7%       $69,662    90%
+          Hispanic or Latino origin (of any     3,269         6.6%       $57,521    75%
+                       race)
+12
+13   Clark County household incomes are generally lower across Black, Indigenous, and people of color
+14   (BIPOC) groups when compared to countywide and white alone income levels. As a result, rising
+15   housing costs disproportionately burden households of color, who spend more of their income on
+16   housing and have lower homeownership rates. These factors create a higher risk of exclusion and
+17   displacement for BIPOC community members within the county.
+18
+19   Most households in Clark County are not cost burdened by housing, paying less than 30% of their
+20   income toward housing costs. According to the Consolidated Plan (2020-2024), approximately
+21   18.3% of households in the jurisdiction are cost burdened by housing, paying between 30 and 50%
+22   of their income toward housing related costs. An additional 11,825, or 12.12% of households are
+23   severely cost burdened, paying more than 50% of their income toward housing.
+24
+25   Per the 2020-2024 Consolidated Plan, Hispanic households are disproportionately burdened by
+26   housing costs, with only 54.2% of households paying less than 30% for housing; 27.7% of Hispanic
+27   households are cost burdened and 16.9% of Hispanic households are severely cost burdened,
+28   paying more than 50% of their income toward housing costs.
+29
+
+
+     22
+       The American Community Survey reports 178,478 households with a median income of $77,184 and
+     a margin of error +/-747 in overall households and +/- $1,513 in median income.
+                                                              22
+ 1   Per the Housing Options Study and Action Plan, in the unincorporated Vancouver Urban Growth
+ 2   Area, approximately 44% of households who rent and 23% of households who own their home are
+ 3   cost burdened or severely cost burdened. The data also shows a disproportionate number of cost
+ 4   burdened households among Hispanic/Latino and Black or African American racial groups in the
+ 5   county. There is a lower rate of cost burden among White and Asian racial groups compared to
+ 6   population in the county. 23, 24
+ 7
+ 8   Displacement occurs when people must move from their homes for reasons beyond their
+ 9   controlother than changes in their personal circumstances. This could include moves due to rising
+10   rents, evictions or foreclosures, cultural or social exclusion, or other factors. Displacement risk is
+11   calculated by looking at areas with increasing rents, areas experiencing demographic shifts, or
+12   areas that are vulnerable to change based on factors such as income, race, or rental status.
+13
+14   Clark County has had the highest number of evictions per capita in Washington State for three
+15   consecutive years which has been tied to the widening gap between residents’ incomes and rental
+16   costs with limited rental assistance availability. Clark County homeowners have not had a
+17   disproportionately higher risk of foreclosure than homeowners in other counties in Washington.
+18
+19   The Washington Department of Commerce Displacement Risk Map (Figure 35) identifies areas
+20   around Clark County that are at high and moderate risk of displacement due to accelerating
+21   market trends, disinvestment, and gentrification. In unincorporated Clark County, the census
+22   tracts with a high risk for displacement are located in the unincorporated Vancouver Urban
+23   Growth Area along I-5 and Highway 99 (West and Northeast Hazel Dell, northeast Felida, and
+24   Sherwood neighborhoods), Minnehaha area (Truman neighborhood), and Five Corners/Orchards
+25   area. Manufactured home parks within the Vancouver urban growth area have also been
+26   identified as a housing type where residents are at a high risk of displacement due to the limited
+27   alternatives available when space rents are increased or parks are closed.
+28
+
+29   Summary and Conclusions
+30   The inventory and analysis presented in this Chapter lead to the identification of a variety of
+31   factors that will affect the ability of households in Clark County to find suitable affordable
+32   housing. The following section highlights the issues effectingaffecting housing affordability for all
+33   segments of the population in the future.
+34
+35   The cost for land and construction of new housing has been increasing rapidlyover the past seven
+36   years. If the trend continues, then there will be even less affordable new housing built in the
+37   county. The needs of middle as well as lower income households will be more difficult to meet with
+38   new housing.
+39
+40   Restrictions on local government funding resources have resulted in increasing use of
+41   development impact fees to pay for the cost of extending services to new housing developments.
+42   However, these impact fees increase the cost of the new housing. The goal of making new
+
+
+     23
+      Source: Housing Options Study and Action Plan, Appendix D: Housing Inventory and Analysis.
+     24
+      Note: differences in numbers in this section and Appendix M depend on the data source and timing data
+     was accessed.
+                                                       23
+ 1   development "pay its own way" may run counter to the goal of producing an adequate supply of
+ 2   affordable housing.
+ 3
+ 4   Changes in federal regulation of the banking and savings and loan industries have affected the
+ 5   availability of financing for residential development and the types of projects being financed. It is
+ 6   much harder to finance projects now and financial institutions are requiring greater equity
+ 7   participation by the developer in each project. It is also more difficult to find financing for unusual
+ 8   or creative housing designs, which might reduce the cost of each home to the purchaser or renter.
+ 9   Federal, state and local governments should consider public subsidies in order to ensure that such
+10   housing is available.
+11
+12   Increasing federal, state and local environmental protection regulations have reduced the amount
+13   of land available for development and increased the time and cost involved in producing housing.
+14   The goal of protecting sensitive environmental resources may run counter to the goal of
+15   producing an adequate supply.
+16
+17   The Community Reinvestment Act (CRA) requires that financial institutions demonstrate that
+18   they invest a portion of their funds in the community where they are located and where their
+19   customers live. The Act is particularly concerned with investment loans for home purchase and
+20   rehabilitation loans in older neighborhoods. The intent is to discourage "redlining" or the practice
+21   of refusing to make loans for properties located in older or predominantly minority
+22   neighborhoods. The CRA provides an opportunity for local developers and non-profit agencies to
+23   work with the banks and savings and loans to develop affordable housing and to maintain or
+24   improve existing housing in older neighborhoods.
+25
+26   Until the early 1980s, the federal government provided most of the support for the creation and
+27   maintenance of affordable housing, including tax incentives and direct funding of construction and
+28   operating costs. The withdrawal of this support, coupled with a changing economic environment,
+29   has severely reduced the availability of affordable housing. The absence of the federal
+30   government and lack of history or experience of the state and local government and the private
+31   sector in funding affordable housing has resulted in a confusion of roles and responsibilities. In
+32   order to provide the housing needed by the low and middle income population, it will be necessary
+33   for the county, cities, state and the private sector to create new working relationships if the needs
+34   for financing, construction or acquisition and maintenance of housing are to be met.
+
+35   FAIR HOUSING
+36   The goal of fair housing is to encourage freedom of choice in the sale or rental of dwellings. Fair
+37   housing rights are established both through federal law (Title VIII of the Civil Rights Act of 1968)
+38   and Washington State legislation (WAC 49.60.222 through 224). The private sector and public
+39   sector housing agencies are very familiar with these principles as they apply to buyer/seller or
+40   landlord/tenant relationships. Discrimination based on race, color, age, sex, religion and national
+41   origin is prohibited.
+42
+43   In 1988, the Federal Fair Housing Act was amended in a manner that makes it evident that it is not
+44   legal to deny persons with disabilities the opportunity to live in a community. The amendment also
+45   makes it clear that persons may not be discriminated against on the basis of family status. The
+46   Washington Housing Policy Act, adopted in 1993, reinforces these principles by prohibiting local
+47   ordinances that treat households with disabilities differently from other households. For the
+                                                       24
+ 1   purpose of this 20-Year plan, written in 1993 and updated in 2002, low-income persons are not
+ 2   considered a group protected under fair housing laws. If applied, income tests must be applied to
+ 3   all groups (e.g., disabled, racial, national origin) equally.
+ 4
+ 5   Several of the groups specifically noted in fair housing laws are commonly referred to as "special
+ 6   populations." Special populations include the physically disabled, mentally disabled, mentally ill,
+ 7   homeless and other persons who may experience barriers to housing because of a disability or
+ 8   condition. Special needs populations are among the most noticeable persons needing fair housing
+ 9   protection. Fair housing, however, is a broader concept that attempts to protect all
+10   citizensresidents from unfair or discriminatory treatment.
+11
+12   In the development of land use regulations, communities must examine whether the effect of a
+13   regulation, action or policy is exclusionary. Local land use policies, regulations and actions must
+14   not have the effect of excluding individuals from Clark County or cities within Clark County.
+15   Persons should be able to find a variety of housing opportunities.
+16
+17   The 20-Year Plan proposes that an essential element in the continued achievement of fair housing
+18   is a land use regulatory approach that allows anyone seeking housing to take "managed risks".
+19   That is, regulations should protect public health and safety, but not to the point that the
+20   regulations have the effect of excluding populations from finding housing that they can afford. Fair
+21   housing should not become a paternalistic approach to protection that eventually excludes the
+22   disabled, elderly, or other individuals. The 20-Year Plan also works toward fair housing by using
+23   the household, rather than the family, as the basic definition for an assemblage of persons in a
+24   dwelling unit.
+25
+26   Household is a broader term that allows for non-nuclear families, unrelated individuals, domestic
+27   partnerships, caregivers and other arrangements. A household orientation reflects the increasing
+28   diversity of living arrangements in the county.
+29
+30   Incentives for fair housing and a greater awareness of how the principle serves to protect all
+31   persons will be increasingly necessary in the future as Clark County's population grows and
+32   diversifies. Fair housing requires the attention of many segments of the community. Appropriate
+33   land use practices are a necessary step. These practices must be reinforced by fair lending
+34   practices, underwriting standards, appraisals, bonding and by other implementation policies and
+35   procedures that effectuate, on a daily basis, principles of fairness. Central to fairness is a clear
+36   understanding of both the income characteristics of the community and the characteristics of
+37   housing. Over time, the county's racial structure, household living arrangements, number of
+38   special needs persons, etc. will change. There is a continuing need to educate government officials
+39   and citizensresidents to their individual rights and to the rights of others.
+
+40   SPECIAL NEEDS HOUSING
+41   It is the intent of this plan to encourage self-determination and independence among individuals
+42   with special needs. County and the cities policies, ordinances and codes should treat people with
+43   special needs equivalent to the general population. Land use regulations should not discriminate
+44   against these households. Land use regulations should be limited to the impact of the use upon the
+45   landscape, without consideration of the circumstance of the persons in the household.
+46
+
+                                                      25
+ 1   People with special needs, just like other segments of the population, want to locate across the
+ 2   county, depending upon personal preferences and upon the locations of family and friends, health
+ 3   care, support services and transit. Housing provided by both the public and private sectors will
+ 4   allow the greatest range of locational choices. Special needs populations live throughout the
+ 5   county at this time, even though they may be under served or be limited in their access to housing.
+ 6   In the next 20 years, neighborhoods across the county should become accessible to special needs
+ 7   individuals. There is a dual responsibility; neighborhoods must become more accepting of people
+ 8   with special needs and people with special needs must become good neighbors in their
+ 9   community.
+10
+11   Just as people with special needs want to live in different neighborhoods, their specific housing
+12   needs vary also. Not all disabled persons require housing adapted with rehabilitated kitchens,
+13   bathrooms, etc. Not all persons require assistance from a caregiver. It is important that planners
+14   have knowledge of the needs of different client groups and avoid generalizations. Providing for
+15   people with special needs does not necessarily mean increased levels of social services or
+16   infrastructure. It may mean cultivation of a greater awareness of the impact of regulations upon
+17   these groups and encouragement of incentives to provide affordable, accessible housing.
+18
+19   The managed risk approach is applicable to all special populations and in particular to individuals
+20   traditionally considered "undesirable" because of previous lodging in institutions or correctional
+21   facilities. As these individuals rejoin the general public, the public must be protected, but in a
+22   reasonable fashion that does not preclude the transition of people to an independent lifestyle.
+23
+24   The Clark County Consolidated Housing and Community Development Plan (HCD) examine the
+25   needs of special populations in detail from a short-term perspective. The Housing Element of the
+26   20-Year Plan attempts to address needs from a long-term perspective and to propose public and
+27   private sector responses to the needs.
+28
+
+29   NEIGHBORHOOD CHARACTER AND VITALITY
+30   Clark County's residential neighborhoods vary in size, density, housing type and amenities. The
+31   character of a neighborhood, both its livability and identity, is closely associated with its design,
+32   the characteristics of the residents and the services provided. Regardless of the character of the
+33   neighborhood, residents generally want a feeling of comfort and security, privacy and a sense of
+34   belonging. Neighborhood character is an important element of the Community Framework Plan and
+35   is a central component of an approach that encourages a hierarchy of well-defined places. Over
+36   the next 20 years, preservation of existing neighborhoods will require a conscious
+37   acknowledgment of the existing nature of the people, visual character and services. New
+38   development in previously undeveloped areas should occur with an identifiable visual and service
+39   character. Infill development should occur with a visual and service character compatible with
+40   existing development.
+41
+42   A population diverse in its age, ethnicity, income, household structure and size and mental and
+43   physical abilities has the potential to create strong and vital neighborhoods. The contribution of
+44   individuals, through their participation in public processes or through their daily lives in a
+45   neighborhood, influences the character of a neighborhood. Acceptance and appreciation of
+46   diverse individuals is a desirable value now and in the future.
+47
+                                                      26
+1    This 20-Year plan intends to promote service delivery systems that are highly visible to users,
+2    accessible and centrally located on a neighborhood district basis. A major objective of the 20-Year
+3    Plan is to ensure that housing remains affordable for all income groups. One of the advantages of
+4    the 20-Year Plan is the variety of housing options, which will be available for residents.
+5
+
+ 6   INFILL
+ 7   In order to achieve the goals of the 20-Year Plan, Clark County and other jurisdictions must
+ 8   encourage the use of infill parcels for homes and also must ensure that development is compatible
+ 9   with the surrounding neighborhood. Infill is a term used to describe development of parcels that
+10   was "passed over" in a first phase of development. Some lots in the urban area were not developed
+11   because they continued in rural uses such as horse lots, orchards, etc. In some cases, there was
+12   insufficient demand for the land or people chose not to develop right away. The physical
+13   development constraints of some parcels, such as drainage ways, steep slopes, etc. may also lead
+14   to them being "passed over." The parcels are now surrounded by development, which may be
+15   residential, commercial or industrial in nature. In some areas, infill will mean mixing housing with
+16   commercial development and may require special consideration of physical constraints, existing
+17   infrastructure and adjacent land use.
+18
+19   Infill development is central to achieving target densities and to reducing sprawl. Targeted infill
+20   development sites can also serve to focus public investment in areas, which have existing urban
+21   development but need additional infrastructure to support increased densities. This type of infill
+22   development could include co-locating employment centers with housing, thereby reducing
+23   vehicle miles traveled, lessening congestion and reducing the overall costs for infrastructure.
+24
+
+25   ACCESSORY UNITS
+26   Accessory units are another method for increasing density in a manner that may be affordable.
+27   Accessory housing units are complete living quarters constructed within an existing single family
+28   lot. They occur through conversion of an attic, a basement, a garage or other space. They are
+29   always secondary in size to the existing dwelling, usually less than 1,000 square feet. Common
+30   names for these units include granny flats, mother-in-law apartments and bachelor units. Some
+31   communities allow accessory units to be free standing. Freestanding units are generally called
+32   echo units or accessory cottages. Accessory units combine the advantages of small size,
+33   maximizing use of existing dwellings and income for homeowners as advantages. Clark County has
+34   had an Accessory Dwelling Unit ordinance in effect since 1992.
+35
+
+36   VARIETY IN NEIGHBORHOODS
+37   In order to implement the 20-Year Plan in a manner that preserves and enhances neighborhoods
+38   while also maintaining identity and livability, Clark County and local jurisdictions will need to
+39   identify the features that make an attractive residential development and ensure that future
+40   development include these features. Over time, greater breadth and variety in neighborhood
+41   design should be allowed. The flexibility should also be accompanied by consistency and
+42   predictability in the development process. A major objective of the 20-Year Plan is to ensure that
+43   housing remains affordable for all income groups. One of the advantages of the 20-Year Plan is the
+                                                      27
+1    variety of housing options, which will be available for residents. These will include single-family
+2    homes on a variety of lot sizes, as well as multi-family homes (apartments, condominiums, town
+3    houses) and mobile homes. This variety is expected to make it easier for the home building
+4    community to develop housing in a range of prices affordable and attractive to all county
+5    residents.
+6
+
+ 7   FAIR SHARE
+ 8   The state GMA directs all communities to formulate policies that allow accommodation of their
+ 9   "fair share" of housing types and income groups. The growth management act does not explicitly
+10   require a numerical approach to fair share. In general, the fair share process should provide low
+11   and moderate income housing targets for cities, urban growth areas and county rural areas that
+12   are achievable in a progressive manner over the 20-year planning period. The allocation process
+13   should identify programs and finance mechanisms that will result in the construction and
+14   rehabilitation of housing so that the targets are meaningful. Noting the complexity of the task,
+15   Clark County determined that preparation of a fair share allocation is a complex process in and of
+16   itself and requires a participatory process supported by thorough technical analysis. Formulation
+17   of a fair share approach is supported by this plan and is an implementation technique requiring
+18   immediate funding and analysis.
+19
+20   The fair share principle has a close relationship to the question of neighborhood character. In
+21   accordance with the fair share concept, a community may need to provide for income groups and
+22   housing types that are not part of its traditional character. In addition, existing neighborhoods
+23   may experience a change in character in order to provide housing for persons of higher or lower
+24   income than currently exist. These changes are expected to occur throughout Clark County in a
+25   progressive manner. Achievement of a fair share concept will require adequate financing,
+26   community design, public involvement and attention to the impact of change upon residents of an
+27   area.
+28
+
+29   REHABILITATION AND PRESERVATION
+30   The Framework Plan concept, with its emphasis on a hierarchy of identifiable places, supports the
+31   preservation and rehabilitation of existing structures. Because existing structures provide much
+32   of the character of places, their preservation into the future will provide a basis for definition of
+33   community character. Existing structures also provide an opportunity for increased residential
+34   density with minimal community disruption when accessory units are allowed within structures
+35   and on existing lots. In addition, accessory units and existing houses are often among the most
+36   affordable units in the real estate market. Rehabilitation of existing structures also reflects an
+37   environmentally conscious approach to neighborhoods with an orientation toward stewardship
+38   and reuse of existing resources.
+39
+40   The Community Framework Plan, with its emphasis on increased density in urban areas also
+41   acknowledges that over time existing structures may be replaced with higher density structures,
+42   mixed uses or other innovations in land use. In concept, the removal of a housing unit in residential
+43   areas either through demolition or conversion to another use should be accompanied by the
+44   replacement of a residential use in the same neighborhood district. The intent of this plan is to
+
+                                                      28
+ 1   place a priority upon rehabilitation and preservation of structures, while acknowledging that over
+ 2   time not all structures can or should be retained. In every case, all costs of rehabilitation, including
+ 3   life cycle costs and potential tax credits, must be considered.
+ 4
+ 5   Housing rehabilitation must be integrated with a concern for the persons in a structure and must
+ 6   respond to their social and service needs. Rehabilitated strategies must be tailored to the
+ 7   character of the area served. Rehabilitated buildings should be safe and habitable, but should not
+ 8   be required to meet the same codes as new construction.
+ 9
+10   Rehabilitation strategies specifically tailored to the condition of the neighborhood, integrating
+11   physical, demographic and economic needs provide an opportunity to re-use existing housing
+12   stock. Not only is this wise conservation of natural, human and physical/cultural resources, it also
+13   preserves the units most likely to be affordable to low and moderate income persons. As a
+14   technique to provide affordability, rehabilitation cannot be overlooked or underappreciated.
+15
+16   It is the intent of this Chapter to advocate for safe and habitable housing for all Clark County
+17   residents. In order to accomplish this aim and also to preserve affordability, it is essential that
+18   building codes allow a tiered approach to acceptable building condition. The cost of rehabilitating
+19   structures to the same standards as new construction often is prohibitive, dissuades owners from
+20   making improvements and increases the cost of dwellings. Provision also should be made for
+21   certified historic preservation and restoration projects, allowing rehabilitation to safe and
+22   habitable levels without meeting the same codes as non-historic rehabilitation or new
+23   construction. Achievement of this objective may require a statewide approach to revision of codes
+24   and a concerted effort on the part of both the public sector (including planners and building
+25   officials) and the private sector. Currently there is a low-income home owner rehabilitation
+26   program funded with CDBG in Clark County.
+27
+
+28   AFFORDABILITY
+29   The concern for housing affordability is a nationwide issue. Much of Clark County's growth in the
+30   last 20 years can be attributed to its affordability compared to the surrounding region. Clark
+31   County and city officials see maintenance of affordability into the future as an important
+32   objective. The 20-Year Plan, as a government document, provides an opportunity to focus on the
+33   leadership role that local government can take to work cooperatively with all segments of the
+34   community in order to increase affordability within the context of protecting public health, safety
+35   and welfare. Provision of affordable housing for the individual should not come about at the cost
+36   of the community as a whole. The interests of the community as a whole, however, include the
+37   need to provide housing which is affordable for individuals.
+38
+39   Consumer expectations also play an important role in affordability. Consumers in all income
+40   ranges exhibit a trend toward increasing expectations for size and amenities. These add to the
+41   cost of housing. For most consumers, a house is their single most significant financial investment.
+42   Houses are more than a place to live, they impose a significant financial responsibility upon
+43   owners and offer and important windfall profit opportunity. In the 1980s and 1990s, homeowners
+44   have become increasingly protective of the value, both real and perceived, of their homes. This is
+45   often exhibited as NIMBYism (Not In My Back Yard) where property owners strenuously object to
+46   the introduction of new housing that differs from existing housing in type or value. Many of these
+
+                                                       29
+ 1   objections are based in the fear of people of differing incomes, race, age, or ethnicity and their
+ 2   perceived impacts on the value of property. NIMBYism influences housing affordability and it
+ 3   results in excessive delays in permit review processes or effectively excludes legitimate housing
+ 4   types or income groups from neighborhoods. In the planning process, this intolerance must not be
+ 5   underestimated but must be recognized and planned for in education programs, public hearing
+ 6   processes and in programs that attempt to create a sense of community that extends beyond the
+ 7   financial commitment of a house purchase.
+ 8
+ 9   Just as supply and demand interact to influence cost, housing price and local wages interact to
+10   influence affordability. A dual effort to increase local wages while also retaining moderately priced
+11   housing, will keep housing affordable to more of the population. Housing affordability is a
+12   relationship between an individual's income and the price of housing.
+13
+14   From the perspective of community planning, it is desirable to provide both jobs and housing
+15   within a community for the benefit of individuals and the community tax base. The relationship of
+16   jobs and housing is described in two ways:
+
+17      •   the wage/housing balance is the relationship between the wages earned by people in the
+18          community and the housing price. Ideally, there is a sufficient number of housing units
+19          affordable to all levels of wage earners and
+20      •   the jobs/housing balance is the relationship between the location of jobs and the location
+21          of housing. Ideally, jobs are created in locations that are convenient to housing.
+
+22   In both relationships, the planning objective is to create opportunities so people who want to live
+23   close to work may do so. There is no requirement (or assurance) that the people working a
+24   particular job will live in the proximal housing, or vice versa. The two principles may be applied
+25   separately or together when looking at a community's affordability strategy. The intent of the
+26   Housing Element is to assure that communities investigate both relationships and attempt to
+27   achieve both a jobs/housing and wage/housing balance within their urban area.
+28
+29   Traditionally, planners have looked at a jobs/housing balance and have tried to promote housing
+30   opportunities in locations close to the workplace. This helps community diversity and reduces
+31   commute trips. Now with the interest in affordability, communities are also looking at
+32   wage/housing balances, trying to promote availability of housing that workers can afford close to
+33   their jobs.
+34
+35   Chapter 9 Economic Development Element of the 20-Year Plan includes general policies and
+36   strategies and also includes strategies to improve wages. Many of the Housing Element's
+37   programs and regulations provide tools to address the housing affordability issue. The local plans
+38   will address the location issue and the wage/housing issue through their statements on the need
+39   for affordable housing.
+40
+
+41   INCLUSIONARY ZONING
+42   An innovative tool to provide affordable housing is a voluntary inclusionary zoning program. A
+43   voluntary inclusionary program would be based on incentives for developers to build a percentage
+44   (usually 10 - 15%) of housing in their subdivision as affordable. The units would be smaller, simpler
+45   homes in a compatible design with the rest of the subdivision. In exchange for the affordable units,
+                                                      30
+ 1   developers would be given incentives that would make it profitable for them, such as density
+ 2   incentives, expedited review, or impact fee waivers.
+ 3
+ 4   Inclusionary zoning does several things. It can integrate low and moderate income housing units
+ 5   into market rate subdivisions and avoid concentrations of low-income housing into one
+ 6   neighborhood. Increased density in some neighborhoods can encourage the viability of transit.
+ 7   Employers located in suburban communities benefit as well by having an accessible low and
+ 8   moderate-income workforce.
+ 9
+10   Neighborhood character is important to preserve and inclusionary zoning allows this to happen by
+11   giving the design control to the developer. Unlike infill, the affordable units are part of the
+12   subdivision plan and can be designed to be similar to their surrounding homes. This allows a
+13   community to retain its character while accommodating affordable housing. Inclusionary zoning
+14   can be an important tool to provide affordable housing to the growing number of households in
+15   Clark County that are priced out of the market. Homeownership prices have been escalating in the
+16   county, which has priced many working families out of homeownership.
+17
+18   Inclusionary zoning can provide homeownership opportunities for those families by making it
+19   profitable for developers to build homes that those families can afford. Inclusionary zoning,
+20   through partnerships with non-profits and public agencies, can also provide affordable rental
+21   opportunities in new subdivisions.
+22
+23   Several other tools are available to the public sector to help influence the availability of affordable
+24   housing, such as publicly subsidized rental housing and community land trusts to foster a
+25   permanent inventory of affordable housing. Clark County has invested in the Southwest
+26   Washington Community Land Trust.
+27
+
+28   FINANCING AFFORDABLE HOUSING
+29   Finance of housing and in particular affordable housing is a specialized market niche that requires
+30   the cooperation of land developers, builders, government and lenders. Finance plays a vital role in
+31   the final cost of housing and its associated infrastructure. The intent of this plan is to both identify
+32   and advocate for finance mechanisms for housing and associated infrastructure that are stable.
+33   Both housing and infrastructure improvements are long-term investments. Mechanisms that are
+34   predictable over time may stabilize risk and increase the potential for project funding. This does
+35   not imply that new finance mechanisms and institutional structures will not or should not arise
+36   over time, or that interim finance mechanisms are not appropriate. Rather a long-term view of
+37   finance mechanisms is necessary. In the last twenty years, the nation's financial institutions,
+38   lending systems and local taxing mechanisms have undergone radical change. More change should
+39   be expected in the next twenty years.
+40
+41   Another important component of this plan is the recognition that the public, not-for- profit and
+42   private finance sectors all play an important role in housing finance. A healthy and complete
+43   housing finance system will involve the participation of all three sectors in a manner that most
+44   appropriately reflects public purpose, capital requirements, costs, interest rates and other
+45   influences on the financial markets. Public sector financing of housing is traditionally identified
+46   with housing for the lowest income groups and involves the deepest direct subsidies. The public
+
+                                                       31
+ 1   sector is also involved in middle and high-income subsidies to housing through tax policies. The
+ 2   public sector's role is changing as the need for partnership approaches to finance emerges.
+ 3
+ 4   The not-for-profit sector is an emerging finance sector. Working with private sector partners, the
+ 5   nonprofit sector can access public funds in order to meet a public purpose while the private sector
+ 6   partner can offer the deep financial backing required to develop housing. The Vancouver Housing
+ 7   Authority has partnered in this way to develop eleven properties that use bond financing to
+ 8   develop affordable housing for households at or below 80% of area median income. Two of the
+ 9   developments include tax credit equity, allowing the rents to be affordable to households at or
+10   below 60% of area median income. These properties will remain a community asset to be used for
+11   future affordable housing needs.
+12
+13   Private sector finance is the mainstay of housing development. Increasingly, in order to meet the
+14   needs of low and moderate income persons, the private finance institutions need the assistance of
+15   the public and not-for-profit sector. The private sector also has responsibilities to invest in
+16   communities through the Community Reinvestment Act. CRA goals often give impetus both to
+17   partnerships with the other sectors and to innovative financing techniques.
+18
+
+19   HOUSING TYPES, HOUSING TENURE, SUFFICIENT LAND
+20   AND ALL INCOME GROUPS
+21   The Growth Management Act is clear in its direction that comprehensive plans are to provide
+22   sufficient land and opportunities for a variety of housing types, ranging from site built to offsite
+23   manufactured. It is clear in its direction that special needs housing must be accommodated within
+24   the community. It is also clear that the housing and land use elements of local plans must be
+25   structured in a manner that makes it possible for persons of all income groups to have a degree of
+26   choice in their geographic search for housing. Sufficient land must be available for housing so that
+27   all income groups can exercise a choice to live in a community.
+28
+29   The Land Use Element, Chapter 1 of the 20-Year Plan provides, in both policy and mapped form, is
+30   a vision of the location of land uses in the future. The Land Use Element contains areas planned for
+31   residential, commercial, industrial, forest, agricultural, recreation and other land uses. The
+32   residential plan identifies areas for single and multiple family uses at a variety of densities. It
+33   includes mixed-use areas where combinations of commercial, institutional and residential uses are
+34   allowed. It also includes agricultural and forest areas where residential uses are allowed at a low
+35   density. The Land Use Element specifies target densities for the uses.
+
+36   Goals and Policies
+37   Clark County has developed general goals and policies it will use to direct housing development.
+38   Climate-related goals and policies within this element are noted as helping achieve greenhouse
+39   gas reduction [GHG], resilience [RES], or both [GHG, RES].
+
+40   The Clark County Housing policies are as follows:
+
+
+
+
+                                                      32
+1    2.1 COUNTYWIDE PLANNING POLICIES
+2       2.1.0   The county and each municipality shall prepare an inventory and analysis of
+3               existing and projected housing. [RES]
+
+ 4      2.1.1   The Comprehensive Plan of the county and each municipality shall identify sufficient
+ 5              land for housing, including, but not limited to, government-assisted housing, housing
+ 6              for moderate, low, very low, and extremely low-income families households,
+ 7              manufactured housing, multifamily housing, and group homes, and foster care
+ 8              facilities, emergency housing, emergency shelters, and permanent supportive
+ 9              housing. All jurisdictions will cooperate to plan for a "fair share" of the region's
+10              affordable housing needs and housing for special needs population, consistent with
+11              their HAPT allocation [RES]
+
+12      2.1.2   Link economic development and housing strategies to achieve parity between job
+13              development and housing affordability. [RES]
+
+14      2.1.3   Link transportation and housing strategies to assure reasonable access to multi-
+15              modelmodal transportation systems and to encourage housing opportunities in
+16              locations that will support the development of public transportation. [GHG, RES]
+
+17      2.1.4   Link housing strategies with the locations of work sites and jobs. [GHG, RES]
+
+18      2.1.5   Link housing strategies with the availability of public facilities and public services.
+19              [GHG,RES]
+
+20      2.1.6   Encourage infill housing within cities and towns and urban growth areas. [GHG,
+21              RES]
+
+22      2.1.7   Encourage flexible and cost efficient land use regulations that allow for the creation
+23              of alternative housing types which will meet the needs of an economically diverse
+24              population. plan for and accommodate housing for all economic segments of the
+25              population. [RES]
+
+26      2.1.8   Clark County and each municipality shall adopt incentives, strategies, actions,
+27              regulations, and consider funding tools that increase the supply of housing for
+28              households with extremely low-, very low- and low-incomes and with special needs by
+29              private or public developers. [RES]
+30
+31      2.1.9   Clark County and each municipality shall implement strategies that address cost
+32              barriers to housing affordability, including, but not limited to:
+33                  •   updating development standards and regulations;
+34                  •   shortening permit timelines;
+35                  •   implementing online permitting;
+36                  •   optimizing residential densities;
+37                  •   reducing parking requirements;
+
+
+
+                                                   33
+1                       •   developing programs, policies, partnerships, and incentives to decrease costs
+2                           to build and preserve affordable housing [RES]
+3           2.1.10 Identify and begin to undo local policies and regulations that result in racially
+4                  disparate impacts, displacement, and exclusion in housing including zoning that may
+5                  have a discriminatory effect and areas of disinvestment and infrastructure
+6                  availability. [RES]
+7
+ 8          2.1.11 Promote homeownership opportunities for low-income and moderate-income
+ 9                 families and individuals while recognizing historic inequities in access to
+10                 homeownership opportunities for communities of color. [RES]
+11
+12          2.1.12 Plan for and provide housing based on the allocation and at the income levels in the
+13                 Housing for All Planning Tool (HAPT) in Appendix J. [RES]
+14
+
+15   COUNTY 20-YEAR PLANNING POLICIES
+16   Goal: Provide for diversity in the type, density, location and affordability of housing
+17         throughout the county and its cities. Encourage and support equal access to housing for
+18         rental and homeowners and protect public health and safety. [RES]
+
+19   2.2    Policies:
+
+20          2.2.1   Ensure that implementation measures recognize variety of family household
+21                  structures. [RES]
+
+22          2.2.2   Encourage a variety of housing types and densities, including mixed-use centers,
+23                  services and amenities. [RES]
+
+24          2.2.3   Clark County shall create a voluntary inclusionary zoning program in residential
+25                  and mixed-use zones with bonus incentives strategies. A demonstration project
+26                  should be created to illustrate profitability to finance institutions and developers
+27                  and to illustrate the effectiveness of the policy to the public. [RES]
+
+28          2.2.4   Develop a fair share housing allocation that provides low- and moderate-income
+29                  housing targets for cities and urban growth areas. The program should include a
+30                  housing inventory, incentives and financing mechanisms. [RES]
+
+31          2.2.5   Preserve the character of stable existing residential neighborhoods through
+32                  selective andImplement innovative zoning techniques that encourages investment
+33                  in new development and discourages that discourage disinvestment, displacement,
+34                  and exclusionary housing. [RES]
+
+35          2.2.6   Encourage a variety of housing types and densities in residential neighborhoods.
+36                  [RES]
+
+
+
+                                                      34
+ 1          2.2.7   Encourage infill as a development and redevelopment concept with provisions that
+ 2                  prevent or mitigate displacement and encourage affordable housing. Appropriate
+ 3                  development regulations that accomplish infill should consider:
+ 4                  • impact on older/existing neighborhoods;
+ 5                  • development that is appropriate to surrounding residential density, housing
+ 6                     type, affordability or use characteristics;
+ 7                  • encouragement of affordable units;
+ 8                  • maintenance of neighborhood integrity and compatibility;
+ 9                  • address and prevent future displacements; and,
+10                  • provision of development standards and processes for infill regardless of the
+11                     sector (public, not-for-profit, or private sectors) creating it. [GHG, RES]
+
+12          2.2.8   Assure that policies, codes and ordinances promote neighborhood designs that are
+13                  pedestrian and transit friendly and discourage reliance upon the automobile.
+14                  [GHG, RES]
+
+15   2.2.9 The county should take appropriate action to encourage the preservation and expansion
+16   of the current stock of federally subsidized affordable housing. [RES]
+
+17   Washougal Urban Growth Area
+
+18          2.2.10 The Development Code will provide for mobile and manufactured housing in a
+19                 manner that ensures that such developments contribute to the design quality,
+20                 landscape standards and safety of the community.
+
+21          2.2.11 The Development Code will encourage innovative housing design for efficient, low
+22                 cost, high-density housing.
+
+23          2.2.12 The Development Code will provide for group homes and other institutional
+24                 housing for special needs persons.
+
+25          2.2.13 The City will encourage individual and neighborhood beautification programs using
+26                 garden clubs, schools and other local groups.
+
+27   Goal: Plan for increasing housing needs of low-income and special needs households. [RES]
+
+28   2.3    Policies
+
+29          2.3.1   Assure that codes and ordinances allow for a continuum of care and housing
+30                  opportunities for special needs populations, such as emergency housing, permanent
+31                  supportive housing, transitional housing, extensive support, minimal support,
+32                  independent living, family based living, or institutions. [RES]
+
+33          2.3.2   Clark County or local jurisdictions shall plan for low-income and special needs
+34                  housing that is well served by public transit. [GHG, RES]
+
+35          2.3.3   Ordinances shall allow for housing for special needs populations as
+36                  permitted/conditional uses, by basing siting decisions on the impact of the use
+37                  upon the landscape, not on the circumstances of the occupants. [RES]
+
+
+
+                                                     35
+1           2.3.4   Building and site plan codes shall encourage the development, rehabilitation and
+2                   adaptation of housing that responds to the physical needs of special populations.
+3                   [RES]
+
+4           2.3.5   Encourage both the public and private sector (including financial institutions) to
+5                   invest in the creation of special needs housing. [RES]
+
+6           2.3.6   Continue to coordinate the development of special needs housing with social
+7                   service providers and with public agencies that provide services and capital. [RES]
+
+8           2.3.7   Encourage provision of very low and low income housing through the use of
+9                   document recording fees dedicated to affordable housing. [RES]
+
+10          2.3.8   Ensure housing policies, codes and regulations encourage the development of units
+11                  for moderate, low, very low, and extremely low-income households. [RES]
+
+12          2.3.9   Assure that codes and ordinances promote a variety of residential densities and
+13                  housing types, and encourages preservation of existing housing stock. [RES]
+
+14          2.3.10 Establish anti-displacement policies, with consideration given to the preservation
+15                 of historical and cultural communities as well as investments in low, very low,
+16                 extremely low, and moderate-income housing. [RES]
+
+17   Goal: Provide assistance for maintenance and rehabilitation of housing for Clark County
+18         residents. [GHG, RES]
+
+19   2.4    Policies
+
+20          2.4.1   Encourage programs in deteriorating older neighborhoods that address structural,
+21                  demographic and economic issuesthat address building deterioration,
+22                  infrastructure gaps and disinvestment while also mitigating for displacement risks.
+23                  Prioritize programs in overburdened communities. [RES]
+
+24          2.4.2   Work with building officials to encourage rehabilitation that provide for safe and
+25                  sanitary housing. [GHG, RES]
+
+26          2.4.3   Encourage voluntary housing rehabilitation programs. [GHG,RES]
+
+27          2.4.4   In areas where housing is rated as fair or below by the local assessor, focus public
+28                  investment on infrastructure surrounding the dwelling as well as rehabilitation
+29                  efforts and on preventing displacement. [GHG ,RES]
+
+30          2.4.5   Maintain the housing stock by rehabilitation rehabilitating homes rated as fair or
+31                  below by the local assessor. [GHG, RES]
+
+32          2.4.6   Enhance the safety of housing by reducing the lead-based paint hazard. [RES]
+
+33          2.4.7   Encourage the creation of housing that is energy efficient, resource efficient and
+34                  has high indoor air quality. [GHG, RES]
+
+35   Goal: Promote an active role in affordable housing using a combination of regulatory,
+36         partnership and finance techniques. [RES]
+
+                                                      36
+1    2.5    Policies
+
+2           2.5.1   Ensure that policies, codes and regulations, including public development
+3                   covenants, provide the opportunity to site affordable housing types, in particular
+4                   off-site manufactured homes and accessory units. [RES]
+
+5           2.5.2   Enhance provision of affordable housing for persons with incomes less than 30
+6                   percent of the median family income by using available federal and state programs
+7                   and by promoting private/public partnerships which focus on this affordability
+8                   range. [RES]
+
+ 9          2.5.3   Enhance provision of affordable housing through the development of at least one
+10                  and preferably more than one, private/not for profit/government partnership with
+11                  the purpose of creating housing priced for persons with incomes between 30 and
+12                  90 percent of the median family income. [RES]
+
+13   Goal: Establish a secure funding mechanism to support development of affordable housing.
+14         Coordinate and concentrate public expenditures to make positive and visible impacts on
+15         targeted neighborhoods. [RES]
+
+16   2.6    Policies
+
+17          2.6.1   Assess the impacts of fee waivers, exemptions and other deductions or exclusions
+18                  on the housing needs continuum. [RES]
+
+19          2.6.2   Target the work of housing partnerships (private, not for profit or profit) to various
+20                  income levels, to encourage rental and home ownership opportunities. [RES]
+
+21          2.6.3   Encourage and stimulate financing for affordable housing including innovative,
+22                  single room occupancy. [RES]
+
+23   Goal: Support diversity in the mix of housing types in the community, while improving home
+24         ownership tenure. [RES]
+
+25   2.7    Policies
+
+26          2.7.1   Provide opportunities for new development types to occur. There shall be no more
+27                  than 75 percent of any single product type of housing in any jurisdiction (e.g.,
+28                  single-family detached residential).
+29                  Strategies to achieve these opportunities include but are not limited to:
+30                  • Minimum density for single family and multi-family. These should average:
+31                      eight or more dwelling units per acre within the Vancouver urban growth area,
+32                      six or more units per acre with the Battle Ground, Camas, Ridgefield and
+33                      Washougal urban growth area and four or more units per acre within the La
+34                      Center and Woodland urban growth area.
+35                  • Provisions for Accessory Dwelling Units.
+36                  • Provision for duplexes, triplexes, quadplexes, and cottages in single family.
+37                  • Provisions for townhouses/row houses.
+38                  • Allowance of manufactured home parks.
+39                  • Provision for diversified single-family and middle housing types throughout
+40                      low-density zones.
+
+                                                     37
+1                   •   Recognition of the flexibility allowed in housing types as part of a Mixed Use
+2                       Development (e.g. living units above commercial areas).
+3                   •   Recognition of Assisted Living Units as a housing type.
+4                   •   Provision for diversified housing types allowed as part of a mixed use
+5                       development.
+6                   •   Recognition of Senior Housing Units as a housing type. [RES]
+7
+8           2.7.2   Consider the dislocation impacts of programs that promote conversion of units
+9                   from rentals to owner occupied. [RES]
+
+10          2.7.3   Encourage housing that is created using the principles of Universal Design. [RES]
+11
+
+12   Goal: Plan for and support diverse, affordable, climate-resilient housing options throughout
+13         the county. Encourage and support equal access to housing for renters, homeowners,
+14         and people without stable shelter to protect public health and safety. [RES]
+
+15   2.8    Policies
+
+16          2.8.1   Ensure that policies, codes, regulations, and practices increase and protect access
+17                  to safe, affordable housing, especially in overburdened communities. Access to
+18                  safe, stable housing provides protection during extreme weather events, while
+19                  affordable housing leaves residents more resources to spend on resilience-building
+20                  essentials such as air conditioning, air purification, food, and health care. [RES]
+
+21          2.8.2   All Housing Element policies are also considered Climate Element resilience
+22                  policies. [RES]
+
+23   Goal: Prevent discrimination, address displacement, and mitigate past harm in the
+24   development and maintenance of housing. [RES]
+
+25   2.9 Policies
+
+26          2.9.1   Collaborate with community leaders, organizations, non-profits, and businesses to
+27                  help vulnerable groups obtain and maintain housing. [RES]
+
+28          2.9.2   Support resident ownership and nonprofit ownership of manufactured home
+29                  parks. Develop and apply an overlay zone for existing and new manufactured home
+30                  parks that supports continued manufactured home park use and limits
+31                  redevelopment to other uses. Evaluate options for enhanced notification and
+32                  relocation assistance in the event of park closures. [RES]
+
+33          2.9.3   Evaluate the potential for displacement on lands proposed for rezone or
+34                  redevelopment.[RES]
+
+
+
+
+                                                     38
+1    STRATEGIES
+2    The following strategies are proposed as a means to achieve the goals and policies of the Housing
+3    Element. These are a range of strategies that the county is considering and some of these
+4    strategies may be implemented over time.
+
+ 5      •   Develop a program to assist municipalities in accommodating diverse households.
+ 6      •   Maintain a tenant/landlord handbook to focus on tenant/landlord rights and
+ 7          responsibilities as well as fair housing legislation.
+ 8      •   Provide targeted information regarding fair housing such as booths at public events, web
+ 9          site and a more active role in support of fair housing regulations.
+10      •   Work with financial institutions, not for profits and the public sector to create mechanisms
+11          such as reverse mortgage programs, loan pools, housing trust funds, local funding and
+12          other tools to finance rehabilitation and construction of affordable housing.
+13      •   The county supports the extension of contracts for federally subsidized affordable housing
+14          that are up for renewal.
+15      •   The county supports the purchase of expired federally subsidized affordable housing by
+16          non-profits or the Vancouver Housing Authority in order to preserve the affordability of
+17          the housing.
+18      •   Maintain an outreach/education program to explain all aspects of home ownership and
+19          tenancy including maintenance, repair, landscaping, credit, prevention of discrimination
+20          and predatory lending.
+21      •   Continue to enhance partnerships between public and private sector interests to work
+22          with Home Investment Partnership, state agencies, financial institutions, builders, etc., to
+23          develop housing appropriate for all groups along the housing continuum.
+24      •   Promote affordable housing demonstration projects at a variety of densities and
+25          incorporating a variety of housing types such as elderly housing, smaller cottage one-story
+26          housing in order to illustrate what can be accomplished using local builders, financing, etc.
+27      •   Promote employer sponsored homeowner programs.
+28      •   Provide information to the lending community regarding the planning process and its
+29          impact on the development process.
+30      •   Encourage the use of low income tax credits and bond financing for equity in construction
+31          financing.
+32      •   Encourage the development of custom lending targeted for difficult to finance projects.
+33      •   Develop finance mechanisms to preserve and rehabilitate small apartment complexes (8-
+34          20 units).
+35      •   Enhance the local (nonfederal) renewable housing fund, such as 2060, for people with low
+36          incomes and special needs. Resources for the fund might be the result of bond issues,
+37          mileage, existing revenue or reallocation of the real estate excise tax (REET).
+38      •   Promote the facilitation of low-income housing projects through the use of the
+39          Development Coordinator. Provide guidance for these projects on process, available
+40          options and compliance with state and local codes.
+41      •   Develop a voluntary inclusionary zoning program.
+42      •   Develop affordable housing program to address the impacts of mobile home park
+43          conversion on residents.
+44      •   Encourage the preservation and expansion of rental housing for seniors with incomes
+45          below 60 percent (establisher federal guidelines) of the area’s median income.
+
+
+                                                     39
+ 1   •   Encourage weatherization of homes to reduce energy costs. Provide information,
+ 2       education and assistance to moderate income households who do not qualify for the
+ 3       federal weatherization assistance program but cannot afford the initial weatherization
+ 4       investment.
+ 5   •   Develop a Clark County Universal Design Information Guide to assist homeowners in
+ 6       increasing the ease and flexibility of their home.
+ 7   •   Consider incorporating universal design principles in Clark County’s building code review
+ 8       process.
+ 9   •   Encourage the development of accessory dwelling units (ADUs) – by exempting them from
+10       site plan review. Consider exempting ADUs from TIFs and PIFs.
+11   •   Consider more flexibility in the creation of duplexes by allowing them in all single family
+12       zones.
+13   •   Encourage new developments of senior housing to be within a half-mile of transit, services
+14       and retail amenities.
+15   •   Consider cohousing to be developed in single family residential zones.
+16   •   Consider assisted living facilities in single-family residential zones as a conditional use.
+17   •   Consider developing a shared housing program.
+18   •   Partner with the Building Industry Association to provide a universal-designed home and
+19       information at the Clark County Parade of Homes.
+20   •   Consider zone changes to allow more areas to support diverse housing types, including
+21       small-lot single-family, multifamily, duplexes and accessory dwelling units.
+
+
+
+
+                                                  40
+

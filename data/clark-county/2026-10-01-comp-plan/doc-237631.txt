@@ -1,0 +1,37 @@
+         Clark County Code                                                                                         Page 1/1
+         40.620 CALCULATION OF DEVELOPMENT
+         IMPACT FEES
+1                             40.620 CALCULATION OF DEVELOPMENT IMPACT FEES
+
+
+2    40.620.010      Traffic Impact Fee Formula
+3    The impact fee component for roads shall be calculated using the following formula:
+
+4    TIF = (size of development by unit of measure/unit of measure) x (daily trips per unit of measure) x (1 - pass-by
+5    factor) x (BEF) x (0.85) x (fee per daily trip by district)
+
+ 6   A.     “Unit of measure” means the associated trip generation rates and other factors by land use type that have been
+ 7   provided in the capital facilities plan Traffic Impact Fee Technical Document and supplemented by the current
+ 8   Institute of Transportation Engineers Trip Generation Manual along with the Institute of Transportation Engineers
+ 9   Trip Generation Handbook. The rates shown in the Traffic Impact Fee Technical Document are most commonly
+10   used and are based on the Institute of Transportation Engineers Trip Generation Manual and Trip Generation
+11   Handbook.
+
+12   B.    “Pass-by factor” means trips that are made as intermediate stops on the way from an origin to a primary trip
+13   destination without a route diversion. The pass-by factor can be obtained in the Institute of Transportation Engineers
+14   Trip Generation Manual.
+
+15   C.    “BEF” means business enhancement factor; a multiplier of 0.70 used to reduce TIF payment for retail and
+16   service-related businesses only. Retail and service related businesses have shorter average trip lengths, reducing
+17   impacts on the existing transportation infrastructure.
+
+18   D.    Adjustment of 0.85 is applied for the portion of anticipated additional tax revenues resulting from a
+19   development which is pro-ratable to system improvements contained in the capital facilities plan.
+
+20       (Amended: Ord. 2016-06-12; Ord. 2023-01-08)
+
+
+
+
+                      The Clark County Code is current through Ordinance 2026-02-02, passed February 3, 2026.
+

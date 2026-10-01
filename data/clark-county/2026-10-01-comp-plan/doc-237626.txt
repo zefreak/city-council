@@ -1,0 +1,1960 @@
+1    APPENDIX A
+2    Transportation Issues
+3    Transportation Capital Facilities Plan
+4    Summary
+5    Transportation and transportation infrastructure issues have been central to the public discussion regarding the
+6    preparation of an updated Comprehensive Plan for Clark County. This appendix represents a summary of the policy
+7    discussions undertaken by the Board of County Councilors:
+
+8           1. Adoption of a new 20-year transportation capital facilities plan to support the land use plan.
+
+ 9          2. Confirmation of the 6-year Transportation Improvement Program as the first 6 years of the
+10             transportation capital facilities plan.
+
+11          3. Amendments to the transportation concurrency standards contained both in the transportation element
+12             of the comprehensive plan and in Clark County Code.
+
+13   This appendix identifies the current and future needs of the county’s transportation system, along with the specific
+14   actions and requirements for bringing facilities into compliance with the multimodal level of service standards
+15   established in the Comprehensive Plan’s Transportation Element. A financial analysis section has been prepared to
+16   compare projected revenue against anticipated costs to guide future policy discussions and actions regarding funding.
+17   The final section of this report appendix describes the strategies and future policy actions which, in some combination,
+18   could be adopted to address the projected shortfall in revenues to fully fund the proposed transportation capital
+19   facilities plan.
+
+20   Current and Future Needs Analysis
+21   The analysis of the April 28, 2026, preferred Comprehensive Plan land use map used to develop the CFP followed the
+22   a similar approach used to examine with the prior plan land use alternatives examined in this the Environmental
+23   Impact Statement analysis process. The plan preferred land use map was converted to households and employment
+24   projections based on the yields from the vacant buildable lands model and the application of the expected zoning. As
+25   much as possible, the allocation of households and employment was reviewed with local jurisdictions and adjustments
+26   were made as needed to reflect local knowledge of development potential. Table A.1 summarizes the land use inputs
+27   used for the transportation analysis. The land use assumptions and inputs used for the transportation needs analysis
+28   are documented in Chapter 1 - Land Use Element and Chapter 5 - Transportation Element.
+
+29   Table A.1 | Land Use Inputs Used in Transportation Analysis1
+
+                                  Households         Retail                 Other
+                                                     Employment             Employment
+                                  217,079            42,214                 171,692
+
+
+
+     1 Source: Clark County GIS
+                                                                1
+1
+
+ 2   The land use assumptions were input into the regional transportation demand model maintained by Southwest
+ 3   Washington Regional Transportation Council (RTC) to prepare an assessment and forecast of the likely future
+ 4   demand on the county’s roadway system. The assessment and forecast (assuminged that the list of improvements
+ 5   identified in the current Metropolitan Transportation Plan) are constructed as part of the future scenario. Where
+ 6   substandard major corridors under County jurisdiction showed a Level-of-Service (LOS) E/F, additional mitigation
+ 7   projects were listed in the Clark County Capital Facilities Plan. Where major corridors with Comprehensive Plan
+ 8   designations and unsignalized intersections of regional significance showed forecasted traffic volumes are high
+ 9   enough that multimodal level of service (MMLOS) falls below their minimum standards, mitigation measures and
+10   actions were identified and listed in the project list to bring the facilities into compliance.
+
+11   Separate analyses were conducted for active transportation facilities and safety needs, which are summarized in the
+12   sections below. The findings from the needs analyses from this section were used to inform the preparation of the
+13   CFP’s 20-year Project List, which outlines the potential mitigation measures and actions to address the needs of the
+14   county’s transportation system.
+
+15   ACTIVE TRANSPORTATION NEEDS
+16   An analysis of the active transportation network designated in the Transportation Element resulted in findings which
+17   showed that 150 road segments, totaling 106.4 miles, do not currently meet the minimum LTS 2 and LTS 3 thresholds
+18   established as the active transportation LOS standards in the Transportation Element. These numbers exclude
+19   roadways identified for improvements in the 20-year CFP Project List to address vehicle needs, assuming those
+20   improvements will simultaneously provide improvements to pedestrian and bicycle facilities that will meet the
+21   minimum MMLOS standards.
+
+22   SUMMARY OF PEDESTRIAN FACILITY NEEDS
+23   Across the 150 stand-alone road segments that did not meet the minimum MMLOS standards for active
+24   transportation, an estimated 391,855 linear feet (74 miles) of sidewalk are needed to bring the active transportation
+25   network into alignment with the MMLOS standards for pedestrians.
+
+26   Nearly 80% of pedestrian fatalities in the US occur at mid-block locations.2 A supplemental systemwide analysis was
+27   conducted to project the existing and future potential needs for enhanced pedestrian crossings. The analysis relied on
+28   the land use map to determine where pedestrian demand would likely be generated and followed the decision and
+29   methodology framework outlined in the Clark County Pedestrian Crossing Treatment Policy (2018) and Clark
+30   County Pedestrian Crossing Prioritization Program (2021) to identify potential crossing locations and potential
+31   crossing treatment types. The findings from the analysis showed an estimated need of 393 enhanced pedestrian
+32   crossings—generally located between major intersections, or mid-block. Table 1: Potential Pedestrian Crossing
+33   Needs by Treatment Type provides a summary of the potential system-wide needs for enhanced pedestrian
+34   crossings by treatment type.
+
+35
+
+
+
+
+     2
+      R. J. Schneider, “United States Pedestrian Fatality Trends, 1977 to 2016,” Transportation Research Record: Journal of the
+     Transportation Research Board 2674, no. 9 (2020): 1069–1083
+                                                                     2
+1    Table 1: Potential Pedestrian Crossing Needs by Treatment Type 3
+         Treatment       Treatment Type Description                                                                            Count
+         Type
+         A               Marked Crosswalk                                                                                      93
+         B               Marked Crosswalk with Flashing Beacon                                                                 106
+         C               Marked Crosswalk with Median Island                                                                   18
+         D               Marked Crosswalk with Flashing Beacon and Median Island                                               100
+         E               Marked Crosswalk with Pedestrian Hybrid Beacon (PHB/HAWK) or Traffic Signal                           76
+                                                                                                                    Total      393
+2
+
+3    SUMMARY OF BICYCLE FACILITY NEEDS
+4    Across the 150 stand-alone road segments that did not meet the minimum MMLOS standards for active
+5    transportation, Table 2: Bicycle Facility Needs by Type provides a summary of the bicycle facilities needed to bring
+6    the active transportation network into alignment with the MMLOS standards for bicyclists.
+
+7    Table 2: Bicycle Facility Needs by Type4
+         Bicycle Facility Type        Facility Type Description                                                         Total
+                                                                                                                        Length
+                                                                                                                        (center
+                                                                                                                        line miles)
+         Shared-Use Path              A paved path that is ADA accessible, serves bidirectional travel, and is          20.9
+                                      separated from motorized vehicular traffic by an open space, barrier,
+                                      curb, or exist in an independent corridor.
+         Protected Bike Lane          A Buffered Bike Lane that features a raised physical barrier in the               52.5
+                                      buffered space or designated facility that provides grade separation from
+                                      the roadway (i.e., sidewalk level). This facility type is also referred to as a
+                                      Separated Bicycle Lane by the Federal Highway Administration.
+         Buffered Bike Lane           A Bike Lane that is paired with a painted buffer space separating the             27.5
+                                      bicycle lane from the adjacent motor vehicle lane and/or parking.
+         Bike Lane                    A lane within the roadway that has been designated for use for bicyclists         4.4
+                                      by striping, signage, and pavement.
+         Shared Roadway               A roadway where the travel space is shared by people driving and biking.          1
+                                      These are typically lower volume, and/or lower speed streets where
+                                      people on bikes can be comfortable riding in mixed traffic.
+                                                                                                               Total    106.4
+8
+
+9    MOTOR VEHICLE NEEDS
+10   The twenty-year forecasting of travel demand resulted in findings that showed five road segments, totaling 1.23 miles,
+11   that exceed the 0.9 v/c ratio threshold established as the vehicle LOS standard in the Transportation Element. These
+12   impacted facilities are listed in Table 3: Future Traffic Impacts on Local Arterials.
+
+
+
+     3
+         Source: County Staff’s GIS Analysis, 2026; Clark County Pedestrian Crossing Treatment Policy, 2018
+     4
+         Source: County Staff’s GIS Analysis, 2026; Clark Communities Bicycle and Pedestrian Advisory Committee, 2025
+                                                                     3
+1    Table 3: Future Traffic Impacts on Local Arterials5
+         Locations                                                Length
+                                                                  (miles)
+         NE 152nd Ave (NE Padden Parkway – NE Ward Rd)            0.23
+         NE 172nd Ave (NE 1st St – NE 8th St)                     0.39
+         NE 99th St (NE Hwy 99 – SB- I-5 off-ramp)                0.23
+         NE 88th St (NB-I 205 off-ramp6 - NE 72nd Ave)            0.15
+         NE Ward Rd (156th Pl – SR 500)                           0.29
+2
+
+3    Findings also showed that twelve unsignalized intersections will experience traffic volumes in the future that may
+4    warrant signalization, or other mitigation. These locations are listed in the 20-year Project List section of this appendix.
+5    Additionally, findings showed that seven unsignalized intersections that remain from the 2020 transportation CFP,
+6    may no longer experience traffic volumes in the future that would warrant signalization. These intersections are listed
+7    below and were removed from the 20-year Project List:
+
+ 8         •   NE 137th Ave/144th St
+ 9         •   NE 137th Ave/159th St
+10         •   NE 167th Ave/ NE 199th St
+11         •   NE 212th Ave/109th St
+12         •   NE 87th Ave/NE 63rd St
+13         •   NE 92nd Ave/NE 179th St
+14         •   NE Stutz Rd/NE 117th St
+
+15   SAFETY NEEDS
+16   The transportation CFP uses the analysis and findings from the Clark County Road Safety Plan (LRSP) to identify the
+17   safety needs for the county’s transportation system. The LRSP analyzed collision data county-owned roadways from
+18   January 2018 – December 2022. From 2018-2022, there were 5,389 total crashes reported in unincorporated Clark
+19   County, 279 resulting in a serious injury or fatality. The following were notable trends from the analysis:
+
+20         •   The most common crash type for severe crashes was roadway departure, at 39.4% of all fatal and serious
+21             injury crashes.
+22         •   Nearly half of all crashes in Clark County (42.9%) occurred at an intersection or were intersection related.
+23         •   High risk behavior such as speeding, alcohol/drug impairment, distraction, and unrestrained occupants are
+24             key factors in fatal and serious injury crashes.
+25         •   Over one in five fatal and serious injury crashes (21.5%) involved a motorcycle.
+26         •   There is a higher prevalence of young drivers (ages 16-25) in fatal and serious injury crashes.
+
+27   From this analysis, five intersections and seven roadway segments were identified as prioritized locations that needed
+28   safety improvements. The locations are as follows:
+
+29         •   NE 139th Street/NE 72nd Avenue
+
+
+
+     5
+      Source: DKS Associates’ analysis of RTC’s Regional Travel Demand Model based on the Preferred Land Use Alternative, 2026
+     6
+      Note: Planned WSDOT improvement that is assumed in the Regional Travel Demand Model because it is a listed project in the
+     Regional Transportation Plan (RTP), 2024
+                                                                   4
+ 1       •   NE 88th Street/NE 25th Avenue
+ 2       •   NE 259th Street/NE 72nd Avenue
+ 3       •   NE 17th Avenue/NE Minnehaha Street
+ 4       •   NE 159th Street/NE 72nd Avenue
+ 5       •   NE Highway 99 (NE Hazel Dell Plaza - NE 63rd St)
+ 6       •   NE Lucia Falls Rd (about 0.6 miles east of NE 294th St - NE Sunset Falls Rd)
+ 7       •   NE Washougal River Rd (36264 SE Washougal River Rd - 33503 NE Washougal River Rd)
+ 8       •   NW 99th St (NW 11th Ave - NE 6th Ave)
+ 9       •   NE Hazel Dell Ave (NE 66th St - NE Newhouse Rd)
+10       •   NE 72nd Ave (NE 209th St – NE 219th St)
+11       •   NE W H Garner Rd (near 22705 NE W H Garner Rd - 22506 NE W H Garner Rd)
+
+12   20-Year Transportation Capital Facilities Plan
+13   Project List
+14   Table A.2 This section presents the proposed 20-year list of transportation capital facilities projects. This list, as
+15   amended, should be is adopted with the comprehensive plan and updated on a regular basis (not to exceed five years).
+16   It forms the basis of a future update to the 6-year Transportation Improvement Program (TIP), the county-specific
+17   projects included in the Clark County Regional Transportation Plan, and the Clark County traffic impact fee program.
+
+18   In developing the 20-year transportation capital project list, the adopted 2016-2021 2026-2031 Transportation
+19   Improvement Program (TIP) was used as the starting point, with cost estimates taken directly from the TIP document.
+20   The second group of projects includes a list of corridor improvement projects and intersection needs identified to
+21   mitigate major regional corridors which exhibited a low level of service in project list was then revised and updated to
+22   include corridor and intersection improvements identified to maintain or bring facilities into compliance with
+23   established multimodal level of service standards in the transportation analysis. The third group of multi-jurisdictional
+24   projects includes regional transportation projects that are programmed in the existing Metropolitan Transportation
+25   Plan and were assumed in the 2035 future network for the transportation analysis. Finally, the fourth group is a list of
+26   projects that are necessary to maintain, preserve and repair the County’s transportation system on a regular annual
+27   cycle. Improvements that have been identified through separate processes to address additional system needs are
+28   also incorporated in the project list, and include, but are not limited to, the 179th St Access and Circulation Plan, Local
+29   Road Safety Plan, and Bicycle and Pedestrian Master Plan. Projects have then been categorized into the following
+30   groups based on the type of improvement and needs they are addressing:
+
+31       •   Large Capital
+32       •   Active Transportation
+33       •   Safety
+34       •   Regional Partnership
+35       •   Ongoing Programs
+
+36   Figure 20 in Appendix B provides a map of all planned improvements. The estimated cost of county transportation
+37   improvements over the 20-year land use plan is $691.2 million1.5 billion.
+
+
+
+
+                                                                  5
+1                                                                       Table A.2 | Clark County Twenty Year Capital Facilities Plan
+
+2
+                                                                                         CAPITAL FACILITIES PLAN 2016-2035
+                                                                                           I. Committed - TIP (2016-2021)
+                                                                                                                                                                                  Cost to
+                                                                                                                  Total Costs in 6-                    Spent Prior to Completed   Complete after 2016-2035
+    Road                                 From                   To                      Comments                  year TIP          Total Project Costs2016           by 2021     2021            Project Costs
+    NE 119th St                          NE 72nd Ave            NE 87th Ave                                        $     3,744,000 $       23,655,000 $ 19,911,000 Yes             $          -    $     3,744,000
+    NE 47th Ave @ NE 78th St             Intersection                                                              $       214,000 $        2,623,000 $ 2,409,000 Yes              $          -    $       214,000
+    NE 94th Ave                          NE Padden Pkwy         NE 99th St                                         $     5,021,000 $        8,973,000 $ 3,952,000 Yes              $          -    $     5,021,000
+    TSO Projects (5)                     Various                                                                   $     3,766,000 $        4,981,000 $ 1,215,000 Yes              $          -    $     3,766,000
+    Highway 99                           NE 99th St             NE 103rd St                                        $ 10,116,000 $          10,757,000 $ 641,000 Yes                $          -    $    10,116,000
+    NE 99th St                           NE 94th Ave            NE 117th Ave                                       $     2,065,000 $       10,547,000 $ 1,304,000 No               $    7,178,000 $      9,243,000
+    NE 119th St                          NE 50th Ave            NE 72nd Ave                                        $     6,225,000 $        6,994,000 $ 769,000 Yes                $          -    $     6,225,000
+    NE 10th Ave                          NE 154th St            NE 164th St                                        $ 18,824,000 $          22,751,000 $ 3,927,000 Yes              $          -    $    18,824,000
+    NE 10th Ave                          NE 149th St            NE 154th St                                        $     9,929,000 $       10,195,000 $ 266,000 Yes                $          -    $     9,929,000
+    NE 179th St                          NE Delfel Rd           NE 15th Ave                                        $     1,876,000 $       13,100,000 $ 950,000 No                 $ 10,274,000 $       12,150,000
+    NE 119th St                          NE 87th Ave            NE 112th Ave            1.0 capacity EB            $ 11,342,000 $          12,017,000 $ 675,000 Yes                $          -    $    11,342,000
+    NE 15th Ave                          NE 179th St            NE 10th Ave                                        $       640,000 $       15,000,000 $          -     No          $ 14,360,000 $       15,000,000
+    Salmon Ck Ave                        WSU Entrance           west of NE 50th Ave     WSU provide R/W; env. Issues
+                                                                                                                   $     1,523,000 $       18,062,000 $ 122,000 No                 $ 16,417,000 $       17,940,000
+    NE 72nd Ave                          NE 122nd St            NE 133rd St                                        $     2,600,000 $       10,800,000 $          -     No          $    8,200,000 $     10,800,000
+    Miscellaneous Projects                                                                                         $       600,000 $          650,000 $      50,000 Yes            $          -    $       600,000
+    Totals                                                                                                         $ 78,485,000 $ 171,105,000 $ 36,191,000                         $ 56,429,000 $ 134,914,000
+
+                               II. New - Concurrency Driven Projects
+    Road                                   From                   To                    Comments                   Cost
+    Padden Pkwy @ Andresen                 Intersection                                 Interim upgrade             $ 15,000,000
+    Ward Road                              NE 88th St             NE 172nd Ave Bridge   1.7 capacity NB             $   9,700,000
+    NE 72nd Ave                            NE 133rd St            NE 219th St           NB 1.23 capacity            $ 19,200,000
+                                                  Minnehaha Street & NE 17th Avenue
+                                                    NE 87th Avenue & NE 63rd Street
+                                                     NE 117th Street & NE Stutz Road
+    Urban Arterial Intersections                                                        New 2016-2035 Project      $    15,000,000
+                                                      NW 36th Avenue & Bliss Road
+                                                  NE 119th Street & NE 132nd Avenue
+                                                   NE 239th Street & NE 92nd Avenue
+    NE 172nd Ave                           NE Ward Rd             NE 119th St           New 2016-2035 Project      $     6,000,000
+    NE Ward Rd                             NE 162nd Ave           NE Davis Rd           New 2016-2035 Project      $     6,000,000
+    NE 172nd Ave                           NE 18th St             NE 39th St            New 2016-2035 Project      $     4,000,000
+    NE 152nd Ave                           NE Padden Pkwy         NE 99th St            New 2016-2035 Project      $     8,000,000
+    NW Lakeshore Ave                       NW 78th St             NW 109th St           New 2016-2035 Project      $    15,000,000
+3   Cost of New Projects                                                                                           $    97,900,000
+
+
+
+
+                                                                                                           6
+1
+
+
+
+
+    7
+1    Level-of-Service Standards
+
+ 2   Level-of-service (LOS) standards serve both as a standard of measure in administration of the county’s transportation
+ 3   concurrency program and as a general indicator of congestion levels. The goals of the Transportation Concurrency
+ 4   Program and the Growth Management Act require a balance between land development and the transportation
+ 5   facilities serving that development. The variables in this balance include the growth rate, transportation investments
+ 6   and level-of-service standards. The growth rate was chosen from a range provided by the State Office of Financial
+ 7   Management. Transportation improvement investments were planned over the 20-year horizon based on
+ 8   transportation model analysis and a projection of current revenue streams. The LOS standards are subject to local
+ 9   discretion, but to some extent are dependent on the growth rate, revenue, capital improvements and the local level of
+10   tolerance for peak hour traffic congestion. Maintaining current LOS standards would require either increasing
+11   transportation investments through more revenue or a reduction in the chosen growth rate and the supply of
+12   buildable lands.
+
+13   Even with the capacity provided by the improvements in the transportation CFP and the Metropolitan Transportation
+14   Plan, the transportation cost/revenue analysis shows that it may not be possible to maintain the current adopted
+15   corridor level-of-service standards. The county population will increase by about 128,586 residents. The number of
+16   jobs will also grow to approximately 101,153. These two major factors plus the projected increase in vehicle miles
+17   traveled will likely result in levels of congestion that could require a lowering of standards in the future. One purpose
+18   of the concurrency program is to prevent land development from greatly outpacing transportation facilities and
+19   services. If specific areas of the county rapidly develop before the public and private investments are made in
+20   surrounding corridors, moratoria declared by ordinance may be one result. The county also uses Urban Holding to
+21   insure that critical improvements are reasonably funded before new areas are opened for urban development.
+
+22   WAC 365-196-415(2)(b) recommends “Counties forecast needs for capital facilities during the planning period, based
+23   on the levels of service or planning assumptions selected and consistent with the growth, densities and distribution of
+24   growth anticipated in the land use element. The forecast should include reasonable assumptions about the effect of
+25   any identified system management or demand management approaches to preserve capacity or avoid the need for
+26   new facilities.” The needs analysis for the 2016-2035 Comprehensive Growth Management Plan utilized travel
+27   demand forecast modeling to determine locations where improvements to the transportation system may be
+28   necessary. This analysis focused on two types of transportation deficiencies: segments (link) and intersections.
+
+29   Segment (Link) Analysis
+
+30   The link deficiency analysis focused on the PM peak hour Committed 2035 RTC model. All links showing volume to
+31   capacity (v/c) ratios greater than 0.90 were identified as corridor level deficiencies. Once the deficiencies were
+32   identified, the PM Peak hour Capital Facilities Plan 2035 RTC model was analyzed for deficiencies, using the same link
+33   level criteria (v/c > 0.9). The link level network improvements between the Committed model and Capital Facilities
+34   Plan model were identified as projects and reviewed to determine which (if any) deficiency each project addressed.
+35   The projects that met an identified link level deficiency were kept in the updated Financially Constrained Project list.
+36   Projects included in the Financially Constrained model but not addressing any identified deficiencies were removed
+37   from the updated Capital Facilities Plan Project list. All link deficiencies identified in the Capital Facilities Plan model
+38   were addressed with new capacity improvement projects. These projects were added to the updated Capital Facilities
+39   Plan Project list. Comparisons between the RTC models with the old land use and the updated land use indicated
+40   significant trip loss within the Vancouver city limits, especially on the freeways (I-5 and I-205). As this trip loss was
+41   attributed to some outdated land use projects within the Vancouver city limits, the major WSDOT projects on I-5 and
+
+
+                                                                  8
+1    I-205 were not compared to modeled deficiencies, but were kept unchanged on the updated Capital Facilities Plan
+2    project list. The same approach was used when analyzing projects in urban areas near the Vancouver city limits.
+
+3    All new segment projects were coded simply as increased link level capacity within the travel models. In addition, the
+4    committed model network was updated to include all the committed projects from the most recent Capital Facilities
+5    Plan.
+
+6    Intersection Analysis
+
+ 7   The intersection deficiency analysis also focused on the PM peak hour Committed 2035 RTC model. The analysis
+ 8   focused on unsignalized intersections with forecasted volumes high enough to trigger possible improvements.
+ 9   Unsignalized intersection deficiencies were estimated based on the conflicting major/minor street unsignalized
+10   capacities. The conflicting volume analysis helps identify intersections that may fail to meet LOS E standards or may
+11   meet signal warrants. As all the intersection analysis was performed at the approach link level (turn volumes were not
+12   analyzed). Intersections identified by this process do not necessarily require signalization and in some cases, other
+13   intersection improvements may be sufficient. The potential deficiencies were revised after assuming some traffic
+14   disaggregation on the modeled collector roadways, as the Committed 2035 RTC model is a simplified network with
+15   aggregated volumes. For example, potential deficiencies that were triggered based on aggregated volumes from local
+16   roads not included in the Committed 2035 RTC model were not included as intersection deficiencies since these
+17   volumes would likely be spread across multiple intersections. Next, the intersection deficiencies were compared to
+18   the corridor level deficiencies and overlapping deficiencies were grouped into one project. All remaining intersection
+19   deficiencies identified were addressed with new intersection improvement projects. These projects were added to the
+20   updated Capital Facilities Plan Project list.
+
+21   The committed and financially constrained segment and intersection projects for the Clark County unincorporated
+22   areas are shown in the attached figure and tables.
+
+23   Project Identification
+
+24   The methodology used to analyze segments and intersections resulted in the Clark County 2035 Needs Analysis,
+25   detailed in Table A.3. This list separates projects into six categories:
+
+26   •       Modified Existing CFP Projects
+
+27   •       Newly Identified CFP Projects
+
+28   •       Removed Existing CFP Projects
+
+29   •       Committed CFP Projects
+
+30   •       Existing CFP Projects
+
+31   •       WSDOT Projects
+
+32   The modified “Existing CFP Projects” category recommend amending one project currently listed in the 2016-2021
+33   Transportation Improvement Program. The “Newly Identified CFP Projects” section recommends adding 26 projects
+34   to the 20-year Capital Facilities Plan. The “Removed Existing CFP Projects” section recommends removing a project
+                                                                9
+1    from the 20-year Capital Facilities Plan because it was not identified as a capacity need. The “Committed CFP
+2    Projects” section identifies projects in the existing 2016-2021 Transportation Improvement Program (TIP) that are
+3    needed to serve future growth. The “Existing CFP Projects” category identifies projects that are currently included in
+4    the 2014-2033 Capital Facilities Plan that are still needed. The “WSDOT Projects” category includes projects using
+5    State funds on State facilities.
+
+6    The following list in Table A.3 is the result of analysis that forecasted potential areas of congestion in the next 20 years.
+7    The Capital Facilities Plan incorporates some, but not all of these identified locations into the 20-year project list.
+8    Locations that are not included may be street segments that are fully developed and cannot be expanded beyond the
+9    existing classification or constrained by environmental areas.
+
+10                                        Table A.3. | 2035 Capital Transportation Needs
+
+11   2016-2021 TIP Projects
+
+             Road                                              From                           To
+             NE 119th St                                       NE Salmon Creek Ave            NE 72nd Ave
+             NE 99th St                                        NE 94th Ave                    NE 107th Ave
+             NE 99th St @ SR 503                               Intersection
+             Highway 99                                        NE 99th St                     NE 107th St
+             NE 119th St                                       NE 72nd Ave                    NE 87th Ave
+             NE 10th Ave                                       NE 154th St                    NE 164th St
+             NE 47th Ave @ NE 78th St                          Intersection
+             NE 94th Ave                                       NE Padden Pkwy                 NE 99th St
+12   Existing Capital Facilities Plan Projects
+
+             Road                                              From                           To
+             NE 15th Ave Extension                             NE 179th St                    NE 10th Ave
+             Salmon Creek Ave                                  WSU Entrance                   NE 50th Ave
+             NE 119th St                                       NE 87th Ave                    NE 112th Ave
+             NE Padden Parkway                                 NE 78th St                     NE Ward Rd
+             NE 10th Ave                                       NE 149th St                    NE 154th St
+             NE 179th St/I-5 Interchange                       Delfel                         NE 15th Ave
+             NE Ward Rd                                        NE 88th St                     NE 172nd Ave Bridge
+             SCIP Phase 2                                      NE 134th St                    I-205
+             NE 179th St@50th Ave                              Intersection
+             NE 179th St@29th Ave                              Intersection
+             NE 182nd Ave @ SR-5001                            Intersection
+             NE 72nd Ave                                       St John's Road                 NE 223rd St
+13
+
+14
+
+
+
+
+                                                                  10
+1   Newly Identified Projects
+
+         Road                                           From              To
+         NE Delfel Rd                                   NW 179th St       NW 199th St
+         NE 29th Ave                                    NE 134th St       NE 179th St
+         NE 172nd Ave                                   NE Ward Rd        NE 119th St
+         NE Ward Rd                                     NE 162nd Ave      NE Davis Rd
+         NE 172nd Ave                                   NE 18th St        NE 39th St
+         NW 78th St                                     Hazel Dell Ave    Hwy 99
+         NE 107th Ave                                   NE Covington Rd   NE 99th St
+         NE 99th St                                     NE 7th Ave        Hwy 99
+         NW 31st Ave                                    NW 219th St       NW 229th St
+         NE 82nd Ave                                    NE 259th St       NE Daybreak Rd
+         NE 182nd Ave                                   NE 159th St       NE 174th St
+         NE 152nd Ave                                   NE Padden Pkwy    NE 99th St
+         NE Fourth Plain Blvd                           NE 166th Ave      NE 65th St
+         NW Lakeshore Ave                               NW 78th St        NW 109th St
+         Minnehaha Street & NE 17th Avenue              Intersection
+         NE 87th Avenue & NE 63rd Street                Intersection
+         NE 19th Street & 276th Avenue                  Intersection
+         NE 117th Street & NE Stutz Road                Intersection
+         NW 36th Avenue & Bliss Road                    Intersection
+         NE 212th Avenue & NE 109th Street              Intersection
+         NE Ward Road/NE182nd Avenue & NE               Intersection
+         119th Street
+         NE 119th Street & NE 132nd Avenue              Intersection
+         NE 144th Street & NE 137th Avenue              Intersection
+         NE 137th Avenue & NE 159th Street              Intersection
+         NE 159th Street & NE 142nd Avenue              Intersection
+         NE 179th Street & NE 92nd Avenue               Intersection
+         NE 199th Street & NE 29th Avenue               Intersection
+         NE 199th Street & NE 50th Avenue               Intersection
+         NE 199th Street & NE 167th Avenue              Intersection
+         NE 239th Street & NE 92nd Avenue               Intersection
+         NE 259th Street & NE 72nd Avenue               Intersection
+2   Removed Existing Capital Facilities Plan Projects
+
+         Road                                            From             To
+         NE 99th St                                      NE 107th Ave     SR 503
+3   Removed Existing Capital Facilities Plan Projects – WSDOT Projects
+
+           Road                                         From              To
+           SR 503                                       NE 87th St        SW 40th St
+           NW 219th St                                  NW 31st Ave       I-5 NB Ramps
+
+                                                          11
+             I-205                                           Vancouver City Limits        Padden Pkwy
+             I-5                                             NE 179th St                  NE 99th St
+             SR 503                                          NE Gren Fels Dr.             NE 132nd Ave
+             SR 503                                          NE Rosewood Ave              NE 87th St
+             SR 503                                          NE Gren Fels Dr.             NE 269th St
+             NE 50th Avenue & NE 219th Street                Intersection
+1
+
+2    LARGE CAPITAL
+3    This group of projects are needed to maintain vehicle level of service (LOS) standards on local arterials and
+4    intersections of regional significance. These projects represent significant roadway improvements, which involve new
+5    roadway construction projects, roadway reconstruction projects to upgrade facilities to applicable standards, or
+6    intersection upgrades. Corridor-level improvements are listed in Table 4: Large Capital Projects - Road Segments,
+7    while intersection-level improvements are listed in Table 5: Large Capital Projects - Intersections. The project
+8    descriptions incorporate additional improvements and considerations to ensure consistency with planned active
+9    transportation facilities and that the greatest multimodal safety benefit is provided to all roadway users.
+
+10   ACTIVE TRANSPORTATION
+11   This group of projects are needed to maintain MMLOS standards for active transportation users on local arterials and
+12   other active transportation facilities designated in the Transportation Element’s active transportation component.
+13   These projects include upgrades to bicycle facilities, construction of sidewalk and curb ramps, and the installation of
+14   enhanced pedestrian crossings. Corridor-level active transportation improvements are listed in Table 6: Active
+15   Transportation Projects. While only potions of the project corridor may be deficient, the intent is to show what
+16   identified improvements and actions will need to be implemented within the project limits.
+
+17   Individual project cost estimates are not provided for each individual corridor; however, a summary of the anticipated
+18   costs for each type of facility for the corridors listed in Table 6: Active Transportation Projects are provided below:
+
+19       •   Sidewalks - $146,244,000
+20       •   Enhanced Pedestrian Crossings - $53,746,800
+21       •   Bicycle Facilities - $290,658,000
+
+22   SAFETY
+23   This group of projects are needed to address existing safety concerns identified in the Clark County Local Road Safety
+24   Plan (2025). These projects include potential countermeasures to provide spot safety improvements. Corridor-
+25   specific safety improvements are listed in Table 7: Safety Projects – Road Segments, while intersection-specific safety
+26   improvements are listed in Table 8: Safety Projects - Intersections. Some project locations may coincide with other
+27   types of capital projects, and it is the intent that these projects would provide either interim improvements or safety
+28   enhancements beyond what is planned elsewhere.
+
+
+
+
+                                                               12
+1    REGIONAL AND PARTNERSHIPS
+2    This group of projects represent regional transportation projects that will require multi-jurisdictional coordination.
+3    These projects include mitigation of county impacts on state-owned facilities, mitigation of state impacts on county-
+4    owned facilities, and projects initiated by other jurisdictions that affect county-owned facilities.
+
+5    RCW 36.70A.070(6)(iii)(F) requires that local jurisdictions identify needs for the state’s transportation system within
+6    their boundaries. Corridor-level improvements requiring coordination with WSDOT are listed in Table 9: WSDOT
+7    Projects - Road Segments, and while intersection-level improvements are listed in Table 10: WSDOT Projects -
+8    Intersections.
+
+ 9   As a sovereign nation, the Cowlitz Indian Tribe undergoes a separate transportation planning process and does not
+10   need to meet the transportation element requirements in Washington’s GMA. Projects have been submitted by the
+11   Cowlitz Indian Tribe for improvements that the tribe has identified as a need on county-owned facilities. These
+12   improvements are listed in Table 11: Cowlitz Indian Tribe Projects.
+
+13   Additional analysis and interagency coordination are needed to define the County’s role, responsibility, and level of
+14   commitment for each of these listed regional partnership projects. Not all listed projects are included in the CFP’s
+15   financial analysis. Projects that are not included indicate that not enough information is yet available about the project,
+16   the project is currently being studied, or there is no expected financial commitment from the County.
+
+17   ONGOING PROGRAMS
+18   This section outlines other ongoing programs that implement projects that are necessary to maintain, preserve and
+19   repair the County’s transportation system on a regular annual cycle. While specific projects may not be identified on
+20   the 20-year plan, the programs and the projects they implement are included by reference in the transportation CFP.
+21   The cost of these ongoing programs over the 20-years is included in the CFP’s financial analysis.
+
+22   BRIDGES AND CULVERTS
+23   This program includes bridge and culvert repair, rehabilitation, replacement and other bridge/culvert related
+24   improvements. Projects for this program are informed by inspections and annual monitoring from the county’s Annual
+25   Bridge Report, as well as the Washington Department of Fish and Wildlife’s Fish Passage Inventory.
+
+26   ROAD PRESERVATION
+27   This program addresses overlays and other preservation activities. This program also includes slope stabilization
+28   projects, guardrail, and ADA ramps relating to preservation, which are listed in the Sidewalk and Safety Ongoing
+29   Programs.
+
+30   RURAL ROAD IMPROVEMENTS
+31   This program includes shoulder widening, intersection improvements, culvert improvements, and slide stabilization to
+32   preserve and maintain rural roadways in Clark County.
+
+33   ADA COMPLIANCE
+34   This program constructs sidewalks and walkways in urban areas and improves curb ramps to comply with ADA
+35   regulations. This program helps implement the ADA Transition Plan found in Appendix L.
+                                                                 13
+1    SPECIAL STUDIES AND PLANS
+2    Table 12: Special Studies and Plans identifies recommended special studies and additional planning efforts that may
+3    be desired in the future to support the implementation of the 20-year transportation Capital Facilities Plan and local
+4    transportation goals.
+
+5    Table 12: Special Studies and Plans
+      Name                                 Description
+         nd
+      72 Ave Corridor Planning             A planning study to evaluate the planned improvements along the NE 72nd Ave
+      Study                                corridor (from approximately NE 119th St to NE 219th St) and develop
+                                           preliminary project designs.
+      Active Transportation Plan           A plan that would provide an update to the 2010 Clark County Bicycle and
+                                           Pedestrian Master Plan. This effort would include updating the local active
+                                           transportation network, policy framework, project prioritization, and the
+                                           development of a five-year implementation strategy.
+      Curtin Creek-Sunnyside               A circulation plan to evaluate planned/proposed improvements and circulation
+      Circulation Plan                     needs within the general area bounded by NE 119th St, NE 117th Ave, NE
+                                           Padden Pkwy, and NE 72nd Ave.
+      Highway 99 Safety and                A planning study to evaluate the safety and mobility needs along the Highway
+      Mobility Study                       99 corridor and develop preliminary designs. This study will include a
+                                           comprehensive community engagement process to identify desired
+                                           transportation investments to compliment C-TRAN's new Vine service on
+                                           Highway 99, improve connections to the City of Vancouver's Upper Main
+                                           Street Project, and advance the vision of the Highway 99 Subarea Plan and
+                                           support redevelopment.
+      Safe Routes to School Plan           A plan that would strengthen collaboration and partnerships with school
+                                           districts, students, and parents to identify priority sidewalk, pedestrian
+                                           crossing, and other mobility improvements that would increase safety for those
+                                           walking, bicycling, and rolling in designated school walk zones.
+      Salmon Creek Corridor                A planning study to evaluate the planned improvements along the along NE
+      Planning Study                       Salmon Creek Ave/NE 134th St corridor (from approximately NE 20th Ave to NE
+                                           50th Ave) and develop preliminary project designs. This may be done separately
+                                           or in conjunction with a Salmon Creek Interchange 2 project planning study.
+      Target Zero/Speed                    A plan that would provide a county-wide evaluation of current speed limits and
+      Management Plan                      the development of a strategy to align speed limits with safe systems and injury
+                                           minimization approaches to support the county’s safety goal and commitment
+                                           to Target Zero.
+      Ward Rd Corridor Planning            A planning study to evaluate the planned improvements along the along NE
+      Study                                Ward Rd corridor (from approximately NE 152nd Ave to NE Davis Rd) and
+                                           develop preliminary project designs.
+6
+
+7    Evaluation Criteria
+ 8   The Evaluation Criteria for the transportation CFP is being developed as part of the preparation of the Transportation
+ 9   Element of Clark County’s 2025 Comprehensive Plan update. The proposed evaluation criteria would provide an
+10   objective and data driven prioritization framework to help guide implementation of the transportation CFP by
+11   evaluating each project’s effectiveness in advancing the county’s goals and policies from the Comprehensive Plan.
+                                                                14
+1    Projects are categorized as high, medium, or low priority, and the highest priority projects will be recommended for
+2    further evaluation for inclusion in the 6-year Transportation Improvement Program (TIP).
+
+3    The evaluation framework is based on the goals and policies proposed in the Transportation Element of the
+4    Comprehensive Plan. From these goals and their respective policies, criteria were developed to try to measure how a
+5    project aligns with the county’s vision from Comprehensive Plan. These criteria were grouped into the following
+6    generalized themes, which reference specific goals:
+
+ 7          •    Regional Coordination and Land Use
+ 8          •    Equity and Environmental Justice
+ 9          •    Multimodal Transportation
+10          •    System Mobility
+11          •    Safety
+12          •    VMT Reduction
+13          •    Resilience
+
+14   Some goals are excluded, as it was determined that their policies could not be easily measured or advanced through
+15   the implementation of specific capital improvement projects within county right-of-way. Table 13: Evaluation Criteria
+16   lists the criteria evaluated used in the priority framework.
+
+17   Table 13: Evaluation Criteria7
+         Group                         Criteria
+         Regional Coordination         Consistency with the Regional Transportation Plan (RTP)
+         and Land Use
+         Regional Coordination         Direct growth to urban centers
+         and Land Use
+         Equity and                    Prioritize benefits to overburdened communities and individuals experiencing
+         Environmental Justice         barriers to transportation
+         Equity and                    Implementation of the transportation ADA Transition Plan
+         Environmental Justice
+         Multimodal                    Prioritize transit options and support safe, reliable, and convenient transit service
+         Transportation
+         Multimodal                    Expand the interconnected, countywide active transportation network to connect
+         Transportation                key destination
+         System Mobility               Maintain standards on major freight corridors and the vicinity of major intermodal
+                                       facilities
+         Safety                        Support Target Zero to eliminate fatal and serious injuries on county roads
+         VMT Reduction                 Collaborate with school districts to improve transportation options for students
+         VMT Reduction                 Plan for connected and accessible communities where daily needs can be met within a
+                                       convenient and safe walk, ride, roll, or transit ride
+         Resilience                    Enhance resilience throughout the transportation system
+18
+
+
+
+
+     7
+         Source: Clark County Comprehensive Plan, Transportation Chapter: Goals and Policies
+                                                                    15
+1    While this framework helps guide where transportation investment should be directed, it also assumes that all
+2    identified needs would be addressed for the proposed project corridor, or location. This includes
+3    constructing/reconstructing deficient or missing sidewalks and curb ramps, installing enhanced pedestrian crossings,
+4    upgrading bicycle facilities, reevaluating speed limits, widening roadways if necessary, and improving safety. It also
+5    assumes that all active transportation facilities that are provided would meet the minimum multimodal level of service
+6    standards and that other systematic safety improvements for all road users would be considered.
+
+ 7   The transportation needs analysis yielded 208 projects—including large capital projects, safety improvement projects,
+ 8   and active transportation projects. Each project, regardless of its category type, will be evaluated using the same
+ 9   methods outlined in this framework. While all projects will be evaluated equally, the implementation of the different
+10   project types may be pursued through different on-going programs in the 6-year TIP to balance the various needs of
+11   the transportation system
+
+12
+
+13
+
+
+
+
+                                                              16
+1   Table 4: Large Capital Projects - Road Segments
+     Name             Road From        Road To        Project     Project Description                                                Project   Cost          Priority
+                                                      Type                                                                           Length    Estimate
+                                                                                                                                     (miles)
+     NE 179th St      NE Delfel Rd     NE 15th Ave    2026-       This project is a joint project with the Washington State          0.49       $5,244,000   A
+                                                      2031 TIP    Department of Transportation (WSDOT). WSDOT will
+                                                      Project –   enhance or replace the I-5 Bridges and improve the roadway
+                                                      Obligated   under the bridge and reconfigure the on-ramps/off-ramps. The
+                                                                  county will improve gaps (if necessary) in the roadway to a
+                                                                  standard arterial (widening lanes and shoulders, installing bike
+                                                                  lanes and sidewalks, addressing mitigation).
+     NE Delfel Rd     NE 179th St      NE 184th St    2026-       Realign roadway to match south approach and improve to 2-          0.28      $21,256,000   B
+                                                      2031 TIP    lane collector standard. Roundabout at NE 179th Street
+                                                      Project –   intersection.
+                                                      Obligated
+     NE 15th Ave      NE 179th St      NE 10th Ave    2026-       NE 15th Avenue will be extended northwesterly from NE              0.52      $20,046,000   C
+                                                      2031 TIP    179th Street. This will be a new minor arterial alignment
+                                                      Project –   connecting to the existing NE 10th Avenue at a new
+                                                      Obligated   intersection. Pedestrian and bicyclist facilities will be
+                                                                  constructed. Stormwater and Utility coordination may be
+                                                                  required.
+     NE 152nd         Padden Pkwy      NE 99th St     2026-       Improve to a 2-lane Collector standard with bike lanes and         0.75      $12,226,000   D
+     Ave                                              2031 TIP    sidewalks. Improve intersection at NE 152nd Ave/NE 99th
+                                                      Project –   Street with a signalized intersection.
+                                                      Obligated
+     NE 179th St      NE 15th Ave      NE 26th Ave    2026-       Improve roadway to a standard arterial (widening lanes and         0.56      $24,267,000   E
+                                                      2031 TIP    shoulders, installing bike lanes and sidewalks, addressing
+                                                      Project –   mitigation). Construct Roundabout at NE 179th Street and NE
+                                                      Obligated   15th Avenue.
+     NE 179th St      NE 29th Ave      NE 50th Ave    2026-       Improve roadway to a standard arterial (widening lanes and         0.99      $28,912,000   Medium
+                                                      2031 TIP    shoulders, installing bike lanes and sidewalks, stormwater
+                                                      Project     management, and addressing mitigation).
+     NE Salmon        WSU              NE 50th Ave    2026-       Realignment of roadway for improved 2-lane minor arterial          1.02      $34,805,000   Low
+     Creek                                            2031 TIP    with a center turn lane/median, bike lanes and sidewalks.
+     Alignment                                        Project
+
+
+                                                                                    17
+    Name               Road From          Road To        Project     Project Description                                               Project   Cost          Priority
+                                                         Type                                                                          Length    Estimate
+                                                                                                                                       (miles)
+    NE 10th Ave        NE 164th St        Amphitheater   2026-       Widen to 3-lane Urban Collector. Improvements include             0.38       $4,850,000   Medium
+                                          Entrance       2031 TIP    buffered bicycle lanes, and sidewalk, along with a reduction in
+                                                         Project     roadway speed.
+    NE 72nd Ave        NE 119th St8       NE 139th St8   2026-       Widen to 5-lane Principal Arterial. Improvements include          1.00      $16,625,000   High
+                                                         2031 TIP    median divider, protected bicycle lanes, sidewalks, and
+                                                         Project -   enhanced pedestrian crossings. Project also includes an
+                                                         Modified    intersection improvement at NE 72nd and NE 139th St, as well
+                                                                     as additional safety improvements.
+    NW                 NW 78th St         NW 99th St8    2026-       Widen to 3-lane Urban Arterial. Improvements include a            1.17      $16,125,000   High
+    Lakeshore                                            2031 TIP    regional shared-use path.
+    Ave                                                  Project -
+                                                         Modified
+    NE Ward Rd         NE 162nd           NE 172nd       Existing    Widen to 5-lane Principal Arterial. Improvements include          0.69      $21,175,000   High
+                       Ave                Ave                        median divider, protected bicycle facilities, sidewalks, and a
+                                                                     regional shared-use path.
+    NE Ward Rd         NE 172nd           NE Davis Rd    Existing    Widen to 4-lane Rural Arterial. Improvements include              0.68      $14,700,000   Low
+                       Ave                                           shoulders.
+    NE 172nd           NE Ward Rd         NE 119th St    Existing    Modify to 2-lane Rural Major Collector standard.                  1.08      $12,675,000   Low
+    Ave                                                              Improvements include shoulders and regional shared-use path.
+    NE 172nd           NE 18th St         NE 39th St     Existing    Widen to 3-lane Urban Collector. Improvements include             1.00      $12,150,000   Medium
+    Ave                                                              buffered bicycle lanes, sidewalks, and enhanced pedestrian
+                                                                     crossings along with a reduction in roadway speed.
+    NW 179th St        NW 11th Ave        Delfel Rd      Existing    Widen to 5-lane Principal Arterial. Improvements include          0.80      $12,000,000   Low
+                                                                     median divider, protected bicycle lanes, and sidewalk. Project
+                                                                     also includes three roundabouts, located at NE 179th St and
+                                                                     11th Ave, NE 179th St and NE 10th Ave, and NE 179th St and
+                                                                     2nd Ave.
+
+
+
+
+8
+    Project limits of existing project changed
+                                                                                       18
+Name          Road From     Road To       Project      Project Description                                             Project   Cost          Priority
+                                          Type                                                                         Length    Estimate
+                                                                                                                       (miles)
+NW 11th Ave   NW 139th St   NW 149th St   Existing     Widen to 3-lane Minor Arterial. Improvements include            0.50      $16,600,000   Low
+                                                       sidewalk and shared-use path. Project also included a new
+                                                       bridge over the Whipple Creek Greenway.
+NE            NE 99th St    NE 119th St   Existing     Construct and widen to a 3-lane Minor Arterial. Improvement     1.08       $8,875,000   Low
+137th/132nd                                            includes protected bicycle lanes, sidewalk, and enhanced
+Ave                                                    pedestrian crossings. Project includes intersection control
+                                                       (signal or roundabout) at NE 132nd Ave and NE 119th St.
+NE 99th St    NE 72nd Ave   NE 94th Ave   Existing     Construct 3-lane Minor Arterial. Improvements include           1.27      $46,250,000   Medium
+                                                       protected bicycle lanes and sidewalk. Project also includes a
+                                                       new bridge/crossing over the Curtin Creek Natural Area.
+NE 10th Ave   NE 139th St   NE 141st St   Existing     Construct additional northbound travel lane.                    0.10        $450,000    Medium
+NE 72nd Ave   NE 139th St   NE 219th St   Existing -   Widen to 5-lane Principal Arterial. Improvements include a      4.00      $83,500,000   High
+                                          Modified     regional shared-use path. Project also includes intersection
+                                                       control (roundabout or signal) at NE 72nd and NE 159th St and
+                                                       additional safety improvements near the intersection.
+NE 152nd      NE Padden     NE Ward Rd    New          Widen to 3-lane Collector. Improvements will include buffered   0.23       $1,350,000   Medium
+Ave           Pkwy                                     bike lanes, separated sidewalks, and reduction in roadway
+                                                       speed.
+NE 172nd      NE 1st St     NE 8th St     New          Widen to 3-lane Collector. Improvements will include buffered   0.39       $4,100,000   Medium
+Ave                                                    bike lanes, separated sidewalks, and reduction in roadway
+                                                       speed.
+NE 99th St    NE Hwy 99     NE 7th St.    New          Implement signal timing optimization strategies to improve      0.37         $160,000   High
+                                                       intersection operations at NE 99th St and improve multimodal
+                                                       connections.
+
+
+
+
+                                                                        19
+1   Table 5: Large Capital Projects - Intersections
+     AVE (North/South)        ST (East/West)      Project Type    Project Description                                            Proposed         Cost           Priority
+                                                                                                                                 Intersection     Estimate
+                                                                                                                                 Control
+     NE 29th Ave              NE 179th St         2026-2031       Install a roundabout at the intersections of NE 179th Street   Roundabout       $27,596,000    F
+                                                  TIP Project –   and NE 29th Avenue, install retaining walls, two new bridge
+                                                  Obligated       crossings at NE 179th St and NE 29th Avenue, address
+                                                                  stormwater, utilities and roadway improvements.
+     NE 50th Ave              NE 179th St         Existing        Intersection improvements to address peak hour capacity        Roundabout         $4,725,000   High
+                                                                  deficiency.
+     NE 50th Ave              NE 199th St         Existing        Intersection improvements to address peak hour capacity        Roundabout         $4,700,000   Low
+                                                                  deficiency.
+     NE 29th Ave              NE 199th St         Existing        Intersection improvements to address peak hour capacity        Roundabout         $4,700,000   Medium
+                                                                  deficiency.
+     NE 142nd Ave             NE 159th St         Existing        Intersection improvements to address peak hour capacity        Roundabout         $4,700,000   Low
+                                                                  deficiency.
+     NE 132nd Ave             NE 119th St         Existing        Intersection improvements to address peak hour capacity        Traffic Signal     $1,800,000   High
+                                                                  deficiency.
+     NE Ward Rd/NE            NE 119th St         Existing        Intersection improvements to address peak hour capacity        Roundabout         $4,725,000   Medium
+     182nd Ave                                                    deficiency and potential safety issues.
+     NE 17th Ave              NE Minnehaha        Existing        Intersection improvements to address safety issues.            Roundabout         $4,675,000   High
+                              St
+     NW 36th Ave              NE Bliss Rd         Existing        Intersection improvements to address peak hour capacity        Roundabout         $4,725,000   Medium
+                                                                  deficiency.
+     NE 182nd Ave             NE 139th St         New             Intersection improvements to address peak hour capacity        Roundabout         $4,700,000   Medium
+                                                                  deficiency.
+     NE 72nd Ave              NE 139th St         New             Intersection improvements to address peak hour capacity        Roundabout         $4,700,000   High
+                                                                  deficiency and safety issues.
+     NE 72nd Ave              NE 159th St         New             Intersection improvements to address peak hour capacity        Roundabout         $4,700,000   High
+                                                                  deficiency and safety issues.
+     NE 10th Ave              NE 164th St         New             Intersection improvements to address peak hour capacity        Roundabout         $4,700,000   Medium
+                                                                  deficiency.
+     NW 11th Ave              NW 179th St         New             Intersection improvements to address access and                Roundabout         $4,650,000   Low
+                                                                  circulation needs along NE 179th St
+
+
+                                                                                        20
+    AVE (North/South)   ST (East/West)   Project Type   Project Description                                        Proposed         Cost           Priority
+                                                                                                                   Intersection     Estimate
+                                                                                                                   Control
+    NE 10th Ave         NW 179th St      New            Intersection improvements to address access and            Roundabout         $4,725,000   Medium
+                                                        circulation needs along NE 179th St
+    NE 2nd Ave          NE 179th St      New            Intersection improvements to address access and            Roundabout         $4,725,000   Low
+                                                        circulation needs along NE 179th St
+    Whipple Creek II    NE 179th St      New            Intersection improvements to address access and            Roundabout         $4,700,000   Medium
+    Condominiums                                        circulation needs along NE 179th St
+    NE 37th Pl          NE 179th St      New            Intersection improvements to address access and            Roundabout         $4,700,000   High
+                                                        circulation needs along NE 179th St
+    NE 47th Ave         NE 179th St      New            Intersection improvements to address access and            Roundabout         $4,725,000   High
+                                                        circulation needs along NE 179th St
+    NE 182nd Ave        NE 184th St      New            Intersection improvements to address peak hour capacity    Roundabout         $4,700,000   Low
+                                                        deficiency.
+    NE 176th Ave        NE 199th St      New            Intersection improvements to address peak hour capacity    Roundabout         $4,725,000   Medium
+                                                        deficiency.
+    NE 172nd Ave        NE 39th St       New            Intersection improvements to address peak hour capacity    Roundabout         $4,700,000   Low
+                                                        deficiency.
+    NE 72nd Ave         NE 88th St       New            Intersection improvements to address peak hour capacity    Traffic Signal     $1,375,000   Medium
+                                                        deficiency.
+    NE Ward Rd          NE 88th St       New            Intersection improvements to address peak hour capacity    Roundabout         $4,700,000   High
+                                                        deficiency.
+    NE Ward Rd          NE Davis Rd      New            Intersection improvements to address peak hour capacity    Roundabout         $4,700,000   Low
+                                                        deficiency.
+    NE 50th Ave         NE Salmon        New            Intersection improvements to address potential peak hour   Traffic Signal     $1,800,000   Low
+                        Creek St                        capacity deficiency.
+    NE 152nd Ave        NE 159th St      New            Intersection improvements to address peak hour capacity    Roundabout         $4,700,000   Low
+                                                        deficiency.
+1
+
+2
+
+
+
+
+                                                                              21
+1   Table 6: Active Transportation Projects
+     Road Name             Road From          Road To              Proposed Bicycle       Est. Missing    Count of     Proposed     Proposed    Project   Priority
+                                                                   Facility               Sidewalk        Potential    Crossing     Speed       Length
+                                                                                          (linear feet)   New          Treatment    Reduction   (miles)
+                                                                                                          Pedestrian   Type(s)
+                                                                                                          Crossings
+     NE 102nd Ave          NE Fourth Plain    NE Covington Rd      Buffered Bike Lane            3,820            3            A                   0.67   High
+                           Blvd
+     NE 107th Ave          NE 76th St         NE 99th St           Protected Bike Lane           4,320            1            B                   1.08   Medium
+     NE 107th Ave          NE Covington Rd    NE 76th St           Protected Bike Lane           1,536            3            B                   0.63   Medium
+     NE 10th Ave           Amphitheater       NW 179th St          Buffered Bike Lane            3,594            1            A         Yes       0.42   Medium
+                           Entrance
+     NE 10th Ave           NE 141st St        NE 149th St          Buffered Bike Lane               0             2          B, D        Yes       0.40   Medium
+     NE 10th Ave           NE 149th St        NE 164th St          Buffered Bike Lane             108             2             A        Yes       0.75   Low
+     NE 10th Ave           NE 179th St        NE 199th St          Protected Bike Lane,        10,480             5          B, D                  0.99   High
+                                                                   Shared-Use Path
+     NE 10th Ave           NE 199th St        SR 502               Protected Bike Lane           5,602                                             0.99   High
+     NE 10th Ave           NE Tenney Rd       NE 139th St          Buffered Bike Lane                0            2          B, D        Yes       0.24   Medium
+     NE 10th Ave           SR 502/NE 219th    Ridgefield UGA       Buffered Bike Lane,               0            4             B                  1.77   Medium
+                           St                                      Protected Bike Lane
+     NE 117th St           NE Hazel Dell      NE HWY 99            Protected Bike Lane             153            3            D                   0.80   High
+                           Ave
+     NE 117th/NE           NE HWY 99          NE Salmon Creek      Protected Bike Lane,               0           3            D                   0.49   High
+     119th St                                 Ave                  Shared-Use Path
+     NE 119th St           CPRR               NE 117th Ave         Protected Bike Lane             373            1            E                   0.85   High
+     NE 119th St           NE 117th Ave       NE 124th Ave         Protected Bike Lane           2,502            2            B                   0.37   High
+     NE 119th St           NE 124th Ave       NE 142nd Ct          Protected Bike Lane           7,392            1            B                   0.88   Medium
+     NE 119th St           NE 50th Ave        NE 72nd Ave          Protected Bike Lane               0            7            D                   1.02   High
+     NE 119th St           NE 72nd Ave        NE 87th Ave          Protected Bike Lane               0            4            E                   0.76   High
+     NE 119th St           NE 87th Ave        Chelatchie Prairie   Protected Bike Lane               0                                             0.65   High
+                                              Railroad
+     NE 119th St           NE Salmon Creek    NE 50th Ave          Protected Bike Lane           3,871            2            D                   1.01   High
+                           Ave
+
+
+
+                                                                                   22
+Road Name        Road From       Road To           Proposed Bicycle       Est. Missing    Count of      Proposed        Proposed    Project   Priority
+                                                   Facility               Sidewalk        Potential     Crossing        Speed       Length
+                                                                          (linear feet)   New           Treatment       Reduction   (miles)
+                                                                                          Pedestrian    Type(s)
+                                                                                          Crossings
+NE 124th Ave     NE 99th St      NE 119 St         Bike Lane, Protected          2,250              1           A                      1.00   Medium
+                                                   Bike Lane
+NE 129th St      NE 3rd Ave      NE Hwy 99         Bike Lane, Shared             2,298             1            A                      0.85   Medium
+                                                   Roadway
+NE 130th Ave     NE 76th St      NE 99th St        Buffered Bike Lane,           2,832             5          A, B           Yes       1.11   Medium
+                                                   Protected Bike Lane
+NE 134th St      NE 20th Ave     NE Salmon Creek   Shared-Use Path                 900             1            D                      0.66   Medium
+                                 Ave
+NE 134th St/NE   NE 139th St     NE HWY 99/NE      Shared-Use Path                 135             2            D                      0.89   Medium
+Tenney Rd                        20th Ave
+NE 137th Ave     NE 76th St      NE 99th St        Protected Bike Lane               0             6             B                     1.11   High
+NE 139th St      NE 20th Ave     NE 29th Ave       Buffered Bike Lane                0             2          C, D           Yes       0.50   High
+NE 139th St      NE 50th Ave     NE 72nd Ave       Buffered Bike Lane            7,294             1             B           Yes       1.02   Medium
+NE 139th St      NE Tenney Rd    NE 20th Ave       Protected Bike Lane           2,474                                                 0.79   High
+NE 13th St       NE 192nd Ave    City of Camas     Buffered Bike Lane            4,317                                       Yes       0.43   Medium
+NE 152nd Ave     NE 99th St      NE 111th St       Protected Bike Lane           3,740             3             B                     0.63   Low
+NE 156th St/NE   NE Union Rd     NE 29th Ave       Buffered Bike Lane,           2,368             2          A, B           Yes       0.72   Low
+20th Ave/NE                                        Bike Lane
+159th St
+NE 159th St      NE 50th Ave     VUGA Boundary     Buffered Bike Lane            2,243             1            B            Yes       0.26   Low
+NE 162nd Ave     NE Ward Rd      NE 99th St        Buffered Bike Lane                0                                                 0.57   Low
+NE 174th St      NE 40th Ave     NE 50th Ave       Buffered Bike Lane            5,421                                       Yes       0.49   Low
+NE 182nd Ave     NW 179th St     VUGA Boundary     Buffered Bike Lane            2,174             1            B            Yes       0.50   Low
+NE 182nd Ave     VUGA Boundary   NE 83rd St        Buffered Bike Lane            1,424             1            B            Yes       0.37   Low
+NE 189th St      I-5             NE 10th Ave       Protected Bike Lane           1,741                                                 0.14   Low
+NE 189th St      NE Delfel Rd    VUGA Boundary     Buffered Bike Lane            3,470                                                 0.31   Low
+NE 18th St       NE 162nd Ave    NE 172nd Ave      Protected Bike Lane               0             2                E                  0.50   High
+NE 194th St      NE 10th Ave     VUGA Boundary     Buffered Bike Lane            2,258                                       Yes       0.25   Low
+NE 199th St      NE 10th Ave     VUGA Boundary     Protected Bike Lane           4,182             1            B                      0.49   Medium
+
+
+                                                                     23
+Road Name        Road From         Road To           Proposed Bicycle       Est. Missing    Count of      Proposed      Proposed    Project   Priority
+                                                     Facility               Sidewalk        Potential     Crossing      Speed       Length
+                                                                            (linear feet)   New           Treatment     Reduction   (miles)
+                                                                                            Pedestrian    Type(s)
+                                                                                            Crossings
+NE 20th Ave/NE   NE 139th St       NE 156th St       Protected Bike Lane             270              7       B, D, E                  0.86   Medium
+Union Rd
+NE 23rd Ave      NE 134th St       NE 139th St       Buffered Bike Lane              802                                     Yes       0.28   Medium
+NE 28th St       NE 162nd Ave      NE172nd Ave       Protected Bike Lane           1,107                                               0.51   Low
+NE 29th Ave      NE 134th Ave      NE 159th Ave      Protected Bike Lane           3,728             8          A, B                   1.25   Medium
+NE 29th Ave      NE 159th Ave      NE 179th Ave      Protected Bike Lane           3,849             1             A                   1.00   Low
+NE 29th Ave      NE 179th St       NE 193rd Cir      Protected Bike Lane           6,892             4             B                   0.69   Low
+NE 39th St       NE 164th Ave      NE 172nd Ave      Buffered Bike Lane            2,764                                     Yes       0.39   Low
+NE 40th St       NE 54th Ave       NE 66th Ave       Buffered Bike Lane            5,403             2             A                   0.59   Low
+NE 42nd Ave/NE   SR 500            NE 44th St        Buffered Bike Lane            3,320             1             A                   0.43   Low
+Falk Rd
+NE 44th Ave      NE 36th Ave       NE 54th Ave       Bike Lane                     4,714             3             A                   0.84   Low
+NE 47th Ave      NE Minnehaha St   NE 78th St        Protected Bike Lane             599                                               0.76   Low
+NE 47th St       NE 56th Ave       NE 66th Ave       Bike Lane                     3,687             2             A                   0.49   Low
+NE 50th Ave      I205 Overpass     NE 119th St       Protected Bike Lane           2,996             1             A                   0.57   Low
+NE 50th Ave      NE 119th St       NE 139th St       Buffered Bike Lane            7,656             1             B         Yes       1.00   Low
+NE 50th Ave      NE 139th St       NE Salmon Creek   Buffered Bike Lane            2,206             2             B                   0.53   Low
+                                   St
+NE 50th Ave      NE 159th St       NE 179th St       Shared-Use Path             10,285              4             B                   1.00   Medium
+NE 50th Ave      NE 179th St       NE 192nd St       Protected Bike Lane          7,154                                                0.65   Low
+NE 50th Ave      NE Saint Johns    I205 Overpass     Protected Bike Lane          5,569              5        A, B, D                  0.67   Medium
+                 Rd
+NE 50th Ave      NE Salmon Creek   NE 159th St       Shared-Use Path               4,393             1             B                   0.50   Low
+                 St
+NE 54th Ave/NE   NE 56th Ave       SR 500            Buffered Bike Lane            5,611             4             A                   0.68   Medium
+47th St
+NE 56th Ave      NE 47th St        NE 58th St        Bike Lane                     4,554             4             A                   0.54   Low
+NE 58th Ave      NE 63rd St        NE 78th St        Buffered Bike Lane            4,150             2             A                   0.75   Low
+NE 58th St       NE 45th Ave       NE Andresen Rd    Buffered Bike Lane            6,569             5             A                   1.13   Medium
+
+
+                                                                       24
+Road Name        Road From         Road To             Proposed Bicycle      Est. Missing    Count of      Proposed      Proposed    Project   Priority
+                                                       Facility              Sidewalk        Potential     Crossing      Speed       Length
+                                                                             (linear feet)   New           Treatment     Reduction   (miles)
+                                                                                             Pedestrian    Type(s)
+                                                                                             Crossings
+NE 63rd St       City of           NE Covington Rd     Buffered Bike Lane           3,181              1            C                   0.77   Medium
+                 Vancouver
+NE 65th St       NE 117th Ave      NE 121st Ave        Buffered Bike Lane               0             1             B                   0.17   Medium
+NE 66th Ave      NE 52nd St        NE 58th St          Bike Lane                    1,265             4             A                   0.31   Low
+NE 68th St       HWY 99            NE 28th Ave         Shared-Use Path              4,087             4             A         Yes       1.04   Medium
+NE 72nd Ave      I-205 Overpass    NE 119th St         Protected Bike Lane            817             6             E                   1.43   High
+NE 76th St       City of           NE 94th Ave         Protected Bike Lane          1,353             2             D                   0.53   Medium
+                 Vancouver/I-205
+                 Overpass
+NE 76th St       NE 107th Ave      NE 117th Ave        Protected Bike Lane              0             3          D, E                   0.52   Medium
+NE 76th St       NE 117th Ave      NE 152nd Ave        Buffered Bike Lane               0             5          D, E         Yes       1.02   High
+NE 76th St       NE 137th Ave      NE Ward Rd          Buffered Bike Lane               0             4          B, D         Yes       0.63   Medium
+NE 76th St       NE 94th Ave       NE 107th Ave        Protected Bike Lane              0             3             D                   0.62   Medium
+NE 78th St       NE 25th Ave       NE Saint Johns Rd   Protected Bike Lane              0             5             E                   0.99   High
+NE 78th St       NE Hwy 99         NE 25th Ave         Protected Bike Lane            130             4          D, E                   0.77   High
+NE 78th St       NE Saint Johns    NE Andresen Rd      Protected Bike Lane          6,156             3          D, E                   1.08   High
+                 Rd
+NE 78th St       NE Ward Rd        City of Vancouver   Buffered Bike Lane,          1,757                                     Yes       0.67   Low
+                                                       Protected Bike Lane
+NE 87th Ave/NE   NE 94th Ave       NE 119th St         Buffered Bike Lane           8,188             1             A         Yes       1.08   Medium
+105th St
+NE 88th St       East of NE 72nd   NE 94th Ave         Buffered Bike Lane           8,419                                     Yes       1.08   Low
+                 Ave
+NE 88th St       NE 25th Ave       NE Saint Johns Rd   Buffered Bike Lane                0            7             D         Yes       1.01   High
+NE 88th St       NE Hwy 99         NE 25th Ave         Buffered Bike Lane                0            4             C         Yes       0.69   High
+NE 88th St       NE Saint Johns    NE 51st Ave         Buffered Bike Lane                0            2             D         Yes       0.36   Medium
+                 Rd
+NE 88th St       NE Ward Rd        NE 83rd St          Buffered Bike Lane         10,470              3           B, E                  1.05   Low
+NE 94th Ave      NE 63rd St        NE Covington Rd     Protected Bike Lane         3,820              4           A, E                  0.63   Low
+
+
+                                                                       25
+Road Name           Road From        Road To           Proposed Bicycle       Est. Missing    Count of      Proposed      Proposed    Project   Priority
+                                                       Facility               Sidewalk        Potential     Crossing      Speed       Length
+                                                                              (linear feet)   New           Treatment     Reduction   (miles)
+                                                                                              Pedestrian    Type(s)
+                                                                                              Crossings
+NE 94th Ave         NE 76th St       NE 88th St        Buffered Bike Lane,              39              3            D                   0.57   Medium
+                                                       Protected Bike Lane
+NE 94th Ave         NE 88th St       NE 105th St       Protected Bike Lane             552                                               0.84   Medium
+NE 99th St          NE 117th Ave     NE 137th Ave      Protected Bike Lane               0             6          C, D                   1.00   Medium
+NE 99th St          NE 137th Ave     NE 152nd Ave      Protected Bike Lane           3,038             6          A, B                   0.75   Low
+NE 99th St          NE 162nd Ave     NE 152nd Ave      Protected Bike Lane           3,524                                               0.50   Low
+NE 99th St          NE 162nd Ave     NE 172nd Ave      Protected Bike Lane           2,516                                               0.50   Low
+NE 99th St          NE 25th Ave      NE 39th Ave       Protected Bike Lane               0             4          B, D                   0.75   Medium
+NE 99th St          NE 39th Ave      NE St. Johns Rd   Protected Bike Lane,              0             4          A, D                   0.70   High
+                                                       Shared-Use Path
+NE 99th St          NE Hazel Dell    NE 7th Ave        Protected Bike Lane                0            2             D                   0.24   Medium
+                    Ave
+NE 99th St          NE Hwy 99        NE 25th Ave       Protected Bike Lane                0            3             D                   0.50   High
+NE Covington Rd     NE Rosewood      NE 76th St        Protected Bike Lane                0            5             E                   1.04   Medium
+                    Ave
+NE Delfel Rd        NE 189th St      NW 199th St       Protected Bike Lane           5,959             1             B                   0.52   Low
+NE Delfel Rd        NW 199th St      VUGA Boundary     Protected Bike Lane           5,405             1             B                   0.49   Low
+NE Edmunds          NE 172nd Ave     NE 18th St        Buffered Bike Lane            7,034             1             A         Yes       1.44   Low
+Rd/NE 182nd
+Ave/NE 28th
+St/NE 187the Ave
+NE Hazel Dell Ave   NE 59th St       NE 78th St        Shared-Use Path               1,366             5        A, C, D                  0.94   High
+NE Hazel Dell Ave   NE 78th Ave      NE 99th Ave       Shared-Use Path                   0             4           B, D                  1.00   High
+NE Hazel Dell Ave   NE 99th St       NE 117th St       Protected Bike Lane           2,380             3              B                  0.91   High
+NE Hwy 99           NE 117th St      NE 129th St       Shared-Use Path               1,887             5              E                  0.65   High
+NE Hwy 99           NE 78th St       NE 99th St        Protected Bike Lane               0             4              E                  1.04   High
+NE Hwy 99           NE 99th St       NE 117th St       Protected Bike Lane,          6,292             4              E                  0.92   High
+                                                       Shared-Use Path
+NE Hwy 99           Vancouver City   NE 78th St        Protected Bike Lane,          2,455             4             D                   1.01   High
+                    Line                               Shared-Use Path
+                                                                       26
+Road Name           Road From           Road To             Proposed Bicycle       Est. Missing    Count of      Proposed        Proposed    Project   Priority
+                                                            Facility               Sidewalk        Potential     Crossing        Speed       Length
+                                                                                   (linear feet)   New           Treatment       Reduction   (miles)
+                                                                                                   Pedestrian    Type(s)
+                                                                                                   Crossings
+NE HWY 99/NE        NE 129th St         NE 139th St         Protected Bike Lane,               0             1               E                  0.50   High
+20th Ave                                                    Shared-Use Path
+NE Minnehaha St     NE 17th Ave         City of Vancouver   Shared-Use Path               2,904             4              E                    0.56   High
+NE Minnehaha St     NE 47th Ave         NE Andresen Rd      Protected Bike Lane           1,054             3              E                    0.97   High
+NE Minnehaha St     NE Hazel Dell       NE 17th Ave         Shared-Use Path               3,228             5        B, D, E                    0.73   High
+                    Ave
+NE Minnehaha St     NE St Johns Rd      NE 47th Ave         Protected Bike Lane           3,019             2             E                     0.70   High
+NE Saint Johns Rd   NE 68th St          NE 78th St          Protected Bike Lane               0             3             E                     0.71   High
+NE Saint Johns Rd   NE 78th St          NE LaLonde Dr       Protected Bike Lane               0             7          D, E                     1.11   High
+NE Saint Johns Rd   NE LaLonde Dr       NE 72nd Ave         Protected Bike Lane               0             3             E                     1.13   High
+NE Salmon Creek     NE 119th St         NE 134th St         Shared-Use Path               4,626             1            A            Yes       0.90   Medium
+Ave
+NE Salmon Creek     NE 134th St         WSU Entrance        Shared-Use Path                    0            3          B, D           Yes       0.41   Medium
+Ave
+NE Salmon Creek     NE 50th Ave         NE 50th Ave         Shared-Use Path               5,285                                                 0.06   Low
+St
+NE Union Rd/NE      NE 156th St         NE 179th St         Protected Bike Lane           1,696            10             B                     1.25   Low
+15th Ave
+NE Ward Rd          Fourth Plain Blvd   NE 78th St          Protected Bike Lane                0            1                E                  0.58   High
+NE Ward Rd          NE 78th St          NE 155th Ave        Protected Bike Lane,               0            1                E                  0.15   Medium
+                                                            Shared-Use Path
+NE Ward Rd          NE Padden Pkwy      NE 162 Ave          Protected Bike Lane,               0            1                E                  0.24   Medium
+                                                            Shared-Use Path
+NE/NW 139th St      NE Tenney Rd        NW 11th Ave         Shared-Use Path                    0            4             D                     0.71   Medium
+NE/NW 78th St       NE Hwy 99           NW Anderson         Protected Bike Lane                0            3             D                     0.75   High
+                                        Ave
+NW 119th St         NW 21st Ave         NW 7th Ave          Protected Bike Lane           4,920             5             B                     0.75   High
+NW 119th St         NW 36th/NW          NW 21st Ave         Protected Bike Lane           3,882             3          A, B                     0.75   High
+                    Lakeshore Ave
+
+
+                                                                              27
+Road Name         Road From        Road To             Proposed Bicycle       Est. Missing    Count of     Proposed     Proposed    Project   Priority
+                                                       Facility               Sidewalk        Potential    Crossing     Speed       Length
+                                                                              (linear feet)   New          Treatment    Reduction   (miles)
+                                                                                              Pedestrian   Type(s)
+                                                                                              Crossings
+NW 119th/NW       NW 7th Ave       NE Hazel Dell Ave   Protected Bike Lane                0                                            0.58   Low
+117th/NE 117th
+St
+NW 11th Ave       NW 149th St      NW 164th St         Shared-Use Path              7,465             8          A, B                  0.75   Low
+NW 11th Ave       NW 164th St      NW 179th St         Shared-Use Path              5,600             3             B                  0.75   Low
+NW 11th Ave       NW 179th St      UGA Boundary        Shared-Use Path              3,405                                              0.37   Low
+NW 149th St       NW 10th Ave      NW 11th Ave         Buffered Bike Lane             904             7             A        Yes       1.00   Low
+NW 149th St       NW 11th Ave      NW 21st Ave         Buffered Bike Lane             981             1             A        Yes       0.49   Low
+NW 164th St       10th Ave         11th Ave            Buffered Bike Lane          10,674            10          A, B        Yes       1.00   Low
+NW 21st Ave       NW 94th St       NW 99th St          Bike Lane                    1,278             1             A                  0.23   Low
+NW 21st Ave       NW 99th St       NW 119th St         Buffered Bike Lane           7,478             6          A, B        Yes       1.00   Medium
+NW 21st Ave       NW Bliss Rd/NW   NW 149th St         Shared-Use Path                148             1            D                   0.37   Low
+                  Hathaway Rd
+NW 36th Ave       NW 119th St      NW 131st St         Shared-Use Path                 232            3            C                   0.59   Medium
+NW 36th Ave/NW    NW 131 St        NW Bliss Rd         Shared-Use Path               5,440            2            B                   0.68   Low
+Seward Rd
+NW 78th St        NW Anderson      NW Lakeshore        Protected Bike Lane             337                                             0.71   High
+                  Ave              Ave
+NW 93rd/94th St   NW Lakeshore     NW 21st Ave         Shared Roadway                1,163            1            A                   0.45   Low
+                  Ave
+NW 94th St        NW 9th Ave       NW 21st Ave         Bike Lane                     4,312                                             0.64   Low
+NW 99th St        NE Hazel Dell    NW 9th Ave          Protected Bike Lane               0            3            D                   0.50   High
+                  Ave
+NW 99th St        NW 9th Ave       NW 21st Ave         Protected Bike Lane                0           4          C, D                  0.64   Medium
+NW 99th St        NW Lakeshore     NW 21st Ave         Protected Bike Lane                0           2             A                  0.46   Medium
+                  Ave
+NW 9th Ave        NW 78th St       NW 99th St          Buffered Bike Lane                0            4            A         Yes       0.98   Medium
+NW Anderson       NW 68th St       NW 78th St          Bike Lane                     4,090                                             0.49   Medium
+Ave
+NW Bliss Rd       NW Seward Rd     NW 21st Ave         Shared-Use Path               4,081            2          B, D                  0.71   Medium
+                                                                         28
+    Road Name        Road From       Road To           Proposed Bicycle       Est. Missing    Count of      Proposed      Proposed    Project   Priority
+                                                       Facility               Sidewalk        Potential     Crossing      Speed       Length
+                                                                              (linear feet)   New           Treatment     Reduction   (miles)
+                                                                                              Pedestrian    Type(s)
+                                                                                              Crossings
+    NW Hathaway      NW 11th Ave     NW 21st Ave       Shared-Use Path                    0             2            D                   0.54   Medium
+    Rd/NW 139th St
+    NW Lakeshore     NW 99th St      NW 119th St       Shared-Use Path               6,719             5        B, D, E                  1.09   Medium
+    Ave
+    NW Sluman        City of         NE Anderson Ave   Shared Roadway                6,787                                               0.66   Low
+    Rd/NW Overlook   Vancouver
+    Dr/NE 68th St
+    NW/NE 199th St   VUGA Boundary   NE 10th Ave       Protected Bike Lane           4,504             3             B                   0.50   Medium
+1
+
+2
+
+
+
+
+                                                                         29
+1   Table 7: Safety Projects – Road Segments
+     NAME                      FROM                 TO                       Project Description                                                           Cost Estimates
+
+
+     NE Highway 99             NE 63rd St           NE 88th St               Construct curbed median and implement other access management                     $2,849,000
+                                                                             strategies, install protected bike lanes, and upgrade signing and striping.
+
+     NE Lucia Falls Rd         NE 294th St          NE Sunset Rd             Install post-mounted delineators; speed feedback sign; low-cost signing            $780,000
+                                                                             and striping upgrades for horizontal curves
+
+     NE Washougal River        36264 SE             33503 NE Washougal       Post-mounted delineators; low-cost signing and striping upgrades for               $150,000
+     Rd                        Washougal River Rd   River Rd                 horizontal curves
+
+     NW 99th St                NW 11th Ave          NE 6th Ave               Access management strategies; upgraded pedestrian facilities                      $3,500,000
+
+
+     NE Hazel Dell Ave         NE 66th St           NE Newhouse Rd           Post-mounted delineators; speed feedback sign; low-cost signing and                $180,000
+                                                                             striping upgrades for roadway departure crashes
+
+     NE 72nd Ave               NE 209th St          NE 219th St              Access management strategies; post-mounted delineators; low-cost                   $120,000
+                                                                             signing and striping upgrades for roadway departure crashes
+
+     NE W H Garner Rd          22705 NE W H         22506 NE W H Garner      Relocate fixed objects near road shoulder; post-mounted delineators;               $120,000
+                               Garner Rd            Rd                       low-cost signing and striping upgrades for roadway departure crashes
+
+2
+
+3   Table 8: Safety Projects - Intersections
+     AVE (N/S)                 ST (E/W)             Project Description                                                               Proposed             Cost Estimate
+                                                                                                                                      Intersection
+                                                                                                                                      Control
+     NE 25th Ave               NE 88th St           Protected left turn phasing; leading pedestrian interval; electronic traffic      Traffic Signal           $1,800,000
+                                                    monitoring system and adaptive signal control system; signing and striping
+                                                    upgrades
+
+
+
+
+                                                                                     30
+     AVE (N/S)              ST (E/W)               Project Description                                                           Proposed            Cost Estimate
+                                                                                                                                 Intersection
+                                                                                                                                 Control
+     NE 72nd Ave            NE 259th St            Intersection improvements to address safety issues. Install recommended       Roundabout              $4,650,000
+                                                   horizontal curve chevron signs and warning signs; rumble strips; post-
+                                                   mounted delineators; segment lighting; low-cost signing and striping
+                                                   upgrades; restripe stop bars
+1
+
+2   Table 9: WSDOT Projects - Road Segments
+     NAME              FROM               TO                 Project Description                                                       Included in   Cost Estimate
+                                                                                                                                       Funding
+                                                                                                                                       Analysis?
+     Salmon Creek      NE 20th Ave        WSU Entrance       Corridor level improvements to compliment WSDOT's capacity                Yes             $35,000,000
+     Interchange                                             improvements to the Salmon Creek Interchange (I-5 and I-205) on NE
+     Project Phase 2                                         134th St. Improvements include a regional shared-use path and
+                                                             connection to the Salmon Creek Greenway Trail (proposed). Project will
+                                                             be coordinated with WSDOT.
+     NE 88th St        NE NB I-205 off-   NE 72nd Ave        Widen to 4-lane Collector. Improvement will include center turn lane      Yes               $1,200,000
+                       ramp                                  and two northbound turn lanes, along with buffered bike lanes,
+                                                             separated sidewalk, and a reduction in roadway speed. Project also
+                                                             includes traffic signal upgrades to NE 88th St and NE Andresen Rd. This
+                                                             project will require coordination with WSDOT and is contingent on
+                                                             WSDOT's proposed direct connection to NE 72nd from the I-205 NB
+                                                             off-ramp to Padden Parkway.
+     NE Ward Rd        NE 156th Pl        SR 500             Widen to 2-lanes and coordinate with WSDOT to install phased signals      Yes               $1,400,000
+                                                             on SR 500 and NE Ward Rd.
+     SR 500            NE Fourth Plain    NE 76th St         Construct multi-modal improvements, including a shared-use path, and      No              $19,000,000
+                       Blvd                                  roundabouts along the corridor.
+     SR 503 (SB)       N of NE Padden     NE 87th St         Potential improvements needed to address future peak hour capacity        No                      N/A
+                       Pkwy                                  deficiencies
+     SR 503 (NB)       N of NE Padden     NE 87th St         Potential improvements needed to address future peak hour capacity        No                      N/A
+                       Pkwy                                  deficiencies
+     SR 500 (NB)       NE 76th St         NE 79th St         Potential improvements needed to address future peak hour capacity        No                      N/A
+                                                             deficiencies
+
+                                                                                   31
+     NAME               FROM                   TO                Project Description                                                  Included in   Cost Estimate
+                                                                                                                                      Funding
+                                                                                                                                      Analysis?
+     SR 500/NE          NE 65th St             NE 182nd Ave      Potential improvements needed to address future peak hour capacity   No                      N/A
+     Fourth Plain                                                deficiencies
+     Blvd (EB&WB)
+     SR 502 (WB)        NE 10th Ave            NB I-5 off ramp   Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+     SR 503 (NB)        NE Padden Pkwy         NE 87th St        Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+     SR 503 (NB)        NE Roper Rd            NE Potter Rd      Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+     SR 502 (WB)        I5-NB off-ramp         I-5 SB on-ramp    Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+     SR 503 (NB)        N of NE Padden         N of NE Padden    Improvements needed to address peak hour capacity deficiencies       No                      N/A
+                        Pkwy                   Pkwy
+1
+
+2   Table 10: WSDOT Projects - Intersections
+     AVE (N/S)                    ST (E/W)                       Project Description                                                  Included in   Cost Estimate
+                                                                                                                                      Funding
+                                                                                                                                      Analysis?
+     SR 503                       NE 154th St                    Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+     SR 503                       NE 144th St                    Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+     SR 503                       NE 131st                       Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+     SR 503                       NE 119th St                    Improvements needed to address peak hour future capacity             No                      N/A
+                                                                 deficiencies, as identified in the SR 503 Corridor Plan.
+     SR 500                       NE 28th St                     Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+     SR 500                       NE 19th St                     Potential improvements needed to address future peak hour capacity   No                      N/A
+                                                                 deficiencies
+
+
+                                                                                       32
+     AVE (N/S)                     ST (E/W)                    Project Description                                                           Included in   Cost Estimate
+                                                                                                                                             Funding
+                                                                                                                                             Analysis?
+     I-5 NB off-ramp               SR 502                      Potential improvements needed to address future peak hour capacity            No                       N/A
+                                                               deficiencies
+1
+
+2   Table 11: Cowlitz Indian Tribe Projects
+     NAME                  FROM               TO               Project Description                                                           Included in   Cost Estimate
+                                                                                                                                             Funding
+                                                                                                                                             Analysis?
+     NW 31st Ave           Ridgefield city    Cowlitz Tribal   Corridor level safety improvements. Improvement may include                   No            $60,000,000
+                           limits             Reservation      shoulders, dedicated active transportation facilities, and street lighting.
+                                                               Project will be led by the Cowlitz Indian Tribe in coordination with the
+                                                               County and the City of Ridgefield.
+     Cowlitz Indian        NW 41st Ave-       NW 31st Ave      Construct a new bypass route to mitigate traffic and provide an               No            $11,200,000
+     Tribe Emergency       Cowlitz Way                         alternative route through the Cowlitz Tribal Reservation during events
+     Evacuation Route                                          and peak hours.
+3
+
+
+
+
+                                                                                      33
+1
+
+2    Financial Plan
+3    FUNDING ANALYSIS
+4    Clark County’s transportation system is the backbone upon which the community is developed. With a growing
+5    population and increasing traffic, the county focuses on developing and improving the system to improve mobility and
+6    safety for all users including those choosing active transportation options such as walking, biking and transit. Funding
+7    for these projects is complex.
+
+ 8   A financial analysis was prepared for the Transportation CFP to demonstrate the ability of the county to fund planned
+ 9   roadway improvements. The Growth Management Act (GMA) requires that there be a balance between proposed
+10   land use, new transportation improvements directed by the Multimodal Level of Service (MMLOS) standards, and
+11   available revenue. The GMA requires that public facilities and infrastructure either be in place or included in the six-
+12   year Transportation Improvement Program (TIP) before new development can be approved. The GMA also enables
+13   the imposition of impact fees, which are used to recover a portion of the transportation CFP’s cost that is related to
+14   new development.
+
+15   A comparison of projected revenue and expenditures of the 20-year planning period, as shown in Figure A.1,
+16   anticipates $554 million shortfall. While GMA does not require that the 20-year CFP be financially constrained, the
+17   financial analysis demonstrates what the County will be able to reasonably provide with current funding levels.
+
+
+
+
+                                                               34
+1         Figure A.1: 20-year Revenue and Expenditure Projections9
+
+           1,600,000,000
+
+
+
+           1,400,000,000
+
+
+
+           1,200,000,000                                                               Ongoing Programs
+                                                                                       Regional and Partnership Projects
+           1,000,000,000                                                               Safety Projects
+                                                                                       Active Transportation Projects
+
+             800,000,000                                                               Large Capital Projects
+                                                                                       Misc/Other
+                                                                                       Impact Fees
+             600,000,000
+                                                                                       REET 2
+                                                                                       Grants
+             400,000,000
+                                                                                       County Road Fund
+
+             200,000,000
+
+
+
+                        -
+                                     Revenue                  Expenditure
+2
+
+3    REVENUE PERSPECTIVE EXISTING REVENUE SOURCES
+ 4   The following is a review of the projected revenue sources included in the financial analysis, which includes property
+ 5   taxes dedicated to transportation (“road fund”), gasoline tax distributions to the county, traffic impact fees, Public
+ 6   Works Trust Fund loans, expected grants and miscellaneous revenue streams that accrue for transportation
+ 7   purposes. The analysis accounts for road fund operating expenses that reduce the revenue available for capital
+ 8   facilities projects, which are outlined in WAC 136-15-030. The estimated available revenue for county capital
+ 9   transportation improvements over the 20-years of the land use plan is $533.1 million as adopted in 2014 (ORD 2014-
+10   11-03). These revenue sources available for financing transportation improvements can be highly variable from year
+11   to year depending on the amount of development activity occurring in the county, the number of available grant
+12   programs and successful applications, and other local economic factors.
+
+13   County Road Levy
+14   The County generates revenue from property taxes to help fund new and maintain existing transportation
+15   infrastructure. The property tax levy for the road fund is the primary source of local transportation-related funding,
+16   generating roughly $46,323,739 in 2025. The County Road levy, and other property taxes, account for roughly 73% of
+17   all funding sources for the County Road Fund.
+
+
+
+     9
+      Source: Clark County Public Works and Community Planning Staff analysis, July 2026; 2026-2031 Transportation Improvement
+     Program
+                                                                35
+1    Motor Vehicle Fuel Tax Distributions
+2    The State of Washington levies a motor vehicle fuel tax (MVFT) upon the sale of gasoline and diesel. The tax is based
+3    on the amount of fuel purchased and the rate is fixed and remains constant irrespective of fluctuations in the cost of
+4    fuel. As of July 1, 2026, the Washington Department of Revenue lists the effective state rate at 56.5 cents per gallon
+5    for gasoline and 59.5 cents per gallon for diesel. The revenue from this tax is used for state and local transportation
+6    funding.
+
+ 7   Local jurisdictions receive allocations of the state’s MVFT through direct distributions and awards from grant
+ 8   programs. While it is perceived that the MVFT is a significant revenue source, it only accounts for a small portion of
+ 9   local transportation-related funding. In 2025, the County received $6,313,794 in direct distributions, accounting for
+10   roughly 10% of all funding sources for the County Road Fund.
+
+11   Grant Funding
+12   There are multiple State and Federal funding programs that provide transportation funding through competitive and
+13   need based grants. The Clark County 6-year TIP provides a comprehensive list of all funding programs that the
+14   County regularly pursues. Each program has different requirements and eligible projects, and funding from these
+15   sources is dependent upon successful applications fluctuate year to year. For the financial analysis, it was assumed
+16   that 25% of overall project costs will be covered by grants.
+
+17   Real Estate Excise Taxes
+18   The State of Washington levies a real estate excise tax (REET) upon most sales of real property. The tax is calculated
+19   based on the full selling price, including the amount of any liens, mortgages, and other debts given to secure the
+20   purchase. The tax is due 30 days from the date of the sale and is collected by the county treasurer. The excise tax and
+21   processing fee must be paid in full before the deed or vesting information will be recorded by the Auditor’s Office.
+
+22   In addition to the state real estate excise tax, cities and counties may impose local real estate excise taxes. The two
+23   main REET options for the county are:
+
+24       ▪   REET 1, or the “first quarter percent”, a 0.25% REET which may be imposed by the county primarily for capital
+25           projects and limited maintenance.
+26       ▪   REET 2, or the “second quarter percent”, an additional 0.25% REET which may be imposed by the county
+27           primarily for capital projects and limited maintenance. Clark County qualifies to utilize this funding option
+28           because the county is fully planning under the Growth Management Act. REET 2 is only applied to the
+29           unincorporated areas.
+
+30   Regarding transportation, REET 1 and REET 2 revenues may be used for planning, acquisition, construction,
+31   reconstruction, repair, replacement, rehabilitation, survey or improvement of a wide variety of projects identified in
+32   the capital facility plan as established in RCW 82.46. This includes streets, roads, highways, sidewalks, street and road
+33   lighting systems, traffic signals and bridges.
+
+34   Transportation Impact Fees
+35   The GMA enables the imposition of impact fees, which are used to help finance the cost of infrastructure expansion
+36   needed by growth. Clark County adopted an impact fee ordinance in September 1990 and has subsequently
+37   amended that program multiple times to address increasing improvement costs.
+
+                                                                 36
+1    Clark County has four Traffic Impact Fee (TIF) Districts for the unincorporated area: Hazel Dell, Mount Vista,
+2    Orchards and Rural. All TIF districts other than the Rural district are located in the unincorporated Vancouver Urban
+3    Growth Area. These fees are paid as part of development permits issued by the county in these districts.
+
+4    PROJECTED REVENUE
+5    Based on the current revenues listed above, Table : 20-Year Revenue Projections show the anticipated
+6    transportation funding that will be available to implement the CFP. The County Road Fund amount shown in this table
+7    includes what will be available for capital, but does not include the amount used for administration, maintenance,
+8    facilities, transfers and loan repayments, reimbursable work and miscellaneous expenditures, in accordance with
+9    WAC 136-15-030.
+
+10   Working assumptions were based on past revenue trends, and it should be noted that these numbers may change
+11   between years focused on planning and design work than those more heavily based in construction. Revenue from
+12   grants especially may fluctuate with larger revenues gained during years with larger construction projects.
+13   Historically, the county has been awarded grant amounts that cover 25-30 percent of the project cost.
+
+14   Table 14: 20-Year Revenue Projection10
+      Revenue Type                         2026-2031 Amended            2032-2045                    20-Year Estimated Total
+                                           TIP
+      County Road Fund11                              $79,054,000                   $42,700,000                   $121,800,000
+      Grants                                          $86,535,000                  $312,350,000                   $398,900,000
+      REET 2                                          $35,500,000                   $74,000,000                   $109,500,000
+      Impact Fees                                     $38,222,000                  $266,000,000                   $304,200,000
+      Misc./Other                                      $7,454,000                                                   $7,500,000
+      Total                                         $246,765,000                   $695,050,000                   $941,800,000
+
+15   PROJECTED EXPENDITURE
+16   Table : 20-Year Expenditure Projections show the projected cost of implementing the transportation 20-year Capital
+17   Facility Plan (CFP). These costs reflect the funding needs for the existing 6-year Transportation Improvement Plan
+18   (TIP), ongoing programs, and the CFP projects not included in the TIP for years 7-20.
+
+19   Table 15: 20-Year Expenditure Projections 12
+      Expenditure Type                           2026-2031                     2032-2045               20 Year Estimated Total
+                                                Amended TIP
+      Large Capital Projects                        $111,775,000                    $425,600,000                  $537,400,000
+      Active Transportation Projects                                                $490,600,000                  $490,600,000
+      Safety Projects                                                                $14,100,000                   $14,100,000
+
+
+
+     10
+        Source: Clark County Public Works and Community Planning Staff analysis, July 2026; 2026-2031 Transportation Improvement
+     Program
+     11
+        Note: The amount shown is the portion of the County Road Fund revenue available for capital expenditure, pursuit to WAC 136-
+     15-030
+     12
+        Source: Clark County Public Works and Community Planning Staff analysis, July 2026; 2026-2031 Transportation Improvement
+     Program
+                                                                   37
+      Expenditure Type                          2026-2031                    2032-2045              20 Year Estimated Total
+                                               Amended TIP
+      Regional and Partnership                                                     $20,100,000                   $20,100,000
+      Projects
+      Ongoing Programs                             $134,990,000                   $299,000,000                 $434,000,000
+      Total                                        $246,765,000                 $1,249,400,000               $1,496,200,000
+
+
+1    TRANSPORTATION IMPACT FEE PROGRAM
+2    Clark County’s Transportation Impact Fee (TIF) Program is one of four development impact fee programs that collect
+3    funding to ensure that adequate facilities are available to serve growth and new development. The county first
+4    adopted transportation impact fees beginning in 1990. In 2001, the program underwent an overhaul to synchronize
+5    the county’s program with the city of Vancouver’s TIF program. An interlocal agreement was later executed in with
+6    the city to jointly administer TIF program in 2009, and in 2016 the program underwent another overhaul which
+7    created separate TIF programs for both the city of Vancouver and the county. There have been no substantial updates
+8    to the program since 2016.
+
+9    PROGRAM OVERVIEW
+
+10   Rate Calculation Methodology
+11   The TIF rates are calculated using the cost estimates from the 20-year Project List Section and the methodology was
+12   approved with the 2016 program update. The rates are calculated as follows:
+
+13       1. Transportation Analysis Zones (TAZs) from RTC’s Regional Travel Demand Model are assigned to a TIF
+14           district based on geography;
+15       2. Base-year (2025) pm peak-hour trip ends (PMPTs) are estimated for each district;
+16       3. Future year (2045) PMPTs are estimated for each district;
+17       4. Minimum district private share is calculated using: (PMPT 2045 – PMPT 2025) / PMPT 2045
+18       5. District trip allocations are determined for each capital improvement project by identifying where trips
+19           traveling along or through an improvement end;
+20       6. A private share is established for each project by combining district private shares and district trip allocations;
+21       7. Total private share cost is calculated for each project;
+22       8. Each district’s share of a project’s private cost is calculated by distributing costs according to trip allocations;
+23       9. All project-level private costs are summed for each district and divided by the district’s growth in trips to
+24           determine the cost per PMPTs;
+25       10. A cost per Average Daily Trip (ADT) is calculated by dividing the cost per PMPTs by 10
+
+26   Trip Generation Rates
+27   The TIF program utilizes the most recent version of the Institute of Transportation Engineers (ITE) Trip Generation
+28   Manual and Trip Generation Handbook to determine the trip generation rates used in the Impact Fee Formula
+29   outlined in CCC 40.6 - Development Impact Fees.
+
+
+
+
+                                                                 38
+1    Fee Reductions and Incentives
+
+2    Highway 99 Overlay Sub-Area Incentives
+
+3    The Highway 99 Sub-area plan was designed to incorporate a form-based code to regulate development to achieve a
+4    specific urban form for development. An incentive program was established to encourage re-development, and help
+5    implement, the Highway 99 Sub-Area Plan. The five incentive opportunities listed below may be available to those
+6    parcels identified within Appendix F of Title 40.
+
+7    There is a separate review and approval process, which must be submitted directly to Public Works, must be
+8    submitted and approved prior to building permit issuance. There will not be any incentive consideration once building
+9    permits have been issued, with the exception of TIF credits for signal improvements.
+
+10   Incentive 1: 10 Percent Average Daily Trip (ADT) Reduction for High Frequency Transit
+
+11   Applicants must submit a transit plan that outlines:
+
+12       ▪   The location of transit stop location directly related to the site or within 1/2 mile of the proposed
+13           development.
+14       ▪   Verification of transit frequency of 30 minutes or better for peak hour service.
+15       ▪   Time schedules verified by C-TRAN.
+
+16   Incentive 2: TIF Credits for Bicycle/Pedestrian/Transit Amenities
+
+17   As a condition of approval, applicant to provide publicly owned amenities as identified in Appendix F. Only amenities
+18   that are public and are permanent pedestrian or bicycle related amenities are eligible for TIF credit.
+
+19   Applicants must submit location and types of amenities to be constructed as part of the proposed development. The
+20   following are features that are approved to receive up to $1,500 TIF credit per feature installed:
+
+21       ▪   Pedestrian Furniture
+22       ▪   Bicycle Racks
+23       ▪   Ground-Mounted Pedestrian-Scaled Lighting
+24       ▪   Informational Kiosks
+25       ▪   Transit Shelters
+26
+27   If the TIF credits are granted and the amenities have not been installed prior to occupancy, occupancy can be denied
+28   until additional TIF fees have been paid. Verification of amenities installed will be conducted prior to occupancy.
+
+29   TIF credits are awarded on a first come, first serve basis and may be limited, can only be redeemed on the
+30   development that has required the amenity.
+
+31   Incentive 3: Provide TIF Credits for Signalization Improvements
+
+32   Signalization improvements within the sub-area are eligible for TIF credits. Credits can be used within the Hazel Dell
+33   District. Same requirements apply as outlined in CCC 40.630.060.
+
+
+
+
+                                                                39
+1    Incentive 4: Additional 5 Percent Business Enhancement Factor for Under -Represented
+2    Uses
+
+3    This incentive is based on the assumption that trip lengths will be reduced; therefore, limiting traffic congestion and
+4    roadway improvement needs elsewhere.
+
+5    The applicant must submit a study to show that the proposed development is under-represented by proving that
+6    there are less than two like-businesses within a five-mile radius of the proposed location, measured from the outside
+7    boundary of the site.
+
+8    Incentive 5: Additional 10 Percent ADT Reduction for all Development in a Designated
+9    “Activity” Center
+
+10   This incentive is based on the assumption that the trip generation rate will be reduced to account for internal trips
+11   between uses located within the designated activity centers.
+
+12   The applicant shall notify the TIF Coordinator that the proposed development falls within a designated activity center.
+13   Adjustment to fees will be made to the County’s permit tracking program to reflect trip reduction.
+
+14   Fee Inflation Methodology
+15   In between program updates, the per trip fees will be adjusted annually based on the Engineering News Record (EMR)
+16   Construction Cost Index for Seattle. This will occur annually using the CCI for Seattle with base year value set at
+17   15,757.84 from January 2025.
+
+18   Annual fee adjustments will be made will be made according to the following formula:
+
+19                    (newest January CCI / base year CCI) x district base fee rate = inflation adjusted fee
+
+20   Adjustments to project cost for issuance of credits will be calculated as:
+
+21                 (newest January CCI / base year CCI) x total project cost = inflation adjusted project cost
+
+22   TIF Districts
+23   There are four TIF Districts that cover unincorporated Clark County, which are used in the collection of impact fees
+24   related to new development. Figure A.2: Clark County TIF Districts shows the locations of these districts. These
+25   district boundaries change after annexations or additions to the VUGA.
+
+
+
+
+                                                                 40
+1   Figure A.2: Clark County TIF Districts13
+
+
+
+
+2
+
+
+                                               41
+1   TIF ELIGIBLE PROJECT LIST
+
+2   Private-Share
+3   Tables 16 – 19 identifies improvements that are eligible for TIF funding, as well as improvements that are eligible for
+4   TIF credits per CCC 40.630. Table 20 provides the private share percentage for TIF eligible Ongoing Programs and
+5   Active Transportation Projects.
+
+6   Table 16: Hazel Dell District
+     Project Name                    To               From             Project Cost Estimate      Private Share
+                                                                                                  (%)
+     NW Lakeshore Ave                NW 78th St       NW 99th St                  $16,125,000                   21%
+7
+8   Table 17: Mt. Vista District
+     Project Name                    To               From             Project Cost Estimate      Private Share
+
+     NE 179th St                     NE Delfel Rd     NE 15th Ave                  $5,244,000                     41%
+     NE Delfel Rd                    NE 179th St      NE 184th St                 $21,256,000                     40%
+     NE 15th Ave                     NE 179th St      NE 10th Ave                 $20,046,000                     39%
+
+     NE 179th St                     NE 15th Ave      NE 26th Ave                 $24,267,000                     37%
+     NE 179th St                     NE 29th Ave      NE 50th Ave                 $28,912,000                     36%
+     NE Salmon Creek Alignment       WSU              NE 50th Ave                 $34,805,000                     30%
+
+     NE 10th Ave                     NE 164th St      Amphitheater                 $4,850,000                     42%
+                                                      Entrance
+     NE 72nd Ave                     NE 119th St      NE 139th St                 $16,625,000                     34%
+     NW 179th St                     NW 11th          NE Delfel Rd                $12,000,000                     40%
+                                     Ave
+     NW 11th Ave                     NW 139th         NW 149th St                 $16,600,000                     41%
+                                     St
+     Intersection                    NE 29th Ave      NE 179th St                 $27,596,000                     38%
+     Intersection                    NE 50th Ave      NE 179th St                  $4,725,000                     35%
+     Intersection                    NE 72nd          NE 139th St                  $4,700,000                     35%
+                                     Ave
+     Intersection                    NE 10th Ave      NE 164th St                  $4,700,000                     39%
+     Intersection                    NW 11th          NW 179th St                  $4,650,000                     39%
+                                     Ave
+     Intersection                    NE 10th Ave      NW 179th St                  $4,725,000                     41%
+     Intersection                    NE 2nd Ave       NE 179th St                  $4,725,000                     40%
+     Intersection                    Whipple          NE 179th St                  $4,700,000                     37%
+                                     Creek 2
+                                     Condo
+     Intersection                    NE 37th Ave      NE 179th Ave                 $4,700,000                     36%
+     Intersection                    NE 47th Ave      NE 179th St                  $4,700,000                     36%
+
+
+
+    13
+         Source: Clark County GIS
+                                                               42
+     Project Name                 To            From            Project Cost Estimate     Private Share
+     Intersection                 NE 50th Ave   NE Salmon                  $1,800,000                     33%
+                                                Creek St
+     Intersection                 NW 36th Ave   NW Bliss Rd                $4,725,000                     27%
+1
+2   Table 18: Orchards District
+     Project Name                 To            From          Project Cost Estimate     Private Share
+                                                                                        (%)
+     NE 152nd Ave                 Padden        NE 99th St             $12,226,000                      26%
+                                  Pkwy
+     NE Ward Rd                   NE 162nd      NE 172nd               $21,175,000                      24%
+                                  Ave           Ave
+     NE 172nd Ave                 NE 18th St    NE 39th St             $12,150,000                      24%
+
+     NE 137th/132nd Ave           NE 99th St    NE 119th                 $8,875,000                     25%
+                                                St
+     NE 99th St                   NE 72nd       NE 94th                $46,250,000                      25%
+                                  Ave           Ave
+     NE 10th Ave                  NE 139th St   NE 141st                  $450,000                      37%
+                                                St
+     NE 152nd Ave                 NE Padden     NE Ward                  $1,350,000                     27%
+                                  Pkwy          Rd
+     NE 172nd Ave                 NE 1st St     NE 8th St                $4,100,000                     34%
+
+     Ward Road                    155th Ave     SR 500                   $1,125,000                     23%
+     NE 88th St                   NE NB I-205   NE 72nd                  $1,200,000                     31%
+                                  off-ramp      Ave
+     Intersection                 132nd Ave     119th St                 $1,800,000                     28%
+     Intersection                 NE 72nd       NE 88th St               $1,375,000                     30%
+                                  Ave
+     Intersection                 NE Ward Rd    NE 88th St               $4,700,000                     24%
+
+3
+4   Table 19: Rural District
+     Project Name                 To            From          Project Cost Estimate     Private Share
+                                                                                        (%)
+     NE Ward Rd                   NE 172nd      NE Davis               $14,700,000                      23%
+                                  Ave           Rd
+     NE 172nd Ave                 NE Ward Rd    NE 119th               $12,675,000                      28%
+                                                St
+     NE 72nd Ave                  NE 139th St   NE 219th              $104,875,000                      23%
+                                                St
+     Intersection                 NE 50th Ave   NE 199th                 $4,700,000                     38%
+                                                St
+     Intersection                 NE 29th Ave   NE 199th                 $4,700,000                     43%
+                                                St
+
+                                                        43
+     Project Name                        To              From          Project Cost Estimate     Private Share
+                                                                                                 (%)
+     Intersection                        NE 142nd        NE 159th                   $4,700,000                   25%
+                                         Ave             St
+     Intersection                        NE Ward         NE 119th                   $4,725,000                   24%
+                                         Rd/NE           St
+                                         182nd Ave
+     Intersection                        NE 182nd        NE 139th                   $4,700,000                   24%
+                                         Ave             St
+     Intersection                        NE 72nd         NE 159th                   $4,700,000                   33%
+                                         Ave             St
+     Intersection                        NE 182nd        NE 184th                   $4,700,000                   24%
+                                         Ave             St
+     Intersection                        NE 176th        NE 199th                   $4,725,000                   25%
+                                         Ave             St
+     Intersection                        NE 172nd        NE 39th St                 $4,700,000                   24%
+                                         Ave
+     Intersection                        NE Ward Rd      NE Davis                   $4,700,000                   24%
+                                                         Rd
+     Intersection                        NE 152nd        NE 159th                   $4,700,000                   24%
+                                         Ave             St
+1
+
+2   Table 20: Private Share for Active Transportation and Ongoing Programs
+     Project Type / Ongoing Program                          Private Share
+     Active Transportation                                                27%
+     Rural Road Improvement Program                                       23%
+     Sidewalk and ADA Compliance Program                                  27%
+3
+
+4   Trip Allocation
+5   Table 21:Trip Allocation by District provides the scope of an improvement’s benefit by district. The allocations are
+6   derived from the regional travel demand model and represents where trips end that travel along or through an
+7   improvement.
+
+8   Table 21: Trip Allocation by District14
+     Project Name                                                   Hazel Dell     Mt. Vista     Orchards        Rural
+
+     NE 72nd Ave (119th St – 139th St)                                       3%           54%           36%               7%
+     Ward Road (NE 162nd Ave to NE 172nd Ave)                                5%            4%           43%              48%
+     Ward Road (NE 172nd Ave to NE Davis Rd)                                 0%            0%            5%              95%
+     NE 72nd Ave (NE 139th St to NE 219th St)                                0%            0%            2%              98%
+     NE 172nd Ave (NE Ward Rd to NW 119th St)                                0%           16%           84%               0%
+     NE 172nd Ave (NE 18th St to NE 39th St)                                 3%            2%           17%              78%
+
+
+
+    14
+         Source: Analysis of RTC’s Regional Travel Demand Model by DKS Associates, 2026
+                                                                  44
+    Project Name                                         Hazel Dell   Mt. Vista    Orchards    Rural
+    NW Lakeshore Ave (NW 78th St to NW 99th St)                 87%           2%          4%             7%
+    NW 179th St (NW 11th Ave to Delfel Rd)                       9%          86%          3%             1%
+    NE 10th Ave (NE 164th St to Amphitheater Entrance)           0%          94%          0%             6%
+    NW 11th Ave ( NW 139th St to NW 149th St)                    0%          89%          0%            11%
+    NE 137th/132nd Ave ( NE 99th St to NE 119th St)              2%           2%         85%            11%
+    NE 99th St (NE 72nd Ave to NE 94th Ave)                     12%           4%         82%             2%
+    NE 10th Ave (NE 139th St to NE 141st St)                    20%          73%          6%             0%
+    NE Ward Rd/NE 182nd AVE at NE 119th ST                       1%           3%         10%            86%
+    NE 159th ST at NE 142nd AVE                                  6%           5%         31%            58%
+    NE 199th ST at NE 50th AVE                                   0%          75%          3%            23%
+    NE 179th ST at NE 50th AVE                                   8%          61%          7%            24%
+    NE 152nd Ave (NE Padden Pkwy to NE Ward Rd)                 34%          24%         42%             0%
+    NE 172nd Ave (NE 1st St to NE 5th St)                       38%          59%          3%             0%
+    Ne 88th Ave (NB 1-205 off ramp to NE 72nd Ave)              16%          38%         24%            23%
+    NE Ward Rd (NE 156th Pl to SR 500)                           0%           0%          0%           100%
+    NE 72nd Ave/NE 159th St                                      7%          48%         23%            22%
+    NE 159th St/152nd Ave                                        4%           5%         21%            70%
+    NE Salmon Creek St/50th Ave                                 26%          52%          4%            18%
+    NE 139th St/72nd Ave                                         0%          57%         31%            12%
+    NE Ward Rd/88th St                                           5%           3%         32%            60%
+    NE 139th St/182nd Ave                                        1%           1%          5%            92%
+    NE Davis Rd/NE Ward Rd                                       1%           1%          8%            90%
+    NE 39th St/172nd Ave                                         5%           4%         36%            55%
+    NE 182nd Ave/NE 184th St                                     2%           3%          9%            86%
+    NE 199th St/NE 176th Ave                                     0%           9%          0%            91%
+    NE 72nd Ave/NE 88th St                                      12%          31%         56%             1%
+    NE 179th St/NE 10th Ave                                      7%          90%          3%             0%
+    NE 179th St/NE 2nd Ave                                       9%          87%          3%             1%
+    NE 164th St/NE 10th Ave                                     11%          83%          3%             3%
+    NE 199th St/29th Ave                                         0%          97%          3%             0%
+    NE 132nd Ave/NE 119th St                                     9%          21%         50%            20%
+    NE 179th St/NE 11th Ave                                     12%          77%          3%             8%
+    NE 179th St (NE Delfel – NE 15th Ave)                        7%          89%          4%             0%
+    NE Delfel Rd (NE 179th St – NE 18                            0%          82%          0%            18%
+    NE 15th Ave (NE 179th St – NE 10th Ave)                     12%          82%          3%             3%
+    NE 152nd Ave (NE Padden Pkwy – NE 99th St)                   3%           9%         74%            14%
+    NE 179th St (NE 15th Ave to NE 26th Ave)                     8%          69%          3%            20%
+    NE 179th St/NE 29th Ave                                      7%          74%          4%            15%
+    NE 179th St (NE 29th Ave to NE 50th Ave)                     6%          67%          5%            21%
+    NE Salmon Creek Realignment                                 37%          41%          0%            22%
+    NE 179th St/ Whipple Creek II Condo                          8%          69%          3%            20%
+    NE 179th St/ 37th Ave                                        7%          66%          6%            21%
+    NE 179th St/ 47th Ave                                        6%          63%          6%            25%
+    NW 36th Ave/NW Bliss Rd                                     63%          29%          0%             8%
+1
+
+
+                                                         45
+1    PROPOSED BASE RATES
+2    The following is the base fee rate adopted as part of the 2025 – 2045 Transportation CFP that will be used in the
+3    annual inflation adjustment formula:
+
+4    Table 22: TIF Fee Base Rate
+      TIF District                                            Base Fee Rate
+      Hazel Dell                                              $ 1,027
+      Mt Vista                                                $ 1,612
+      Orchards                                                $ 1,251
+      Rural                                                   $ 1,368
+      179th Street DA                                         $605 + ($350 Surcharge)
+5
+
+6    STRATEGIES TO BALANCE CFP
+ 7   The Growth Management Act requires the 6-year Transportation Improvement Plan to be financially constrained and
+ 8   balanced. The 20-year transportation Capital Facilities Plan is more speculative and is not required to be balanced.
+ 9   The projected revenue shortfall of $158.1554 million represents about 2337% of the total projected capital cost,
+10   which could be considered significant in the absence of any strategies to close the gap. RCW 36.70A.070(6)(a)(iv)(C)
+11   requires that jurisdictions consider and discuss strategies to balance the CFP, specifically raising additional revenue or
+12   reassessing land use assumptions. The discussions related to addressing the projected financial shortfall in this plan
+13   are primarily focused on how additional funding will be raised.
+
+14
+
+
+
+
+                                                                46
+1
+
+2   As mentioned, Tthere are a variety of strategies and policy actions available to the Board of County Councilors to
+3   balance the 20-Year transportation CFP. Options for increasing revenues include updating Traffic Impact Fees,
+4   adopting a motor vehicle excise tax of up to $20 per vehicle and increasing the local option fuel tax to the statutory
+5   limit. Traffic Impact Fee revenue is projected to be $43 million over the 20-year period. Based on recent policy
+6   decisions and preliminary work on the Traffic Impact Fee update, it is realistic to assume that an additional $40 to 50
+7   million will be raised from these fees. Grant revenue estimates are also very conservative.
+
+                                                               47
+1    On the cost side, the public share of many of the capital projects could be substantially reduced if policy changes were
+2    adopted that limited Traffic Impact Fee reimbursements to only the extra width of the roadway. Current policy
+3    provides reimbursement for construction of even that portion of the frontage improvements that would normally be
+4    required with development.
+
+5    A second round of reductions in the capital projects list is also likely. Several projects on the list would not contribute
+6    substantially to mobility on the transportation network in proportion to their estimated cost. Other listed projects are
+7    in areas that are likely to be annexed before county financing is available and would then become the responsibility of
+8    the annexing city. The sections that follow provide a discussion on different options and strategies, including
+9    increasing revenue, encouraging annexation, and concurrency management.
+
+10   The Transportation Capital Facilities Plan will be reviewed on a regular basis, not to exceed every fivefour years, to
+11   ensure that the projected gap between costs and revenues is declining. If the potential shortfall increases and
+12   becomes critical, the potential courses of action in addition to those identified above would include reduction in the
+13   level of service standards and reassessment of the land use plan.
+
+14   ADDITIONAL REVENUE SOURCES
+15   This section outlines additional local revenue sources that are available to counties in Washington State that could be
+16   pursued to close the anticipated funding gap for the 20-year plan.
+
+17   County Road Levy
+18   The County has the option to increase the County Road levy each year; however, it is subject to the 1% annual levy lid
+19   limit. A 1% increase to the road levy is estimated to result in a $460,000 annual increase in revenue. This amount
+20   would increase over time as the levy’s overall revenue increases.
+
+21   Local Option Gas Tax
+22   RCW 82.80.010 provides any county with the ability to impose a countywide local motor vehicle fuel excise tax. The
+23   rate may be equal to 10% of the current state gas tax rate and the collected revenue must be shared with cities and
+24   towns within the county and Table 23: Local Option Gas Tax Revenue Share by Geography provides potential
+25   countywide annual revenue estimates, along with the County’s estimated revenue share. This funding option must be
+26   approved by a simple majority of voters.
+
+      Geography                    Adjusted Population           Revenue Share
+
+      Clark Unincorporated                           365,745        $ 7,107,274.17
+      Clark Incorporated                             292,470        $ 5,683,370.87
+      Total                                          658,215        $ 12,790,645.04
+27
+
+28   Transportation Benefit District
+29   RCW 36.73.020 provides the legislative authority of any city or county to establish a Transportation Benefit District
+30   (TBD) to help fund the local transportation system. Any jurisdiction that has formed a TBD may impose a sales tax,
+31   vehicle license fees, or a combination of the two. Currently, the cities of Battle Ground, Camas, Ridgefield, Vancouver,
+32   and Washougal have established TBDs in the county. Table 24: Transportation Benefit District - Vehicle License Fee
+
+                                                                 48
+1    and Table 25: Transportation Benefit District - Sales Tax provide potential annual revenue estimates on two
+2    Councilmanic options outlined in RCW 36.73.065. While these are not the only options for each funding type,
+3    additional considerations must be weighed after these base fees or rates are established.
+
+4    Table 24: Transportation Benefit District - Vehicle License Fee15
+      Fee Amount          Estimated Annual Revenue
+      $20                                    $3,976,880.00
+5
+
+6    Table 25: Transportation Benefit District - Sales Tax16
+      Tax Rate              Estimated Annual Revenue
+
+      0.1%                                    $3,455,097.63
+7
+
+8    ANNEXATIONS
+ 9   Several listed projects are in areas that are likely to be annexed before county financing is available and would then
+10   become the responsibility of the annexing city. The county should encourage annexations in these areas, along with
+11   jurisdictional transfers of roadways that primarily serve city systems to reduce long-term maintenance costs.
+
+12   CONCURRENCY MANAGEMENT
+13   The county modified the transportation concurrency program in 2014 to better protect against the unplanned use of
+14   newly created roadway capacity, while allowing new developments to be permitted with predictability. In addition,
+15   the revised program sets concurrency standards at a level that is consistent with the 20-Year Comprehensive Plan,
+16   population and employment forecast, the Capital Facilities Plan and capital funding projections.
+
+17   Table 26: Chronology of Transportation Concurrency Ordinances
+      Ordinance No.       Content
+      2000-10-03          Amended the Transportation Concurrency Management System (CCC 12.41);
+                          amended Chapter 3 and Appendix A of the Comprehensive Plan and adopted a
+                          revised CFP.
+      2001-08-01A         Modified the Traffic Impact Fee; modified the transportation CFP; dissolved TIF
+                          overlay areas.
+      2001-12-01          Emergency adoption of a moratorium in the Salmon Creek Area.
+      2002-02-05          Confirmed the filing of certain development applications within the Salmon Creek
+                          Moratorium area; and declaring an emergency expansion of such area.
+      2002-03-11          Confirmed the expanded moratorium area.
+      2002-12-02          Extended the duration of the Salmon Creek moratorium.
+      2003-04-02          Extended the duration of the Salmon Creek moratorium.
+
+
+
+
+     15
+        Source: Clark County Community Planning Staff analysis of 2026 vehicle registration data from the Washington Department of
+     Licensing.
+     16
+        Source: Clark County Community Planning Staff analysis of 2024 taxable retail sales data from the Washington Department of
+     Revenue.
+                                                                  49
+    Ordinance No.   Content
+    2003-04-09      Modified transportation concurrency and CFP; amended Arterial Atlas; Salmon
+                    Creek “fix”.
+    2003-04-16      Corrected 2003-04-09.
+    2003-06-02      Reserved capacity in Salmon Creek area for preferred land uses.
+    2005-07-21      Declared a moratorium within the Salmon Creek Moratorium area by emergency
+                    ordinance.
+    2005-09-07      Confirmed the Salmon Creek Moratorium.
+    2006-09-01      Extended the Salmon Creek Moratorium.
+    2014-08-09      Replaced the level-of-service approach to measure congestion with a volume-to-
+                    capacity ratio approach.
+    2014-11-03      Adopted the 2014-2033 Capital Facilities Plan.
+1
+
+
+
+
+                                                       50
+

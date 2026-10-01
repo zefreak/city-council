@@ -1,6 +1,6 @@
 # Clark County Council — public hearing, 2025–2045 Comprehensive Plan
 
-**Thursday 1 October 2026, 4:00pm.** Public Service Center, 6th floor Hearing Room, 1300 Franklin St,
+**Thursday 1 October 2026, 4:00pm.** Public Service Center, 6th floor, Conference Room 680 (per the reissued agenda), 1300 Franklin St,
 Vancouver WA · WebEx 2482 834 0682, password BOCC (2622) · CVTV ch. 23 · cvtv.org ·
 dial 1-408-418-9388, press \*3 to raise hand.
 **Continuation:** the agenda says *"if needed, the hearing will be continued to October 2, 2026, at
@@ -10,6 +10,96 @@ Sources read: Planning Commission Recommendation memo, Exhibit 1 Decision Table,
 Allocation and Capacity, Memo to Council responding to agency comments, the County's 17 September
 letter to the Department of Commerce, and the Residential Code Updates draft memo — all cached at
 `data/clark-county/2026-10-01-comp-plan/`.
+
+---
+
+## Update, 30 September evening — eleven documents posted 28–30 September
+
+The comp plan events calendar's 1 October row now lists eleven documents not there on 25 September.
+All of them are cached as `data/clark-county/2026-10-01-comp-plan/doc-<id>.txt`. So is the reissued
+hearing agenda, doc 237401.
+
+1. **Councilor Little has put a TDR policy back on the table for adoption tomorrow** (doc 237651,
+   his email of 28 September 3:39pm, posted 29 September). It would replace policy 1.1.24:
+
+   > *"Clark County and participating jurisdictions shall work cooperatively to implement a countywide
+   > transfer of development rights (TDR) program starting in 2027 … Preference is given to a program
+   > where the County serves as the TDR bank … based on a pre-determined price per credit (e.g.
+   > $25,000 per TDR credit). Payments into the TDR bank may be allowed outside of receiving areas as a
+   > mitigation tool. This program shall begin with a community roundtable discussion."*
+
+   Read against what is already in the record:
+   - **It cuts the link to UGA expansion.** The version in Exhibit 2 (p. 5, unchanged in the
+     29 September reissue) still says *"any expansion of any urban growth boundary shall require
+     participation in the program"*, with interlocal agreements making expansions contingent on TDR.
+     Commerce called that linkage *"potentially inconsistent with state statute."* Little's text
+     drops it, so **it answers Commerce's objection.**
+   - **It commits to "implement … starting in 2027".** That is firmer than the 23 September Council
+     Time outcome, which was a round table in early 2027 and nothing in the plan.
+   - **It has no ratio, no no-net-loss rule and no deadline for being operational.** The failed
+     Planning Commission version had 1:1 acreage and *"fully operational no later than December 31,
+     2027"*. None of that is here.
+   - **"Payments into the TDR bank … outside of receiving areas as a mitigation tool"** is a fee in
+     lieu: development anywhere could pay instead of buying credits. Whether that preserves farmland
+     depends entirely on the price and on whether the bank actually buys easements. The text sets
+     neither.
+   - **Net assessment.** It is better than nothing in the plan, and it is legally safer than the
+     linked version. But it does not offset the five de-designations being voted on the same day,
+     because by design it is no longer tied to them. **The ask stays the same: drop the
+     de-designated farmland from the expansions. Support Little's TDR text as a separate good, and ask
+     for a credit price floor and a no-net-loss goal to be written in.**
+2. **The Chair's "cluster development on resource lands" amendment has still not been published.**
+   Exhibit 2 was reissued on 29 September, and "cluster" appears in it only in an unrelated Climate
+   Element policy (14.9.5, on conservation mechanisms). If it is moved from the dais tomorrow, ask for the text to be read in
+   before the vote.
+3. **The Housing Element has gained anti-displacement language, and it is good.** The
+   *Memo to Council – Response to Agency Comments 2* (doc 237671, dated 1 October) and the reissued
+   Exhibit 2 apply the Appendix M racially-disparate-impacts audit. Policy 2.2.5 loses *"Preserve the
+   character of stable existing residential neighborhoods"* in favour of *"Implement innovative zoning
+   techniques that encourages investment in new development and discourages disinvestment,
+   displacement, and exclusionary housing."* Policy 2.2.7 drops *"appropriate"*, *"older/existing"*
+   and *"maintenance of neighborhood integrity and compatibility"*, which the memo itself calls
+   exclusionary language, and adds anti-displacement wording. Policies 2.4.1 and 2.4.4 add
+   displacement mitigation. *The redline in Exhibit 2 comes through `pdftotext` as both versions
+   interleaved. The direction stated here comes from the memo's plain-text description, not from the
+   redline.*
+4. **Appendix O, the county's answer to Commerce on "adequate provisions" (doc 237426, 8 pp.), puts
+   every funding action in the future.** It lists an impact-fee reduction of up to 80% for affordable
+   housing under RCW 82.02.060 (*"Future"*), a TIF tool (*"Future"*), a surplus public land inventory
+   (*"Future"*) and VHA partnership (*"Future"*). **It contains no dollar figure.** Commerce asked the
+   county to document local funding gaps. This matrix names the barrier column "Funding gaps" without
+   quantifying any.
+5. **Traffic impact fees roughly double to triple** (presentation doc 237661, slide 22), per average
+   daily trip:
+
+   | District | Current | Proposed (two figures shown) |
+   |---|---|---|
+   | Hazel Dell | $551 | $1,004 / $1,027 |
+   | Mt Vista | $1,053 | $1,559 / $1,612 |
+   | Orchards | $477 | $1,247 / $1,251 |
+   | Rural | $398 | $1,340 / $1,368 |
+   | 179th St DA | $605 + $350 surcharge | unchanged |
+
+   The slide prints two proposed figures per district. That is probably a revision shown as a redline,
+   with the higher figure the later one, but **the PDF does not say which is current**. Read together
+   with item 4: **affordable housing will pay the higher fee until the "Future" 80% reduction is
+   adopted.** Making growth pay for roads is defensible. Doing it before the affordable-housing
+   exemption exists is a sequencing choice. The same deck projects a **$554M 20-year shortfall** in
+   transportation funding (slide 16). It also shows **$768.9M of "County Building & Other Facilities"**
+   in the six-year financial plan with **$0 from new development** (slide 18). What those buildings are
+   is not in the deck.
+6. **Logistics corrections.** The reissued agenda (doc 237401) now reads **"Thursday, October 1, 2026,
+   4PM"**, so the "Tuesday" header flagged on 25 September is fixed. It gives the room as **Public
+   Service Center, 6th Floor, Conference Room 680**. The text below says "6th floor Hearing Room"; the
+   agenda is the better source. Continuation: *"Friday, October 2, at 10 am (if needed)."*
+7. **The public comment compilation now runs to eight parts.** Part 7 (doc 237666, 665 pp.) and Part 8
+   (doc 237896, 574 pp.) were posted at 17:07 on 30 September. **I did not read them.**
+
+Also new and **not read**: the revised Chapter 5 Transportation Element (doc 237621, 84 pp.),
+Appendix A Transportation CFP (doc 237626, 50 pp.), the revised Chapter 2 Housing Element in full
+(doc 237616, 40 pp.; read only through the memo's change list), and the TIF formula page (doc 237631).
+The formula page is the current code (*"current through Ordinance 2026-02-02"*), not the proposed
+amendment.
 
 ---
 
