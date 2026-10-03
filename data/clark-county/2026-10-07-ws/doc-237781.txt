@@ -1,0 +1,131 @@
+2027 Annual Budget –
+GIS
+Clark County Council
+Work Session Presentation
+Wednesday, October 7, 2026
+GIS
+2027 Budget Submission at a Glance
+2027 Budget Environment
+• Demand for GIS services from both county departments and the public continues to rise.
+• Demand is expected increase even more in 2027 as departments turn to IT and GIS
+  technology to help absorb impacts of budget reductions.
+• The 2027 GIS budget is a mix of funding sources:
+
+
+
+
+                             Revenue &
+                              Indirect         General
+                             Fees, 47%        Fund, 53%
+
+
+
+
+                                            2027 Annual Budget: Department/Office Budget Requests   2
+GIS
+2027 Budget Submission at a Glance
+Key Considerations for Council
+• Over past 20 years, the GIS workload has grown significantly but staffing levels have
+  only increased by 1.5 FTEs.
+• GIS operates efficiently with a relatively small budget:
+                                                                          8.4%
+           Total 2027 GIS Budget = $3,406,718                    Controllable - Obligated
+
+
+                                  90% Non-Controllable
+
+
+
+                                                                                      1.6%
+                                                                            Controllable – Remaining
+
+• GIS generates an average of $480,000 in annual revenue for the General Fund.
+     Revenue covers entire controllable budget and provides $139,000 to General Fund.
+• The 2027 budget is already at its minimum for maintaining current service levels and
+  staffing levels, funding contractual obligations, covering inflationary-related expenses
+  for software and hardware, and addressing additional operational needs required for
+  GIS to operate efficiently.
+
+
+                                               2027 Annual Budget: Department/Office Budget Requests   3
+GIS
+2027 Priority Items for Council Consideration
+PRIORITY 1 — Funding for Position P003024 (GIS-01-27AD)
+REQUEST: $37,002 in ongoing funding from the General Fund
+• Per MOU #2022-GIS-01 between Clark County and the County Assessor, this position is
+  required to be funded at 100% FTE (currently at 60%).
+• This position processes over half of the property ownership transfers that the county
+  receives.
+• This position also maintains property information used for calculating property taxes and
+  for providing property information to other downstream, core county functions.
+• Risk if not approved: non-compliance with MOU, delays in property transfer processing
+  will disrupt core county services for residents and businesses, and property data on the
+  MapsOnline and PIC websites will become outdated.
+
+
+PRIORITY 2 — GIS Revenue Adjustments (GIS-02-27AD)
+REQUEST: Reduce 2027 revenue forecast by $39,000
+• Risk if not approved: 2027 revenue forecast will be overestimated by $39,000.
+
+
+
+                                             2027 Annual Budget: Department/Office Budget Requests   4
+GIS
+2027 Priority Items for Council Consideration
+PRIORITY 3 — GIS 2.5% General Fund Budget Reduction (GIS-90-27AD)
+Impact: $85,168 or $45,032
+• $85,168 = 2.5% of the entire 2027 GIS budget.
+• $45,032 = 2.5% of the General Fund contribution to the 2027 GIS budget.
+• Option 1: Eliminate position #P003024
+    Impact: $51,885
+    Consequences: non-compliance with MOU, growing property transfer backlogs, outdated
+     property data on MapsOnline and PIC, and processing delays that disrupt core county
+     services for businesses and residents.
+• Option 2: Cut up to 60% from remaining portion of controllable budget
+    Impact: $33,283
+    Consequences: degraded service levels, diminished revenue generation, weakened support
+     for core county systems, and heightened risk of failing to meet statutory mandates.
+• Recommendation: Reject this budget reduction package to avoid service disruptions,
+  preserve our ability to generate revenue and pay for operational needs, and ensure GIS
+  has adequate capacity to support departments with implementing technology-based
+  solutions that offset their budget reductions.
+
+
+                                            2027 Annual Budget: Department/Office Budget Requests   5
+GIS
+2027 Priority Items for Council Consideration
+Statutory Mandates Supported by GIS
+Assessor’s Office                                                   Public Works
+• RCW 84.40.160: Mapping responsibilities                           • RCW 17.10: Noxious weed mapping
+• RCWs 84.33, 84.34: Current use exemption management               • RCW 36.78: Road maintenance, asset management
+• RCWs 84.36, 84.37: Property tax exemption/deferral                • RCW 43.21C: Environmental policy
+• RCWs 84.40, 84.41: Property revaluation/adjustments               • RCWs 46.44.080, 46.61.450: Bridge load restrictions
+• RCWs 35, 35A, 52.04: Annexations                                  • RCW 70A.305: Hazardous waste cleanup
+• RCWs 84.52, 84.55: Levy certification                             • RCW 76.09.460: Forest practices permitting
+Community Development                                               • RCW 84.34: Conservation futures funding
+• RCW 36.70A: Land use review, permitting, critical area mapping    • RCW 90.58: Shoreline management
+• RCW 58.17: Legal lot determinations                               Public Health
+• RCW 76.09: Forest practices permitting, moratorium tracking       • RCW 15.130: Food service establishment monitoring
+• RCW 90.48: Stormwater pollution control                           • RCW 18.104: Water well mapping
+• RCW 90.58: Shoreline designations                                 • RCW 42.56: Public records requests
+Community Planning                                                  • RCWs 43.70.515: Epidemiology and surveillance
+• RCW 36.70A: Growth management, long-range and transportation      • RCW 70.90: Water recreation facility monitoring
+  planning                                                          • RCW 70A.105: On-site sewage disposal mapping
+                                                                    • RCW 70A.125: Public water system mapping
+CRESA (Emergency Services)
+• RCW 38.52.501, 38.52.70: 911 call routing, emergency alerting     Sheriff’s Office
+                                                                    • RCW 4.24.550, 9A.44.130: Sex offender mapping
+Auditor’s Elections Division
+                                                                    • RCW 38.52.510, 38.52.505: 911 system maintenance, ALI accuracy
+• RCW 29A.16, 29A.32.260, 29A.76: Precinct mapping, voter
+  pamphlet mailing, redistricting                                   • RCWs 36.18.040, 36.18.070: Mileage billing
+
+Prosecuting Attorney                                                Records Management
+• RCW 36.27.020: Case mapping, property and crime data              • RCW 42.56: Public records act compliance
+                                                                    Treasurer’s Office
+                                                                    • RCW 84.56.020: Tax statement delivery
+
+
+
+                                                                   2027 Annual Budget: Department/Office Budget Requests               6
+

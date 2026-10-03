@@ -13,6 +13,12 @@ Both workshops matter if they are rescheduled. Proportional impact fees is the "
 redesign flagged on 8 September. Fruit Valley for All is the equity-focused subarea plan. The packet is
 unpublished, so no staff reports exist to read. **Nothing to act on.** Re-check at the next run.
 
+## Update, 2 October
+
+No change. The event is still titled *"Planning Commission - Cancelled"*, the packet is still
+unpublished, and the only new attachment is the final minutes of 8 September (file 5154), which is an
+approval item. Still no notice saying where the two workshops have moved.
+
 ## What I could not check
 
 - Whether the meeting is in fact cancelled, and where the two workshops have moved.

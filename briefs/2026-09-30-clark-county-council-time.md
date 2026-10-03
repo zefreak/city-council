@@ -20,6 +20,15 @@ Items 5.1 and 8.1 have no attachments.
 
 ---
 
+## Outcome, from the minutes published 2 October
+
+**The Council did not send the SAVE Act letter.** The 30 September minutes: *"Council majority
+supported moving forward with requesting the auditor write fact only letter to federal offices."* So
+the Council took no position. The Auditor is to write a factual letter instead. No vote count is
+recorded. See `2026-10-07-clark-county-council-time.md`.
+
+---
+
 ## Bottom line
 
 **Item 5.2 would put the County on record against the SAVE America Act.** The Act is the federal

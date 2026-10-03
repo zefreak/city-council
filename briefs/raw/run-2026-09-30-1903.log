@@ -5,3 +5,36 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-09-30-digest.md
 [19:03:59] digest written: /home/scottr/research/city-council/briefs/raw/2026-09-30-digest.md
 [19:03:59] invoking claude (model=opus)
+The briefs are written, the rolling page is rebuilt, and everything is committed and pushed to `main` (a76b9a2), so the page is live. The notification summary is in `briefs/raw/.last-bottom-line.txt`.
+
+**Clark County comp plan hearing, Thu 1 Oct 4pm.** Eleven new documents went up on 28–30 Sep; I read all but the largest (listed below). Updated brief: `briefs/2026-10-01-clark-county-comp-plan-hearing.md`.
+- **Councilor Little posted a new farmland-offset (TDR) policy on 29 Sep.** It drops the link to the boundary expansions, which answers the Department of Commerce's legal objection, and commits to starting a programme in 2027. It has no acre-for-acre ratio, no no-net-loss rule and no price floor, and it lets developers pay a fee instead. It is worth backing on its own terms, but it does not offset the farmland being converted. The main ask stays the same: take the de-designated farmland out of the expansions.
+- **Appendix O is the county's answer to Commerce on funding gaps, and it contains no dollar figure.** Every funding action is marked "Future", including the impact-fee cut of up to 80% for affordable housing.
+- **Traffic impact fees roughly double to triple.** For example, Orchards goes from $477 to about $1,250 per daily trip. Until that 80% cut exists, affordable housing pays the higher fee.
+- **The Housing Element now drops exclusionary language** such as "preserve the character of stable residential neighborhoods". That is a genuine improvement.
+
+**Vancouver Council, Mon 5 Oct.** I read the full 169-page packet. Brief: `briefs/2026-10-05-vancouver-city-council.md`.
+- **Item 7 is a public hearing on a resolution opposing the two school initiatives.** It is worth supporting. State law guarantees the initiatives' supporters roughly equal time, so turnout matters. Two of the resolution's claims go further than the initiative text ("outing" students, and "genital exams"). The brief sets out which points are solid to cite.
+- **The HB 1491 affordability ordinance is on consent**, with its only hearing on 12 Oct. The map of which parcels are exempt is linked from a webpage, not adopted in the ordinance, so staff can change it without a vote. The draft also has errors: a 2025 hearing date, a blank RCW citation, and a promised severability clause that isn't there.
+- **A budget staffing appendix (p. 42) assumes the City ends SHARE's Talkin' Trash contract in June 2027.** SHARE's own page confirms the programme employs people with lived experience of homelessness. The work moves to two new city workers assigned to encampment cleanups. Separately, homeless outreach drops from 9 posts to 1 in 2028 as a grant runs out.
+- **Draft boot-and-tow code for unpaid parking tickets:** staff's own example turns four $25 tickets into $643.52. The "17.5%" collections fee works out to 21.2% of the debt. Nothing in the draft deals with ability to pay or people living in their cars. It goes on consent 9 Nov, with a hearing 16 Nov.
+- **The children-and-families sales tax was withdrawn** after the Council raised the same concern the 21 Sep brief did (rent and four detectives at the Children's Justice Center).
+
+**Also written:** a short brief for the 13 Oct Planning Commission, which is listed as "Cancelled" even though its agenda shows no cancellation, and a calendar note for four Vancouver meetings whose agendas aren't published yet.
+
+**Corrections on the page:** the farmland offset is no longer "off the table". The Clark County 6 Oct regular meeting is unconfirmed: nothing was posted by the 5pm agenda deadline.
+
+**What I could not check:**
+- Public comment Parts 7 and 8 (1,239 pages), the revised Transportation Element and its Appendix A.
+- Which of the two proposed traffic fee figures per district is current; the slide prints both.
+- The HB 1491 exemption parcel map.
+- Whether the impact-fee waiver change in the HB 1491 ordinance is new wording. The online code hasn't been updated to the new zoning code, so there was nothing to compare against.
+- The value and crew size of the Talkin' Trash contract.
+- The wording of RCW 42.17A.555, the equal-time rule. The legislature's site wouldn't serve it, so the brief quotes it from memory and marks it unverified.
+- Text of the Chair's cluster-development amendment, which is still unpublished.
+- Which property the 5 Oct executive session concerns.
+- WebSearch was denied in this headless run. I worked around it by fetching SHARE's site directly with curl.
+[19:13:58] claude exited rc=0
+notify-hook: taskwarrior task 5 created/updated
+[19:13:58] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:13:58] === run complete

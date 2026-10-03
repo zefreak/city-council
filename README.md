@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 38 — through the 30 Sep evening run: Vancouver Council 5 Oct (initiatives resolution hearing; HB 1491 on consent, exemption map left administrative; budget appendix assumes SHARE Talkin' Trash contract ends June 2027; scofflaw boot/tow code, $100 of fines → $643.52). Comp plan hearing brief updated with Councilor Little's decoupled TDR amendment, Appendix O (no dollar figures) and 2–3× traffic impact fees. 13 Oct Planning Commission listed "Cancelled" with an uncancelled agenda |
+| Briefs written | 43 — through the 2 Oct evening run: Clark comp plan hearing continued to 5 Oct, written comment to noon 13 Oct; Clark 6 Oct HB 2060 housing-fund interlocal (no dollar figure, agreement not attached); Clark 7 Oct Council Time mobile-home rent cap loophole (RCW 59.20.380(3)) and the 2027 budget work session built around Props 12/13; Vancouver CAHC 8 Oct cultural access ordinance amendment (no text). Before that, the 30 Sep run: Vancouver Council 5 Oct (initiatives resolution hearing; HB 1491 on consent, exemption map left administrative; budget appendix assumes SHARE Talkin' Trash contract ends June 2027; scofflaw boot/tow code, $100 of fines → $643.52). Comp plan hearing brief updated with Councilor Little's decoupled TDR amendment, Appendix O (no dollar figures) and 2–3× traffic impact fees. 13 Oct Planning Commission listed "Cancelled" with an uncancelled agenda |
 
 ## Layout
 
@@ -272,6 +272,12 @@ that ever changes.
   needed" third day is in no published notice**. An earlier version of this file gave the dates as
   "1/2/5 October"; the 5 October sitting was only ever in a verbal remark at the 3 September Planning
   Commission hearing and does not appear on the meetings listing or the agenda. Do not plan around it.
+
+  **Superseded, 2 October 2026.** The hearing *was* continued to **Monday 5 October at 10:00am**, and
+  that row is now on the County's listing, with written comment reopened until **noon on 13 October**.
+  The "do not plan around it" advice above was right on the evidence at the time and is now wrong. The
+  lesson is the same one as the stale news release: a verbal remark at a hearing can turn out to be the
+  plan, so re-read the listing after every sitting.
 - **Clark County session ids were renumbered by every new posting — fixed 23 Sep 2026.** `clark_meetings()` built ids as `clark-<date>-<len(out)>`, a counter across the whole listing, so a newly posted session shifted every older row's id and they all resurfaced in the digest with *identical* fingerprints. The 23 Sep digest re-listed three already-briefed sessions for this reason alone. Ids are now counted per date. **The first run after the fix will resurface every in-window Clark row once** under its new id; compare fingerprints against the old keys in `.agenda-watch-state.json` before treating any of them as changed.
 - **A Vancouver `agendaId` is assigned long before the agenda exists.** A future meeting can show
   a non-zero `agendaId` whose `Meetings/{id}` returns zero items. Item count is the test.

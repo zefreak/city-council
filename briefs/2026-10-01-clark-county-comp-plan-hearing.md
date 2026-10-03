@@ -13,6 +13,15 @@ letter to the Department of Commerce, and the Residential Code Updates draft mem
 
 ---
 
+## Update, 2 October — the hearing continues on 5 October and written comment is open to 13 October
+
+**The hearing did not finish.** The County's meetings listing now shows the hearing *"continued to
+Monday, Oct. 5, 2026, at 10am"* and *"written comments will be accepted until 12pm on Oct. 13, 2026."*
+**Two statements below are now wrong.** "Written comment … closes at the hearing on 1 October" is wrong:
+it is open until noon on 13 October. "Do not plan around a 5 October sitting" is also wrong: one is
+now published. The 2 October agenda said public comment *"has been closed"*. The later listing text
+supersedes it for written comment. See `2026-10-05-clark-county-comp-plan-hearing.md`.
+
 ## Update, 30 September evening — eleven documents posted 28–30 September
 
 The comp plan events calendar's 1 October row now lists eleven documents not there on 25 September.

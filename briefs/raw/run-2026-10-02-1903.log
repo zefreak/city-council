@@ -1,0 +1,7 @@
+[19:03:49] === run start, project /home/scottr/research/city-council
+Already up to date.
+[19:03:50] running agenda_watch.py
+11 meetings (7 with published agendas)
+digest -> /home/scottr/research/city-council/briefs/raw/2026-10-02-digest.md
+[19:04:00] digest written: /home/scottr/research/city-council/briefs/raw/2026-10-02-digest.md
+[19:04:00] invoking claude (model=opus)
