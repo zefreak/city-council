@@ -1,0 +1,2140 @@
+                                                        Curtin Creek Community Park
+
+
+2027-2032
+Parks and Lands for All
+DRAFT CAPITAL IMPROVEMENT PLAN
+
+     Clark County Public Works                   Parks and Nature
+                                                 Lands Management
+
+     4700 NE 78th Street, Vancouver, WA 98665
+     564.397.2285
+     www.clark.wa.gov/public-works/clark-county-parks
+
+     September 29, 2026
+ACKNOWLEDGEMENT
+This document represents the efforts and cooperation of Clark County staff, the Clark County Parks
+Advisory Board, and the Clark County Council. Thank you to all who participated in the development
+of this plan.
+
+Clark County Council
+       Sue Marshall, Chair, Councilor District 5
+       Glen Yung, Councilor District 1
+       Michelle Belkot, Councilor District 2
+       Wil Fuentes, Councilor District 3
+       Matt Little, Councilor District 4
+
+Clark County Parks Advisory Board
+       John Rafanelli, Chair
+       Janis VanWyhe, Vice Chair
+       Jessica Barksdale, Secretary
+       Brandon Erickson
+       Jordan Hamann
+       James Kautz
+       Russell Malburg
+       Sean Janson, Parks Foundation of Clark County
+       AJ Panter, ex-officio, Vancouver Public Schools representative
+       Cale Piland, ex-officio, Evergreen Public Schools representative
+       Rachel Best, ex-officio, Camas Public Schools representative
+
+Clark County Staff
+       Ken Lader – Public Works Director
+       Jennifer Coker – Public Works Deputy Director
+       Ross Hoover – Parks and Nature Division Manager
+       David Stipe – Parks and Nature Planning and Development Manager
+       Jonathan Beckhart – Parks and Nature Capital Programs Specialist
+TABLE OF CONTENTS
+
+Introduction                                            1
+
+Project Classifications                                 8
+
+Funding                                                 13
+
+Table 1.01 – Summary by Fund, Category and Year         15
+
+Table 1.02 – Multi-Year Major Maintenance Summary       16
+
+Table 1.03 – Multi-Year Capital Project Summary         17
+
+Figure 1.01 – Park Enhancements Index Map               18
+
+Figure 1.02 – New Development Index Map                 19
+
+Table 2.01-2.06 – Program and Project Summary by Year   20-25
+
+Council Adoption Resolution                             26
+
+
+
+APPENDICES
+
+A – Capital Project Descriptions
+
+B – Major Maintenance Prioritization Criteria
+
+C – Development Prioritization Criteria
+
+D – Public Comments
+Introduction
+Parks and Nature Division
+
+Parks and open spaces are essential community infrastructure, providing benefits that reach far
+beyond recreation. They offer places for people to connect with nature, support physical and mental
+well-being, and strengthen community identity. These spaces also play a critical environmental role
+by protecting wildlife habitat, improving air and water quality, and helping manage stormwater. As
+Clark County continues to grow, parks and open spaces ensure that residents maintain access to
+nature, safe gathering places, and opportunities for outdoor activity—key ingredients for a healthy,
+resilient, and vibrant community.
+
+The Public Works Parks and Nature Division manages and maintains 97 properties across Clark
+County, including regional parks, community parks, neighborhood parks, natural areas, and specialty
+sites. These properties are distributed throughout both unincorporated Clark County and the
+Vancouver Urban Undeveloped Area (VUUA).
+
+Within the VUUA, parks and undeveloped properties are part of the Greater Clark Park District
+(GCPD), a Metropolitan Park District established under Washington State Statute RCW 36.61. Since
+the GCPD’s formation in 2005, Clark County has developed 28 neighborhood parks and 5
+community parks within the district boundary.
+
+State statute requires that each Metropolitan Park District adopt a Parks System Plan, Capital
+Facilities Plan (CFP), and Capital Improvement Plan (CIP). Clark County’s Parks System Plan—known
+as the Parks, Recreation, and Open Space (PROS) Plan—was originally developed in 2014–2015 and
+updated in 2020–2021, with the revised plan adopted by the County Council in April 2022.
+
+During the PROS Plan’s public outreach process, the community expressed a preference for Level of
+Service (LOS) goals for each park classification: regional parks, community parks, neighborhood
+parks, and urban natural areas. In the current adopted PROS Plan, LOS is measured as the number of
+developed or undeveloped park acres per 1,000 residents, calculated separately for each park type.
+Using this criteria for LOS, the current PROS Plan identifies deficiencies across all categories.
+Elements of this plan seek to address those deficiencies through acquisition and development. While
+community parks, neighborhood parks, and urban natural areas can be acquired and developed using
+Park Impact Fee (PIF) funds, addressing deficiencies in regional parkland is more challenging because
+the county currently lacks a dedicated funding source for regional acquisitions and development.
+
+To address LOS gaps, Parks and Nature prepares a Capital Improvement Plan (CIP) that includes
+funding for both property acquisition and development. The division updates the CIP annually
+through a public process that concludes with a hearing before the Clark County Council and
+adoption of the six-year CIP. This review and adoption typically occurs each October.
+
+
+
+                                                                                                        1
+                                                     Since the adoption of the County PROS plan in 2022,
+                                                     two additional parks have been added to the
+                                                     developed inventory. In 2024 Kozy Kamp
+                                                     Neighborhood Park was developed and added 4.98
+                                                     acres to the system and in 2026 Curtin Creek
+                                                     Community Park was developed adding 16.18 acres.
+                                                     These two parks are the final parks developed as
+                                                     part of the original development proposal in
+                                                     Proposition 1, approved by the citizens of the park
+                                                     district.
+                                                     As part of the establishment of the GCPD,
+                                                     Proposition 1 established the property tax levy that
+                                                     provides the funding for maintenance and operations
+                                                     of the developed sites available to the residents of
+                                                     the park district along with the acquisition of the
+                                                     undeveloped properties in the Parks and Nature
+     Sculpture at Curtin Creek Community Park        inventory.
+
+
+    In addition to county residents, recreation enthusiasts travel from throughout the region to facilities
+    like Luke Jensen Sports Complex, Salmon Creek Community Park, Pacific Community Park,
+    Hockinson Meadows Community Park, Moulton Falls, Lewisville Regional Park and Lacamas
+    Regional Park.
+    Properties acquired and developed since the formation of the Greater Clark District in 2005 are now
+    seeing higher usage rates than they were built for, dramatically increasing the need for preventative
+    and major maintenance attention. Due to the age of the system, continued growth, and increased
+    use levels, the need for capital expenditure at existing facilities continues to outpace available staff
+    and financial resources. Parks and Nature continues to invest in existing parks through major
+    maintenance project execution that replaces deteriorating park amenities and reduces daily
+    maintenance needs. To track and budget for these needs, the Parks and Nature planning team
+    includes 6-year major maintenance calendar based on current asset condition, frequency of use and
+    periodic maintenance burden amongst other evaluation criteria. The adopted plan is a guide for staff
+    that helps focus efforts on improvements at properties and projects of highest need. The capital
+    plan outlines projects for implementation into two categories: Major Maintenance and Capital
+    Development. The CIP also includes legacy lands and park land acquisitions along with system and
+    site planning.
+
+
+
+
+2
+While capital funds are available for capital project development necessary to keep up with demand
+and growth, these types of projects add a burden to the operations and maintenance section of
+Parks and Nature. Unfortunately, the funds available for major maintenance and development PIF
+can’t be used for routine maintenance or labor costs. For this reason, the 2027-2032 DRAFT CIP
+continues to reflect a purposeful slowdown in new park development in recognition of this lack of
+Operations & Maintenance (O&M) structural budget funding.
+
+
+
+
+Community Engagement at Kozy Kamp Neighborhood Park
+
+
+
+
+Lands Management Division
+The Public Works, Lands Management Division manages thousands of acres of unique properties
+and administers several programs including Legacy Lands and the Conservation Futures fund, the
+former Camp Bonneville Military Reservation, the Chelatchie Prairie Railroad, the county’s Noxious
+Weed Management program and the Noxious Weed Control Board, forest practices permitting and
+the county’s Forest Stewardship Plan.
+This Capital Improvement Plan includes major maintenance and land acquisition projects along with
+natural area planning projects managed by the Lands Management team.
+
+
+
+
+                                                                                                     3
+    CIP Development
+    Recognizing the reality of funding and staffing limitations, available opportunities, and overall
+    capacity for the parks system each fiscal year, the Parks and Nature Division utilizes a transparent
+    and systematic methodology for the prioritization of capital expenses. This methodology balances
+    the needs and objectives of the parks system, the obligations of the county to the public, the impact
+    to the Parks and Nature Division and county budgets, and the operational impact of adding to the
+    parks portfolio. The Parks and Nature Division aims to be agile, flexible, and adaptable in the
+    implementation of a CIP to pursue opportunities that meet the broader goals of the division, county,
+    and community as they arise.
+
+    The Parks and Nature Division describes capital plan improvements in the following terms:
+          Major Maintenance: Project renovating, restoring, or replacing an existing asset, usually with
+           a contractor performing the work rather than park operations staff. Major maintenance
+           projects may include (but are not limited to) shelter replacement, playground fall surfacing
+           replacement, parking lot or trail resurfacing, restroom replacement, and sports turf
+           replacement.
+          Emergency Repair Project: Project addressing an emergency involving a Parks and Nature
+           Division asset which creates risk of death, injury, significant loss or damage to property
+           (public or private) or the environment. Emergency repair projects are limited in scope to
+           mitigation of risk. It is contrary to this policy to use emergency situations to elevate capital
+           projects.
+          Park Enhancements: Projects that focus on capital improvements or additions to existing
+           neighborhood, community and regional parks.
+          New Park Development: Project creating a new park or park amenity that adds to existing
+           park inventory. Projects may include construction of new or additional sport courts,
+           playgrounds, shelters, restrooms or new parks in their entirety.
+          Land Acquisition: Project acquiring new lands, rights-of-way or property rights to preserve
+           land or enable future recreation improvements. Rights-of-way may be acquired to improve
+           park access, and property rights can be acquired for habitat or agriculture preservation.
+
+
+
+
+4
+CIP Development Process
+The CIP development process includes four stages: Identification, Prioritization, Scoping, & Budgeting
+
+
+
+       Identification
+       Identification of projects by:
+           o   Aggregating asset condition assessments, public comments, development needs
+               identified in the PROS Plan, prior obligations and staff observations. The county is in
+               the process of implementing an electronic asset management system which will serve
+               as the method for developing formal lists of items to address.
+           o   Staff sorting each proposed project into one of the following categories, as described
+               in the previous section: preventative maintenance, major maintenance, development,
+               land acquisition.
+           o   Adding projects and project details to the list by project type.
+           o   Adding notes from plans, community input, government input, etc. to the project
+               spreadsheet to assist with prioritization.
+
+       Prioritization
+       Prioritization of projects by:
+           o   Performing an initial prioritization through the scoring of projects using the rubric
+               applicable by project type, located in the appendices of this policy. Prioritization will
+               be incorporated into a draft CIP.
+           o   Parks and Nature Division staff presenting the draft CIP to the Parks Advisory Board
+               (PAB) annually in the second quarter of the preceding year.
+           o   Parks and Nature Division staff working with the Clark County Public Works Public
+               Information Office to post the Draft CIP for public comment in May.
+           o   The PAB reviewing and providing input on the draft CIP. Staff will review comments
+               and adjust the CIP as necessary based on the input received. At a subsequent
+               meeting the PAB shall consider making a recommendation for adoption of the CIP by
+               the Clark County Council. The recommendation and any comments from the PAB will
+               be distributed to county administration as part of the budgeting process.
+       Note: Projects that are funded and currently in development will not be subject to
+       reprioritization, ensuring continual progress on projects already in process. This is consistent
+       with a fiscally constrained capital program, as described in the budgeting section of this
+       policy.
+
+
+
+
+                                                                                                           5
+    Scoping
+    Scoping of projects by:
+       o   Developing proposals to accomplish the projects in the prioritized list. This may
+           include bundling projects that are similarly prioritized to take advantage of economic
+           scaling (e.g., parking lot restoration projects in the west park zone that score within
+           ten places of each other may be combined into a single, larger project).
+       o   Estimating costs for proposed projects. Projects ranking higher on the prioritized list
+           will have more accurate estimates completed based on current and projected
+           economic conditions and available Parks and Nature Division resources.
+       o   Evaluating the prioritized list considering current Parks and Nature Division
+           budgetary and staffing capacities, obligatory requirements, etc. When opportunities
+           or challenges are identified, reorganization of the list may occur.
+       o   Using the list of projects, including costs and any PAB comments, in developing the
+           Parks and Nature Division capital budget for presentation to the public works director
+           and county administration.
+
+
+
+    Budgeting
+    Budgeting for the CIP will occur by:
+       o   Forecasting each fund available to pay for capital improvements in the Parks and
+           Nature Division portfolio annually as part of the Public Works Business Services and
+           Financial Controls Division’s budgetary process, forming the basis of fiscal constraint
+           considerations. Fiscal constraint for the six-year period is a requirement of the CFP.
+           This is different from the CIP, and while CIP projects may move around in response to
+           conditions, the cumulative costs and impacts to the parks portfolio would need to be
+           consistent with the constraints in the CFP.
+       o   The Parks and Nature Division pursuing funding from outside sources, such as grants,
+           for projects on CIP as available and where staff capacity exists. Successful
+           competition for outside funding may result in adjustments to the CIP, as described
+           below.
+    The adopted CIP will be posted on the Parks and Nature Division website for public review
+    throughout the following budget cycle.
+
+
+
+
+6
+Refinement
+The CIP development process will occur annually as part of the budgetary process. Projects that
+have been completed will be reported to the Clark County Auditor’s office for inclusion in the
+Comprehensive Annual Financial Report (CAFR), as well as to the PAB as part of the annual CIP
+update process. New projects will be added to the list per the process described above.
+Reprioritization may result in changes from year to year and should not be construed as being
+contrary to this policy.
+The fiscal constraints mentioned above shall be applied to the overall project budget, subject to the
+limitations and restrictions upon the different funding sources or appropriations, except when new
+outside funding becomes available for a specific project(s).
+The CIP is intended to be a guiding document for repair, acquisition and development of Parks and
+Nature Division assets. It is intended to provide a realistic, achievable set of goals. However,
+circumstantial changes may result in the need to amend the CIP. It will be the policy of the Parks and
+Nature Division to make these amendments during the annual update, as described above. If such a
+change occurs within a fiscal year, the Parks and Nature Division shall share this information with
+the appropriate budgetary authority to request a change to the CIP.
+If authorized and consistent with any requirements regarding such changes, the Parks and Nature
+Division manager will prepare a report for the PAB and present it at the next scheduled meeting. The
+change will be noted on the Parks and Nature Division website after presentation to the PAB.
+
+
+
+Guiding Principles
+In support of county policies and goals, the parks capital planning process strives to:
+     Prioritize projects with the greatest potential to support multiple county programs and goals.
+      Consider the impact of the project on people with barriers to recreational opportunities.
+      Ensure reliable technical assessments of projects.
+      Ensure each project in the plan is feasible and the most cost-effective way to meet an
+       identified need.
+      Focus limited resources on cost-effective solutions to the most pressing concerns.
+      Incorporate environmental benefits into infrastructure repair projects.
+      Maintain an inventory and condition assessment of existing assessments to ensure timely
+       maintenance of facilities.
+
+
+
+
+                                                                                                         7
+    Project Classifications
+    Major Maintenance
+    Description
+    Major maintenance projects increase the life of an existing asset such as a park shelter and in most
+    cases cost over $25,000. Some projects may still meet the major maintenance definition and cost
+    below $25,000. These smaller projects frequently are not outlined in the CIP and would be funded
+    by the emergent project category established in this plan.
+    Strategy
+    The Major Maintenance project schedule is currently based on an outdated prioritization list that is
+    based on inventory and assessment work done over a several year period. Parks and Nature is
+    developing a Facility Condition Assessment (FCA) through 2026 that will identify all assets in the
+    system and their condition. The FCA will also develop a new prioritization matrix that will become
+    the initial list of projects for the CIP. The total number of projects completed in each calendar year
+    will be dependent on a number of factors including staffing and funding.
+    Funding
+    Funding for major maintenance projects primarily comes from Real Estate Excise Tax (REET2) and is
+    currently limited to a 7-year average of $3.5 million per year. The amount of REET2 funds available
+    for major maintenance projects is subject to change annually based on the REET2 projection
+    performed by the Finance and Audit Team.
+
+
+
+
+    Bosco Farm Neighborhood Park Playground Shade Structure
+8
+Capital Development
+Funding
+Funding for capital development primarily comes from Park Impact Fees (PIF) and is limited to the
+balance of the PIF account for a given PIF district. The Greater Clark Park District is currently
+divided into 10 PIF districts. The funds available in an individual district can only be used to make
+recreation improvements or acquisitions that serve the district where the funds are available.
+Community Parks within three miles of a PIF district, neighborhood parks within the district, trails
+serving the district and a portion of regional parks serving the individual districts are all eligible for
+PIF fund usage.
+Parks and Nature staff also pursue grant funding to further our recreation enhancement projects.
+Grant funds primarily come from the Washington State Recreation and Conservation Office (RCO)
+or the Washington State Department of Commerce.
+
+Park Operations and Maintenance
+
+Adding additional recreation amenities and parks to our system comes with additional maintenance
+requirements. Parks and Nature has added over a dozen new parks to the system over the last 10
+years without adding operations personnel. While it is important for the Parks and Nature Division
+to respond to the community’s desire for additional recreation opportunities and keep up with the
+fast-paced growth of the county, the division needs to be mindful of our responsibility to build only
+what we can maintain. While the Parks and Nature CIP project list is extensive, it does not represent
+a development schedule that will keep up with the Level of Service (LOS) standard set out in the
+current Clark County PROS plan to avoid adding to the workload of an overburdened operations
+team. This development versus maintenance balance necessitates a shift away from new park
+development toward maintenance and improvements at existing recreation sites. The Park
+Enhancements category in the Capital Development section represents the focus on improvements
+at existing sites.
+
+
+        Parks and Nature leadership will pair each Capital Development project with an operations
+        position request to cover the additional maintenance needs created by the addition of the
+        new recreation amenities whether it be a new park or a park enhancement.
+
+
+
+
+                                                                                                             9
+     Park Enhancements
+     Description
+     Park Enhancements (formerly referred to as Stewardship Capital) are improvements to existing
+     parks. These projects focus on enhancing recreational opportunities in the Greater Clark Park
+     District while minimizing new park development to reduce operations and maintenance staff drive
+     time.
+     Strategy
+     Parks and Nature staff rank and prioritize projects consistent with the recreation needs, level of
+     service requirements and strategies to meet current and future recreational demands identified in
+     the PROS plan. Staff also monitors several grant funding programs to identify opportunities to
+     secure additional funds for park enhancements.
+     While the Park Enhancement Projects have a smaller impact on operations and maintenance needs
+     given the efficiencies realized by a reduction in drivetime, there is still additional burden placed on
+     our operations teams any time additional recreation amenities are added to the system. When new
+     recreation amenities are added to an existing park the maintenance needs estimate for the site will
+     be updated to approximate the additional FTE needs in our operations team at the park site.
+
+
+
+
+      Klineline Pond Accessibility Improvements Conceptual Site Plan
+
+
+10
+New Park Development
+Description
+Development of a new park to address LOS deficiencies in the system. The 2022-2027 PROS Plan
+established LOS goals for the park classifications outlined below. These deficiencies in LOS provide
+guidance on the types of facilities that need to be developed to serve the residents of the county
+and the GCPD. While Parks and Nature is purposefully slowing new park development to avoid
+overburden of our operations team as discussed above, we continue to plan and advance design
+work on future parks to be ready to restart development should the maintenance deficiency be
+addressed in the near future.
+
+
+
+
+Minnehaha Property Neighborhood Park Conceptual Site Plan
+
+
+
+Strategy
+Rank and prioritize new park projects consistent with the recreation needs, level of service
+requirements and strategies to meet current and future recreational demands identified in the
+current adopted PROS plan. Balance spending of existing PIF fund balances across multiple
+projects, ensure PIF funds are spent with the 10-year timeframe, and identify outside funds to
+enhance project budgets.
+
+
+
+
+                                                                                                       11
+     Property Acquisition
+     Description
+     Acquisitions add property to the county real estate portfolio whether they be park or Legacy Lands
+     properties. Property acquired using Park Impact Fee (PIF) funds generally will be added to the list of
+     properties that will be developed for recreation purposes while property acquired using
+     Conservation Futures Funds are parcels planned for natural areas, farm, or forest preservation.
+
+
+     Strategy
+     The County seeks to acquire properties from willing sellers to meet both Level of Service (LOS) and
+     conservation goals identified in the PROS Plan and the Natural Areas Acquisition Plan. The Capital
+     Improvement Plan (CIP) outlines the annual and six-year acquisition strategy, organized by Park
+     Impact Fee (PIF) district for park lands and by watershed for Legacy Lands. Prioritization of parkland
+     acquisitions is driven by the specific LOS needs within each PIF district and the availability of PIF
+     funds dedicated to property acquisition.
+
+     Acquiring property outside the Greater Clark Park District (GCPD) boundary presents additional
+     challenges due to the lack of a dedicated funding source for regional park development. While PIF
+     funds may be used to purchase land outside the GCPD, those acquisitions must directly benefit the
+     PIF district that generated the funds. As a result, such purchases must be paired with other county
+     funding sources—primarily the General Fund—because once developed, these lands would serve
+     both county residents and GCPD residents.
+
+     As noted previously, Parks and Nature currently lacks sufficient staffing and operational funding to
+     maintain all active recreation sites within the system. Despite these constraints, the division
+     continues to pursue strategic property acquisitions as opportunities arise, ensuring the County is
+     well positioned to develop future parks and address LOS deficiencies as resources become available.
+
+
+
+
+12
+Funding
+This capital plan includes projects and ongoing programs totaling approximately $65,971,082 in
+Parks and Nature Division funding over the next six years. The capital plan also represents legacy
+lands acquisition funding totaling $23,800,000 for a total capital plan of $89,771,082. The first
+year’s budget is an assessment, while the forecasts for the subsequent five years are subject to
+change. Actual annual spending will be dependent on Parks and Nature Division resources
+(personnel & funding), future budget approval and direction from council. The capital plan is
+dependent on the funding programs outlined below.
+
+Park Impact Fees Program (PIF)
+PIF fees are collected within the GCPD when building permits are issued for single family homes,
+apartments and other residential projects. The funds collected can be used for park development or
+land acquisitions. The GCPD is divided into 10 impact fee districts. Park Impact Fees must be spent
+on development or acquisition of property that serves the respective districts from which they are
+collected. The funds must be spent within 10 years of the date of collection.
+
+Real Estate Excise Tax Program (REET)
+An excise tax is collected on the sale of real estate in the county. This program was developed in
+1996 and readopted in 2002. The funds may be spent on parks and economic development. Funding
+major maintenance and park development with excise tax is allowed. However, other Public Works
+Divisions also rely on excise tax dollars to fund projects in their individual Capital Improvement
+Plans. Parks currently uses available excise tax only for major maintenance.
+
+Greater Clark Parks District Program (GCPD)
+The GCPD was created via voter approved levy in 2005. The levy included the condition that 35
+new parks would be built and maintained, and new sports fields and trails would be developed
+within the new district. A metropolitan park district taxing authority was authorized within the
+unincorporated urban area of the city of Vancouver (VUUA). The tax rate was set at a maximum of
+$0.27 per $1,000 of assessed property value. The fund is used primarily for the operation and
+maintenance of parks within the district boundary.
+
+Conservation Futures Fund (CF)
+Clark County created the Conservation Futures fund in 1985. The primary revenue source for the
+fund is the Conservation Futures property tax levy, a county-wide levy that cannot exceed $0.625
+per $1,000 valuation. The program acquires natural area properties for the purposes of
+conservation, that can have some recreational use.
+
+
+
+
+                                                                                                      13
+     Grants and Donations (Other)
+     Grants are highly competitive and available sources change from year to year. When available, grant
+     funds are aggressively pursued. The Parks Foundation of Clark County has assisted the Parks and
+     Nature Division in raising funds for projects via donations. Volunteer contributions are a common
+     source of donated value to leverage grant funding. Other donations can occur but are not a key
+     source of funding for capital projects.
+
+
+
+
+14
+2027 - 2032 Clark County Parks and Lands - Capital Improvement Plan
+Table 1.01 - Summary By Funding, Category and Year
+
+Sum of Amount                                        Column Labels
+                                                       GRANTS/
+Project Year/Type                                       OTHER          REET          PIF       GF        MPD           LL       1014       1013       Grand Total
+2027                                                      415,000     4,185,000    8,713,243   150,500   279,500    8,195,000    275,000          -    22,213,243
+ Major Maintenance                                              -     3,435,000            -         -         -            -          -          -     3,435,000
+ Park Enhancements                                              -      300,000     5,900,000         -         -            -   275,000           -     6,475,000
+ New Park Development                                    140,000       450,000     1,200,000         -         -            -          -          -     1,790,000
+ Legacy Lands Acquisition                                200,000              -     358,988          -         -    8,195,000          -          -     8,753,988
+ Park Land Acquisition                                          -             -    1,254,255         -         -            -          -          -     1,254,255
+ Park System & Site Planning                               75,000             -            -   150,500   279,500            -          -          -      505,000
+2028                                                    2,725,000     5,354,000    7,903,839         -         -    4,200,000          -          -    20,182,839
+ Major Maintenance                                              -     5,164,000            -         -         -            -          -          -     5,164,000
+ Park Enhancements                                      1,865,000      190,000     4,890,000         -         -            -          -          -     6,945,000
+ New Park Development                                    460,000              -    2,200,000         -         -            -          -          -     2,660,000
+ Legacy Lands Acquisition                                400,000              -            -         -         -    4,200,000          -          -     4,600,000
+ Park Land Acquisition                                          -             -     813,839          -         -            -          -          -      813,839
+2029                                                    1,500,000     2,500,000    6,510,000         -         -    3,030,000          -          -    13,540,000
+ Major Maintenance                                              -     2,500,000            -         -         -            -          -          -     2,500,000
+ Park Enhancements                                      1,500,000             -    2,600,000         -         -            -          -          -     4,100,000
+ New Park Development                                           -             -    3,910,000         -         -            -          -          -     3,910,000
+ Legacy Lands Acquisition                                       -             -            -         -         -    3,030,000          -          -     3,030,000
+2030                                                     240,000      3,125,000    5,850,000         -         -    3,375,000          -          -    12,590,000
+ Major Maintenance                                              -     3,125,000            -         -         -            -          -          -     3,125,000
+ Park Enhancements                                              -             -    2,360,000         -         -            -          -          -     2,360,000
+ New Park Development                                    240,000              -    3,490,000         -         -            -          -          -     3,730,000
+ Legacy Lands Acquisition                                       -             -            -         -         -    3,375,000          -          -     3,375,000
+2031                                                            -     2,825,000    4,160,000         -         -    2,500,000    20,000           -     9,505,000
+ Major Maintenance                                              -     2,825,000            -         -         -            -          -          -     2,825,000
+ Park Enhancements                                              -             -            -         -         -            -    20,000           -       20,000
+ New Park Development                                           -             -    4,160,000         -         -            -          -          -     4,160,000
+ Legacy Lands Acquisition                                       -             -            -         -         -    2,500,000          -          -     2,500,000
+2032                                                    2,000,000     3,000,000    4,000,000         -         -    2,500,000   240,000           -    11,740,000
+ Major Maintenance                                              -     3,000,000            -         -         -            -          -          -     3,000,000
+ Park Enhancements                                              -             -            -         -         -            -   240,000           -      240,000
+ New Park Development                                   2,000,000             -    4,000,000         -         -            -          -          -     6,000,000
+ Legacy Lands Acquisition                                       -             -            -         -         -    2,500,000          -          -     2,500,000
+Grand Total                                             6,880,000    20,989,000   37,137,082   150,500   279,500   23,800,000   535,000           -    89,771,082
+
+
+                                                                                                                                                                    15
+2027 - 2032 Clark County Parks and Lands - Capital Improvement Plan
+Table 1.02 - Mulit-Year Major Maintenance Summary
+
+Sum of Amount                                                                                       Column Labels
+Project Type/Name                                                                        CIP ID             2027         2028        2029        2030        2031        2032 Grand Total
+Major Maintenance
+  Blurock Parking Lot Pavement Preservation                                              PPN25026         25,000            -           -           -           -           -       25,000
+  Camp Currie Regional Park Public Access Improvements - Youth Camp Fence                PPN24014              -     200,000            -           -           -           -      200,000
+  Camp Hope - Water System Improvements                                                  PPN25027       100,000             -           -           -           -           -      100,000
+  Camp Hope - Circulation Grading and Gravel                                             PPN24098              -            -    100,000            -           -           -      100,000
+  Camp Hope - Electrical System Upgrades                                                 PPN24099       150,000             -           -           -           -           -      150,000
+  Chelatchie Prairie Rail with Trail - Surface Preservation                              PPN26016              -            -           -           -           -    200,000       200,000
+  Daybreak Regional Park - West Parking Lot Preservation                                 PPN25029       125,000             -           -           -           -           -      125,000
+  Douglas Carter Fisher Neighborhood Park - Playground Surfacing Replacement             PPN24050         60,000            -           -           -           -           -       60,000
+  Emergent Projects - Various projects, various sites                                    PPN24088       300,000      300,000     350,000     350,000     350,000     350,000     2,000,000
+  Fairgrounds Community Park - Parking lot Preservation                                  PPN25033              -      50,000            -           -           -           -       50,000
+  Fairgrounds Community Park and PIF 9 & 10 Neighborhood Parks - Pathways Preservation   PPN26011              -            -           -           -    200,000            -      200,000
+  Felida Community Park - Playground Replacement                                         PPN25034       100,000             -           -           -           -   1,000,000    1,100,000
+  Frenchman's Bar Regional Park - Parking Fee Machines                                   PPN26021       150,000             -           -           -           -           -      150,000
+  Frenchman's Bar Regional Park - Parking Pavement Restoration                           PPN25036       200,000             -           -           -           -    900,000     1,100,000
+  Frenchman's Bar Regional Park - Playground Replacement                                 PPN24007              -            -    100,000     750,000            -           -      850,000
+  Frenchman's Bar Regional Park - Structure Preservation                                 PPN25035              -     125,000            -           -           -           -      125,000
+  Frenchman's Bar Trail - Asphalt Trail Pavement Preservation                            PPN26001              -            -    250,000            -           -           -      250,000
+  HAAPA Boat Launch - Parking Lot Preservation                                           PPN25039              -            -           -     75,000            -           -       75,000
+  Hantwick Trail - Trail Surface Preservation                                            PPN26017              -            -    150,000            -           -           -      150,000
+  Hantwick Trailhead - Parking Lot Restoration                                           PPN25040              -            -           -    200,000            -           -      200,000
+  Harmony Ridge Neighborhood Park - Skate Area & Pathway Restoration                     PPN25041              -     150,000            -           -           -           -      150,000
+  Heritage Farm Irrigation System Restoration                                            PPN26014       100,000      100,000            -           -           -           -      200,000
+  Hockinson Meadows Community Park - South Parking Lot Preservation                      PPN24085              -     125,000            -           -           -           -      125,000
+  Jorgenson Woods Neighborhood Park - Boardwalk Restoration                              PPN26015       100,000             -           -           -           -           -      100,000
+  Lacamas Lake Regional Park - Overflow Parking Lot Restoration                          PPN24081              -            -           -           -    350,000            -      350,000
+  Lacamas Lake Regional Park - Structure Preservation                                    PPN26002              -            -    100,000            -           -           -      100,000
+  Lewisville Regional Park - Bridges Replacement                                         PPN25002       100,000     1,050,000           -           -           -           -    1,150,000
+  Lewisville Regional Park - Central Shelter Replacement                                 PPN26023       200,000      900,000     500,000            -           -           -    1,600,000
+  Lewisville Regional Park - North Parks Office Renovation                               PPN26024       100,000             -           -           -           -           -      100,000
+  Lewisville Regional Park - Parking Fee machines                                        PPN26022       225,000             -           -           -           -           -      225,000
+  Lewisville Regional Park - Roads & Parking Areas Pavement Restoration                  PPN25045       150,000             -    300,000     300,000     700,000            -    1,450,000
+  Lewisville Regional Park - Roof Replacements                                           PPN24037       100,000             -           -           -           -           -      100,000
+  Lewisville Regional Park - Structure Preservation                                      PPN25046       125,000             -    150,000            -    300,000     150,000       725,000
+  Luke Jensen Sports Park - Parking Lots Preservation                                    PPN25048              -            -    100,000            -           -           -      100,000
+  Moulton Falls Regional Park - Parking Lots Preservation                                PPN25050              -            -    100,000            -    325,000            -      425,000
+  Moulton Falls Regional Park - Restroom Replacement                                     PPN25051              -            -    100,000     900,000     400,000            -    1,400,000
+  Orchards Community Park and PIF 7 & 8 Neighborhood Parks - Pathways Preservation       PPN26010              -            -           -    150,000            -           -      150,000
+  Pacific Community Park - Off Leash Area Improvements                                   PPN24094              -     100,000            -           -           -           -      100,000
+  Pacific Community Park - West Parking Lot Preservation                                 PPN25053              -      50,000            -           -           -           -       50,000
+  Pacific Community Park and PIF 4, 5 & 6 Neighborhood Park - Pathways Preservation      PPN26009              -            -    200,000            -           -           -      200,000
+  Salmon Creek Regional Park - Greenway Trail Restoration                                PPN25000       200,000     1,764,000           -           -           -           -    1,964,000
+  Salmon Creek Regional Park Klineline Pond - Pedestrian Bridge Footing Repair           PPN24026       500,000             -           -           -           -           -      500,000
+  Sifton Neighborhood Park - Sport Court Replacement                                     PPN24079         75,000            -           -           -           -           -       75,000
+  Vancouver Lake Regional Park - Parking Fee Machines                                    PPN26025       150,000             -           -           -           -           -      150,000
+  Vancouver Lake Regional Park - Parking Pavement Restoration                            PPN25058              -     250,000            -           -           -    200,000       450,000
+  Vancouver Lake Regional Park - Structure Preservation                                  PPN25059              -            -           -    400,000            -    200,000       600,000
+  Vista Meadows Neighborhood Park - Shelter Replacement                                  PPN25061              -            -           -           -    200,000            -      200,000
+
+
+Grand Total                                                                                            3,435,000    5,164,000   2,500,000   3,125,000   2,825,000   3,000,000   20,049,000
+                                                                                                                                                                                             16
+2027 - 2032 Clark County Parks and Lands - Capital Improvement Plan
+Table 1.03 - Multi-Year Capital Project Summary
+
+Sum of Amount                                                         Column Labels
+Project Type/Name                                          CIP ID         2027         2028        2029        2030        2031        2032     Grand Total
+Park Enhancements                                                        6,475,000    6,945,000   4,100,000   2,360,000      20,000     240,000   20,140,000
+ Camp Bonneville RP Development                            CLN2633               -            -           -           -      20,000     240,000      260,000
+ Camp Bonneville Security Cameras                          CLN2634          75,000            -           -           -           -           -       75,000
+ Camp Bonneville Water System Assessment                   CLN2632        200,000             -           -           -           -           -     200,000
+ Curtin Creek Community Park - Pedestrian RRFB Crosswalk   PPN26005       250,000             -           -           -           -           -     250,000
+ Daybreak RP Redevelopment                                 PPN25003       100,000             -           -           -           -           -     100,000
+ Fairgrounds CP Improvements                               PPN24077              -            -    160,000     160,000            -           -     320,000
+ Hazel Dell CP Improvements                                PPN25012      2,500,000            -           -           -           -           -    2,500,000
+ Hockinson CP Improvements                                 PPN24048              -      80,000     240,000            -           -           -     320,000
+ Lewisville RP Improvements                                PPN24009              -     190,000            -           -           -           -     190,000
+ Luke Jensen Sports Complex                                PPN25018       100,000      200,000    3,500,000           -           -           -    3,800,000
+ Orchards CP Improvements                                  PPN24035       500,000     3,500,000           -           -           -           -    4,000,000
+ Pacific CP Improvements                                   PPN24023      2,740,000            -           -           -           -           -    2,740,000
+ Pleasant Valley CP Improvements                           PPN24072              -     160,000            -           -           -           -     160,000
+ Salmon Creek CP Improvements                              PPN24008              -    2,615,000           -           -           -           -    2,615,000
+ Whipple Creek RP Improvements                             PPN24022         10,000     200,000     200,000    2,200,000           -           -    2,610,000
+
+
+New Park Development                                                     1,790,000    2,660,000   3,910,000   3,730,000   4,160,000   6,000,000   22,250,000
+ Anderson Property CP Development                          PPN24051              -       60,000     360,000           -           -           -      420,000
+ Bratton Canyon NA Development                             PPN25009              -      160,000           -           -           -           -      160,000
+ Cougar Creek Woods Property CP Development                PPN24010              -     160,000     240,000            -   3,500,000           -    3,900,000
+ Covington Property NP Developmeent                        PPN24065              -            -     80,000            -           -           -       80,000
+ Gordy Jolma Family NA Development                         PPN24011       300,000             -           -           -           -           -     300,000
+ Green Mountain NA Development                             PPN24012       140,000             -           -           -           -           -     140,000
+ Heritage Farm Improvements                                PPN24047      1,150,000    1,100,000           -           -           -           -    2,250,000
+ Lewis River Greenway Development                          PPN25017              -            -           -    240,000            -           -     240,000
+ Mackie Property NP Development                            PPN24053       100,000      400,000            -           -    160,000            -     660,000
+ Minnehaha Property NP Development                         PPN25020              -     300,000            -   2,750,000           -           -    3,050,000
+ Mt Vista Property NP Development                          PPN24024       100,000      300,000    2,750,000           -           -           -    3,150,000
+ Prairie Sports Complex Redevelopment                      PPN24097              -            -           -    500,000     500,000    6,000,000    7,000,000
+ Saint John's Property NP Development                      PPN24025              -      80,000     200,000            -           -           -     280,000
+ Salmon Creek Community Club Property NA Development       PPN25024              -      80,000     200,000            -           -           -     280,000
+
+
+
+
+                                                                                                                                                               17
+Figure 1.01 – Park Enhancements Index Map
+
+
+
+
+                                                                              Lewisville Regional Park
+                              Whipple Creek Regional Park
+
+
+
+
+                                                            Fairgrounds Community Park
+
+
+
+                                                            Salmon Creek Regional Park
+
+
+
+                                                              Luke Jensen Sports Park
+
+
+                                                                                                  Hockinson Meadows Community Park
+
+
+
+
+                                                                                         Pacific Community Park
+
+
+
+
+  Hazel Dell Community Park
+
+
+   Orchards Community Park
+
+
+
+
+                                                                                                                                     18
+     Figure 1.02 – New Development Index Map
+
+
+
+
+                                            Cougar Creek Woods Community Park
+
+
+                                                 Salmon Creek Community Club Property Natural Area
+
+
+                                                       Mount Vista Property Neighborhood Park
+
+
+
+
+                                                                                  Prairie Sports Complex
+
+
+                                                                     Pleasant Valley Community Park
+
+
+                                                                                       Vydra Property Neighborhood Park
+
+
+                                                                                       Mackie Property Neighborhood Park
+
+
+
+       Heritage Farm
+       Public Access                                                                      Green Mountain Natural Area
+
+
+
+
+          Minnehaha Property                                                           Anderson Property Community Park
+          Neighborhood Park
+
+
+              St. John’s Property
+              Neighborhood Park
+
+
+                       Covington Property
+                       Neighborhood Park
+
+
+
+
+19
+2027 Clark County Parks and Lands - Capital Improvement Plan
+Table 2.01 - Program and Projects Summary by Year
+
+Sum of Amount                                                                               Column Labels
+                                                                                              GRANTS/
+Project Type/Name                                                                CIP ID        OTHER         REET        PIF        GF        MPD         LL        1014       Grand Total
+Major Maintenance                                                                                      -    3,435,000           -         -         -           -          -     3,435,000
+  Blurock Parking Lot Pavement Preservation                                      PPN25026              -       25,000           -         -         -           -          -        25,000
+  Camp Hope - Water System Improvements                                          PPN25027              -     100,000            -         -         -           -          -      100,000
+  Camp Hope - Electrical System Upgrades                                         PPN24099              -     150,000            -         -         -           -          -      150,000
+  Daybreak Regional Park - West Parking Lot Preservation                         PPN25029              -     125,000            -         -         -           -          -      125,000
+  Douglas Carter Fisher Neighborhood Park - Playground Surfacing Replacement     PPN24050              -      60,000            -         -         -           -          -       60,000
+  Emergent Projects - Various projects, various sites                            PPN24088              -     300,000            -         -         -           -          -      300,000
+  Felida Community Park - Playground Replacement                                 PPN25034              -     100,000            -         -         -           -          -      100,000
+  Frenchman's Bar Regional Park - Parking Fee Machines                           PPN26021              -     150,000            -         -         -           -          -      150,000
+  Frenchman's Bar Regional Park - Parking Pavement Restoration                   PPN25036              -     200,000            -         -         -           -          -      200,000
+  Heritage Farm Irrigation System Restoration                                    PPN26014              -     100,000            -         -         -           -          -      100,000
+  Jorgenson Woods Neighborhood Park - Boardwalk Restoration                      PPN26015              -     100,000            -         -         -           -          -      100,000
+  Lewisville Regional Park - Bridges Replacement                                 PPN25002              -     100,000            -         -         -           -          -      100,000
+  Lewisville Regional Park - Central Shelter Replacement                         PPN26023              -     200,000            -         -         -           -          -      200,000
+  Lewisville Regional Park - North Parks Office Renovation                       PPN26024              -     100,000            -         -         -           -          -      100,000
+  Lewisville Regional Park - Parking Fee machines                                PPN26022              -     225,000            -         -         -           -          -      225,000
+  Lewisville Regional Park - Roads & Parking Areas Pavement Restoration          PPN25045              -     150,000            -         -         -           -          -      150,000
+  Lewisville Regional Park - Roof Replacements                                   PPN24037              -     100,000            -         -         -           -          -      100,000
+  Lewisville Regional Park - Structure Preservation                              PPN25046              -     125,000            -         -         -           -          -      125,000
+  Salmon Creek Regional Park - Greenway Trail Restoration                        PPN25000              -     200,000            -         -         -           -          -      200,000
+  Salmon Creek Regional Park Klineline Pond - Pedestrian Bridge Footing Repair   PPN24026              -     500,000            -         -         -           -          -      500,000
+  Sifton Neighborhood Park - Sport Court Replacement                             PPN24079              -      75,000            -         -         -           -          -       75,000
+  Vancouver Lake Regional Park - Parking Fee Machines                            PPN26025              -     150,000            -         -         -           -          -      150,000
+  Whipple Creek Regional Park - Major Maintenance                                PPN26031              -     100,000            -         -         -           -          -      100,000
+
+
+Park Enhancements                                                                                      -     300,000    5,900,000         -         -           -   275,000      6,475,000
+  Camp Bonneville Security Cameras                                               CLN2634               -           -            -         -         -           -    75,000         75,000
+  Camp Bonneville Water System Assessment                                        CLN2632               -            -           -         -         -           -   200,000       200,000
+  Curtin Creek Community Park - Pedestrian RRFB Crosswalk                        PPN26005              -     200,000      50,000          -         -           -          -      250,000
+  Daybreak RP Redevelopment                                                      PPN25003              -     100,000            -         -         -           -          -      100,000
+  Hazel Dell CP Improvements                                                     PPN25012              -            -   2,500,000         -         -           -          -     2,500,000
+  Luke Jensen Sports Complex                                                     PPN25018              -            -    100,000          -         -           -          -      100,000
+  Orchards CP Improvements                                                       PPN24035              -            -    500,000          -         -           -          -      500,000
+  Pacific CP Improvements                                                        PPN24023              -            -   2,740,000         -         -           -          -     2,740,000
+  Whipple Creek RP Improvements                                                  PPN24022              -            -     10,000          -         -           -          -       10,000
+
+
+New Development                                                                                 140,000      450,000    1,200,000         -         -           -          -     1,790,000
+  Curtin Creek CP Development                                                    PPN25010             -            -       50,000         -         -           -          -        50,000
+  Gordy Jolma Family NA Development                                              PPN24011              -     300,000            -         -         -           -          -      300,000
+  Green Mountain NA Development                                                  PPN24012       140,000             -           -         -         -           -          -      140,000
+  Heritage Farm Improvements                                                     PPN24047              -     150,000    1,000,000         -         -           -          -     1,150,000
+  Mackie Property NP Development                                                 PPN24053              -            -     50,000          -         -           -          -       50,000
+  Mt Vista Property NP Development                                               PPN24024              -            -    100,000          -         -           -          -      100,000
+
+Legacy Lands Acquisition                                                                        200,000             -    358,988          -         -   8,195,000          -     8,753,988
+  Flume Creek Access                                                             CLN2611              -             -          -          -         -     670,000          -       670,000
+  Green Mountain Access                                                          CLN2603               -            -           -         -         -     75,000           -       75,000
+  Lewis River Ranch - Phase Two                                                  CLN2616               -            -           -         -         -   2,500,000          -     2,500,000
+  Massie Property                                                                CLN2636        200,000             -           -         -         -           -          -      200,000
+  Salmon Creek Subarea (Lower)                                                   CLN2622               -            -           -         -         -    750,000           -      750,000
+  Salmon Creek Subarea (Upper)                                                   CLN2623               -            -    358,988          -         -   3,850,000          -     4,208,988
+  Three Creeks Greenway                                                          CLN2625               -            -           -         -         -    350,000           -      350,000
+
+Park Land Acquisition                                                                                  -            -   1,254,255         -         -           -          -     1,254,255
+  District #1 acquisition                                                        PPN23994              -            -     200,942         -         -           -          -       200,942
+  District #10 acquisition                                                       PPN24000              -            -    112,151          -         -           -          -      112,151
+  District #9 acquisition                                                        PPN23999              -            -    941,162          -         -           -          -      941,162
+
+Park System & Site Planning                                                                       75,000            -           -   150,500   279,500           -          -      505,000
+  ADA Transition Planning - PROS Plan                                            PPN25063              -            -           -    10,500    19,500           -          -       30,000
+  Facility and Park Asset Condition Assessment                                   PPN25032              -            -           -   105,000   195,000           -          -      300,000
+  PROST Plan - Develop 2028 - 2031 Plan Update                                   PPN24083         75,000            -           -    35,000    65,000           -          -      175,000
+
+
+Grand Total                                                                                     415,000     4,185,000   8,713,243   150,500   279,500   8,195,000   275,000     22,213,243
+
+
+
+
+     20
+2028 Clark County Parks and Lands - Capital Improvement Plan
+Table 2.02 - Program and Projects Summary by Year
+
+
+Sum of Amount                                                                          Column Labels
+                                                                                         GRANTS/
+Project Type/Name                                                           CIP ID        OTHER         REET        PIF        GF       MPD         LL        1014       Grand Total
+Major Maintenance                                                                                 -    5,164,000           -        -         -           -          -     5,164,000
+  Camp Currie Regional Park Public Access Improvements - Youth Camp Fence   PPN24014              -      200,000           -        -         -           -          -       200,000
+  Emergent Projects - Various projects, various sites                       PPN24088              -     300,000            -        -         -           -          -      300,000
+  Fairgrounds Community Park - Parking lot Preservation                     PPN25033              -      50,000            -        -         -           -          -       50,000
+  Frenchman's Bar Regional Park - Structure Preservation                    PPN25035              -     125,000            -        -         -           -          -      125,000
+  Harmony Ridge Neighborhood Park - Skate Area & Pathway Restoration        PPN25041              -     150,000            -        -         -           -          -      150,000
+  Heritage Farm Irrigation System Restoration                               PPN26014              -     100,000            -        -         -           -          -      100,000
+  Hockinson Meadows Community Park - South Parking Lot Preservation         PPN24085              -     125,000            -        -         -           -          -      125,000
+  Lewisville Regional Park - Bridge Replacement                             PPN25002              -    1,050,000           -        -         -           -          -     1,050,000
+  Lewisville Regional Park - Central Shelter Replacement                    PPN26023              -     900,000            -        -         -           -          -      900,000
+  Pacific Community Park - Off Leash Area Improvements                      PPN24094              -     100,000            -        -         -           -          -      100,000
+  Pacific Community Park - West Parking Lot Preservation                    PPN25053              -      50,000            -        -         -           -          -       50,000
+  Salmon Creek Regional Park - Greenway Trail Restoration                   PPN25000              -    1,764,000           -        -         -           -          -     1,764,000
+  Vancouver Lake Regional Park - Parking Pavement Restoration               PPN25058              -     250,000            -        -         -           -          -      250,000
+
+
+Park Enhancements                                                                         1,865,000     190,000    4,890,000        -         -           -          -     6,945,000
+  Hockinson CP Improvements                                                 PPN24048              -           -       80,000        -         -           -          -        80,000
+  Lewisville RP Improvements                                                PPN24009              -     190,000            -        -         -           -          -      190,000
+  Luke Jensen Sports Complex                                                PPN25018              -            -    200,000         -         -           -          -      200,000
+  Orchards CP Improvements                                                  PPN24035       500,000             -   3,000,000        -         -           -          -     3,500,000
+  Pleasant Valley CP Improvements                                           PPN24072              -            -    160,000         -         -           -          -      160,000
+  Salmon Creek CP Improvements                                              PPN24008      1,365,000            -   1,250,000        -         -           -          -     2,615,000
+  Whipple Creek RP Improvements                                             PPN24022              -            -    200,000         -         -           -          -      200,000
+
+
+New Development                                                                            460,000             -   2,200,000        -         -           -          -     2,660,000
+  Anderson Property CP Development                                          PPN24051             -             -      60,000        -         -           -          -        60,000
+  Bratton Canyon NA Development                                             PPN25009       160,000             -           -        -         -           -          -      160,000
+  Cougar Creek Woods Property CP Development                                PPN24010              -            -    160,000         -         -           -          -      160,000
+  Heritage Farm Improvements                                                PPN24047       300,000             -    800,000         -         -           -          -     1,100,000
+  Mackie Property NP Development                                            PPN24053              -            -    400,000         -         -           -          -      400,000
+  Minnehaha Property NP Development                                         PPN25020              -            -    300,000         -         -           -          -      300,000
+  Mt Vista Property NP Development                                          PPN24024              -            -    300,000         -         -           -          -      300,000
+  Saint John's Property NP Development                                      PPN24025              -            -     80,000         -         -           -          -       80,000
+  Salmon Creek Community Club Property NA Development                       PPN25024              -            -     80,000         -         -           -          -       80,000
+  Vydra Property NP Development                                             PPN24038              -            -     20,000         -         -           -          -       20,000
+
+
+Legacy Lands Acquisition                                                                   400,000             -           -        -         -   4,200,000          -     4,600,000
+  City of Vancouver Shoreline Project                                       CLN2606              -             -           -        -         -     860,000          -       860,000
+  Lacamas Subarea (Lower)                                                   CLN2613        400,000             -           -        -         -   1,000,000          -     1,400,000
+  North Fork Lewis River (Lower)                                            CLN2619               -            -           -        -         -   1,590,000          -     1,590,000
+  Salmon Creek Subarea (Upper)                                              CLN2623               -            -           -        -         -    750,000           -      750,000
+
+
+Park Land Acquisition                                                                             -            -    813,839         -         -           -          -      813,839
+  District #7 acquisition                                                   PPN23997              -            -    813,839         -         -           -          -      813,839
+
+
+Grand Total                                                                               2,725,000    5,354,000   7,903,839        -         -   4,200,000          -    20,182,839
+
+
+
+
+     21
+2029 Clark County Parks and Lands - Capital Improvement Plan
+Table 2.03 - Program and Projects Summary by Year
+
+Sum of Amount                                                                                    Column Labels
+                                                                                                   GRANTS/
+Project Type/Name                                                                     CIP ID        OTHER         REET        PIF        GF       MPD         LL        1014       Grand Total
+Major Maintenance                                                                                           -    2,500,000           -        -         -           -          -     2,500,000
+  Camp Hope - Circulation Grading and Gravel                                          PPN24098              -      100,000           -        -         -           -          -       100,000
+  Emergent Projects - Various projects, various sites                                 PPN24088              -     350,000            -        -         -           -          -      350,000
+  Frenchman's Bar Regional Park - Playground Replacement                              PPN24007              -     100,000            -        -         -           -          -      100,000
+  Frenchman's Bar Trail - Asphalt Trail Pavement Preservation                         PPN26001              -     250,000            -        -         -           -          -      250,000
+  Hantwick Trail - Trail Surface Preservation                                         PPN26017              -     150,000            -        -         -           -          -      150,000
+  Lacamas Lake Regional Park - Structure Preservation                                 PPN26002              -     100,000            -        -         -           -          -      100,000
+  Lewisville Regional Park - Central Shelter Replacement                              PPN26023              -     500,000            -        -         -           -          -      500,000
+  Lewisville Regional Park - Roads & Parking Areas Pavement Restoration               PPN25045              -     300,000            -        -         -           -          -      300,000
+  Lewisville Regional Park - Structure Preservation                                   PPN25046              -     150,000            -        -         -           -          -      150,000
+  Luke Jensen Sports Park - Parking Lots Preservation                                 PPN25048              -     100,000            -        -         -           -          -      100,000
+  Moulton Falls Regional Park - Parking Lots Preservation                             PPN25050              -     100,000            -        -         -           -          -      100,000
+  Moulton Falls Regional Park - Restroom Replacement                                  PPN25051              -     100,000            -        -         -           -          -      100,000
+  Pacific Community Park and PIF 4, 5 & 6 Neighborhood Park - Pathways Preservation   PPN26009              -     200,000            -        -         -           -          -      200,000
+
+
+Park Enhancements                                                                                   1,500,000            -   2,600,000        -         -           -          -     4,100,000
+  Fairgrounds CP Improvements                                                         PPN24077              -            -     160,000        -         -           -          -       160,000
+  Hockinson CP Improvements                                                           PPN24048              -            -    240,000         -         -           -          -      240,000
+  Luke Jensen Sports Complex                                                          PPN25018      1,500,000            -   2,000,000        -         -           -          -     3,500,000
+  Whipple Creek RP Improvements                                                       PPN24022              -            -    200,000         -         -           -          -      200,000
+
+
+New Development                                                                                             -            -   3,910,000        -         -           -          -     3,910,000
+  Anderson Property CP Development                                                    PPN24051              -            -     360,000        -         -           -          -       360,000
+  Cougar Creek Woods Property CP Development                                          PPN24010              -            -    240,000         -         -           -          -      240,000
+  Covington Property NP Developmeent                                                  PPN24065              -            -     80,000         -         -           -          -       80,000
+  Mt Vista Property NP Development                                                    PPN24024              -            -   2,750,000        -         -           -          -     2,750,000
+  Saint John's Property NP Development                                                PPN24025              -            -    200,000         -         -           -          -      200,000
+  Salmon Creek Community Club Property NA Development                                 PPN25024              -            -    200,000         -         -           -          -      200,000
+  Vydra Property NP Development                                                       PPN24038              -            -     80,000         -         -           -          -       80,000
+
+
+Legacy Lands Acquisition                                                                                    -            -           -        -         -   3,030,000          -     3,030,000
+  East Fork Lewis River Subarea (Lower)                                               CLN2610               -            -           -        -         -     500,000          -       500,000
+  Gibbons Creek/ Lawtson Creek                                                        CLN2612               -            -           -        -         -   2,250,000          -     2,250,000
+  LaCenter Bottoms                                                                    CLN2605               -            -           -        -         -    280,000           -      280,000
+
+
+Grand Total                                                                                         1,500,000    2,500,000   6,510,000        -         -   3,030,000          -    13,540,000
+
+
+
+
+ 22
+2030 Clark County Parks and Lands - Capital Improvement Plan
+Table 2.04 - Program and Projects Summary by Year
+
+Sum of Amount                                                                                   Column Labels
+                                                                                                  GRANTS/
+Project Type/Name                                                                    CIP ID        OTHER         REET        PIF        GF       MPD         LL        1014       Grand Total
+Major Maintenance                                                                                          -    3,125,000           -        -         -           -          -     3,125,000
+  Emergent Projects - Various projects, various sites                                PPN24088              -      350,000           -        -         -           -          -       350,000
+  Frenchman's Bar Regional Park - Playground Replacement                             PPN24007              -     750,000            -        -         -           -          -      750,000
+  HAAPA Boat Launch - Parking Lot Preservation                                       PPN25039              -      75,000            -        -         -           -          -       75,000
+  Hantwick Trailhead - Parking Lot Restoration                                       PPN25040              -     200,000            -        -         -           -          -      200,000
+  Lewisville Regional Park - Roads & Parking Areas Pavement Restoration              PPN25045              -     300,000            -        -         -           -          -      300,000
+  Moulton Falls Regional Park - Restroom Replacement                                 PPN25051              -     900,000            -        -         -           -          -      900,000
+  Orchards Community Park and PIF 7 & 8 Neighborhood Parks - Pathways Preservation   PPN26010              -     150,000            -        -         -           -          -      150,000
+  Vancouver Lake Regional Park - Structure Preservation                              PPN25059              -     400,000            -        -         -           -          -      400,000
+
+
+Park Ehancements                                                                                           -            -   2,360,000        -         -           -          -     2,360,000
+  Fairgrounds CP Improvements                                                        PPN24077              -            -     160,000        -         -           -          -       160,000
+  Whipple Creek RP Improvements                                                      PPN24022              -            -   2,200,000        -         -           -          -     2,200,000
+
+
+New Development                                                                                     240,000             -   3,490,000        -         -           -          -     3,730,000
+  Lewis River Greenway Development                                                   PPN25017       240,000             -           -        -         -           -          -       240,000
+  Minnehaha Property NP Development                                                  PPN25020              -            -   2,750,000        -         -           -          -     2,750,000
+  Prairie Sports Complex Redevelopment                                               PPN24097              -            -    500,000         -         -           -          -      500,000
+  Vydra Property NP Development                                                      PPN24038              -            -    240,000         -         -           -          -      240,000
+
+
+Legacy Lands Acquisition                                                                                   -            -           -        -         -   3,375,000          -     3,375,000
+  East Fork Lewis River Subarea (Upper)                                              CLN2609               -            -           -        -         -   1,000,000          -     1,000,000
+  Lewis River Mainstem/Allen Creek                                                   CLN2615               -            -           -        -         -   1,000,000          -     1,000,000
+  North Fork Lewis River (Lower)                                                     CLN2619               -            -           -        -         -   1,000,000          -     1,000,000
+  Ridgefield School to Flume Creek                                                   CLN2621               -            -           -        -         -    375,000           -      375,000
+
+
+Grand Total                                                                                         240,000     3,125,000   5,850,000        -         -   3,375,000          -    12,590,000
+
+
+
+
+     23
+2031 Clark County Parks and Lands - Capital Improvement Plan
+Table 2.05 - Program and Projects Summary by Year
+
+
+Sum of Amount                                                                                    Column Labels
+                                                                                                   GRANTS/
+Project Type/Name                                                                   CIP ID          OTHER         REET        PIF        GF       MPD         LL        1014       Grand Total
+Major Maintenance                                                                                           -    2,825,000           -        -         -           -          -     2,825,000
+  Emergent Projects - Various projects, various sites                               PPN24088                -      350,000           -        -         -           -          -       350,000
+  Fairgrounds Community Park and PIF 9 & 10 Neighborhood Parks - Pathways PreservationPPN26011              -     200,000            -        -         -           -          -      200,000
+  Lacamas Lake Regional Park - Overflow Parking Lot Restoration                     PPN24081                -     350,000            -        -         -           -          -      350,000
+  Lewisville Regional Park - Roads & Parking Areas Pavement Restoration             PPN25045                -     700,000            -        -         -           -          -      700,000
+  Lewisville Regional Park - Structure Preservation                                 PPN25046                -     300,000            -        -         -           -          -      300,000
+  Moulton Falls Regional Park - Parking Lots Preservation                           PPN25050                -     325,000            -        -         -           -          -      325,000
+  Moulton Falls Regional Park - Restroom Replacement                                PPN25051                -     400,000            -        -         -           -          -      400,000
+  Vista Meadows Neighborhood Park - Shelter Replacement                             PPN25061                -     200,000            -        -         -           -          -      200,000
+
+
+Park Enhancements                                                                                           -            -           -        -         -           -    20,000        20,000
+  Camp Bonneville RP Development                                                    CLN2633                 -            -           -        -         -           -    20,000        20,000
+
+
+New Development                                                                                             -            -   4,160,000        -         -           -          -     4,160,000
+  Cougar Creek Woods Property CP Development                                        PPN24010                -            -   3,500,000        -         -           -          -     3,500,000
+  Mackie Property NP Development                                                    PPN24053                -            -    160,000         -         -           -          -      160,000
+  Prairie Sports Complex Redevelopment                                              PPN24097                -            -    500,000         -         -           -          -      500,000
+
+
+Legacy Lands Acquisition                                                                                    -            -           -        -         -   2,500,000          -     2,500,000
+  Cedar Creek Subarea                                                               CLN2608                 -            -           -        -         -   1,000,000          -     1,000,000
+  North Fork Lewis River (Upper)                                                    CLN2620                 -            -           -        -         -    750,000           -      750,000
+  Whipple Creek Subarea                                                             CLN2618                 -            -           -        -         -    750,000           -      750,000
+
+
+Grand Total                                                                                                 -    2,825,000   4,160,000        -         -   2,500,000    20,000      9,505,000
+
+
+
+
+      24
+2032 Clark County Parks and Lands - Capital Improvement Plan
+Table 2.06 - Program and Projects Summary by Year
+
+
+Sum of Amount                                                               Column Labels
+                                                                              GRANTS/
+Project Type/Name                                                CIP ID        OTHER         REET        PIF        GF       MPD         LL        1014       Grand Total
+Major Maintenance                                                                      -    3,000,000           -        -         -           -          -     3,000,000
+  Chelatchie Prairie Rail with Trail - Surface Preservation      PPN26016              -      200,000           -        -         -           -          -       200,000
+  Emergent Projects - Various projects, various sites            PPN24088              -     350,000            -        -         -           -          -      350,000
+  Felida Community Park - Playground Replacement                 PPN25034              -    1,000,000           -        -         -           -          -     1,000,000
+  Frenchman's Bar Regional Park - Parking Pavement Restoration   PPN25036              -     900,000            -        -         -           -          -      900,000
+  Lewisville Regional Park - Structure Preservation              PPN25046              -     150,000            -        -         -           -          -      150,000
+  Vancouver Lake Regional Park - Parking Pavement Restoration    PPN25058              -     200,000            -        -         -           -          -      200,000
+  Vancouver Lake Regional Park - Structure Preservation          PPN25059              -     200,000            -        -         -           -          -      200,000
+
+
+Park Enhancements                                                                      -            -           -        -         -           -   240,000       240,000
+  Camp Bonneville RP Development                                 CLN2633               -            -           -        -         -           -   240,000       240,000
+
+
+New Development                                                                2,000,000            -   4,000,000        -         -           -          -     6,000,000
+  Prairie Sports Complex Redevelopment                           PPN24097      2,000,000            -   4,000,000        -         -           -          -     6,000,000
+
+
+Legacy Lands Acquisition                                                               -            -           -        -         -   2,500,000          -     2,500,000
+  Lacamas Subarea (Upper)                                        CLN2614               -            -           -        -         -   1,000,000          -     1,000,000
+  Little Washougal Subarea                                       CLN2617               -            -           -        -         -    750,000           -      750,000
+  Washougal River                                                CLN2627               -            -           -        -         -    750,000           -      750,000
+
+
+Grand Total                                                                    2,000,000    3,000,000   4,000,000        -         -   2,500,000   240,000     11,740,000
+
+
+
+
+      25
+Council Adoption Resolution
+
+
+
+
+                              26
+ APPENDIX A – PROJECT DESCRIPTIONS
+
+
+
+Major Maintenance Projects
+Camp Currie Regional Park Public Access Improvements – Youth Camp Fence |
+Fencing around existing youth camp to segment part of the site for future
+trailhead development.
+
+Camp Hope – Water System Improvements | Design and construction of a water main
+system to connect Camp Hope water system to existing public water main.
+
+Camp Hope – Circulation Grading and Gravel | Regrade and top dress existing gravel
+roads.
+
+Camp Hope – Electrical System Upgrades | Improve on-site and service electrical to
+improve reliability and reduce wildfire risk.
+
+Chelatchie Prairie Rail with Trail – Surface Preservation | Repair and seal existing
+asphalt trail surfacing and improve signage.
+
+Daybreak Regional Park – West Parking Lot Preservation | Repair existing asphalt
+damaged by 2025 flooding, crack seal, seal and restripe parking lot. Project includes
+signage improvements.
+
+Douglas Carter Fisher Neighborhood Park – Playground Surfacing Replacement |
+Remove fall surfacing tile and replace with engineered wood fiber.
+
+Emergent Projects | Major Maintenance funds set aside for contingency on projects and
+unforeseen projects.
+
+Fairgrounds Community Park – Parking Lot Preservation | Repair, crack seal, seal and
+stripe existing parking lot. Project will include site signage improvements.
+
+Fairgrounds Community Park and PIF 9 & 10 Neighborhood Parks – Pathway
+Preservation | Repair, crack seal, seal existing asphalt trails in the community and
+neighborhood parks in PIF Districts 9 & 10. Project will include site signage improvements.
+
+Felida Community Park – Playground Replacement | Replacement of play equipment in
+the original playground along with repair of all access playground equipment and
+surfacing.
+
+Frenchman’s Bar Regional Park – Parking Pavement Restoration | Repair, crack seal,
+seal and stripe existing parking lot. Project will include site signage improvements.
+ APPENDIX A – PROJECT DESCRIPTIONS
+
+
+Frenchman’s Bar Regional Park – Playground Replacement | Design, permitting and
+construction of a new playground at the park. Project will include the removal of old
+playground equipment and landscape improvements.
+
+Frenchman’s Bar Regional Park – Structure Preservation | Repair and paint existing
+restroom and shelter buildings at the park.
+
+Frenchman’s Bar Regional Park – Parking Fee Machines | Installation of parking fee
+machines in the park. Project will include site signage improvements.
+
+Frenchman’s Bar Trail – Asphalt Trail Pavement Preservation | Repair, crack seal, seal
+existing asphalt trail. Project will include site signage improvements.
+
+HAAPA Boat Launch – Parking Lot Preservation | Repair, crack seal, seal and stripe
+existing parking lot. Project will include site signage improvements.
+
+Hantwick Trail – Trail Surface Preservation | Repair, crack seal and seal existing asphalt
+trail. Project will include site signage improvements.
+
+Hantwick Trailhead – Parking Lot Restoration | Repair, crack seal, seal and stripe existing
+parking lot. Project will include site signage improvements.
+
+Harmony Ridge Neighborhood Park – Skate Area and Pathway Restoration | Repair
+skate park surfacing and improve surrounding landscape grading. Repair, crack seal, seal
+and stripe existing asphalt paths. Project will include site signage improvements.
+
+Heritage Farm – Irrigation System Restoration | Evaluate and develop alternatives
+analysis for repairs and improvements to the irrigation system at the farm. Project will
+include a first phase of system improvement.
+
+Hockinson Meadows Community Park – South Parking Lot Restoration | Repair, crack
+seal, seal and stripe existing parking lot. Project will include site signage improvements.
+
+Jorgenson Woods Neighborhood Park – Boardwalk Restoration | Removal and
+replacement of decking, railing and failing structural components on existing boardwalk
+entrance.
+
+Lacamas Regional Park – Overflow Parking Lot Restoration | Pave existing parking lot in
+final phase of improvements at the site.
+
+Lacamas Regional Park – Structure Preservation | Repair and paint existing restroom and
+shelter buildings at the park.
+ APPENDIX A – PROJECT DESCRIPTIONS
+
+
+Lewisville Regional Park – Bridge Replacement | Replace existing vehicle and pedestrian
+bridge in the island section of the park. Project will include site signage improvements.
+
+Lewisville Regional Park – Central Shelter Replacement | Design, permitting and
+construction of a replacement for the Central Shelter at the park destroyed by fire. Project
+will include historic interpretation of the original park development and the Central Shelter.
+
+Lewisville Regional Park – North Parks Office Renovation | Repairs to existing north
+parks maintenance team offices at the park.
+
+Lewisville Regional Park – Parking Fee Machines | Installation of parking fee machines in
+the park. Project will include site signage improvements.
+
+Lewisville Regional Park – Roads & Parking Areas Pavement Restoration | Repair, crack
+seal, seal and stripe existing parking lots and roads. Project will include site signage
+improvements.
+
+Lewisville Regional Park – Roof Replacements | Phase 2 of roof repairs at the park
+primarily focused on restroom and shelter buildings.
+
+Lewisville Regional Park – Structure Preservation | Phased repair and painting of existing
+restroom and shelter buildings at the park. Work to include lighting upgrades and site
+signage improvements.
+
+Luke Jensen Sports Park – Parking Lot Preservation | Repair, crack seal, seal and stripe
+existing parking lot. Project will include site signage improvements.
+
+Moulton Falls Regional Park – Parking Lot Preservation | Repair, crack seal, seal and
+stripe existing parking lots. Project will include site signage improvements.
+
+Moulton Falls Regional Park – Restroom Replacement | Design, permitting and
+construction of a new restroom building at the park. Project includes the removal of
+existing building. Site of new structure to be determined during the design phase of the
+project and be subject to permitting.
+
+Orchards Community Park and PIF 7 & 8 Neighborhood Park – Pathway Preservation |
+Repair, crack seal, seal existing asphalt trails in the community and neighborhood parks in
+PIF Districts 7 & 8. Project will include site signage improvements.
+
+Orchards Highlands Neighborhood Park – Playground Replacement | Remove and
+replace existing playground and surfacing. Project will include site signage improvements.
+
+Pacific Community Park – Off-leash Area Improvements | Improve trail surfacing, add
+shade structures and seating in the off-leash area.
+ APPENDIX A – PROJECT DESCRIPTIONS
+
+
+Pacific Community Park and PIF 4, 5 & 6 Neighborhood Park – Pathway Preservation |
+Repair, crack seal, seal existing asphalt trails in the community and neighborhood parks in
+PIF Districts 4, 5 & 6. Project will include site signage improvements.
+
+Pacific Community Park – West Parking Lot Preservation | Repair, crack seal, seal and
+stripe existing parking lot. Project will include site signage improvements.
+
+Salmon Creek Regional Park – Greenway Trail Restoration | Reroute Mile 1 to 1.7 of
+existing paved trail to avoid erosion from Salmon Creek. Project includes repair, crack seal
+and seal existing asphalt trail. Also includes site signage improvements.
+
+Salmon Creek Regional Park Klineline Pond – Pedestrian Bridge Footing Repair | Fortify
+existing bridge footings and restore Salmon Creek Shoreline up and downstream of existing
+bridge to Klineline Pond.
+
+Sifton Neighborhood Park – Sport Court Replacement | Removal of asphalt basketball
+court, root removal and replacement with a concrete surface.
+
+Vancouver Lake Regional Park – Parking Fee Machines | Installation of parking fee
+machines in the park. Project will include site signage improvements.
+
+Vancouver Lake Regional Park –Parking Pavement Restoration | Repair, crack seal, seal
+and stripe existing parking lots. Project will include site signage improvements.
+
+Vancouver Lake Regional Park – Structure Preservation | Phased repair and painting of
+existing restroom and shelter buildings at the park. Work to include lighting upgrades and
+site signage improvements.
+
+Vista Meadows Neighborhood Park – Shelter Replacement | Removal and Replacement
+of existing park shelter. Project will include site signage improvements.
+
+Walnut Grove Neighborhood Park – Playground Replacement | Remove and replace
+existing playground and surfacing. Project will include site signage improvements.
+ APPENDIX A – PROJECT DESCRIPTIONS
+
+
+Park Enhancements
+
+Camp Bonneville Regional Park Development | Planning and adoption of a regional park
+development plan. Does not include development.
+
+Camp Bonneville Regional Park Security Cameras | Installation of site security cameras
+at the site.
+
+Curtin Creek Community Park – Pedestrian RRFB Crosswalk | Pedestrian crossing
+improvements on NW 72nd Ave. to improve access to the park.
+Daybreak Regional Park Redevelopment | Planning for new day use facility west of NE
+Daybreak Road to mitigate for facility loss due to shoreline erosion. Project currently not
+budgeted for development.
+
+Fairgrounds Community Park Improvements | Park plan update to explore development
+of unimproved western portion of the property. Project currently not budgeted for
+development.
+
+Hazel Dell Community Park Improvements | Accessibility and recreation improvements
+at the park. Facilities will include new playground, accessible paths, expanded and paved
+parking along with a trail connection to Heritage Farm. Project will also include signage
+improvements.
+
+Hockinson Community Park Improvements | Park plan update to explore development of
+unimproved portions of the property. Planning process to include public outreach and
+stakeholder engagement. Project currently not budgeted for development.
+
+Lewisville Regional Park Improvements | Park plan update to explore development of
+unimproved portions of the property as well restoration of existing facilities. Planning
+process to include public outreach and stakeholder engagement. Project currently not
+budgeted for design and development.
+
+Luke Jensen Sports Complex Improvements | Complex improvements including
+conversion of sod fields to sports turf, playground replacement, new sports court and
+maintenance area improvements. Design process to include continued public outreach
+and stakeholder engagement. Project will also include signage improvements.
+
+Orchards Community Park Improvements | Park improvements including a water
+playground, playground replacement, new restroom facility, park shelter and other
+recreation elements. Design process to include continued public outreach and
+stakeholder engagement. Project will also include signage improvements.
+ APPENDIX A – PROJECT DESCRIPTIONS
+
+
+Pacific Community Park Improvements | Park improvements including a multi-use
+sports turf field, pickleball courts and other recreation improvements. Design process to
+include continued public outreach and stakeholder engagement. Project will also include
+signage improvements.
+
+Pleasant Valley Community Park Improvements | Park plan update including a
+community engagement effort. Project currently not budgeted for design and
+development.
+
+Salmon Creek Community Park Improvements | Park improvements including a new
+water playground, playground replacement, restroom facility renovation and other site
+improvements. Project will also include signage improvements.
+
+Whipple Creek Regional Park Improvements | Park plan update including a community
+engagement effort. Initial site improvements to include parking and trail infrastructure
+improvements along with site signage improvements.
+
+
+
+New Park Development
+
+Anderson Property Community Park Development | Planning, design and permitting for
+the development of a community park at the site. Planning process to include public
+outreach and stakeholder engagement. Project currently not budgeted for development.
+
+Bratton Canyon Natural Area Development | Site assessment and planning for future
+development of the site. Planning process to include public outreach and stakeholder
+engagement.
+
+Cougar Creek Woods Property Community Park Development | Planning, design and
+permitting for the development of a community park at the site. Planning process to
+include public outreach and stakeholder engagement.
+
+Covington Property Neighborhood Park Development | Planning, design and permitting
+for the development of a neighborhood park at the site. Planning process to include public
+outreach and stakeholder engagement. Project currently budgeted through initial site
+assessment.
+
+Gordy Jolma Family Natural Area Development | Design and permitting for the
+development of a natural area park at the site. Design process to include continued public
+outreach and stakeholder engagement. Project currently budgeted through master plan
+adoption and minimal site improvements focused on safety.
+ APPENDIX A – PROJECT DESCRIPTIONS
+
+
+Green Mountain Natural Area Development | Planning, design and permitting for the
+development of a natural area at the site. Planning process to include public outreach and
+stakeholder engagement. Project currently budgeted through initial site assessment and
+planning.
+
+Heritage Farm Improvements | Design, permitting and development of public access
+improvements at the farm. Design process to include continued public outreach and
+stakeholder engagement. Project will include shelter and restroom facilities, public
+parking, public access trails, interpretive signage and plazas along with site security.
+
+Lewis River Greenway Development | Trail system plan along the Lewis River from the
+Columbia River to Lewisville Regional Park. Planning process to include public outreach
+and stakeholder engagement. Project currently not budgeted for design and development.
+
+Mackie Property Neighborhood Park Development | Planning and design for the
+development of a neighborhood park at the site. Planning process to include public
+outreach and stakeholder engagement. Project currently not budgeted for development.
+
+Minnehaha Property Neighborhood Park Development | Design, permitting and
+development of a neighborhood park at the site. Design process to include continued
+public outreach and stakeholder engagement.
+
+Mt. Vista Neighborhood Park Development | Planning, design, permitting and
+development of a neighborhood park at the site. Planning and design to include continued
+public outreach and stakeholder engagement.
+
+Prairie Sports Complex Redevelopment | Planning, design, permitting and development
+of a community sports complex at the site. Planning and design to include public outreach
+and stakeholder engagement.
+
+St. John’s Property Neighborhood Park Development | Planning and design for the
+development of a neighborhood park at the site. Planning and design to include public
+outreach and stakeholder engagement. Project currently not budgeted for development.
+
+Salmon Creek Community Club Property Natural Area Development | Planning and
+design for the development of a natural area access at the site. Planning and design to
+include public outreach and stakeholder engagement. Project currently not budgeted for
+development.
+
+Vydra Property Neighborhood Park Development | Planning and design for the
+development of a neighborhood park at the site. Planning and design to include public
+outreach and stakeholder engagement. Project currently not budgeted for development.
+ APPENDIX A – PROJECT DESCRIPTIONS
+
+
+Park System Planning
+
+ADA Transition Plan | Inventory and assessment of all developed public park properties to
+identify access barriers as defined by the Americans with Disabilities Act (ADA). The Plan
+is required as part of adopted 1990 federal legislation.
+
+Facility and Park Asset Condition Assessment | Inventory and condition evaluation of all
+developed public park properties and site improvements. Condition assessment is
+necessary to develop the Major Maintenance element of the Capital Facilities Plan and the
+Capital Improvement Plan along with developing a deferred maintenance project list and
+cost estimate.
+
+PROST Plan – Develop 2028 – 2031 Plan Update | Update the current adopted County
+Parks Recreation and Open Space Plan (PROS Plan) which is required by Washington State
+Law to stay in compliance with the Growth Management Act RCW 36.70A (GMA).
+ APPENDIX B – MAJOR MAINTENANCE PRIORITIZATION CRITERIA
+
+
+Directions:
+    1. Score each criterion using the guiding rubric below. All scores are 0 through 5. A score of 0
+        should be given when the criterion is not applicable.
+    2. Multiply each score by 4. Total scores for all criteria to create the project score.
+    3. Project scores will be compiled for capital improvement plan (CIP).
+
+Note: The prioritization process is a tool to help guide and focus the efforts of the Clark County
+Parks and Lands Division (PLD) when creating the CIP. PLD reserves the right to amend the
+prioritization in order to remain adaptive and responsive to conditional change.
+
+CONDITION
+Considers the state of the asset, the consequences of failure, and the likelihood of failure.
+       5 – Severe (failure within 0-2 years) – potential serious safety issue or severe damage
+       3 – Major (failure within 3-4 years) –could deteriorate to “Severe” if not addressed
+       1 – Moderate (failure >4 years) – potential minor safety issue, damage present
+
+PARK USER IMPACT
+Considers the impact of the failure on overall and people with barriers to recreation.
+           For this analysis, consider the following:
+           - park attendance, per traffic/visitor counts or estimated
+           - % people of color, per census data in GIS
+           - % under-18 population, per census data in GIS
+           - % over-65 population, per census data in GIS
+           - % below poverty line, per census data in GIS
+       5 – Major impact to two (2) or more of the above
+       3 – Major impact to one (1) of the above
+       1 – No major impact to any of the above
+
+STRATEGIC RETURN ON INVESTMENT or LEVERAGE
+Considers the likelihood of cost recovery, as well as funding sources outside of the division.
+       5 – Project costs recouped in five years OR non-PLD funding secured for >50% of project
+       3 – Project costs recouped in ten years OR potential non-PLD funding identified
+       1 – Project provides non-recouping benefit to system and no non-PLD funds identified
+
+OPERATIONAL IMPACT
+Considers the impact that the project will have on the operational cost and burden of the division.
+       5 – Decreases operating expenses or leads to other operational benefits
+       3 – Has minimal impact to operating expenses and other operational benefits
+       1 – Increases operating expenses or does not realize operational benefits
+
+STEWARDSHIP IMPACT
+Considers the systemic impacts of parks, including overall costs and environmental impacts
+       5 – Addresses critical asset preservation or implements cost-saving/environ. technology
+       3 – Addresses asset preservation
+       1 – Limited asset preservation
+
+
+
+
+TOTAL     ______________ / 100
+ APPENDIX C – DEVELOPMENT PRIORITIZATION CRITERIA
+
+
+Directions:
+    1. Score each criterion using the guiding rubric below. All scores are 0 through 5. A score of 0
+        should be given when the criterion is not applicable.
+    2. Multiply each score by 4. Total scores for all criteria to create the project score.
+    3. Project scores will be compiled for capital improvement plan (CIP).
+
+Note: The prioritization process is a tool to help guide and focus the efforts of the Clark County
+Parks and Lands Division (PLD) when creating the CIP. PLD reserves the right to amend the
+prioritization in order to remain adaptive and responsive to conditional change.
+
+NEEDS IMPACT
+Considers the needs of the parks system, as addressed by planning or legislative/public outreach.
+For this analysis, consider the following:
+            - degree to which this implements a master plan already developed
+            - degree to which this addresses a level of service need, per the PROS plan
+            - degree to which this overlaps with state/regional effort
+            - degree to which this is endorsed by the public at large/legislative authority
+            - degree to which partnerships or sponsors have been established
+         5 – Strongly addresses several of the above, or very strongly addresses one of the above
+         3 – Strongly addresses one or more of the above
+         1 – Generally addresses one or more of the above
+
+PARK USER IMPACT
+Considers the impact of the failure on overall and people with barriers to recreation.
+For this analysis, consider the following:
+            - park attendance, per traffic/visitor counts or estimated
+            - % people of color, per census data in GIS
+            - % under-18 population, per census data in GIS
+            - % over-65 population, per census data in GIS
+            - % below poverty line, per census data in GIS
+         5 – Major impact to two (2) or more of the above
+         3 – Major impact to one (1) of the above
+         1 – No major impact to any of the above
+
+STRATEGIC RETURN ON INVESTMENT or LEVERAGE
+Considers the likelihood of cost recovery, as well as funding sources outside of the division.
+       5 – Project costs recouped in five years or non-PLD funding secured for >50% of project
+       3 – Project costs recouped in ten years or potential non-PLD funding identified
+       1 – Project provides non-recouping benefit to system and no non-PLD funds identified
+
+OPERATIONAL IMPACT
+Considers the impact that the project will have on the operational cost and burden of the division.
+       5 – Decreases operating expenses or leads to other operational benefits
+       3 – Has minimal impact to operating expenses and other operational benefits
+       1 – Increases operating expenses or does not realize operational benefits
+
+STEWARDSHIP IMPACT
+Considers the systemic impacts of parks, including overall costs and environmental impacts
+       3 – Addresses critical asset preservation or implements cost-saving/environ. technology
+       2 – Addresses asset preservation
+       1 – Limited asset preservation
+
+TOTAL     ______________ / 100
+APPENDIX D - PUBLIC COMMENTS
+David Stipe
+
+From:               Cnty PW Parks Projects
+Sent:               Wednesday, June 10, 2026 2:35 PM
+To:                 Caleb Patterson; Cnty PW Parks Projects
+Subject:            RE: Public comments on Parks plan
+
+
+
+Caleb,
+
+Thank you for your feedback. We see the same needs in our parks as you do. We simply have limited
+funds by which to accomplish our ever growing backlog of major maintenance projects. Addressing your
+specifics comments I would suggest that we are doing some of the things that you would like to see us
+accomplish, it just isn’t occurring fast enough. The list below demonstrates some the work we are
+accomplishing and is a sampling of our accomplishments related to the items you mentioned.
+
+   1. In the last five months, we have replaced half of the shelter roofs at Lewisville Regional Park. Until
+      the fire forced us to rethink our maintenance spending at the park, we were planning to finish the
+      roofing project at the park this calendar year. We will now have to postpone the project to
+      address the removal, design and replacement of the Central Shelter.
+
+         We also replaced the roof on the shelter at Hazel Dell Community Park a few years back.
+
+   2. We do plan to replace the playground at Frenchman’s Bar Regional Park. That work will begin in
+      2029 with design and permitting (since it is in the Columbia River Shoreline) followed by
+      replacement in 2030.
+
+   3. We don’t operate our current off leash areas. We rely on a partner to do so. They also aren’t an
+      allowed use in neighborhood parks so many of our site simply don’t have them. As for our
+      community parks, we have off leash areas in several of them and the inclusion of the areas during
+      development were driven by public feedback during the master planning process.
+
+         We have three parks that will either be master planned or the existing master plan will be updated
+         over the next several years. During the public outreach efforts for plan (re)development the
+         community can suggest inclusion of an off leash area. Orchard’s Community Park master plan
+         will be updated starting this year, Anderson Property Community Park master plan will be
+         developed starting in 2028 and Cougar Creek Wood Property Community Park master plan will be
+         develop in 2027.
+
+   4. We have a pavement preservation and restoration program included in the plan. Our goal is to
+      have all asphalt trails in both community parks and neighborhood parks sealed over the next 5
+      years. To date, we have focused our efforts on parking lot pavement preservation including the
+      repaving of Felida Community Park, sealing the east parking lot at Pacific Community Park,
+      repairing and sealing the parking lot at Klineline Pond and sealing the playground/disc golf parking
+      lot at Hockinson Meadows.
+
+         This year we will be repaving the large parking lot on the west end of Salmon Creek Regional Park
+         along with sealing the parking lot and asphalt trail at Blurock.
+                                                          1
+I realize that is may seem at times that we aren’t moving fast enough with our major maintenance effort
+but funds and staffing are limited so we must pace ourselves. If you have any additional thoughts,
+please don’t hesitate to send a follow-up email.
+
+Regards,
+
+
+                  David L Stipe, RLA
+                  He | Him | His
+                  Planning & Development Manager
+                  Clark County | Parks and Nature
+                  Public Works
+
+                  564.397.5881 desk
+                  360.901.5659 mobile
+
+
+From: Caleb Patterson <calebpattersonengineer@gmail.com>
+Sent: Wednesday, May 20, 2026 4:42 PM
+To: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: Public comments on Parks plan
+
+
+
+EXTERNAL: This email originated from outside of Clark County. Do not click links or open attachments unless
+you recognize the sender and know the content is safe.
+
+
+Based on the May 12, 2026 fire of Lewisville Regional Park main structure there is not enough investment
+in maintaining and improving existing parks.
+
+There is no plan to add additional play structures at Frenchman's Bar or Vancouver Lake Regional Park.
+There is no plan to increase the availability of dog parks included in the plan. Asphalt paved trails are not
+being slurry coated or maintained by the county and there is no budget to do so. There is no budget to
+increase the amount of paved walking paths.
+
+Fairgrounds Park does not have enough parking.
+
+This plan need additional updates before it should be approved
+
+
+
+
+                                                       2
+David Stipe
+
+From:               Cnty PW Parks Projects
+Sent:               Wednesday, June 10, 2026 2:38 PM
+To:                 peggy@redbarn37.com; Cnty PW Parks Projects
+Cc:                 Evelyn Ives
+Subject:            RE: Tennis Courts
+
+
+Peggy,
+
+Thank you for your feedback. I too was surprised when in came to work for the county in 2021. Your comment is Ɵmely,
+we are geƫng ready to update our Parks System Plan and this type of feedback is valuable when we are seƫng prioriƟes
+for the next ten years. I will include this email and your contact informaƟon in the contact list for the System Plan
+update.
+
+Regards,
+
+
+
+David L SƟpe, RLA
+He | Him | His
+Planning & Development Manager
+Clark County | Parks and Nature
+Public Works
+
+564.397.5881 desk
+360.901.5659 mobile
+
+
+-----Original Message-----
+From: peggy@redbarn37.com <peggy@redbarn37.com>
+Sent: Wednesday, May 20, 2026 7:12 PM
+To: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: Tennis Courts
+
+
+EXTERNAL: This email originated from outside of Clark County. Do not click links or open aƩachments unless you
+recognize the sender and know the content is safe.
+
+
+
+Hello,
+Thanks for what you do to give us a chance for recreaƟon. We were preƩy surprised when we moved here that there are
+no tennis courts in any public parks in the county. It would be lovely if some were added. It's a fantasƟc sport, can be
+played for a lifeƟme and nice way to experience the outside as well.
+Thanks so much,
+Peggy Ellis
+360-350-2706
+
+
+
+                                                           1
+David Stipe
+
+From:                 Cnty PW Parks Projects
+Sent:                 Wednesday, June 10, 2026 2:45 PM
+To:                   dkalz23600; Cnty PW Parks Projects
+Subject:              RE: Park plans
+
+
+
+Thank you for your feedback on the draft capital plan. When it comes to access for all, we are working on
+completing our ADA Transition Plan which will identify all barriers to access and outline a plan for
+addressing the barriers that are feasibly removed over the next 10-20 years. This may seem like a long
+time horizon, but the most visited, most important sites with barriers will be improved first and we will
+continually work our way through the list.
+
+Regards,
+
+
+                  David L Stipe, RLA
+                  He | Him | His
+                  Planning & Development Manager
+                  Clark County | Parks and Nature
+                  Public Works
+
+                  564.397.5881 desk
+                  360.901.5659 mobile
+
+
+From: dkalz23600 <dkalz23600@aol.com>
+Sent: Thursday, May 21, 2026 4:45 PM
+To: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: Park plans
+
+
+
+EXTERNAL: This email originated from outside of Clark County. Do not click links or open attachments unless
+you recognize the sender and know the content is safe.
+
+
+
+Please make all trails ADA accessible and access to picnic areas wheelchair accessible. Make the
+website show which parks are ada on the search features.
+Thanks.
+
+
+Sent from my Galaxy
+
+
+
+
+                                                           1
+David Stipe
+
+From:                          Dave S <wsuvancoug@gmail.com>
+Sent:                          Wednesday, June 10, 2026 3:43 PM
+To:                            Cnty PW Parks Projects
+Subject:                       Re: CC Parks Plan
+
+
+
+
+Good news David. And thanks for the reply.
+Dave
+
+Get Outlook for iOS
+
+From: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Sent: Wednesday, June 10, 2026 2:41:11 PM
+To: Dave S <wsuvancoug@gmail.com>; Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: RE: CC Parks Plan
+
+David,
+
+Thank you for your feedback. As for Heritage Farm, we have no plans to sell the property or develop it for
+any other reason that public farming and recreation use. We actually are planning in the next several
+years to improve public access to the site with a trail system that connects the north side of the site with
+Hazel Dell Community Park to the south.
+
+Regards,
+
+
+                  David L Stipe, RLA
+                  He | Him | His
+                  Planning & Development Manager
+                  Clark County | Parks and Nature
+                  Public Works
+
+                  564.397.5881 desk
+                  360.901.5659 mobile
+
+
+From: Dave S <wsuvancoug@gmail.com>
+Sent: Thursday, May 21, 2026 8:39 AM
+To: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: CC Parks Plan
+
+
+
+EXTERNAL: This email originated from outside of Clark County. Do not click links or open attachments unless
+you recognize the sender and know the content is safe.
+
+
+                                                       1
+I am David Slavit, resident of Salmon Creek. Despite few dollars coming to my neighborhood I support
+the plan as it adds new parks in needed places.
+
+My further comment is a plea to pass a resolution that permanently maintains the 78 th St Heritage site as
+green space. A city the size of Vancouver is uniquely fortunate to have such a space. Future generations
+will look back in thanks at a commitment to maintain such a wonderful location in an undeveloped state.
+It could become the Central Park of the west.
+
+I support the plan, and also ask that you please consider such a resolution as an addendum.
+
+Sincerely
+David Slavit
+14312 NW Ave
+Vancouver
+
+
+
+
+                                                    2
+David Stipe
+
+From:              Cnty PW Parks Projects
+Sent:              Wednesday, June 10, 2026 2:46 PM
+To:                dave herrera; Cnty PW Parks Projects
+Cc:                Evelyn Ives
+Subject:           RE: Comments on Draft 2027-2032 Parks Capital Improvement Plan
+
+
+
+Dave,
+
+This is a great comment for the system plan which we are in the process of updating as we speak. We
+will include your comment and contact information in the interested parties list for the System Plan
+Update.
+
+Regards,
+
+
+                  David L Stipe, RLA
+                  He | Him | His
+                  Planning & Development Manager
+                  Clark County | Parks and Nature
+                  Public Works
+
+                  564.397.5881 desk
+                  360.901.5659 mobile
+
+
+From: dave herrera <daveherrera@hotmail.com>
+Sent: Friday, May 22, 2026 4:19 PM
+To: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: Comments on Draft 2027-2032 Parks Capital Improvement Plan
+
+
+
+EXTERNAL: This email originated from outside of Clark County. Do not click links or open attachments unless
+you recognize the sender and know the content is safe.
+
+
+I think the Tri-Mountain Golf Course which is owned by Clark County should be included in the Plan. It is a
+recreational resource for the county and qualifies as open space. It should not be ignored by the new plan.
+
+
+
+
+                                                       1
+David Stipe
+
+From:              Cnty PW Parks Projects
+Sent:              Monday, June 29, 2026 2:38 PM
+To:                Jilayne Jordan; Cnty PW Parks Projects
+Subject:           RE: Parks & Lands Capital Improvement Plan Comments
+
+
+
+Jilayne,
+
+Thank you for your comments and for taking the time to read the Draft CIP.
+
+Regards,
+
+
+                  David L Stipe, RLA
+                  He | Him | His
+                  Planning & Development Manager
+                  Clark County | Parks and Nature
+                  Public Works
+
+                  564.397.5881 desk
+                  360.901.5659 mobile
+
+
+From: Jilayne Jordan <mrsdottieparker@gmail.com>
+Sent: Saturday, May 23, 2026 2:09 PM
+To: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: Parks & Lands Capital Improvement Plan Comments
+
+
+
+EXTERNAL: This email originated from outside of Clark County. Do not click links or open attachments unless
+you recognize the sender and know the content is safe.
+
+
+Hello,
+
+I read this year's CIP and feel that it is very well-done and equitable.
+
+I also just wanted to say how much I value access to our county parks and would 100% support paying
+more in taxes to ensure that our parks are well-maintained, improved over time, and that new facilities
+can be added to the system as our population grows. I hope I never see our parks closed due to a lack of
+resources in my lifetime. That would be an incredible disservice to everyone.
+
+Thank you for your hard work on this and other plans related to our parks, trails, and greenspaces. Your
+work (and the parks and trails themselves) are very much appreciated.
+
+Sincerely,
+                                                       1
+David Stipe
+
+From:             Cnty PW Parks Projects
+Sent:             Monday, June 29, 2026 2:02 PM
+To:               Christine Terry; Cnty PW Parks Projects
+Subject:          RE: 2027-2032 draft plan-Cougar Creek Woods Input
+
+
+
+Christine,
+
+Thank you for your input on our capital planning and development work at Clark County Parks and
+Nature. My apologies for the duration between your email and my reply. I appreciate your frustration
+with the minimal progress made to develop facilities at our Cougar Creek Woods Property. I’ve provided
+some background on the questions you specifically asked for reponses to below. These responses will
+also give you a sense for where we are headed over the next several years.
+
+   1. We have not actually spent the budgeted funds in 2024, 2025 and 2026. When those dollars are
+      set aside for a project and aren’t spent, they simply remain in the fund account for the PIF District
+      in which the property lies. The Cougar Creek Woods Property lies in PIF District 9, so the unspent
+      money remains in that account. We are legally obligated to spend PIF District funds on facilities
+      that benefit that PIF district. Many times, we set out to work on a property or specific project, and
+      other priorities require a shift in staff focus and this has been the case with some of the projects
+      we have been trying to accomplish at Cougar Creek Woods.
+   2. We have a site plan for the Cougar Creek Woods Property that was developed back in 2015 but
+      was never adopted by council. We have over the last several years planned to revisit this plan
+      through a public outreach effort and revise the plan to meet current community feedback and
+      needs, but again other pressing major maintenance issues have forced a shift in staffing
+      resources. Again, the funds used for development of this property remain in the PIF 9 fund
+      account.
+   3&4.       The County is beginning construction of curb, gutter and sidewalk along NW 16th Ave. in
+             response to several community requests to address the gap in sidewalk at this site. The
+             work will begin sometime in July, 2026 and should be completed by the end of
+             September. This will improve the grade issue at the north end of the park frontage. To date
+             we have also installed fencing along the cleared portion of the site and dealt with a few
+             encroachments from surrounding neighbors.
+   5. Spreading gravel in the wooded area on the existing paths is not allowed without a permit give the
+      habitat designation of the woods. We would need to apply for a shoreline permit to establish the
+      community developed trails as formal park trails. Actually, the community developed trails are an
+      impact to the habitat in the wooded part of the park and will need to be formalized and those
+      impacts mitigated for at the time of development.
+   6. The county will not establish any new paths in the park until a park plan has been adopted by
+      council. We can’t develop any park infrastructure without going through the required
+      environmental and land use review process.
+
+Finally, we are doing work on the site to the extent that our staffing capacity will allow. That said, the
+project is slated for master plan revision and adoption in 2028, design and permitting in 2029 and 2030,
+with construction of a first phase of development in 2031. I realize this only adds to the long timeline you
+
+                                                      1
+have already endured, but we are finally getting a number of long standing projects completed allowing
+us to focus on several other long standing projects.
+
+I hope this provides you with some useful information and context for why the long drawn-out process. If
+you have any other questions, please feel free to reply via email or give me a call.
+
+
+Regards,
+
+
+                  David L Stipe, RLA
+                  He | Him | His
+                  Planning & Development Manager
+                  Clark County | Parks and Nature
+                  Public Works
+
+                  564.397.5881 desk
+                  360.901.5659 mobile
+
+
+From: Christine Terry <christineterry3099@gmail.com>
+Sent: Monday, June 8, 2026 11:52 AM
+To: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: 2027-2032 draft plan-Cougar Creek Woods Input
+
+
+
+EXTERNAL: This email originated from outside of Clark County. Do not click links or open attachments unless
+you recognize the sender and know the content is safe.
+
+
+I am providing input for Cougar Creek Woods Community Park.
+
+Funding and attention to Cougar Creek Woods has continued to be pushed out for at least 20+ years
+since I've lived in this neighborhood. There was a risk, awhile back, that the County was going to sell part
+of the property to developers, thank goodness it was salvaged!
+
+Developers added over 200 new homes within a 1/2 mile radius of the park, with no sidewalk
+infrastructure from 109th Street to the Park, via 16th Ave.
+
+   •   50+ new single family homes north of the park and south of 119th Street
+   •   21+ new single family homes south of the park surrounding NW 115th Street
+   •   60+ new SongBird single family homes south of the park surrounding north of NW 109th street and
+       16th Ave.
+   •   50+ new single family homes south of 109th Street off of 16th Ave.
+   •   9 low density units to be built on 113th Street in the fall of 2026.
+
+
+
+
+                                                       2
+The community has requested that Clark County provide resources for community volunteers to do the
+work, such as:
+
+   1. Safe entry way to the park on the far NW corner where the sidewalk ends on 16th Ave. Simple
+      steps down to the park. (County Maintenance should actually do this, not volunteers)
+   2. Gravel to disperse in the wooded trails to sustain year-round usage;
+   3. Perimeter trail, similar to Foley Park, in the upper field section of the park. This would provide a
+      utilizable leased dog walking path without going down the trails.
+   4. Some sort of walking path on 16th Avenue so people do not have to walk on 16th avenue. Mind
+      you, no speed bumps anywhere on 16th Ave, unallowed by the County.
+   5. Access to the park for community volunteers to create a youth baseball diamond on the plot
+      where the sign is on 16th Ave.
+
+
+Approval to volunteer to make any improvements are required to be vetted through the Clark County
+bureaucratic process, and it's pending.
+
+Approved 2022 Cougar Creek Funding: This park did not receive this funding, how was it reallocated?
+2024 $100k
+2025 $200k
+2026 $650k
+2027 $3.9m
+
+DRAFT 2026-2027 Parks and Lands for All:
+2028 $160k
+2029 $290k
+2031 $3.5M
+
+Requests for Cougar Creek Woods:
+
+   1. How was the $950K approved funding for 2024 to 2026 spent for Cougar Creek?
+   2. Where can I see the detailed Project Plan PRJ0003309 for Cougar Creek Woods?
+   3. Request County build steps on the far NW corner of the Park for safe entry to the park from that
+      direction
+   4. Request county to create a safe walking space, with volunteer support, along NW 16th Ave, within
+      the park boundaries.
+   5. Request county to fund gravel for volunteers to disperse in the wooded trails for year-round usage
+   6. Request County to mow a perimeter trail in the fields and have volunteers spread bark chips
+      (similar to Foley Park)
+
+
+Thank you for your consideration.
+
+Christine
+
+
+https://clark.wa.gov/public-works/park-projects-and-funding
+                                                     3
+David Stipe
+
+From:              Cnty PW Parks Projects
+Sent:              Monday, June 29, 2026 2:37 PM
+To:                Jordan Hamann; Cnty PW Parks Projects
+Subject:           RE: Comment on 27-32-draft-cip-260516
+
+
+
+Jordan,
+
+Thank you for your feedback on the Parks and Nature Draft CIP. You specifically mentioned the Major
+Maintenance project for the Chelatchie Prairie Railroad Rail with Trail Project. As background, I would
+like you to know that the project is to resurface or seal existing asphalt trail as opposed to developing any
+new trail along the rail corridor. The future of any additional trail in this and other potential trail corridors
+will be established over the next several months as part of the update to the Parks and Nature System
+Plan. The plan update is in its early stage and a new chapter will be added specifically focused on
+regional trails in the Greater Clark Park District and throughout the county.
+
+As for sports fields, we are always looking for land that is of the size and dimensional requirements to
+allow for sports field development. These large parcels in appropriate locations are hard to come by but
+we are always looking for these types of sites. The primary issues are price and the lengthy acquisition
+timeline for county land purchases. We are frequently outbid or too slow to acquire premium larger
+parcels due to the rate of development in the county. That doesn’t deter us from the search. You will
+notice in our plan we will be adding another dual purpose turf field at Pacific Community Park next year
+and planning for the redevelopment of Prairie Fields starting in 2030. As soon as funding allows, we will
+also be developing the second soccer/rugby field at Curtin Creek Community Park.
+
+If you have any additional questions, please don’t hesitate to follow up with an email.
+
+Regards,
+
+
+                  David L Stipe, RLA
+                  He | Him | His
+                  Planning & Development Manager
+                  Clark County | Parks and Nature
+                  Public Works
+
+                  564.397.5881 desk
+                  360.901.5659 mobile
+
+
+From: Jordan Hamann <jthamann4@gmail.com>
+Sent: Wednesday, June 10, 2026 1:33 PM
+To: Cnty PW Parks Projects <PWParksProjects@clark.wa.gov>
+Subject: Comment on 27-32-draft-cip-260516
+
+
+
+                                                        1
+EXTERNAL: This email originated from outside of Clark County. Do not click links or open attachments unless
+you recognize the sender and know the content is safe.
+
+
+Hello,
+
+Upon reviewing the draft 2027-2032 Capital Improvement Plan, I would like to share my appreciation that
+the "Chelatchie Railroad Trail Improvements" project is still listed in 2032. I urge Parks and Nature to
+retain that project! While the full trail is still a long ways off, it is not impossible that momentum could
+pick back up again by 2032; in fact, keeping that asset on a program list like this could be the thing that
+allows the County and partners to pick that project back up in earnest. Even if not, the mile of trail that
+was built years ago cannot be left to degrade and decay. That would simply be a waste of time and
+money.
+
+My next comment is to urge Parks and Nature to continue looking for opportunities to expand access to
+sports fields and sports parks across the County. If additional funding sources become available, I would
+encourage Parks and Nature to "bump up" the listed sports parks projects. It used to be that schools
+provided all that was needed for that but schools now are so strapped for funding, or closed-campus,
+that they couldn't possibly provide for all the youth in the County, let alone all the adults looking to play.
+The unfortunate reality is that suburban sports parks require lots of parking, which both escalates costs
+and limits potential sites. While encouraging multimodal accessibility is important, I fear it is
+unfortunately shortsighted to assume the majority of users will be taking the bus or riding a bike to
+practice or a game (great to have as an option, though!).
+
+I appreciate Parks and Nature's efforts to explain how the different sources of funding currently had can
+be used. It is complicated. It's confusing for people to hear that parks are underfunded when new parks
+are being built and new lands are being acquired, though at this point I understand it. Communicating
+that complexity further will be vital to any future funding improvements.
+
+Regards,
+
+Jordan Hamann
+Associate Planner, GIS
+Regional Transportation Council
+jordan.hamann@rtc.wa.gov
+564-397-2133
+
+
+| The views expressed in emails from this address
+  are my personal beliefs and are not representative
+  of any positions of my employer |
+
+
+
+
+                                                       2
+

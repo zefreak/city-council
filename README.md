@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 43 — through the 2 Oct evening run: Clark comp plan hearing continued to 5 Oct, written comment to noon 13 Oct; Clark 6 Oct HB 2060 housing-fund interlocal (no dollar figure, agreement not attached); Clark 7 Oct Council Time mobile-home rent cap loophole (RCW 59.20.380(3)) and the 2027 budget work session built around Props 12/13; Vancouver CAHC 8 Oct cultural access ordinance amendment (no text). Before that, the 30 Sep run: Vancouver Council 5 Oct (initiatives resolution hearing; HB 1491 on consent, exemption map left administrative; budget appendix assumes SHARE Talkin' Trash contract ends June 2027; scofflaw boot/tow code, $100 of fines → $643.52). Comp plan hearing brief updated with Councilor Little's decoupled TDR amendment, Appendix O (no dollar figures) and 2–3× traffic impact fees. 13 Oct Planning Commission listed "Cancelled" with an uncancelled agenda |
+| Briefs written | 47 — through the 7 Oct evening run: **Clark adopts the comp plan (Ord. 2026-10-01) at 1pm on 13 Oct, one hour after written comment closes; ordinance not attached**; the 6 Oct meeting was lost to a quorum failure and carried to 13 Oct with a Sheriff fee hearing that more than doubles eviction writ fees ($55→$135, $95→$220); Vancouver 12 Oct HB 1491 final vote, with the ordinance's "two or more bedrooms" looser than the statute's "more than two" and an MFTE companion on consent that omits the 150% income-growth rule from the code; cultural access conflict-of-interest ordinance (three commissioners applied); "City Council Vacancies" unexplained; Clark 14 Oct TIP ($260.8M) and parks CIP ($89.8M, new parks "purposefully" slowed). Fetcher fixed for CivicClerk's `streamUrl` change |
 
 ## Layout
 
@@ -279,6 +279,10 @@ that ever changes.
   lesson is the same one as the stale news release: a verbal remark at a hearing can turn out to be the
   plan, so re-read the listing after every sitting.
 - **Clark County session ids were renumbered by every new posting — fixed 23 Sep 2026.** `clark_meetings()` built ids as `clark-<date>-<len(out)>`, a counter across the whole listing, so a newly posted session shifted every older row's id and they all resurfaced in the digest with *identical* fingerprints. The 23 Sep digest re-listed three already-briefed sessions for this reason alone. Ids are now counted per date. **The first run after the fix will resurface every in-window Clark row once** under its new id; compare fingerprints against the old keys in `.agenda-watch-state.json` before treating any of them as changed.
+- **The digest truncates a long Clark County agenda block, and the most important item can fall off
+  the end.** The 13 October 2026 row cut off mid-consent. Separate Business 1, **the comp plan
+  adoption vote**, appeared nowhere in the digest, because it had no attachment and so produced no
+  link either. Always open the agenda PDF for a Tuesday meeting; never brief from the digest block.
 - **A Vancouver `agendaId` is assigned long before the agenda exists.** A future meeting can show
   a non-zero `agendaId` whose `Meetings/{id}` returns zero items. Item count is the test.
 - **Council skips weeks.** There was no Vancouver meeting on 31 Aug 2026. Confirm the meeting
@@ -293,6 +297,11 @@ that ever changes.
   October 2025 instead of the September 2026 Planning Commission agenda. Use the `url` field the
   API supplies in `publishedFiles`. It returns JSON `{"blobUri": ...}`, not a PDF; fetch the
   blobUri as a second step.
+  **Superseded, 7 October 2026:** `url` now comes back `null` and `GetMeetingFile` returns **404 with
+  an empty body**, so for a while every agenda and packet link in the digest was dead. `publishedFiles`
+  now carries a `streamUrl` (`Meetings/GetMeetingFileStream(fileId=N,plainText=false)`), which returns
+  the PDF directly. `agenda_watch.py` prefers it. The two-step blobUri path is retired, though
+  `fetch_meeting_file` still handles it if it comes back.
 - **`agendaIsPublish` and `agendaPacketIsPublish` are different things.** An agenda can be
   published while the packet is not — which means the agenda titles are readable but every staff
   report is still unavailable. Check the packet flag before concluding an item has no documents,

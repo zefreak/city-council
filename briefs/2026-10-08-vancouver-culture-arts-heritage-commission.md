@@ -90,3 +90,15 @@ $3.85M allocated, $700K of it flexible.
 - **Grant application numbers.** The item is titled "Update on Grant Application Numbers", but the deck
   contains none.
 - **Madrona's engagement terms and billing.** Still unpublished.
+
+## Update, 7 October — the amendment text is now published, and the guess above was wrong
+
+The ordinance is on the **12 October City Council consent agenda** (staff report 198-26, attachment 5159,
+cached at `data/vancouver/2026-10-12-cc/`). It does **not** touch grant allocations. It adds VMC
+3.45.040(B), which bars a grant to any nonprofit where a **serving CAHC commissioner** would get a direct
+benefit (as a board member, employee or paid contractor) or an indirect one (the same roles at a fiscal
+sponsor). **Three serving commissioners have applied for year-one grants.** A commissioner can resign
+and keep the application in the pool. The hearing is 19 October and the ordinance takes effect the same
+day. **It is a good rule.** Its gaps are that it does not cover the Grant Review Committee and has no
+cooling-off period. See `briefs/2026-10-12-vancouver-city-council.md`. The guess in the bottom line
+above was labelled as one, and it was wrong.

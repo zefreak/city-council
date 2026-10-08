@@ -1,0 +1,496 @@
+                                         Voucher Approval Summary - City of Vancouver
+
+
+This sheet summarizes the voucher totals submitted for Council approval for the reporting period shown below.
+
+We, the undersigned Council Members of the City of Vancouver, Clark County, Washington, hereby certify that the merchandise
+or services hereinafter specified have been received and that the vouchers listed below are approved for payment in the amount
+of:
+
+Total Amount Approved:                   $                                8,121,234.48
+
+On Council Meeting Date:                                    Monday, October 12, 2026
+
+
+Mayor                                    _____________________________________________
+
+Council Member                           _____________________________________________
+
+Council Member                           _____________________________________________
+
+Auditing Officer                         _____________________________________________
+
+
+
+
+         Reporting Period                            Payment Categories                      Payment Categories Total
+  September 28, 2026 - October 4, 2026   Accounts Payable Checks (See Attached)          $                      8,056,484.88
+  September 28, 2026 - October 4, 2026   Hansen City Payments (See Attached)                                       12,502.68
+  September 28, 2026 - October 4, 2026   Visa Refunds (See Attached)                                                3,488.69
+  September 28, 2026 - October 4, 2026   Payroll Checks (See Attached)                                             48,758.23
+                                                           TOTAL                         $                      8,121,234.48
+
+This information is structured for accessibility and screen navigation.
+                                                                       INVOICE PAYMENTS REPORT
+
+ Payment Category           Payment              Transaction                 Payment Date                       Payment Amount           Payment Payee                    Memo
+                             Type                Reference
+Customer Refund            Check         33439                                               9/30/2026                       516.87 BYRON HEGSTAD               Coverage ended
+Customer Refund            Check         33440                                               9/30/2026                       145.00 GEOFFREY BYERS              Permit was cancelled in Mar
+                                                                                                                                                                2024. Permit was invoiced
+                                                                                                                                                                & ACH was ran in error in
+                                                                                                                                                                Dec 2024.
+Customer Refund            Check         33441                                               9/30/2026                         58.54 SETH IRVINE                Overpayment on account
+                                                                                                                                                                for CCON-00002641.
+Ad Hoc Payment             Check         33442                                               9/30/2026                        197.00 Aaron or Catherine Gullion 3419 E 21ST ST
+                                                                                                                                                                ,VANCOUVER,WA,98661
+Ad Hoc Payment             Check         33443                                               9/30/2026                        111.03 Bird,Debra or Shane        11104 NE 46TH ST
+                                                                                                                                                                ,VANCOUVER,WA,98682
+Ad Hoc Payment             Check         33444                                               9/30/2026                        214.00 Brown,Anthony or Jennifer 8105 NE 100TH ST
+                                                                                                                                                                ,VANCOUVER,WA,98662
+Ad Hoc Payment             Check         33445                                               9/30/2026                      2,000.00 Casciato,Gene              12809 SE 15TH ST
+                                                                                                                                                                ,VANCOUVER,WA,98683
+Ad Hoc Payment             Check         33446                                               9/30/2026                        104.18 Elizabeth Blair            7909 NE 62ND CIR
+                                                                                                                                                                ,VANCOUVER,WA,98662
+Ad Hoc Payment             Check         33447                                               9/30/2026                         41.16 Gaddis,James               9804 NE 9TH ST
+                                                                                                                                                                ,VANCOUVER,WA,98664
+Ad Hoc Payment             Check         33448                                               9/30/2026                         63.44 Grosmick,Samantha or       6707 NE 65TH AVE
+                                                                                                                                     Shane                      ,VANCOUVER,WA,98661
+Ad Hoc Payment             Check         33449                                               9/30/2026                        193.34 Howe,Julie M or Michael D 17404 NE 32ND ST
+                                                                                                                                                                ,VANCOUVER,WA,98682
+Ad Hoc Payment             Check         33450                                               9/30/2026                        149.67 Interwest Properties Llc   10401 NE 61ST CIR
+                                                                                                                                                                ,VANCOUVER,WA,98662
+Ad Hoc Payment             Check         33451                                               9/30/2026                        139.38 Lassman,Susan J            10105 NE 21ST ST
+                                                                                                                                                                ,VANCOUVER,WA,98664
+Ad Hoc Payment             Check         33452                                               9/30/2026                        279.00 Leach,Ronald or Mimi       409 SE 160TH AVE
+                                                                                                                                                                ,VANCOUVER,WA,98684
+Ad Hoc Payment             Check         33453                                               9/30/2026                        168.27 Miller,Anthony or Tammra 11317 NE 17TH ST
+                                                                                                                                                                ,VANCOUVER,WA,98684
+Ad Hoc Payment             Check         33454                                               9/30/2026                        324.00 Roth,John Michael or Nancy 9603 NE 169TH CT
+                                                                                                                                                                ,VANCOUVER,WA,98682
+Ad Hoc Payment             Check         33455                                               9/30/2026                        332.12 Streeter,Kelly or Diana    515 SE 102ND AVE
+                                                                                                                                                                ,VANCOUVER,WA,98664
+Ad Hoc Payment             Check         33456                                               9/30/2026                        212.45 Strite,Brenda              15323 NE 86TH ST
+                                                                                                                                                                ,VANCOUVER,WA,98682
+Ad Hoc Payment             Check         33457                                               9/30/2026                        273.16 Wiles,Matthew or Teresa    16004 NE 14TH CIR
+                                                                                                                                                                ,VANCOUVER,WA,98684
+Ad Hoc Payment             Check         33458                                               9/30/2026                        400.00 Willow Management          17217 SE FISHER DR
+                                                                                                                                     Revocable Trust c/o Sally  ,VANCOUVER,WA,98683
+                                                                                                                                     Rivera
+Miscellaneous Payment      Check         33459                                               9/30/2026                         53.00 Aeon Apartments            Refund overpayment to
+                                                                                                                                                                INV#77094008
+Miscellaneous Payment      Check         33460                                               9/30/2026                        100.00 Bella Vista Neighborhood   2026 Resource
+                                                                                                                                     Association                Conservation Challenge
+Miscellaneous Payment      Check         33461                                               9/30/2026                        100.00 Cascade Southeast          2026 Resource
+                                                                                                                                     Neighborhood Association Conservation Challenge
+Miscellaneous Payment      Check         33462                                               9/30/2026                        181.00 C Thompson Construction RES-393784 (jobsite:
+                                                                                                                                     LLC                        15505 SE Rivershore Dr. )
+
+
+
+*Please contact Procurement Services if you would like to review the justification for EMERGENCY procurement.
+                                                                       INVOICE PAYMENTS REPORT
+
+ Payment Category           Payment              Transaction                 Payment Date                       Payment Amount             Payment Payee                     Memo
+                             Type                Reference
+Miscellaneous Payment      Check         33463                                               9/30/2026                           25.00 Gillian Dechenne-Bush       Refund duplicate payment
+                                                                                                                                                                   to citation #7207700463
+Miscellaneous Payment      Check         33464                                               9/30/2026                       181.00 Holt Homes                     RES-393885 (jobsite:
+                                                                                                                                                                   18304 NE 16th St. )
+Miscellaneous Payment      Check         33465                                               9/30/2026                       181.00 Holt Homes                     RES-393933 (jobsite:
+                                                                                                                                                                   18206 NE 16th St. )
+Miscellaneous Payment      Check         33466                                               9/30/2026                       181.00 Holt Homes                     RES-393890 (jobsite:
+                                                                                                                                                                   18204 NE 16th St. )
+Miscellaneous Payment      Check         33467                                               9/30/2026                       181.00 Holt Homes                     RES-393882 (jobsite:
+                                                                                                                                                                   18311 NE 17th St. )
+Miscellaneous Payment      Check         33468                                               9/30/2026                       181.00 Holt Homes                     RES-393934 (jobsite:
+                                                                                                                                                                   18306 NE 16th St.)
+Miscellaneous Payment      Check         33469                                               9/30/2026                     19,542.75 James Walter                  Claim Payment - DOI:
+                                                                                                                                                                   08/31/2026 - RISK
+Miscellaneous Payment      Check         33470                                               9/30/2026                      6,045.34 Jeannie Christensen           Claim Payment - DOI:
+                                                                                                                                                                   09/23/2026 - RISK
+Miscellaneous Payment      Check         33471                                               9/30/2026                           60.00 Lacey Vik                   Refund duplicate payment
+                                                                                                                                                                   to Citation #7207301675
+Miscellaneous Payment      Check         33472                                               9/30/2026                        100.00 Lewis & Clark Woods           2026 Resource
+                                                                                                                                     Neighborhood Association      Conservation Challenge
+Miscellaneous Payment      Check         33473                                               9/30/2026                     10,000.00 Lynda Duke                    Claim Payment - DOI:
+                                                                                                                                                                   05/10/2026 - RISK
+Miscellaneous Payment      Check         33474                                               9/30/2026                     18,710.00 NACWA                         NACWA Membership Dues -
+                                                                                                                                                                   FY 2027
+Miscellaneous Payment      Check         33475                                               9/30/2026                       120.00 Northcrest Neighborhood        2026 RecycleU
+                                                                                                                                    Association
+Miscellaneous Payment      Check         33476                                               9/30/2026                       181.00 Oksana Tsarenko                RES-394012 (jobsite:
+                                                                                                                                                                   14107 NE 39th St.
+                                                                                                                                                                   Vancouver,)
+Miscellaneous Payment      Check         33477                                               9/30/2026                           51.95 Professional Credit Service Refund request to PCS for
+                                                                                                                                                                   invoice 58572 negative trust
+
+Miscellaneous Payment      Check         33478                                               9/30/2026                       100.00 Riveridge Neighborhood         2026 Resource
+                                                                                                                                    Association                    Conservation Challenge
+Miscellaneous Payment      Check         33479                                               9/30/2026                       269.61 Roy R Ahyek                    RES-394169 (jobsite: 105 E
+                                                                                                                                                                   31st Street)
+Miscellaneous Payment      Check         33480                                               9/30/2026                       150.00 The Waterfront Vancouver       DD Refund R17590
+                                                                                                                                    Association
+Miscellaneous Payment      Check         33481                                               9/30/2026                        33.56 Tim Halloran                   Refund parking permit no
+                                                                                                                                                                   longer needed.
+Miscellaneous Payment      Check         33482                                               9/30/2026                       181.00 Weekley Homes LLC 1            RES-393548 (jobsite:
+                                                                                                                                                                   18303 NE 16th St.
+                                                                                                                                                                   Vancouver)
+Miscellaneous Payment      Check         33483                                               9/30/2026                       181.00 Weekley Homes LLC 1            RES-393541 (jobsite:
+                                                                                                                                                                   18207 NE 16th St.
+                                                                                                                                                                   Vancouver)
+Miscellaneous Payment      Check         33484                                               9/30/2026                       181.00 Weekley Homes LLC 1            RES-393546 (jobsite:
+                                                                                                                                                                   18202 NE 16th St.
+                                                                                                                                                                   Vancouver)
+
+
+
+
+*Please contact Procurement Services if you would like to review the justification for EMERGENCY procurement.
+                                                                       INVOICE PAYMENTS REPORT
+
+ Payment Category           Payment              Transaction                 Payment Date                       Payment Amount             Payment Payee                   Memo
+                             Type                Reference
+Miscellaneous Payment      Check         33485                                               9/30/2026                         100.00 Wildwood Neighborhood       2026 Resource
+                                                                                                                                      Association                 Conservation Challenge
+Supplier Payment           Check         33486                                               9/30/2026                          84.00 Airgas, Inc
+Supplier Payment           Check         33487                                               9/30/2026                         225.00 Aleksander Villezcas
+Supplier Payment           Check         33488                                               9/30/2026                       1,111.78 A-Line Asphalt Maintenance
+                                                                                                                                      Inc
+Supplier Payment           Check         33489                                               9/30/2026                     136,568.75 Apex Mechanical LLC
+Supplier Payment           Check         33490                                               9/30/2026                       9,948.94 Arborscape Ltd Inc
+Supplier Payment           Check         33491                                               9/30/2026                          75.00 Briann Dunevant
+Supplier Payment           Check         33492                                               9/30/2026                       8,250.00 Burlington Northern Santa
+                                                                                                                                      Fe
+Supplier Payment           Check         33493                                               9/30/2026                       5,308.00 Cascade Inn
+Supplier Payment           Check         33494                                               9/30/2026                         255.00 Cellco Partnership - Remit-
+                                                                                                                                      To: Cellco - NJ
+Supplier Payment           Check         33495                                               9/30/2026                         269.93 Cintas
+Supplier Payment           Check         33496                                               9/30/2026                   1,178,550.90 Clark County - Remit-To:
+                                                                                                                                      Clark County - Treasurer
+                                                                                                                                      Vancouver
+Supplier Payment           Check         33497                                               9/30/2026                         450.00 Clark County Title Company
+                                                                                                                                      - Remit-To: Clark County -
+                                                                                                                                      Reconveyance Fees
+
+Supplier Payment           Check         33498                                               9/30/2026                    133,963.53 Clary Longview LLC
+Supplier Payment           Check         33499                                               9/30/2026                        889.72 Closer Look Investigations,
+                                                                                                                                     LLC
+Supplier Payment           Check         33500                                               9/30/2026                        150.00 Coralia Chavez
+Supplier Payment           Check         33501                                               9/30/2026                      5,656.08 Core and Main LP - Remit-
+                                                                                                                                     To: Core and Main LP
+Supplier Payment           Check         33502                                               9/30/2026                      1,038.93 CUES Inc - Remit-To:
+                                                                                                                                     CUES Inc - Cincinnati
+Supplier Payment           Check         33503                                               9/30/2026                         75.00 Daniela Palafox
+Supplier Payment           Check         33504                                               9/30/2026                     39,739.59 DLT Solutions LLC
+Supplier Payment           Check         33505                                               9/30/2026                        375.00 Emiliano Martinez
+                                                                                                                                     Delgadillo
+Supplier Payment           Check         33506                                               9/30/2026                      4,127.00 Engineering Systems Inc.
+Supplier Payment           Check         33507                                               9/30/2026                        300.00 Faith Smith
+Supplier Payment           Check         33508                                               9/30/2026                        225.00 Francisco Javier Valencia Jr
+
+Supplier Payment           Check         33509                                               9/30/2026                         450.00 Gabriela Gonzalez De
+                                                                                                                                      Jesus
+Supplier Payment           Check         33510                                               9/30/2026                       2,761.23 Greystone Partners, Inc
+Supplier Payment           Check         33511                                               9/30/2026                         300.00 Gyza Rachman
+Supplier Payment           Check         33512                                               9/30/2026                       2,501.28 HMI Oregon
+Supplier Payment           Check         33513                                               9/30/2026                         337.59 Infor Public Sector, Inc -
+                                                                                                                                      Remit-To: InforPublic
+                                                                                                                                      Sector, Inc
+Supplier Payment           Check         33514                                               9/30/2026                       1,113.36 Inslee, best, Doezie &
+                                                                                                                                      Ryder PS
+Supplier Payment           Check         33515                                               9/30/2026                       1,981.20 J.S. Held LLC
+Supplier Payment           Check         33516                                               9/30/2026                         374.44 J-2 Blueprint Supply Co.
+
+
+
+*Please contact Procurement Services if you would like to review the justification for EMERGENCY procurement.
+                                                                       INVOICE PAYMENTS REPORT
+
+ Payment Category           Payment              Transaction                 Payment Date                       Payment Amount           Payment Payee              Memo
+                             Type                Reference
+Supplier Payment           Check         33517                                               9/30/2026                      3,360.63 L.N. Curtis & Sons
+Supplier Payment           Check         33518                                               9/30/2026                      5,800.00 Longview C.I. Investments
+Supplier Payment           Check         33519                                               9/30/2026                        408.38 PDH Creative
+Supplier Payment           Check         33520                                               9/30/2026                        139.54 Performance Systems
+                                                                                                                                     Integration, LLC - Remit-To:
+                                                                                                                                     Performance Systems
+                                                                                                                                     Integration, LLC
+Supplier Payment           Check         33521                                               9/30/2026                         70.00 Porter W Yett Company
+Supplier Payment           Check         33522                                               9/30/2026                      1,810.00 Portland Adventist Medical
+                                                                                                                                     Center
+Supplier Payment           Check         33523                                               9/30/2026                      2,858.93 Qwest Corporation - Remit-
+                                                                                                                                     To: Qwest Corp- Seattle
+
+Supplier Payment           Check         33524                                               9/30/2026                        225.00 Ricky Bui
+Supplier Payment           Check         33525                                               9/30/2026                         75.00 Runa Rachman
+Supplier Payment           Check         33526                                               9/30/2026                      8,925.00 Salmon Creek Koelsch
+                                                                                                                                     Operations LLC
+Supplier Payment           Check         33527                                               9/30/2026                     16,456.42 Scott Edwards Architecture
+                                                                                                                                     LLP
+Supplier Payment           Check         33528                                               9/30/2026                      3,219.37 SEA-WESTERN, INC.
+Supplier Payment           Check         33529                                               9/30/2026                        200.10 Security Contractors
+                                                                                                                                     Services
+Supplier Payment           Check         33530                                               9/30/2026                     50,219.57 Software House
+                                                                                                                                     International SHI - Remit-
+                                                                                                                                     To: SHI - Dallas
+Supplier Payment           Check         33531                                               9/30/2026                      6,400.00 Sound Jury Consulting LLC
+
+Supplier Payment           Check         33532                                               9/30/2026                         17.21 Stericycle Inc - Remit-To:
+                                                                                                                                     Shred-It
+Supplier Payment           Check         33533                                               9/30/2026                      5,000.00 The Parks and Recreations
+                                                                                                                                     Foundation of Vancouver
+                                                                                                                                     and Clark County
+
+Supplier Payment           Check         33534                                               9/30/2026                        250.00 T-Mobile
+Supplier Payment           Check         33535                                               9/30/2026                        165.53 Transunion Risk &
+                                                                                                                                     Alternative Data Solutions
+                                                                                                                                     Inc
+Supplier Payment           Check         33536                                               9/30/2026                      9,995.00 TREKK Design Group, LLC
+
+Supplier Payment           Check         33537                                               9/30/2026                      1,349.75 Trilogy MedWaste West,
+                                                                                                                                     LLC
+Supplier Payment           Check         33538                                               9/30/2026                      2,703.17 Triple J Enterprises, Inc.
+Supplier Payment           Check         33539                                               9/30/2026                        152.46 Triple J Enterprises, Inc.
+Supplier Payment           Check         33540                                               9/30/2026                     26,333.03 United States Postal
+                                                                                                                                     Service - Remit-To: United
+                                                                                                                                     States Postal Service
+                                                                                                                                     Caples
+Supplier Payment           Check         33541                                               9/30/2026                        104.99 Vestis Group, Inc - Remit-
+                                                                                                                                     To: Vestis - Pasadena
+
+
+
+
+*Please contact Procurement Services if you would like to review the justification for EMERGENCY procurement.
+                                                                       INVOICE PAYMENTS REPORT
+
+ Payment Category           Payment              Transaction                 Payment Date                       Payment Amount             Payment Payee                  Memo
+                             Type                Reference
+Supplier Payment           Check         33542                                               9/30/2026                      1,963.48 Walter E Nelson Company
+
+Supplier Payment           Check         33543                                               9/30/2026                     20,000.00 Washington Conservation
+                                                                                                                                     Action Education Fund
+Supplier Payment           Check         33544                                               9/30/2026                      6,575.00 WELL Cogir Tenant III LLC
+
+Supplier Payment           Check         33545                                               9/30/2026                    122,432.21 Western Cascade
+                                                                                                                                     Container LLC
+Supplier Payment           Check         33546                                               9/30/2026                        400.00 Willis Towers Watson
+                                                                                                                                     Insurance Services West
+                                                                                                                                     inc
+Miscellaneous Payment      Check         33547                                               10/1/2026                        364.80 Minnesota SDU               CASE ID 001066528701
+Expense Payment            Direct        EFT-00371549                                        10/2/2026                         28.14 Tami Smith                  Employee Reimbursement
+                           Deposit
+Expense Payment            Direct        EFT-00371550                                        10/2/2026                        464.52 Scott Kovach                Employee Reimbursement
+                           Deposit
+Expense Payment            Direct        EFT-00371551                                        10/2/2026                           21.50 Michael Steuben           Employee Reimbursement
+                           Deposit
+Expense Payment            Direct        EFT-00371552                                        10/2/2026                        244.97 Heidi Morkert               Employee Reimbursement
+                           Deposit
+Expense Payment            Direct        EFT-00371553                                        10/2/2026                           61.00 Tanya Gray                Employee Reimbursement
+                           Deposit
+Expense Payment            Direct        EFT-00371554                                        10/2/2026                        244.97 Sam Longbotham              Employee Reimbursement
+                           Deposit
+Expense Payment            Direct        EFT-00371555                                        10/2/2026                        250.00 Alex Krell                  Employee Reimbursement
+                           Deposit
+Expense Payment            Direct        EFT-00371556                                        10/2/2026                        224.75 Frank Dick                  Employee Reimbursement
+                           Deposit
+Cash Advance Payment       Direct        EFT-00371557                                        10/2/2026                        229.50 Amelia Metevia              Travel Advance
+                           Deposit
+Cash Advance Payment       Direct        EFT-00371558                                        10/2/2026                           60.56 Samantha Moody            Travel Advance
+                           Deposit
+Cash Advance Payment       Direct        EFT-00371559                                        10/2/2026                        137.63 Nikki Chen                  Travel Advance
+                           Deposit
+Cash Advance Payment       Direct        EFT-00371560                                        10/2/2026                        176.06 Clayton Agbisit             Travel Advance
+                           Deposit
+Cash Advance Payment       Direct        EFT-00371561                                        10/2/2026                        290.25 Brian McLemore              Travel Advance
+                           Deposit
+Cash Advance Payment       Direct        EFT-00371562                                        10/2/2026                        229.50 Jamie Haske                 Travel Advance
+                           Deposit
+Expense Payment            Direct        EFT-00371563                                        10/2/2026                           76.47 Lon Klugman               Employee Reimbursement
+                           Deposit
+Cash Advance Payment       Direct        EFT-00371564                                        10/2/2026                        320.25 Joshua Miller               Travel Advance
+                           Deposit
+Expense Payment            Direct        EFT-00371565                                        10/2/2026                           49.50 Matt Hoover               Employee Reimbursement
+                           Deposit
+Cash Advance Payment       Direct        EFT-00371566                                        10/2/2026                           76.88 Bret Olson                Travel Advance
+                           Deposit
+Expense Payment            Direct        EFT-00371567                                        10/2/2026                           55.71 Antoinette Gasbarre       Employee Reimbursement
+                           Deposit
+
+
+
+*Please contact Procurement Services if you would like to review the justification for EMERGENCY procurement.
+                                                                       INVOICE PAYMENTS REPORT
+
+ Payment Category           Payment            Transaction                   Payment Date                       Payment Amount            Payment Payee            Memo
+                             Type              Reference
+Supplier Payment           EFT           EFT-00371568                                        10/2/2026                        585.00 Jasmine Alayadhi
+Supplier Payment           EFT           EFT-00371569                                        10/2/2026                        925.00 Kramer Gehlen &
+                                                                                                                                     Associates
+Supplier Payment           EFT           EFT-00371570                                        10/2/2026                        677.50 MacKay & Sposito, LLC
+Supplier Payment           EFT           EFT-00371571                                        10/2/2026                      2,450.00 LEPS-PSS PLLC
+Supplier Payment           EFT           EFT-00371572                                        10/2/2026                    432,675.88 Colf Construction LLC
+Supplier Payment           EFT           EFT-00371573                                        10/2/2026                    263,183.94 Midway Underground LLC
+Supplier Payment           EFT           EFT-00371574                                        10/2/2026                      6,234.00 Halme Excavating Inc
+Supplier Payment           EFT           EFT-00371575                                        10/2/2026                     20,332.02 Clark EMS Physicians, LLC
+
+Supplier Payment           EFT           EFT-00371576                                        10/2/2026                     36,990.22 Northwest Staffing
+                                                                                                                                     Resources Inc - Remit-To:
+                                                                                                                                     Northwest Staffing
+                                                                                                                                     Resources
+Supplier Payment           EFT           EFT-00371577                                        10/2/2026                     85,195.92 Brown and Caldwell - Remit-
+                                                                                                                                     To: Brown & Caldwell - San
+                                                                                                                                     Francisco
+Supplier Payment           EFT           EFT-00371578                                        10/2/2026                      1,559.94 Lakeyland Inc
+Supplier Payment           EFT           EFT-00371579                                        10/2/2026                        503.20 Power Systems West LLC
+
+Supplier Payment           EFT           EFT-00371580                                        10/2/2026                         13.16 Bound Tree Medical LLC
+Supplier Payment           EFT           EFT-00371581                                        10/2/2026                    163,508.21 Halbert Construction
+                                                                                                                                     Services LLC
+Supplier Payment           EFT           EFT-00371582                                        10/2/2026                      2,180.00 Rotschy Inc
+Supplier Payment           EFT           EFT-00371583                                        10/2/2026                      1,250.00 Freedom Independent
+                                                                                                                                     Living Home Care Inc.
+Supplier Payment           EFT           EFT-00371584                                        10/2/2026                      1,739.02 PC Specialists Inc - Remit-
+                                                                                                                                     To: TIG - San Diego
+
+Supplier Payment           EFT           EFT-00371585                                        10/2/2026                     81,119.17 F.D. Thomas, Inc.
+Supplier Payment           EFT           EFT-00371586                                        10/2/2026                      8,340.00 The Arts Centered
+Supplier Payment           EFT           EFT-00371587                                        10/2/2026                    161,785.84 Opsis Architecture LLP
+Supplier Payment           EFT           EFT-00371588                                        10/2/2026                        831.71 Sarkinen Plumbing, Inc.
+Supplier Payment           EFT           EFT-00371589                                        10/2/2026                      1,511.09 Municipal Emergency
+                                                                                                                                     Services Inc
+Supplier Payment           EFT           EFT-00371590                                        10/2/2026                         38.45 Ziply Fiber
+Supplier Payment           EFT           EFT-00371591                                        10/2/2026                    129,354.99 Mayer Reed Inc.
+Supplier Payment           EFT           EFT-00371592                                        10/2/2026                     19,051.04 Live Love Outreach
+Supplier Payment           EFT           EFT-00371593                                        10/2/2026                      3,058.55 Legacy
+                                                                                                                                     Telecommunications -
+                                                                                                                                     Remit-To: Legacy
+                                                                                                                                     Telecommunications -
+                                                                                                                                     Washington
+Supplier Payment           EFT           EFT-00371594                                        10/2/2026                    118,515.09 Do Good Multnomah
+Supplier Payment           EFT           EFT-00371595                                        10/2/2026                     34,958.25 Leeway Engineering
+                                                                                                                                     Solutions LLC
+Supplier Payment           EFT           EFT-00371596                                        10/2/2026                     93,960.01 Right! Systems Inc
+Supplier Payment           EFT           EFT-00371597                                        10/2/2026                      3,898.96 PSI Water Technologies Inc
+
+
+
+
+*Please contact Procurement Services if you would like to review the justification for EMERGENCY procurement.
+                                                                       INVOICE PAYMENTS REPORT
+
+ Payment Category           Payment            Transaction                   Payment Date                       Payment Amount            Payment Payee            Memo
+                             Type              Reference
+Supplier Payment           EFT           EFT-00371598                                        10/2/2026                      6,387.65 Nelson Nygaard Consulting
+                                                                                                                                     Associates Inc
+Supplier Payment           EFT           EFT-00371599                                        10/2/2026                      1,583.50 Rapid Response Bio Clean
+                                                                                                                                     Inc.
+Supplier Payment           EFT           EFT-00371600                                        10/2/2026                        163.35 Limeade, Inc
+Supplier Payment           EFT           EFT-00371601                                        10/2/2026                      9,306.89 SDB Inc
+Supplier Payment           EFT           EFT-00371602                                        10/2/2026                      6,453.72 Universal Protection
+                                                                                                                                     Services, LP
+Supplier Payment           EFT           EFT-00371603                                        10/2/2026                     16,821.75 Jacobs Engineering Group
+                                                                                                                                     Inc
+Supplier Payment           EFT           EFT-00371604                                        10/2/2026                     74,794.61 Wilson Oil Inc. - Remit-To:
+                                                                                                                                     Wilson Oil Inc
+Supplier Payment           EFT           EFT-00371605                                        10/2/2026                     27,493.34 Del Sol Inc
+Supplier Payment           EFT           EFT-00371606                                        10/2/2026                      9,454.77 Copiers Northwest Inc.
+Supplier Payment           EFT           EFT-00371607                                        10/2/2026                      1,399.37 W.B. Sprague Co. Inc. -
+                                                                                                                                     Remit-To: Sprague - Seattle
+
+Supplier Payment           EFT           EFT-00371608                                        10/2/2026                    104,993.06 Infor Public Sector, Inc -
+                                                                                                                                     Remit-To: InforPublic
+                                                                                                                                     Sector
+Supplier Payment           EFT         EFT-00371609                                          10/2/2026                      7,250.00 Arbutus Consulting LLC
+Supplier Payment           Manual Wire                                                       9/25/2026                      3,963.30 Superion, LLC
+
+Supplier Payment           Manual Wire                                                       9/28/2026                     641,416.64 State of Washington
+                                                                                                                                      Department of Revenue
+Supplier Payment           Manual Wire                                                       9/28/2026                   1,448,029.90 Internal Revenue Service
+
+Supplier Payment           Manual Wire                                                       9/28/2026                     51,623.86 State of Washington
+                                                                                                                                     Department of Employment
+                                                                                                                                     Security
+Supplier Payment           Manual Wire                                                       9/29/2026                     53,411.13 State of Oregon
+                                                                                                                                     Department of Revenue
+Supplier Payment           Manual Wire                                                       9/29/2026                     18,622.71 Bank Of America N.A. -
+                                                                                                                                     Remit-To: Charlotte NC
+Supplier Payment           Manual Wire                                                       9/30/2026                    862,773.45 State of Washington
+                                                                                                                                     Department of Retirement
+                                                                                                                                     Systems (DRS)
+Supplier Payment           Manual Wire                                                       10/1/2026                     75,238.08 State of Washington
+                                                                                                                                     Department of Health -
+                                                                                                                                     Remit-To: WA Dept of
+                                                                                                                                     Health
+Supplier Payment           Manual Wire                                                       10/1/2026                     39,687.36 State of Washington
+                                                                                                                                     Department of Health -
+                                                                                                                                     Remit-To: WA Dept of
+                                                                                                                                     Health
+Supplier Payment           Manual Wire                                                       10/1/2026                     29,963.31 State of Washington
+                                                                                                                                     Department of Health -
+                                                                                                                                     Remit-To: WA Dept of
+                                                                                                                                     Health
+
+
+
+
+*Please contact Procurement Services if you would like to review the justification for EMERGENCY procurement.
+                                                                       INVOICE PAYMENTS REPORT
+
+ Payment Category           Payment            Transaction                   Payment Date                       Payment Amount              Payment Payee                    Memo
+                             Type              Reference
+Supplier Payment           Manual Wire                                                        10/1/2026                          426.61 KFPro, Inc
+
+Supplier Payment           Manual Wire                                                        10/1/2026                        2,471.69 Internal Revenue Service
+
+Supplier Payment           Manual Wire                                                        10/1/2026                       12,858.27 Global Payments Inc
+
+Supplier Payment           Manual Wire                                                        10/2/2026                      291,548.07 Western States Health &
+                                                                                                                                        Welfare Trust
+Supplier Payment           Manual Wire                                                        10/2/2026                      643,991.03 Vancouver Firefighters
+                                                                                                                                        Union Health & Welfare
+                                                                                                                                        Trust
+Supplier Payment           Manual Wire                                                        10/2/2026                       35,964.50 Blue Cross Blue Shield of
+                                                                                                                                        Oregon
+Hansen Refunds             City                                                               10/5/2026                       12,502.68 City Payments               Posted 09/28/26 - 10/04/26
+                           Payments
+VISA Refunds               Credit Card                                                        10/5/2026                        1,303.69 City Payments               Park Class Refund FCC -
+                                                                                                                                                                    09/27/26 - 10/04/26
+VISA Refunds               Credit Card                                                        10/5/2026                        2,185.00 City Payments               Park Class Refund MCC -
+                                                                                                                                                                    09/27/26 - 10/04/26
+                                         Payment Category            Description                            Total Amount
+                                         Checks                      Total of all check payments                           1,898,724.64
+
+                                         Direct Deposit              Total of all direct deposit payments                      3,242.16
+                                         EFT                         Total of all EFT payments                             1,942,528.17
+                                         Manual Wire                 Total of all manual wire payments                     4,211,989.91
+                                         Hansen Total                Total of all hansen payments                             12,502.68
+                                         VISA Total                  Total of all visa payments                                3,488.69
+                                         Payroll Total (Separate
+                                         Excel Sheet)                Total of all payroll payments                            48,758.23
+                                         Grand Total                 All payments                                          8,121,234.48
+
+
+
+
+*Please contact Procurement Services if you would like to review the justification for EMERGENCY procurement.
+                                                       Payroll Council Report
+
+Payroll council report for the period     September 28, 2026 - October 04, 2026
+This sheet provides a summary of all payroll-related check and EFT transactions processed during the reporting period.
+Each entry includes the transaction reference, date, description, and amount. This report is provided to Council to document
+all payroll transactions for the period.
+This information is structured for accessibility and screen navigation.
+
+
+         Transaction Reference                Date     Explanation                                     Amount
+                   n/a                      09/25/26   9/25/26 NACHA Return - Steel                    $                 (701.90)
+                   n/a                      09/25/26   9/25/26 NACHA Return - Bella Sol                $                 (548.18)
+               3616 - 3619                  09/30/26   09 2026 Pension Payroll                         $                6,211.05
+             371424-371466                  09/30/26   09 2026 Pension Direct Deposits                 $               40,839.12
+                 371542                     09/29/26   Replacement check for NACHA Return - Steel      $                  701.90
+                 371543                     09/30/26   L&I Time Loss payment                           $                1,708.06
+                 371610                     10/02/26   Replacment check for NACHA return - Bella Sol   $                  548.18
+                                                       Total                                           $               48,758.23
+

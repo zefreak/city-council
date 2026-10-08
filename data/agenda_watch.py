@@ -168,10 +168,16 @@ def van_meetings(days_ahead):
                 # Prefer the API's own `url`, which points at the right endpoint.
                 # That endpoint returns JSON {"blobUri": ...} rather than a PDF;
                 # see fetch_meeting_file.
+                #
+                # RETIRED 7 Oct 2026: the GetMeetingFile fallback. By then the
+                # API returned `url: null` and GetMeetingFile 404'd (empty
+                # body), so every digest link to an agenda or packet was dead.
+                # The API now supplies `streamUrl` (GetMeetingFileStream),
+                # which returns the PDF directly with no blobUri step.
                 rec["files"].append({
                     "name": f.get("name") or f.get("type"),
-                    "url": f.get("url") or
-                           f"{VAN_API}/Meetings/GetMeetingFile"
+                    "url": f.get("url") or f.get("streamUrl") or
+                           f"{VAN_API}/Meetings/GetMeetingFileStream"
                            f"(fileId={f.get('fileId')},plainText=false)"})
             for sect, depth, it, is_heading in van_walk(items):
                 name = (it.get("agendaObjectItemName") or "").strip()
@@ -312,7 +318,7 @@ def render(recs):
                 L.append("- **Agenda packet not published yet** — staff reports "
                          "and attachments are unavailable; only the agenda is.")
             if r["files"]:
-                L.append("- Packet files (GetMeetingFile -> blobUri, two-step):")
+                L.append("- Packet files (GetMeetingFileStream, PDF direct):")
                 for f in r["files"]:
                     L.append(f"  - [{f['name']}]({f['url']})")
             L.append("")
@@ -353,8 +359,9 @@ def main():
     if len(args) == 2 and args[0] == "--fetch":
         a = jget(f"{VAN_API}/Meetings/{args[1]}")
         for f in a.get("publishedFiles") or []:
-            url = f.get("url") or (f"{VAN_API}/Meetings/GetMeetingFile"
-                                   f"(fileId={f['fileId']},plainText=false)")
+            url = f.get("url") or f.get("streamUrl") or (
+                f"{VAN_API}/Meetings/GetMeetingFileStream"
+                f"(fileId={f['fileId']},plainText=false)")
             blob = fetch_meeting_file(url)
             path = os.path.join(RAW, f"van-{args[1]}-{f['fileId']}.pdf")
             with open(path, "wb") as fh:

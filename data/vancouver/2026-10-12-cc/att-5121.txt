@@ -1,0 +1,1000 @@
+10/12/2026 (Date of First Reading)
+10/19/2026 (Date of Public Hearing)
+
+
+
+
+                 ORDINANCE NO. M- [Ordinance Number]
+                AN ORDINANCE of the City of Vancouver relating to changes to the City’s
+
+Multi-Family Housing Tax Exemption Program (MFTE) as mandated by Washington State
+
+Legislature House Bills 1491 and 1494; amending Vancouver Municipal Code Chapter
+
+3.22 to add a 20-year exemption option for transit-oriented station areas, additional
+
+definitions, clarifying code language and; providing for severability; and setting an
+
+immediate effective date.
+
+
+
+       WHEREAS, Washington State law RCW 84.14 authorizes cities to adopt an MFTE
+
+program in certain residential target areas for the purpose of incentivizing the
+
+development of multiple-unit housing including creating additional affordable housing,
+
+encouraging urban development and density, increasing market rate workforce housing,
+
+developing permanently affordable housing opportunities, promoting economic
+
+investment and recovery, and creating family-wage jobs, and
+
+
+
+       WHEREAS, the City of Vancouver adopted a Multi-Family Housing Tax Exemption
+
+(MFTE) program in 1997 through ordinance M-3313, most recently updated in 2025
+
+through RES M-4343, and
+
+
+
+
+ORDINANCE - 1
+      WHEREAS, The Washington State legislature passed HB 1491 related to
+
+supporting transit-oriented development requiring cities to:
+
+   1. Offer a new 20-year MFTE certificate option within bus rapid transit station areas
+
+   2. Require a 50-year affordability term
+
+   3. Administratively approve applications meeting the approval criteria
+
+   4. Provide an automatic 50% reduction to Traffic impact fees
+
+   5. Require restrictive deed covenant to be recorded against the property
+
+
+
+      WHEREAS, The Washington State legislature also passed HB 1494 adding the
+
+following policy level clean-up amendments for MFTE programs:
+
+   1. A recorded deed restriction or covenant is now required for affordable
+
+      homeownership units in 12-year exemption projects.
+
+   2. If one owner in a multi-unit MFTE ownership project is deemed non-compliant,
+
+      then only that non-compliant owner will lose the exemption status. The MFTE
+
+      exemption will not be cancelled for the remaining compliant owners.
+
+   3. Notice is required to be provided to affected taxing districts when adding new
+
+      residential target areas or changing MFTE program requirements.
+
+   4. Cities are required to determine if newly proposed Residential Target Areas are
+
+      compliant with anti-displacement requirements in RCW 36.70A.070(2).
+
+   5. MFTE tenants are allowed to stay in their units at lease renewal if their household
+
+      income has increased since initial eligibility up to 150% of AMI.
+
+
+
+
+ORDINANCE - 2
+       WHEREAS, the City Council adopts and incorporates by reference Staff Report SR
+
+___ and finds that the adoption of the updates to the MFTE program set forth in this
+
+Ordinance will promote the general welfare and convenience of the people of
+
+Vancouver, and will encourage the development of affordable multi-family housing in
+
+the City; and
+
+       WHEREAS, with notice provided to the public, the Vancouver City Council
+
+conducted a first reading of the proposed ordinance on October 5, 2026, and a public
+
+hearing concerning the ordinance and proposed code changes on October 12, 2026.
+
+       NOW, THEREFORE,
+
+       BE IT ORDAINED BY THE CITY OF VANCOUVER:
+
+       Section 1.        Recitals Adopted as Findings. The City Council hereby adopts and
+
+incorporates by reference the above recitals as findings in support of this Ordinance.
+
+       Section 2.        Amendment. Vancouver Municipal Code Section 3.22. as codified by
+
+Ordinance Ord. M-3314 is hereby amended as follows:
+
+
+
+                                       Chapter 3.22
+                    MULTIFAMILY HOUSING TAX EXEMPTION
+
+Sections:
+  3.22.010      Purpose.
+  3.22.020      Definitions.
+  3.22.030      Residential target area designation and standards.
+  3.22.040      Tax exemptions for multifamily housing in residential target areas.
+  3.22.050      Tax exemptions for multifamily housing in transit-oriented development
+                areas.
+  3.22.060      MFTE program procedures.
+
+
+ORDINANCE - 3
+3.22.010         Purpose.
+
+The purpose of this chapter is to encourage new private multi-housing development and
+redevelopment within designated urban centers to accommodate future population growth,
+provide places to live close to employment, shopping, entertainment, and transit services and
+encourage affordable housing where appropriate. (Ord. M-4416 § 3, 2023; Ord. M-3987 § 1, 2011; Ord.
+M-3314, 1997)
+
+
+3.22.020         Definitions.
+
+“Annual income” means gross annual income adjusted for household size and calculated based
+on verifiable income documentation provided by the housing applicant/tenant.
+
+”Station area” means all lots that are (a) Fully within an urban growth area; and fully or partially
+within one-quarter mile walking distance of a stop on a fixed route bus system that is
+designated as a bus rapid transit stop in the transit development plan as required in RCW
+35.58.2795, for which an environmental determination has been issued as required under
+chapter 43.21C RCW, and that features fixed transit assets that indicate permanent, high
+capacity service including, but not limited to, elevated platforms or enhanced stations, off-
+board fare collection, dedicated lanes, busways, or transit signal priority.
+
+“Director” means the director of the city’s economic prosperity and housing department or
+authorized designee.
+
+“Growth Management Act” means Chapter 36.70A RCW.
+
+“Household” means a single person, family or unrelated persons living together.
+
+“Income-based housing” means residential housing that is rented by a person or household
+whose monthly housing costs, including utilities other than telephone and any mandatory
+recurring fees required as a condition of tenancy for the unit, do not exceed 30 percent of the
+household’s monthly income. For the purposes of homeownership, the income limits are listed
+in VMC 3.22.040(D)(9), Options Under the Program.
+
+“Market-rate exemption option” means an eight-year property tax exemption with no income or
+rent requirements.
+
+
+ORDINANCE - 4
+“Median family income” means the median income calculated annually by the United States
+Department of Housing and Urban Development for the Portland-Vancouver-Hillsboro
+metropolitan statistical area. Median family income is adjusted based on household size.
+
+“Multifamily housing” means building(s) having four or more dwelling units designed for
+permanent residential occupancy resulting from new construction or rehabilitation or
+conversion of vacant, underutilized, or substandard buildings.
+
+“Owner” means the property owner of record.
+
+“Permanent residential occupancy” means multifamily housing that provides either rental or
+owner occupancy for a period of at least one month. This excludes hotels and motels that
+predominately offer rental accommodation on a daily or weekly basis.
+
+“Primary residence” means a residence occupied for more than six months each calendar year.
+
+“Rehabilitation improvements” means modifications to existing structures that are vacant for 12
+months or longer, or modification to existing occupied structures which convert nonresidential
+space to residential space and/or increase the number of multifamily housing units.
+
+“Residential target area” means an area within an urban center that has been designated by the
+city council as lacking sufficient, available, desirable, and convenient residential housing to
+meet the needs of the public.
+
+“Urban center” means a compact, identifiable district containing several business
+establishments, adequate public facilities, and a mixture of uses and activities, where residents
+may obtain a variety of products and services.
+
+"Workforce housing" means rental housing with monthly costs that do not exceed 30 percent of
+the monthly income of a household whose income is at or below 80 percent of the median
+household income adjusted for household size, for the county where the household is located,
+as reported by the United States department of housing and urban development.
+
+(Ord. M-4474 § 2, 2024; Ord. M-4420 § 2, 2023; Ord. M-4416 § 4, 2023; Ord. M-4332 § 2, 2021; Ord. M-4186 § 1,
+2016; Ord. M-3987 § 1, 2011; Ord. M-3314, 1997)
+
+
+
+
+ORDINANCE - 5
+3.22.030         Residential target area designation and standards.
+
+A. Criteria. Following a public hearing, the city council may, in its sole discretion, designate one
+or more residential target areas. Each designated target area must meet the following criteria,
+as determined by the city council:
+
+    1. The target area is located within an urban center;
+
+    2. The target area lacks sufficient available, desirable, affordable, and convenient
+    residential housing to meet the needs of the public who would likely live in the urban
+    center if desirable, affordable, attractive, and livable places were available; and
+
+    3. The providing of additional housing opportunities in the target area will assist in
+    achieving the following purposes:
+
+         a. Encourage increased residential opportunities within the target area, including
+         income-based housing opportunities; or
+
+         b. Stimulate the construction of new multifamily housing and/or the rehabilitation of
+         existing vacant and underutilized buildings for multifamily housing; or
+
+         c. Where appropriate, stimulate the construction, rehabilitation or conversion of
+         existing vacant and underutilized multifamily rental units to owner-occupied
+         multifamily housing as such property redevelops.
+
+    4. In designating a residential target area, the city council may also consider other factors,
+    including, but not limited to: whether additional housing in the target area will attract and
+    maintain an increase in the number of permanent residents; whether an increased
+    residential population will help alleviate detrimental conditions in the target area; and
+    whether an increased residential population in the target area will help to achieve the
+    planning goals mandated by the Growth Management Act under RCW 36.70A.020. The city
+    council may, by ordinance, amend or rescind the designation of a residential target area at
+    any time pursuant to the same procedure as set forth in this chapter for original
+    designation.
+
+    5. When designating a residential target area, the city council shall give notice of a hearing
+    to be held on the matter and that notice shall be published once each week for two
+
+ORDINANCE - 6
+    consecutive weeks, not less than seven days nor more than 30 days before the date of the
+    hearing. The notice must state the time, date, place, and purpose of the hearing and
+    generally identify the area proposed to be designated. The notice must be provided to all
+    impacted taxing districts.
+
+    6. When designating a residential target area, the city council shall determine that any new
+    Residential Target Areas are compliant with anti-displacement requirements in RCW
+    36.70A.070(2).
+
+B. Target Area Standards and Guidelines. For each designated residential target area, the city
+council shall adopt basic requirements for both new construction and rehabilitation, including
+the application process and procedures. The city council may also adopt guidelines which
+include parking, height, density, environmental impact, home ownership, public benefit
+features, compatibility with the surrounding property and such other amenities as will attract
+and keep permanent residents and will properly enhance the livability of the residential target
+area. The required amenities shall be relative to the size of the proposed project and the tax
+benefit to be obtained.
+
+C. Designated Target Areas. The following “residential target areas” are designated in the city of
+Vancouver:
+
+    1. The Vancouver Waterfront Target Area depicted on Map 1 below. Projects in this target
+    area must meet the zoning requirements of the underlying zoning district as well as the
+    market rate or income-based requirements under VMC 3.22.040:
+
+
+
+
+ORDINANCE - 7
+                Map 1: Vancouver Waterfront Target Area
+
+
+
+
+ORDINANCE - 8
+   2. The Vancouver City Center Target Area depicted on Map 2 below. Projects in this target
+   area must meet the zoning requirements of the underlying zoning district as well as the
+   market rate or income-based requirements under VMC 3.22.040:
+
+                          Map 2: Vancouver City Center Target Area
+
+
+
+
+ORDINANCE - 9
+   3. East Vancouver Target Area depicted on Map 3 below. Projects in this target area must
+   meet the zoning requirements of the underlying zoning district of the market rate or
+   income-based requirements under VMC 3.22.040:
+
+                              Map 3: East Vancouver Target Area
+
+
+
+
+ORDINANCE - 10
+   4. The Uptown Target Area depicted on Map 4 below. Projects in this target area must
+   meet the zoning requirements of the underlying zoning district as well as the market rate
+   or income-based requirements under VMC 3.22.040:
+
+                                  Map 4: Uptown Target Area
+
+
+
+
+ORDINANCE - 11
+   5. The Evergreen/Grand Target Area depicted on Map 5 below. Projects in this target area
+   must meet the zoning requirements of the underlying zoning district as well as the market
+   rate or income-based requirements under VMC 3.22.040:
+
+                            Map 5: Evergreen/Grand Target Area
+
+
+
+
+ORDINANCE - 12
+   6. Fourth Plain Target Area depicted on Map 6 below. Projects in this target area must
+   meet the zoning requirements of the underlying zoning district of the market rate or
+   income-based requirements under VMC 3.22.040:
+
+                               Map 6: Fourth Plain Target Area
+
+
+
+
+ORDINANCE - 13
+   7. Mill Plain Target Area depicted on Map 7 below. Projects in this target area must meet
+   the zoning requirements of the underlying zoning district of the market rate or income-
+   based requirements under VMC 3.22.040:
+
+                                 Map 7: Mill Plain Target Area
+
+
+
+
+ORDINANCE - 14
+   8. The Upper Main Street Target Area depicted on Map 8 below. Projects in this target area
+   must meet the zoning requirements of the underlying zoning district as well as the market
+   rate or income-based requirements under VMC 3.22.040:
+
+                            Map 8: Upper Main Street Target Area
+
+
+
+
+ORDINANCE - 15
+   9. The Heights Target Area depicted on Map 9 below. Projects in this target area must
+   meet the zoning requirements of the underlying zoning district as well as the income-based
+   requirements under VMC 3.22.040:
+
+                               Map 9: The Heights Target Area
+
+
+
+
+ORDINANCE - 16
+D. Residential Target Area Map Boundary Interpretation. Target area boundary lines are intended
+to follow property lot lines or be parallel or perpendicular thereto, or along the centerline of
+alleys, streets, rights-of-way or watercourses. Where, due to the scale, lack of detail or illegibility
+of the target area maps, there is uncertainty, contradiction or conflict as to the intended
+location of any target area boundary as shown thereon, the director shall provide an
+interpretation of said map upon request. (Ord. M-4495 § 2, 2025; Ord. M-4474 § 2, 2024; Ord. M-4420
+§ 3, 2023; Ord. M-4416 § 4, 2023; Ord. M-4332 § 3, 2021; Ord. M-3990 § 1, 2011; Ord. M-3345, 1998; Ord. M-
+3314, 1997)
+
+
+
+
+3.22.040          Tax exemptions for multifamily housing in residential
+                  target areas.
+
+A. Intent. Limited exemptions from ad valorem property taxation for multifamily housing in
+urban centers are intended to:
+
+    1. Encourage increased residential opportunities within urban centers designated by the
+    city council as residential target areas;
+
+    2. Stimulate new construction or rehabilitation of existing vacant and underutilized
+    buildings for multifamily housing in residential target areas to increase and improve
+    housing opportunities;
+
+    3. Assist in directing future population growth to designated urban center target areas
+    and thereby reducing development pressure on single-family residential neighborhoods;
+
+    4. Achieve development densities which are more conducive to transit use in designated
+    urban centers;
+
+    5. Encourage new construction or rehabilitation of owner-occupied multifamily housing
+    where identified as desirable; and
+
+    6. Encourage income-based housing opportunities.
+
+B. Duration of Exemption. The value of residential improvements qualifying under this chapter
+will be exempt from ad valorem property taxation for:
+
+
+
+ORDINANCE - 17
+    1. Eight successive years where all applicable criteria herein are met under subsection
+    (D)(9)(a) of this section; or
+
+    2. Twelve successive years if all applicable criteria herein are met under subsection
+    (D)(9)(b) or (c) of this section. In all cases the duration of exemption shall be measured
+    beginning January 1st of the year immediately following the calendar year after issuance of
+    the final certificate of tax exemption.
+
+C. Limits on Exemption. The exemption does not apply to the value of land or the value of
+improvements not qualifying under this chapter, nor does the exemption apply to increases in
+assessed valuation of land and nonqualifying improvements. In the case of rehabilitation of
+existing buildings, the exemption does not include the value of improvements constructed prior
+to submission of the completed application required under this chapter. The exemption does
+not apply during the construction phase of the project prior to issuance of the final MFTE
+certificate.
+
+D. Project Eligibility. A proposed project must meet the following requirements for
+consideration for a property tax exemption:
+
+    1. Location. The project must be located within a residential target area, as designated in
+    VMC 3.22.030.
+
+    2. Application Date. A complete MFTE application must be received prior to receiving a
+    construction occupancy permit.
+
+    3. Tenant Displacement Prohibited. Property proposed to be rehabilitated must be vacant at
+    least 12 months before submitting an application and fail to comply with one or more
+    standards of the applicable state or local building or housing codes on or after July 23,
+    1995.
+
+    4. Size. The project must include at least four units of multifamily housing within a
+    residential structure or as part of a mixed-use development. A minimum of four new units
+    must be constructed or at least four additional multifamily units must be added to existing
+    occupied multifamily housing. Existing multifamily housing that has been vacant for 12
+    months or more does not have to provide additional units so long as the project provides
+    at least four units of new, converted, or rehabilitated multifamily housing.
+
+
+ORDINANCE - 18
+   5. Permanent Residential Housing. At least 50 percent of the space designated for
+   multifamily housing must be provided for permanent residential occupancy, as defined in
+   VMC 3.22.020.
+
+   6. Proposed Completion Date. New construction multifamily housing and rehabilitation
+   improvements must be scheduled to be completed within three years from the date of city
+   council approval of the conditional certificate.
+
+   7. Compliance with Guidelines and Standards. The project must be designed to comply with
+   the city’s comprehensive plan, building, housing, and zoning codes, and any other
+   applicable regulations in effect at the time the application is approved. Rehabilitation and
+   conversion improvements must comply with all applicable housing codes. New
+   construction must comply with the International Building Code. The project must also
+   comply with any other standards and guidelines adopted by the city council for the
+   residential target area in which the project will be developed as defined in Table 1 below.
+
+   8. Owner Occupancy. Projects within a residential target area that are developed for owner
+   occupancy shall include a deed restriction or covenant acceptable to the director ensuring
+   that some or all of the units within the project are used for purposes of owner occupancy.
+   Each MFTE unit shall be occupied by the owner as their primary residence.
+
+   9. Residential Target Area Options Under the Program. To be eligible for the MFTE tax
+   exemption program option under this chapter, the applicant must either commit to
+   providing income-based housing in exchange for a 12-year tax exemption, or, alternatively,
+   must pay an affordable housing fee in lieu of providing income-based housing (“affordable
+   housing fee”) and meet certain density requirements in exchange for receiving an eight-
+   year market rate tax exemption. The criteria for these options are set forth below:
+
+   a. The market-rate exemption option is an eight-year exemption that is contingent upon
+      payment of an affordable housing fee in lieu of providing income-based housing as a
+      part of the project (“affordable housing fee”). The affordable housing fee is determined
+      by the specific target area and density as set forth in Table 1. Depending upon the target
+      area and the density of the project, the affordable housing fee shall be either 25 percent
+      or 50 percent of the net present value of the property tax exemption over the life of the
+
+
+
+
+ORDINANCE - 19
+      exemption. Affordable housing fees paid pursuant to this subsection shall be held in a
+      separate fund and used to develop affordable housing in the city.
+
+       The affordable housing fee in lieu shall be paid by one of the following options:
+
+           i. Standard – Prior to the issuance of the multifamily tax exemption final
+           certificate.
+
+           ii. Deferred – Prior to the end of the sixth year of the tax exemption period. The
+           deferred payment option requires a fee equal to 10 percent of the affordable
+           housing fee in lieu. The deferral fee is due at the end of the sixth year of the
+           exemption. Deferral of the affordable housing fee requires a surety in the form of
+           a lien to be recorded with the Clark County auditor’s office prior to issuance of the
+           conditional tax exemption certificate. Projects receiving a deferral of the affordable
+           housing fee must receive approved building permits for all exempted buildings
+           within one year of the MFTE conditional certificate issuance. If all building permits
+           are not approved within one year the project will only be eligible for the standard
+           fee payment option.
+
+       b. The ownership option units will not be subject to the affordable housing fee.
+       Ownership option projects must record a deed restriction or covenant with the Clark
+       County Auditor that specifies the tax exemption requirements. Starting from the date
+       of the conditional certificate of tax exemption approval and throughout the exemption
+       period, the MFTE ownership units shall not sell for more than two times the United
+       States Department of Housing and Urban Development (HUD) HOME homeownership
+       value limit for newly constructed housing in Clark County, which is updated annually by
+       HUD. Owners may contact the director at any time to confirm current resale price
+       limits. The owner shall provide the director written notice of property sale 30 days in
+       advance of recording the new deed with the Clark County Auditor. Exceeding the resale
+       price limit shall constitute noncompliance and will initiate the cancellation of the
+       exemption under VMC 3.22.060 and subject the owner to the effect of cancellation.
+       The required number of ownership units for each target area is set forth below in
+       Table 1.
+
+
+
+
+ORDINANCE - 20
+       c. The income-based option is a 12-year tax exemption under which applicants must
+       commit to renting at least 20 percent of the total development units as income-based
+       housing to households with annual incomes at or below 80 percent of area median
+       income. If the total number of MFTE units calculated contains a fraction, then the
+       number of MFTE units shall be rounded up to the next whole number. The ratio of
+       MFTE unit types (bedrooms) shall be equal to the unit type ratio for the entire
+       development. The property owner must provide information regarding tenant
+       outreach regarding the availability of designated income-based units when advertising
+       the property.
+
+       Table 1 below summarizes the options and corresponding requirements for market
+       rate projects in each residential target area. To encourage production of larger family-
+       size units, for the purposes of calculating the development density required to reduce
+       the affordable housing fee in lieu percentage, three-bedroom units will count as one
+       and one-half units and four or more bedroom units will count as two units.
+
+                                           Table 1.
+
+
+                                                       Option 2
+                              Option 1
+                                                  Market Rate With
+                                                                               Option 3
+  Residential Target      Market Rate With              Density
+         Area                                   Requirements and/or           Ownership
+                         Affordable Housing
+                                 Fee             Affordable Housing
+                                                          Fee
+
+
+      Downtown                   50%                  275 dwelling          No Affordable
+      Waterfront                                       units/acre        Housing Fee In Lieu;
+
+                                                  + 25% Affordable       Minimum of 12 units
+                                                 Housing Fee In Lieu           required
+
+
+    Vancouver City               50%                  225 dwelling
+        Center                                         units/acre
+
+
+
+ORDINANCE - 21
+                                                   Option 2
+                             Option 1
+                                               Market Rate With
+  Residential Target                                                     Option 3
+                         Market Rate With           Density
+         Area            Affordable Housing   Requirements and/or       Ownership
+                                Fee           Affordable Housing
+                                                      Fee
+
+
+                                               + 25% Affordable
+                                              Housing Fee In Lieu
+
+
+    East Vancouver              50%              200 dwelling
+                                                   units/acre
+
+                                               + 25% Affordable
+                                              Housing Fee In Lieu
+
+
+       Uptown                   25%              160 dwelling
+                                                   units/acre
+
+
+   Evergreen/Grand              25%               90 dwelling          No Affordable
+                                                   units/acre       Housing Fee In Lieu;
+
+                                                                    Minimum of 4 units
+ Fourth Plain Corridor          25%               90 dwelling
+                                                                         required
+                                                   units/acre
+
+
+  Mill Plain Corridor           25%               90 dwelling
+                                                   units/acre
+
+
+  Upper Main Street             25%               90 dwelling
+       Corridor                                    units/acre
+
+
+
+
+ORDINANCE - 22
+3.22.050         Tax exemptions for multifamily housing in transit-oriented
+                 development areas.
+A. Applicability. RCW 36.70A.840 requires a 20-year MFTE exemption option within transit-
+   oriented development “station areas”, which are designated separately from the MFTE
+   residential targeted areas defined in VMC 3.22.030. A map of the applicable station area
+   locations is provided in VMC Figure 20.530.020-1. Station area boundaries include parcels
+   fully or partially within one-quarter mile walking distance of a station area. In circumstances
+   where interpretation of eligible parcels is required due to uncertainty, contradiction, or
+   conflict on the station area boundary map, the director shall provide an interpretation of
+   eligible station area parcels upon request.
+
+B. Affordability. MFTE projects constructed within a station area must, by recorded covenant,
+   agree to at least one of the following affordability and income eligibility options for fifty
+   years:
+
+   1. At least 10 percent of all units are restricted to households earning at or below to 60%
+      AMI; or
+
+   2. At least 10% of units are restricted to households earning at or below 80% AMI, where at
+      least 10% of the restricted units are family sized units with more than two bedrooms; or
+
+   3. At least 20% of units are restricted to households earning at or below 80% AMI.
+
+C. Development Standards. In addition to the station area development standards detailed in
+   VMC 20.530.040, 20-year option MFTE developments also shall meet the following
+   requirements:
+
+
+  1. Traffic Impact fee. A 50 percent reduction of transportation impact fees shall be
+      provided for projects receiving a 20-year multiple-unit housing property tax exemption
+      providing 50 years of affordability.
+
+
+
+
+ORDINANCE - 23
+3.22.060          MFTE program procedures
+
+A.   Application Procedure. A property owner who wishes to propose a project for a multifamily
+     tax exemption shall complete the following procedures:
+
+     1. File with the city the required application and the required fees. The initial application
+          fee to the city shall consist of a base fee of $5,000 plus $75.00 per multifamily unit. If the
+          city denies the application, the city will retain that portion of the fee attributable to its
+          own administrative costs and refund the balance to the applicant.
+
+     2.   A complete application shall include:
+
+          a.    A completed city of Vancouver multifamily limited tax exemption application form;
+
+          b.    A description of the project including the type of project and exemption requested;
+
+          c.    Preliminary floor and site plans of the proposed project;
+
+          d.    Detailed list of unit size, number of bedrooms and bathrooms and projected rent
+                or sales price;
+
+          e.    A detailed project budget, financing plan and operating projection;
+
+          f.    A detailed description of green building construction practices proposed for the
+                development;
+
+          g.    A detailed advertising plan describing outreach methods for income-based
+                tenants;
+
+          h.    For rehabilitation projects, the applicant shall also submit an affidavit that existing
+                dwelling units have been unoccupied for a period of 12 months prior to filing the
+                application and shall secure from the city verification of property noncompliance
+                with the city’s minimum housing code;
+
+          i.    A statement acknowledging the potential tax liability when the project ceases to be
+                eligible or is canceled under this chapter;
+
+          j.    Verification by oath or affirmation of the accuracy of the submitted information;
+
+
+
+ORDINANCE - 24
+       k.         Application fee receipt.
+
+   3. Application Review. City staff will review applications to determine eligibility based on
+      VMC 3.22.040 D and evaluate the effect of the deferred tax proceeds. The city will review
+      applications under the approval criteria, procedures, and program guidelines in effect
+      when the city deems an application complete.
+
+   4. Issuance of Conditional Certificate. The director may certify as eligible an applicant who
+      is determined to comply with the requirements of this chapter. A decision to approve or
+      deny an application shall be made within 90 days of receipt of a complete application.
+
+            a.     Approval.
+
+             i.    Residential target area applications outside of station areas are subject to City
+                   Council review and approval in the form of a resolution, and contract outlining
+                   the terms and conditions of the project approval.
+
+             ii. Station Area applications shall be approved administratively if the criteria of
+                   3.22.050 can be met, in the form of a contract outlining the terms and conditions
+                   of the project approval.
+
+             iii. Certificate issuance. Upon approval of the conditional certificate contract, the
+                   director shall issue a conditional certificate of tax exemption. The applicant shall
+                   record the certificate and contract with the Clark County Auditor.
+
+      b.          Denial. If an MFTE application is denied, the director shall state in writing the
+                  reasons for denial and shall send notice to the applicant at the applicant’s last
+                  known address within 10 days of the denial. An applicant may appeal a denial to
+                  the city council within 30 days of receipt of notice. On appeal, the director’s
+                  decision will be upheld unless the applicant can show that there is no substantial
+                  evidence on the record to support the director’s decision. The city council’s
+                  decision on appeal will be final.
+
+   5. Conditional Certificate Fulfillment. The conditional certificate shall expire three years
+      from the date of city council or staff approval decision unless an extension is granted as
+      provided in this section 6.
+
+
+
+ORDINANCE - 25
+   6. Extension of Conditional Certificate. The conditional certificate may be extended by the
+          director for a period not to exceed 24 consecutive months except as provided below.
+          The applicant must submit a written request stating the grounds for the extension,
+          accompanied by a $1,000 processing fee. An extension may be granted if the director
+          determines that:
+
+          a.        The anticipated failure to complete construction or rehabilitation within the
+                    required time period is due to circumstances beyond the control of the applicant;
+
+      b.            The applicant has been acting and could reasonably be expected to continue to act
+                    in good faith and with due diligence; and
+
+          c.        All the conditions of the original contract between the applicant and the city will be
+                    satisfied upon completion of the project.
+
+      d.            An additional 12-month extension may be granted where each of the following
+                    criteria are met:
+
+                    i.    The request for the extension is for a later phase of a development subject to a
+                          development agreement; and
+
+                    ii. The conditional certificate was granted prior to February 2015; and
+
+                    iii. Ownership of the property has been transferred subsequent to the granting of
+                          the conditional certificate.
+
+     7.         Application for Final Certificate.
+
+               a.        Upon completion of the improvements agreed upon in the contract between the
+                         applicant and the city and upon issuance of a temporary or permanent
+                         certificate of occupancy, the applicant may request a final certificate of tax
+                         exemption. The applicant must file with the city the following:
+
+                     i.    A statement of expenditures made with respect to each multifamily housing
+                           unit and the total expenditures made with respect to the entire property;
+
+
+
+
+ORDINANCE - 26
+                 ii. A description of the completed work and a statement that the rehabilitation
+                     improvements or new construction on the owner’s property qualify the
+                     property for limited exemption;
+
+                 iii. If applicable, a statement that the project meets the income-based housing
+                     requirements as described in RCW 84.14.020; and
+
+                 iv. A statement that the work was completed within the required three-year
+                     period plus any authorized extension.
+
+     b.        Within 30 days of receipt of all materials required for a final certificate, the director
+               shall determine which specific improvements satisfy the requirements, whether the
+               work was completed, and the rent and income limits of the units are consistent with
+               the application and the contract approved by the city and is qualified for a limited
+               tax exemption under this chapter.
+
+   8. Issuance of Final Certificate.
+
+          a.    Review and Approval. If, after reviewing the application for final certificate, the
+                director determines that the project has been completed in accordance with the
+                contract between the applicant and the city and has been completed within the
+                authorized time period, the city shall, within 10 days, file a final certificate of tax
+                exemption with the Clark County Assessor.
+
+      b.        Denial. The director shall notify the applicant in writing that a final certificate will
+                not be filed if the director determines that:
+
+                i.   The improvements were not completed within the authorized time period;
+
+                ii. The improvements were not completed in accordance with the owner’s
+                     application or the contract between the applicant and the city; including if
+                     applicable as income-based housing requirements; or
+
+                iii. The owner’s property is otherwise not qualified under this chapter.
+
+          c.    Appeal. Within 14 days of receipt of the director’s denial of a final certificate, the
+                applicant may file an appeal with the city council. On appeal, the director’s decision
+                will be upheld unless the applicant can show that there is no substantial evidence
+
+ORDINANCE - 27
+            on the record to support the director’s decision. The city council’s decision on
+            appeal will be final.
+
+   9. Post-Exemption Rent Restriction. At the expiration of the 12-year tax exemption period,
+      a five-year rent restriction will apply to the MFTE units to reduce potential displacement
+      of tenants. In each of the five years following the expiration of the multifamily tax
+      exemption, annual increase in the income-based unit rents shall not exceed the unit
+      rent in the previous year by five percent plus the Consumer Price Index-U factor, as
+      referenced in VMC 3.08.100. During this five-year period, the applicant shall continue to
+      provide the city with timely annual reporting pursuant to subsection O of this section
+      and participate in the city’s compliance monitoring program pursuant to subsection P of
+      this section. In the event that a household occupying an MFTE designated unit
+      voluntarily vacates the unit during the five-year post-exemption period then that
+      designated MFTE unit shall no longer be subject to any further rent restrictions and may
+      return to market rate status.
+
+   10. Final Certificate Exemption Renewal. For 12-year tax exemptions that are within 18
+      months of exemption expiration, the exemption period may be extended for an
+      additional 12 years, contingent upon approval by city council. For the property to qualify
+      for a potential extension the applicant must commit to renting at least 20 percent of the
+      multifamily housing units as income-based units for low-income households earning at
+      or below 80 percent of the area median income. Income-based projects previously
+      approved at an MFI rate above 80 percent (100 or 115 percent) must agree to make
+      MFTE units affordable to tenants with a median family income level at 80 percent or
+      below.
+
+      a.    Application. Property owners must request the 12-year exemption renewal no
+            later than September 1st (four months prior to initial MFTE expiration date). Staff
+            will review exemption application and project for compliance before making
+            recommendation to city council for consideration. A $1,000 fee is required for the
+            exemption renewal request.
+
+      b.    Extension Expiration Notice. At the end of both the tenth and eleventh years of a
+            12-year extension of a tax exemption, applicants must provide tenants of rent-
+
+
+
+ORDINANCE - 28
+            restricted units with notification of intent to provide the tenant with rental
+            relocation assistance as provided below.
+
+       c.   Tenant Relocation Assistance. At the expiration of any 12-year exemption or any
+            12-year exemption extension, the applicant must provide tenant relocation
+            assistance in an amount equal to one month’s rent to a qualified MFTE tenant
+            within the final month of the qualified tenant’s lease. To be eligible for tenant
+            relocation assistance the tenant must occupy an income-restricted unit at the time
+            the exemption expires and must qualify as a low-income at the time relocation
+            assistance is sought. If the income-based requirements remain in place for the unit
+            after the expiration of the exemption, relocation assistance in an amount equal to
+            one month’s rent must be provided to a qualified tenant within the final month of
+            a qualified tenant’s lease who occupies an income-restricted unit at the time those
+            additional affordability requirements cease to apply to the unit.
+
+   11. Annual Compliance Review. For the duration of the exemption the owner of the
+      rehabilitated or newly constructed development shall file a notarized declaration
+      annually with the director that includes the following:
+
+      a.    A statement identifying the total number of occupied and vacant multifamily units
+            receiving a property tax exemption;
+
+      b.    A certification that the property continues to be in compliance with the contract
+            with the city including any provisions related to income-based housing; and
+
+       c.   A description of any improvements or changes to the property constructed after
+            the issuance of the certificate of tax exemption;
+
+      d.    The total monthly rent or total sale amount for each unit;
+
+      e.    For exemptions granted under the income-based housing provisions of this
+            chapter, the income of each renter household at the time of initial occupancy; and
+
+       f.   For exemptions granted under the income-based housing provisions of this
+            chapter, documentation showing that 20 the required percentage of the MFE units
+            were rented as income-based housing to low- or moderate-income households.
+            The property owner must maintain records supporting this declaration and those
+
+ORDINANCE - 29
+            records and the multifamily units are subject to inspection by the city. Failure to
+            submit the annual declaration or maintain adequate records may result in the tax
+            exemption being canceled.
+
+    12. Annual Reporting. For the first year of reporting, final MFTE certificates issued by the
+       city in a calendar year shall be reported to the Washington State Department of
+       Commerce by April 1st providing the information required by Chapter 84.14 RCW. For
+       the remaining years of the exemption period applicants shall submit annual monitoring
+       reports to the city no later than December 1st.
+
+    13. Annual Monitoring. A review of the rent rolls is required annually including unit
+       number, unit size (bedrooms/bathrooms), household size, income, rent, and utilities.
+       City staff will conduct on-site reviews of tenant files randomly. There is a $500.00
+       annual monitoring fee.
+
+    14. Cancellation of Tax Exemption. If the director determines a project owner is not
+       complying with the terms of the contract, the tax exemption will be canceled. In the
+       case of homeownership ownership projects with multiple owners, only the
+       noncompliant owner’s exemption shall be cancelled. This cancellation may occur in
+       conjunction with the annual review or at any other time when noncompliance has been
+       determined. If the owner intends to convert the multifamily housing to another use or
+       otherwise discontinues compliance with this chapter, the owner must notify the
+       director and the Clark County assessor within 60 days of the change in use.
+
+      a.    Effect of Cancellation. If a tax exemption is canceled due to a change in use or
+            other noncompliance, the Clark County assessor may impose an additional tax on
+            the property, together with the interest and penalty, and a priority lien may be
+            placed on the land, pursuant to Chapter 84.14 RCW.
+
+      b.    Notice and Appeal. Upon determining that a tax exemption is to be canceled, the
+            director shall notify the property owner by certified mail. The property owner may
+            appeal the determination by filing a notice of appeal with the city clerk within 30
+            days, specifying the factual and legal basis for the appeal. The city council will
+            conduct a hearing at which all affected parties may be heard and all competent
+            evidence received. The city council will affirm, modify, or repeal the decision to
+
+
+ORDINANCE - 30
+           cancel the exemption based on the evidence received. An aggrieved party may
+           appeal the city council’s decision to the Clark County superior court.
+
+
+
+
+      Section 3.    Effective date. This ordinance shall be effective immediately upon
+
+passage.
+
+
+
+
+ORDINANCE - 31
+DATE OF FINAL PASSAGE at a Regular Meeting of the Vancouver City Council:
+
+__________________________.
+
+
+
+       SIGNED this ________ day of _________________________, 2026.
+
+
+
+                                              ________________________________
+                                              Anne McEnerny-Ogle, Mayor
+ Attest:
+
+
+
+ _____________________________________
+ Katie Shifley, City Clerk
+
+
+ Approved as to form:
+
+
+ _____________________________________
+ Nena Cook, City Attorney
+
+
+
+
+ORDINANCE - 32
+                                        SUMMARY
+
+                              ORDINANCE NO. __________
+
+       AN ORDINANCE relating to changes to the City’s Multi- Family Housing Tax
+
+Exemption Program (MFTE); adopting amendments mandated by Washington State
+
+Legislature House Bills 1491 and 1494; amending Chapter 3.22 of the Vancouver
+
+Municipal Code (VMC) to add a 20-year exemption option for transit-oriented station
+
+areas, additional definitions, clarifying code language and; providing for severability;
+
+and setting an immediate effective date
+
+
+
+
+The full text of this ordinance will be mailed upon request. Contact public records staff
+at (360) 487-8480, citypdr@cityofvancouver.us, or via Public Records Request -The City
+of Vancouver, WA.
+
+
+
+
+ORDINANCE - 33
+

@@ -1,0 +1,1180 @@
+                                                             Memorandum
+
+Date:         October 12, 2026
+
+To:           Mayor and City Council
+
+From:         Lon Pluckhahn, City Manager
+
+Re:           Climate-Smart and Healthy Homes
+
+CC:           Lexi Farina, CMO
+
+Purpose
+Inform Council about opportunities to advance the City’s climate, health, affordability,
+and resilience goals by supporting improvements to existing residential homes. The
+workshop will summarize what staff learned about the current landscape, resident
+needs, and potential opportunities and considerations for future City involvement.
+
+Context
+Buildings account for 37% of Vancouver’s
+communitywide GHG emissions, with
+residential buildings representing the largest
+share (Figure 1). At the same time, residents
+are increasingly experiencing the effects of
+extreme heat, wildfire smoke, and rising
+household energy costs in their homes. While
+the Council-adopted Green Building Policy
+strengthens standards for new construction,
+there is no comparable policy framework for
+existing single-family and smaller residential
+buildings, leaving improvements largely
+voluntary.
+ Most of the homes that will be in use in 2040
+                                                        Figure 1: Sources of Communitywide
+already exist today. Supporting improvements to         Greenhouse Gas Emissions (2023)
+existing homes is therefore crucial to achieving the
+City’s goal of carbon neutrality by 2040 and helping
+residents adapt to the changing climate.
+
+
+
+
+        P.O. Box 1995 | Vancouver, WA 98668-1995 | 360-487-8000 | cityofvancouver.us
+What we explored
+Over the past year, staff conducted research and community conversations to better
+understand the landscape for climate-friendly home improvements in Vancouver. The
+work focused on answering three questions:
+   1. What is the local opportunity? Housing stock, household characteristics, and
+       climate vulnerability.
+   2. What support already exists? Existing programs, resources, and opportunities for
+       coordination.
+   3. What do residents need and want? Priorities, barriers, and desired types of
+       support.
+
+Local Housing Context
+Staff reviewed housing characteristics such as ownership status and age of the housing
+stock as well as existing climate vulnerability data to better understand where need and
+opportunities may be concentrated. Older homes, for example, may have greater
+opportunities for energy efficiency, weatherization, and other improvements.
+
+A notable housing characteristic is that Vancouver’s housing tenure is nearly evenly split
+between owners and renters. Homeowners generally have greater control over
+improvements, whereas renters depend on property owners to make most significant
+changes. These different circumstances require different approaches to supporting
+improvements. Additionally, larger multifamily buildings are required by the WA Clean
+Buildings Performance Standard to make energy efficiency improvements, while smaller
+rental properties have few, if any, requirements and available resources. Therefore,
+these smaller properties may represent an opportunity to reach homes where
+improvements are mainly voluntary and often depend on available support.
+
+The full background report is available in Attachment A.
+
+Existing Programs
+Vancouver residents can already access a range of resources and programs through the
+City, local utilities, Clark County, and the state. These programs provide an important
+foundation for supporting home repairs, energy efficiency, weatherization, and
+electrification. The table below summarizes what exists today and the reach it has
+achieved.
+ Program                  Administrator   Primary audience   Type of support    Recent Reach*
+
+ Housing Rehabilitation                   Income-eligible    Home repairs,      ~10 households/year
+                          City
+ Program                                  homeowners         weatherization
+
+                                                             Limited electric   53 households (2025)
+                                          Income-eligible
+ HEAR                     City                               equipment and
+                                          homeowners
+                                                             appliances
+
+
+
+
+        P.O. Box 1995 | Vancouver, WA 98668-1995 | 360-487-8000 | cityofvancouver.us
+ Clark Public Utilities   Clark Public                             Energy efficiency    2,400+ households
+                                           Residential customers
+ Rebates and Incentives   Utilities                                improvements         (2025, Clark County)
+
+ Energy Trust of Oregon   Energy Trust                             Energy efficiency    208 residential sites
+                                           Residential customers
+ Rebates and Incentives   of Oregon                                improvements         (2025, Clark County)
+
+                                           Income-eligible                              ~85 households/year
+ Weatherization
+                          Clark County     households (majority    Weatherization       (Clark County)
+ Assistance
+                                           homeowners)
+*Reach figures are reported differently across programs and are provided for context.
+
+Earlier this year, staff convened program administrators to better understand the
+existing program landscape, identify gaps, and explore opportunities for coordination.
+The discussion highlighted differences in eligibility, reach, capacity, and services offered.
+A key gap is residents who exceed income limits for assistance but may still face barriers
+to affording improvements. Existing programs also have limited capacity. For example,
+the City’s Housing Rehabilitation Program has a waitlist of approximately 80–100
+applicants, with wait times of up to two years.
+
+Programs also tend to address specific improvements rather than the whole home which
+may require residents to navigate multiple programs to address different needs. For
+example, the HEAR program provides high-efficiency electric equipment and appliances
+but does not cover weatherization, which can limit the benefits of HVAC improvements.
+Better coordination could help residents identify and sequence improvements and make
+better use of available resources. Finally, gaps in existing support for fuel-switching
+improvements may create an opportunity for additional City involvement to reduce
+building-related emissions.
+
+Community Engagement
+Staff engaged homeowners, renters, small property owners, and residents who
+participated in the HEAR program. Several themes emerged:
+
+    •   Residents generally prioritize affordable operating costs, healthy indoor air, and
+        functional homes. Residents focus on the day-to-day experience of living in their
+        home and the ability to remain safely and comfortably in their home over time,
+        including as they grow older.
+    •   Homeowners want practical support to figure out what to do and how to do it.
+        Participants expressed strong interest in support to understand their home’s
+        needs, access programs and trusted providers, and navigate the process. They
+        also shared concerns about finding reliable contractors and understanding how
+        to use new technologies.
+    •   Rental housing requires approaches that address both tenant and property-
+        owner needs. Renters were interested in energy-efficiency education and low-
+        cost energy efficiency improvements they can make themselves. Property owners
+
+
+
+         P.O. Box 1995 | Vancouver, WA 98668-1995 | 360-487-8000 | cityofvancouver.us
+       prioritized tenant experience and property maintenance but were more receptive
+       to climate-friendly improvements when there was a financial incentive or clear
+       benefit. Participants specifically asked for information about available rebates
+       and incentives and some mentioned that rebates influenced their decision to
+       install a heat pump.
+
+Potential approaches for City support
+The research suggests several potential levels of City involvement that could build on
+existing programs and partnerships. These approaches are not mutually exclusive and
+can be tailored to different audiences and desired program outcomes.
+
+   •   Inform. Provide practical education about energy efficiency, technology options,
+       and available programs and incentives. Community feedback favored live,
+       interactive workshops over static online tools as residents indicated that
+       opportunities to ask questions and receive information directly were more useful
+       for this topic. For renters, this could include information about improvements
+       within their control. The rental registry could also provide a channel for reaching
+       property owners and renters. This approach could reach a broad audience at
+       relatively low cost but would be less likely to enable substantial improvements or
+       overcome barriers such as upfront costs.
+   •   Navigate. Provide personalized assistance to help residents understand their
+       home's needs, connect with existing programs and incentives, and find trusted
+       providers. Community feedback showed that residents request support not only
+       identifying available resources, but also determining what steps to take, in what
+       order, and how different programs or improvements fit together. This type of
+       support could also help residents and property owners make better use of
+       existing resources as well as coordinate multiple programs to maximize benefits.
+       However, it would reach fewer residents than a broad information approach,
+       require greater staff capacity, and would not address limited availability or
+       waitlists for programs that are already at capacity.
+   •   Fund. Provide financial assistance to address upfront costs, complement existing
+       rebates and programs, or fill gaps for residents who exceed the income limits for
+       current assistance. Upfront cost was a commonly cited barrier to larger home
+       improvements, suggesting that financial assistance could enable improvements
+       residents may otherwise be unable to afford. This could support larger-scale
+       changes (such as replacing appliances or heating systems) that can achieve
+       greater GHG reductions. However, this approach would likely reach fewer homes
+       than lower-cost options and require greater City investment.
+
+Next Steps
+Staff looks forward to hearing Council feedback on the potential roles outlined above
+and which opportunities may warrant further exploration. Staff will use this feedback to
+
+
+       P.O. Box 1995 | Vancouver, WA 98668-1995 | 360-487-8000 | cityofvancouver.us
+inform future work on how the City could complement existing programs and
+partnerships to support climate-friendly improvements to existing residential homes.
+
+Staff Contact
+Lexi Farina, City Manager’s Office, lexi.farina@cityofvancouver.us
+
+Attachments
+Attachment A: Climate-Friendly and Healthy Homes Background Report
+
+
+
+
+       P.O. Box 1995 | Vancouver, WA 98668-1995 | 360-487-8000 | cityofvancouver.us
+Attachment A: Climate-Friendly and Healthy Homes
+Background Report
+
+
+
+
+    P.O. Box 1995 | Vancouver, WA 98668-1995 | 360-487-8000 | cityofvancouver.us
+Residential Decarbonization
+in Vancouver
+Local Context, Current Gaps, and
+Pathways Forward
+
+March 5, 2026
+Vancouver Waterfront
+
+
+
+
+      Table of contents
+      INTRODUCTION ................................................................................ 3
+
+      KEY POINTS ........................................................................................ 4
+
+      WHAT IS DECARBONIZATION? ................................................. 5
+
+      PROBLEM OVERVIEW ..................................................................... 5
+
+      REVIEW OF EXISTING INITIATIVES .......................................... 8
+
+      LOCAL CONTEXTUAL FACTORS ............................................. 11
+
+      RECOMMENDED AREAS FOR CITY ACTION ................... 18
+
+      NEXT STEPS ..................................................................................... 20
+
+      CITATIONS                ..................................................................................... 21
+   CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                                      2
+Burnt Bridge Creek
+
+
+
+
+                                                  Introduction
+                                                  Imagine you live in a single-family home built in
+                                                  the 1950s. In July, the first heat wave of the
+                                                  summer rolls in with temperatures much warmer
+                                                  than you are used to in past years. By mid-
+                                                  afternoon, the sun shines in and your house traps
+                                                  the heat. With no air conditioning and little
+                                                  insulation, as is common in older Vancouver
+                                                  homes, finding relief is difficult. Fast forward to
+                                                  February, you crank up your old furnace one cold
+                                                  morning to keep the chill away. It runs
+                                                  constantly to make up for the drafts slipping
+                                                  through the walls and windows. You find comfort
+                                                  in the moment, but only to face disappointment
+                                                  later when the utility bill arrives.
+
+                                                  Now imagine a different experience. A trained
+                                                  contractor helps you through a simple process to
+                                                  upgrade your home, including adding insulation,
+                                                  sealing leaks, and installing a high-efficiency
+                                                  electric heat pump that provides both heating
+                                                  and cooling. You can now enjoy every season
+                                                  knowing your home stays comfortable and
+                                                  operates efficiently, giving you greater peace of
+                                                  mind that your energy bills remain more
+                                                  predictable and affordable.
+
+                                                  These are the kinds of changes a residential
+                                                  decarbonization program can make possible:
+                                                  safer and more comfortable homes that cost less
+                                                  to operate and reduce greenhouse gas
+                                                  emissions.
+
+                                                  As an initial step toward developing such a
+                                                  program focused on Vancouver’s existing
+                                                  residential buildings, this document explains
+                                                  why this type of program is needed, highlights
+                                                  existing initiatives to build upon, and provides
+                                                  key local context to guide its design.
+
+
+
+
+  CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                     3
+Key Points
+Problem Statement
+
+Vancouver’s homes are increasingly vulnerable to climate and energy resource pressures. Extreme
+weather events, rising temperatures, wildfire smoke, and high energy burdens create unsafe and
+costly living conditions. At the same time, buildings account for 37% of the City’s communitywide
+greenhouse gas (GHG) emissions, and residential energy drives the largest share. Without action, the
+most vulnerable residents will continue to face these hazards, while ongoing reliance on fossil fuels
+locks in emissions that intensify climate impacts citywide.
+
+Proposed Solution
+
+Residential decarbonization reduces greenhouse gas emissions from homes by using less energy,
+improving energy efficiency, and cutting reliance on fossil fuels. Interventions not only help
+Vancouver meet its climate goals, but also importantly deliver direct economic and health benefits for
+residents and the community. Interventions can make homes healthier, safer, and more comfortable
+during extreme heat and wildfire smoke events by improving indoor air quality and temperature
+control, while also lowering energy bills and supporting a more stable electrical grid. Further,
+investments in electrification and renewable energy can create local jobs, build skills in the regional
+workforce, and expand opportunities for workers and contractors from historically underrepresented
+communities.
+
+Opportunities for City Action
+
+While strong local and state programs exist, their scale and scope must be expanded to meet
+community needs and climate goals. Key opportunities for City action and considerations for program
+design focused on the decarbonization of residential buildings are described below. Considered
+actions target existing residential buildings, which offer the greatest potential for impact, as new
+single-family and middle housing must already meet the Washington State Residential Energy Code,
+and new multifamily development must comply with the City’s Green Building Program.
+
+   1. Explore opportunities to scale or complement existing weatherization and electrification
+      programs.
+   2. Add or enhance programs to support whole-home, correctly sequenced upgrades (e.g., insulation
+      before efficient appliances) to maximize benefits.
+   3. Support residential electrification efforts as they offer some of the largest emissions-reduction
+      potential.
+   4. Create pathways for renters and small multifamily buildings with tenant protections.
+   5. Improve outreach, coordination, and program navigation of existing and new residential
+      decarbonization programs.
+   6. Target program efforts towards residents who experience combined risks from climate impacts,
+      social inequities, and health vulnerabilities. This may include residents in areas with poor air
+      quality or high heat exposure, low-income households with high energy burdens, and the “near-
+      eligible” residents who often exceed income limits for federal and state programs.
+
+
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                  4
+What is Decarbonization?
+Decarbonization is one of the most important ways communities can respond to climate change.
+There are two main parts to decarbonization. First, it involves reducing greenhouse gas (GHG)
+emissions that come from burning fossil fuels like gas, oil, and coal. This can be done by switching to
+renewable energy sources such as wind, solar, hydropower, and geothermal as well as using
+electricity instead of fossil fuels to power buildings and appliances. Improving energy efficiency is also
+a key part of this work as homes that use less energy put less strain on energy systems and produce
+fewer emissions overall. The second part of decarbonization focuses on removing carbon already in
+the atmosphere through approaches which capture emissions or increase the carbon stored in natural
+systems, like forests and soil (Cho, 2022). This report focuses on residential decarbonization, a subset
+of decarbonization which addresses emissions from existing residential buildings. These emissions
+primarily come from the energy used to heat and cool buildings, produce hot water, cook food, and
+power household appliances.
+
+
+
+Problem Overview
+This section outlines the intersecting climate, health, energy, and housing challenges affecting
+Vancouver’s homes as well as how homes, in turn, affect the climate. Understanding these issues
+provides the foundation for why residential decarbonization is needed and what it must address.
+
+
+Climate and Housing Challenges
+Vancouver faces longstanding housing challenges that affect residents’ ability to stay safe and
+healthy. Housing affordability is a persistent issue, with median home prices nearly tripling and
+average rents increasing by 60 percent from 2012 to 2023 (Bump et al., 2024). Many households spend
+a large share of their income on rent or mortgage payments, and over one-quarter of renters pay
+more than half of their income on housing. The City also faces a shortage of safe and affordable
+housing, with current estimates indicating that 38,129 additional housing units will be needed in
+Vancouver by 2045 to meet the demands of a growing population (Bump et al., 2024). These pressures
+leave families with limited resources to maintain their homes, invest in energy efficiency, or respond
+to emergency repairs, making them more vulnerable to both financial hardship and displacement. In a
+recent Community Needs Assessment Survey conducted by Clark County, low-income residents
+reported food, housing, and utility assistance within their top five needs (Clark County Community
+Services, 2024).
+
+These social and economic pressures create a foundation of vulnerability that climate change is now
+intensifying. Annual air temperatures in the region have risen by almost 2 degrees Fahrenheit since
+1900, and more frequent heat events now push indoor temperatures to dangerous levels for residents
+living in older, poorly insulated homes or without air-conditioning (Michael Chang et al., 2023).
+Prolonged exposure to high heat can place significant strain on the heart and other vital organs. This
+was shown during the 2021 Heat Dome, which caused record breaking temperatures that killed 126
+Washingtonians and contributed to the deadliest weather-related disaster in Washington state history
+(Vogel et al., 2023). These same homes that overheat in the summer often struggle to retain heat in
+the winter, leaving residents vulnerable during cold periods. Homes with inadequate insulation or
+persistent dampness can contribute to respiratory and cardiovascular issues (World Health
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                     5
+Organization, 2018). Together, these conditions show that inadequate housing performance can turn
+extreme weather into serious public health risk within homes.
+
+In addition to temperature extremes, indoor air quality is also increasingly affected by climate change
+and local pollution sources. Vancouver is identified by the Washington Department of Ecology as one
+of the 16 communities in the state most impacted by air pollution due to the cumulative impacts of
+recurring wildfire risks, resident proximity to highways, and exposure to industrial activities
+(Washington State Department of Ecology, 2023). As a result, residents in these communities die an
+average of 2.4 years earlier than those in the rest of the state, and are twice as likely to have poor
+health (Washington State Department of Ecology, 2023). Wildfire events throughout the West bring
+high concentrations of particulate matter to Vancouver, specifically tiny particles known as PM2.5,
+which can cause adverse respiratory health effects (BERK Consulting, 2025). Local industrial emissions
+also contribute to air pollution exposure, particularly for residents living near major facilities such as
+Frito Lay, Great Western Malt, SEH America, and the River Road Generating Plant. In addition to these
+outdoor sources, indoor air quality can be further degraded by fossil-fuel appliances within homes.
+Gas stoves and other gas appliances produce nitrogen dioxide and release PM2.5 which increases the
+risk of respiratory diseases such as asthma, especially in children (Seals, 2020).
+
+Energy affordability – or lack of affordability – compounds these risks. When families struggle to
+afford the electricity needed for cooling, heating, or ventilation, their health and safety suffer.
+Households may be forced to choose between essential needs such as electricity, water, medications,
+groceries, and other basic expenses. Missed utility bills can trigger debt collection and utility shutoffs
+which creates financial hardships that are difficult to recover from and may lead to cascading impacts
+over time. Research also shows a higher energy burden is associated with increased rates of mental
+distress and physician-diagnosed depression (Han et al., 2024). In Washington, households that spend
+more than 6% of their income on energy are considered energy-burdened, and roughly 9% of very low-
+income households statewide experience this burden (Rubin et al., 2023). While county-specific data
+are unavailable, Clark Public Utilities reports that more than 4,000 families in Clark County receive
+federal Low-Income Home Energy Assistance Program (LIHEAP) grants each year to help eligible
+residents pay to heat their homes, regardless of heating type (Clark Public Utilities, n.d.). This
+highlights the level of need in the community, although it reflects only those who access the program
+and may therefore underrepresent the true level of need. These pressures limit residents’ ability to
+take other actions to adapt to extreme temperatures and maintain healthy homes.
+
+These housing-related climate impacts are also connected to pressures on the region’s energy system.
+Rising temperatures increase the need for home cooling, which places additional stress on the
+electrical grid, especially because electricity flows less efficiently during extreme heat (Michael
+Chang et al., 2023). This combination heightens the risk of outages that directly affect household
+safety and comfort, for instance by disrupting home cooling during extreme heat or interrupting the
+operation of essential in-home medical and assistive devices that rely on electricity. Additionally, the
+resulting system strain can translate into higher energy rates for residents down the line. At the same
+time, earlier snowmelt and more frequent droughts are expected to limit the capacity of hydropower
+generation and further strain the region’s hydro-dependent grid (Michael Chang et al., 2023).
+
+
+Building Sector Emissions
+As climate impacts intensify, it is important to recognize that buildings themselves are a major source
+of emissions driving climate change. In Vancouver, the Buildings and Energy sector is the second
+largest source of communitywide emissions, accounting for 37% of total GHG emissions. Residential
+energy use – energy used where people live, eat and sleep – makes up the largest share within this
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                     6
+sector at 15%, although residential buildings have lower emissions intensity compared to commercial
+and industrial buildings (City of Vancouver Climate Program, 2024).
+
+From 2019-2023, total energy use increased in Vancouver’s residential building sector. However, GHG
+emissions remained steady overall and even decreased for some electric customers (City of
+Vancouver Climate Program, 2024). This is due to the increasing share of clean energy in the Clark
+Public Utilities (CPU) resource mix. In 2024, CPU sourced approximately 48% of its electricity from
+Bonneville Power Administration hydropower, 29% from the River Road natural gas–fired plant, 6%
+from nuclear power, 5% from wind, and 12% from market purchases of unspecified power sources
+(Clark Public Utilities, 2024). In contrast, natural gas use and resulting emissions both increased by 5%
+over the same period (City of Vancouver Climate Program, 2024).
+
+This pattern reflects current household fuel use: approximately 67% of residential heating relies on
+electricity, while 31% relies on utility gas, with small shares from wood (0.5%), bottled or tank gas
+(0.4%), and fuel oil (0.2%) (U.S. Census Bureau, 2024). Because electricity and gas are on different
+decarbonization trajectories, this split has important emissions implications. In Washington, the Clean
+Energy Transformation Act (CETA), requires an electricity supply free of GHG emissions by 2045
+(Washington State Department of Commerce, 2024). As a result, homes heated with electricity will
+increasingly benefit from a cleaner grid over time. In contrast, continued reliance on natural gas will
+constrain emissions reductions. NW Natural has adopted a voluntary decarbonization target of 30%
+carbon savings by 2035, but has so far been unsuccessful in meeting its self-imposed targets and had
+only ~1% renewable natural gas production in 2024 (NW Natural, 2021) (Samayoa, 2026).
+
+
+Importance of Residential Decarbonization
+Given the intersecting climate, health, and energy challenges, residential decarbonization offers a
+critical pathway to improve household financial, physical, and emotional well-being and meet the
+City’s climate goals. Residential decarbonization refers to the suite of methods to reduce GHG
+emissions from homes (ASHRAE, n.d.). This includes strategies to reduce energy demand through
+weatherization, efficiency upgrades, and everyday energy-saving behaviors, alongside electrification,
+fuel switching, and the use of clean energy to reduce emissions.
+
+This work is central to meeting the emissions and equity goals outlined in Vancouver’s Climate Action
+Framework (CAF). The CAF calls for a transition to 100% clean energy and a significant reduction in
+per capita energy use to reach carbon neutrality by 2040 (City of Vancouver, 2022). Because
+investments in homes last for many decades, any choices made today, whether through new
+construction or retrofit projects, will have long-term implications. Without intentional action, the
+community risks locking in carbon-intensive systems that will be difficult and expensive to replace
+later.
+
+Residential decarbonization also delivers everyday benefits for residents and the community. Better
+insulation, efficient heat pumps and household appliances, and improved ventilation make homes
+safer and more comfortable during extreme heat, cold, and wildfire smoke events. Reduced energy
+use helps stabilize the grid and avoid cost spikes. Building upgrades may also lower utility bills,
+improve air quality, and support long-term housing stability. For example, a recent study of the
+Cascadia region found that 76% of low-income households, including both homeowners and renters,
+could save on average $500 annually on energy bills by upgrading to a medium-efficiency heat pump,
+assuming they can overcome the upfront costs (Pelai & Moore, 2025). At the same time, investments in
+electrification and renewable energy can create local jobs, build skills in the regional workforce, and
+expand opportunities for workers and contractors from historically underrepresented communities.
+Together, these interventions help build a safe and more resilient community as climate risks grow.
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                     7
+However, the residential sector is complex. It involves a wide range of decision-makers, including
+homeowners, renters, landlords, property managers, and contractors who each bring different
+priorities, resources, and access to information. High upfront costs and the time investment needed
+for upgrades can deter investment for many households. For instance, to purchase and install an air
+source heat pump in Vancouver costs approximately $13,0001, and is generally more expensive
+upfront than fossil-fuel heating due to expensive manufacturing and labor as well as potential
+electrical upgrades needed to support the system (Pelai & Moore, 2025). Renters often lack authority
+to make major improvements, while property owners may not be incentivized to make investments
+when utility costs are typically paid by residents. There is also a need to ensure that any
+improvements landlords make to properties do not unintentionally lead to rent increases or
+displacement (Walker et al., 2023).
+
+Given both the urgency and complexity of this work, the following sections provide an overview of
+existing initiatives and local contextual factors to inform the development of an effective residential
+decarbonization program for Vancouver.
+
+
+Review of Existing Initiatives
+The City, the local utilities, County, and state agencies collectively administer a variety of programs
+locally that together support residential decarbonization goals. While these efforts provide a strong
+foundation, they will need to be expanded and scaled to achieve the City’s ambitious GHG reduction
+goals. This section summarizes existing programs and their current limitations, based on
+conversations with program staff, to highlight opportunities for City intervention.
+
+City of Vancouver Housing Rehabilitation Program: The City provides affordable home repair
+financing for income-eligible homeowners to help preserve existing housing. Participants can receive
+up to $35,000 in low-interest (2%) loans with no monthly payments, repaid only when the home is sold,
+refinanced, or no longer owner-occupied. Eligible repairs include structural and safety issues,
+weatherization, and major systems such as roofing, plumbing, and electrical. The program is funded
+through U.S. Department of Housing and Urban Development (HUD) Community Development Block
+Grant (CDBG) and HOME Investment Partnership.
+
+Additionally, this program received funding from the Washington State Home Electrification and
+Appliance Rebates Program (HEAR) to provide rebates and incentives for high-efficiency electric
+equipment and appliances in 2024 and 2025. The City partnered with Northwest Native Chamber and
+the Hispanic Metropolitan Chamber to deliver these incentives to residents. During the first round of
+HEAR funding, the City and its partners received 219 applications and were able to serve 55
+households and 4 small businesses. Of these households, 94% had incomes below 80% of area median
+income, 45% identified as BIPOC, 30% included residents over age 65, and the average household
+health disparity score was 8.4. Among contractors, 43% were BIPOC or women-owned, and all
+businesses served were BIPOC-owned.
+
+Limitations:
+
+      •    The Home Rehabilitation Program faces a wait list of approximately 80–100 applicants,
+           resulting in wait times of up to two years.
+      •    Weatherization projects are often not pursued because urgent structural repairs, such as a roof
+           replacement, typically consume the full loan amount.
+
+1
+    This estimate was provided by Justin Ventura, City of Vancouver, based on experience from the Home Rehabilitation Program.
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                                         8
+   •    Current participation is heavily concentrated among adults 65 and older of similar
+        demographics, indicating the program may not be reaching other important segments of the
+        population.
+   •    HEAR grant funding is limited to high-efficiency electric equipment purchases and does not
+        cover weatherization. For HVAC-related upgrades, this can limit potential impact, since
+        measures like insulation and air sealing are ideally completed first to maximize energy savings
+        and system performance. By contrast, non-HVAC appliance upgrades (such as refrigerators or
+        dishwashers) do not necessarily need to be paired with weatherization to realize their primary
+        benefits.
+   •    Historically, manufactured home residents have been underserved by the program because
+        repairs must be funded through grants rather than loans, as these homes are typically located
+        on rented lots. Prevailing wage requirements tied to these grants have significantly increased
+        labor costs which limits the amount of work that can be completed with available funding.
+
+City of Vancouver Rental Registry Program: The City launched a rental registration program in
+January 2026 that will require landlords to register their units, pay an annual license fee, and
+eventually complete regular inspections to ensure basic housing quality and safety. In the future this
+program has the potential to make it easier to plan and implement residential decarbonization
+upgrades since there will be a citywide record of rental housing conditions.
+
+Limitations:
+
+   •    Because the program is new, the initial phase will focus on getting landlords to register their
+        units and other uses of the portal will not be explored until registration is broadly complete.
+
+Clark Public Utilities Residential Rebates and Incentives: Clark Public Utilities, the local electricity
+provider, offers a wide range of energy-efficiency rebates because reducing energy use is cheaper
+than supplying additional power. These incentives are organized across several groups:
+
+   •    Single Family: Rebates are available to utility customers of all income levels for heat pumps,
+        heat pump water heaters, smart thermostats, weatherization upgrades, and window
+        replacements.
+   •    Multifamily: Pre-approved rebates are available for weatherization improvements and energy-
+        efficient equipment.
+   •    Low Income: Financial assistance includes bill-support programs such as the federal LIHEAP
+        program, senior rate credits, and financial crisis grants, although none of these directly help
+        reduce energy use. Low-income energy-efficiency upgrades are supported through the HEAR
+        grant program, partnerships with the Clark County Weatherization Program, and funding to
+        nonprofit partners such as Habitat for Humanity, with most nonprofit resources directed
+        toward multifamily properties.
+
+Limitations
+
+    •   Rebates and incentives on their own may not be sufficient to drive widespread adoption of
+        energy efficiency upgrades.
+    •   State law prevents CPU from promoting or incentivizing customers to switch from gas
+        appliances to electric alternatives. As a result, CPU contributes to emissions reductions
+        through energy efficiency and grid decarbonization efforts, but its participation in climate
+        strategies that rely on customer fuel switching is limited.
+
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                          9
+Clark County Weatherization Program: This program provides free weatherization services to
+qualified low-income homeowners and renters living in single-family, multi-family, and mobile homes.
+Typical improvements may include insulation, air sealing, ventilation upgrades, and limited health
+and safety repairs, but do not include major system replacements such as roofing or plumbing as
+included in the City’s Home Rehabilitation Program. The program serves roughly 85–100 homes per
+year on a first-come, first-served basis and is supported by federal LIHEAP dollars.
+
+Limitations:
+
+   •   The program reaches a small portion of eligible households and primarily serves single-family
+       homes with limited ability to expand into multifamily buildings due to funding and eligibility
+       constraints.
+   •   A “missing middle” exists where households slightly above income limits cannot access
+       assistance.
+   •   Fuel-switching measures are eligible but are rarely implemented.
+
+Energy Trust of Oregon (ETO): ETO administers energy efficiency and renewable energy programs for
+NW Natural customers funded by fees on NW Natural bills. Cash incentives are offered for single and
+multifamily properties to support energy-efficient equipment upgrades (see table below).
+Additionally, the team provides technical assistance for home energy assessments and a trade ally
+network of vetted, qualified contractors to support project installation.
+
+ Eligibility Group                  Process                               Incentives
+
+                                                                         -Heating and cooling (high
+                                    Customer pays for upgrades
+                                                                         efficiency natural gas furnace, high
+ Cash Incentives for                upfront and will be reimbursed by
+                                                                         efficiency direct-vent natural gas
+ Homeowners- any NW Natural         ETO after work is completed (not
+                                                                         fireplace, and smart thermostat)
+ customer                           required to use the trade ally
+                                                                         -Windows and insulation
+                                    network)
+                                                                         -Natural gas tankless water heater
+
+                                                                         -High-efficiency gas furnace with
+                                    Customers work with contractors in   95% AFUE or greater
+ Savings Within Reach Program -
+                                    the trade ally network and do not    -Insulation (attic/ceiling, wall, and
+ income qualified program
+                                    need to pay upfront as               floor)
+ (around 65-100% AMI) for single
+                                    reimbursements are processed
+ family homeowners,
+                                    directly through the contractors;
+ manufactured homes, or
+                                    contractors are trained to help      Note: OR covers heat pumps but
+ multifamily residences with less
+                                    customers stack available            WA does not due to laws
+ than 5 units
+                                    incentives                           prohibiting the promotion of fuel
+                                                                         switching
+
+                                                                         -Heating and cooling (high
+ Cash Incentives for Rental
+                                                                         efficiency natural gas furnace, high
+ Property Owners - includes
+                                    Not sure; assume similar to cash     efficiency direct-vent natural gas
+ freestanding structure and
+                                    incentives for homeowners            fireplace, and smart thermostat)
+ attached multifamily attached
+                                                                         -Natural gas tankless water heater
+ residences
+                                                                         -Windows and insulation
+
+
+Limitations:
+
+   •   Incentives are only available for NW Natural customers.
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                            10
+   •   Incentives through the Savings Within Reach Program do not cover customers with very high
+       need as the rebate amounts are not high enough.
+   •   Program staff noted the pipeline between receiving a home energy assessment and being able
+       to access services recommended by the assessment is more robust in OR than in WA, based on
+       the organizations currently in their network that operate in WA. For instance, the home energy
+       assessment CBO partners funded by ETO currently only operate in OR and therefore this is not
+       a service provided to SW WA customers. As of Jan 2026, there is one CBO that plans to apply for
+       funding through the HOMES/HEAR state program and if they receive funding, they will be
+       eligible to perform these assessments in WA starting in Q2 2026.
+   •   Rental property owners often do not participate in this program because the incentives are
+       insufficient to motivate major upgrades, especially since tenants typically bear utility costs.
+
+Washington State Inflation Reduction Act (IRA) Home Energy Rebates: Two state-run programs aimed
+to support homeowners up to 150% of AMI, and multifamily building owners with at least half of their
+residents below that income level. Participants will apply online through a state administrator.
+Programs include:
+       • Whole Home Efficiency Rebates Program (HOME): Program offers rebates up to $20,000 to
+          complete whole-home energy efficiency upgrades that achieve at least 20% energy savings.
+       • Home Appliance Rebate Program (HARP): Program offers up to $14,000 in rebates for
+          households to purchase and install high-efficiency electric appliances and equipment.
+
+   Limitations:
+
+   •   These programs are still in the development phase, and it remains unclear how effectively the
+       benefits will reach Vancouver residents. There has also been limited guidance on how the City
+       should support outreach once the application portal opens.
+   •   Program benefits are generally limited as the IRA rebates are a one-time allocation, and the
+       Trump administration eliminated federal tax incentives for energy-efficient home
+       improvements in July 2025 (Kempe, 2025).
+
+
+Local Contextual Factors
+To better understand the challenges and opportunities for residential decarbonization in Vancouver,
+this section provides an overview of several factors that influence building performance and program
+effectiveness, including existing housing stock characteristics, climate vulnerability, workforce
+capacity, and policy context.
+
+
+Housing Stock Characteristics
+Housing stock data provides insight into where decarbonization interventions may maximize defined
+program goals, including emissions reductions and household-level benefits. Because residential
+buildings make up the majority of Vancouver’s building inventory, they are a key target for reducing
+building-sector emissions. They also represent a critical area where public investment can deliver the
+most direct, immediate, and tangible co-benefits to residents’ daily lives, even though emissions per
+square foot are relatively low compared to other building types (Table 1).
+
+
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                  11
+Table 1: Summary of Building Stock, Floor Area, and GHG Emissions
+
+                     Buildings                  Square Footage               GHG Emissions
+                Number     Percent          Square       Percent         2023      Relative
+                                            Footage                      Emissions Emission
+                                                                         (MTCO2e) Intensity*
+ Residential 53,354           93.4%         111,889,986 62.3%            226,471   1
+ Commercial 2,690             4.7%          44,366,622 24.7%             188,006   2.1x
+                                                                                   higher
+ Industrial     1,075         1.9%           23,259,751    13.0%         131,133   2.8x
+                                                                                   higher
+ Total          57,119        100%          179,516,359 100%             545,610
+Source: City of Vancouver, 2024; Clark County Assessor’s Office, 2025
+* Emission intensity (MTCO2e/sq ft) shows that although residential buildings account for the majority of total
+GHG emissions in the Buildings and Energy sector (15% of the sector’s 37% contribution), they have the lowest
+emissions per square foot.
+
+More than half of all residential buildings are single-family homes, while about 20% are large
+multifamily buildings with 20 or more units (Table 2). Mobile homes comprise only about 2.4% of local
+housing units but are important to call out given their typically lower energy efficiency which is driven
+by limited insulation, aging windows, and older appliances. They are also a critical part of our
+affordable housing stock that we aim to preserve.
+
+Table 2: Summary of Occupied Housing Typologies
+
+         Typologies                        Total Units                    Percent of Total Units
+ 1 unit, detached                            45,209                               50.3%
+ 1 unit, attached                             6,998                                7.8%
+ 2-4 units                                    7,711                                8.6%
+ 5-19 units                                  10,172                               11.3%
+ 20+ units                                   17,594                               19.6%
+ Mobile home                                  2,154                                2.4%
+ Boat, RV, van, etc.                           78                                  0.1%
+ Total                                       89,916                               100%
+Source: U.S. Census Bureau, 2024
+
+Tenure is nearly evenly split between owners and renters with 52.4% owner-occupied and 47.6%
+renter-occupied (U.S. Census Bureau, 2024). However, the types of homes they occupy differ. Among
+homeowners, 88% live in single-family detached houses. Vancouver also has an older homeowner
+population where 51% of homeowners are over age 60, compared to 42% in Clark County. This trend is
+influenced by rapidly rising home prices, which have increased 174% over the past decade, reaching
+an average of $447,000 in 2023 (Bump et al., 2024).
+
+Renter households are more likely to live in multifamily buildings, with 51% residing in buildings with
+five or more units, and 18% in plexes (duplexes, triplexes, and quadplexes). Average household size is
+2.26. Rents have risen 60% over the past decade, and there is an average monthly rent of $1,700 in
+both Vancouver and Clark County. As a result, in Vancouver, 57% of renters are cost-burdened (paying
+more than 30% of income on rent) and 27% are severely cost-burdened (paying more than 50%).
+Renters in Vancouver are also three times more likely than homeowners to face housing cost burdens
+(Bump et al., 2024).
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                            12
+Vancouver’s housing stock is relatively young. The largest share of buildings was constructed between
+1980-1999 (Clark County Assessor’s Office, 2025). Overall, 39% of homes were built between 1980 and
+2000, 30% were built after 2000, and 21% were built between 1960 and 1980. Only about 8% were built
+before 1960 (Figure 1). However, many homes still require energy-efficiency upgrades. Roughly 30% of
+the housing stock was built before 1980, prior to the adoption of the State Energy Code in 1985, and is
+therefore more likely to lack adequate insulation, air sealing, or efficient systems. Homes built before
+1960 are also less likely to have any cooling or effective air filtration, increasing vulnerability during
+extreme heat or wildfire smoke events. Older homes are located across all areas of the City, though
+the largest share is in areas 2 (including areas Downtown and along West Fourth Plain Boulevard) and
+6 (including east-central Vancouver around I-205 corridor) (Figure 2). However, even newer buildings
+will need updates over time as major systems generally require replacement every 25 years.
+
+Figure 1: Building Age (Residential and Non-Residential)
+
+
+
+
+Source: Clark County Assessor’s Office, 2025
+
+
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                     13
+Figure 2: Building Age by City Location
+
+
+
+
+Source: Berk Consulting, 2025
+
+
+Climate Vulnerability
+Not all residents are equally affected by climate change. Vulnerability depends on three factors:
+exposure, sensitivity, and adaptive capacity. Exposure refers to the presence of hazards such as
+extreme heat, flooding, or poor air quality. Sensitivity reflects how much a system or population may
+be affected by hazards and depends on factors such as age and pre-existing health conditions.
+Adaptive capacity describes the ability of a person, asset, or system to cope or adjust to a hazard,
+which is often influenced by housing quality, income, and access to resources (U.S. Climate Resilience
+Toolkit, 2021). Buildings themselves can also be vulnerable when their design, condition, or systems
+make them more susceptible to climate hazards, which in turn affects the people living in them.
+
+As mentioned above, a recent Community Needs Assessment Survey conducted by Clark County found
+low-income residents reported housing and utility assistance within their top five needs, highlighting
+the extent to which financial and housing instability reduce adaptive capacity in this area (Clark
+County Community Services, 2024). These same constraints also make it harder for these households
+to participate in residential decarbonization efforts, even though they are among those who would
+benefit most. Recognizing these barriers provides essential context for designing programs that
+improve both climate resilience and energy outcomes.
+
+Maps and analysis from the Vancouver Climate Vulnerability Assessment created as part of the Our
+Vancouver 2045 Comprehensive Plan update illustrate these patterns and can be used to target
+program efforts toward the most vulnerable populations (BERK Consulting, 2025):
+
+
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                  14
+Figure 3 - Climate Exposure Index: Highlights
+areas at risk from extreme heat, flooding, or
+smoke. East Vancouver, including areas near
+the Vancouver Mall and along SE Mill Plain
+Boulevard, experiences the city’s greatest
+heat exposure, driven by low tree canopy (<
+20%) and high impervious surface coverage.2
+Air quality and smoke exposure are more
+pronounced east of NW Fruit Valley Road,
+along SR 14, and in southeast Vancouver,
+where prevailing winds concentrate wildfire
+smoke during regional fire events.
+
+
+
+
+Figure 4 – Climate Exposure and Equity
+Index: Combines climate exposure (Figure
+3) with equity metrics, including people of
+color, low-income households, education
+level, renters, limited English proficiency,
+older adults, youth, and persons with
+disabilities. High-risk areas include
+Vancouver Lake and NW Fruit Valley Road,
+south of SR 500, along Fourth Plain
+Boulevard, and southeast neighborhoods.
+
+
+
+
+2
+ For more information on heat, consider reviewing the Clark County heat map which captures temperatures across the county through
+a one-day measurement event in July 2024.
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                                             15
+Figure 5 – Climate Exposure and Health
+Index: Combines climate exposure (Figure
+3) with a health vulnerability index,
+including data on health insurance access,
+hypertension, asthma, coronary heart
+disease, COPD, diabetes, poor mental
+health, and poor physical health. Results
+are similar to the equity map, with more
+sensitive populations concentrated in west
+and central Vancouver.
+
+
+
+
+Overall, areas with the highest combined climate, health, and equity vulnerability are concentrated
+along the Fourth Plain corridor (Maplewood, Meadow Homes, and Bagley Downs), Fruit Valley, central
+Vancouver south of SR-500, and southeast Vancouver (Figure 6).
+
+Figure 6: Map of Climate Impact Priority Areas
+
+
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026              16
+Green Workforce
+A strong workforce is essential to advancing residential decarbonization efforts. At the same time,
+these programs inherently generate demand for this work. Therefore, residential decarbonization
+programs have the potential to intentionally build and support career pathways for workers and
+contractors from underrepresented communities. Just as we aim for program participation to reach
+those most harmed by climate change and the health and economic inequities described above, we
+also want to ensure the economic and professional benefits of this work reach the same communities.
+Program goals should be structured to advance workforce development while ensuring equitable
+opportunities for underrepresented workers and contractors.
+
+Within the program design process, it will be important to clearly define the specific aspect of the
+workforce we are aiming to advance or address. Preliminary conversations suggest several areas to
+explore:
+
+   1.   Skills and Training
+
+        •   Addressing workforce gaps and building skills: While the region has robust training
+            programs through traditional trade apprenticeships, registered apprenticeships can
+            sometimes present barriers for underrepresented groups, such as women or tribal members.
+            Residential decarbonization programs can intentionally support the expansion of skill-
+            building opportunities for those historically excluded from trades. A key way to do this is
+            through collaborations with community partners who can help ensure that training
+            programs and workforce opportunities reach such groups. For example, the NW Native
+            Chamber has dedicated initiatives to equip Native and frontline communities with
+            knowledge and skills in renewable energy industries.
+        •   Inclusive workplace culture: Job site culture trainings, similar to those often required in the
+            commercial sector, can be applied to residential work to ensure all workers operate in a
+            positive and supportive environment. This can also benefit business owners by helping to
+            retain their workforce. Programs like Greendot or RISE Up can be used to facilitate these
+            trainings.
+
+        2. Connection to Opportunities
+
+        •   On-the-job experience: Building skills is important, but providing access to paid work
+            opportunities is equally critical. Program design can incorporate requirements to ensure
+            underrepresented workers gain practical experience. For example, the City partnered with
+            the NW Native Chamber and the Hispanic Metropolitan Chamber to administer the HEAR
+            grant, reaching a workforce in which 43% of contractors were BIPOC or women-owned.
+        •   Partnering with workforce organizations: Workforce Southwest Washington, which focuses
+            on placing people into quality jobs, has a growing clean energy focus that aligns with
+            building decarbonization and retrofitting efforts. The city could consider a partnership with
+            this organization to train and place residents in residential decarbonization projects.
+        •   Leveraging contractor networks: CPU and ETO maintain networks of vetted contractors.
+            However, conversations with ETO suggest local coverage in Southwest Washington is
+            limited. The skills building opportunities above can support expansion of these contractor
+            networks to ensure residents in Southwest Washington have access to high-quality services,
+            while also connecting trained workers and underrepresented contractors to projects in their
+            own communities.
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                      17
+Additionally, we will need to define the role the City can play in advancing the workforce priorities
+identified. While the City may not directly administer worker training, it can serve as a convener and
+connector. For example, the City can convene community-based organizations, labor partners, and
+contractor networks to align workforce efforts with projected residential decarbonization demand
+and identify gaps in access or representation. The City can also leverage its procurement process to
+embed equity-focused workforce standards into program implementation. This could include
+establishing goals or evaluation criteria that prioritize historically underrepresented contractors,
+requiring inclusive job site culture training, or incentivizing mentorship and on-the-job training
+components within funded projects. In addition, the City can reduce participation barriers by
+supporting technical assistance for these groups to respond to program solicitations such as hosting
+information sessions or partnering with community partners to provide proposal development
+support.
+
+
+Policy Landscape
+Washington has made meaningful progress on building decarbonization, but significant gaps remain
+for existing residential buildings. The Washington 2021 State Energy Strategy provides a road map for
+the state’s clean energy transition and highlights building decarbonization as not only an essential
+part of meeting the state’s GHG emission limits and climate goals, but also the opportunity for
+decarbonization actions to address inequities through enhancing resilience, growing the clean energy
+workforce, and improving health outcomes. Existing state policy primarily targets large commercial
+and multifamily properties through the Clean Buildings Performance Standard, which requires energy-
+efficiency upgrades for buildings above specific size thresholds. New development is addressed
+through the Washington State Energy Code and, locally, Vancouver’s forthcoming Green Building
+Policy will strengthen standards for new construction. However, no comparable policy framework
+exists for existing single-family homes or smaller residential buildings. As a result, upgrades are
+entirely voluntary and depend on individual home or property owner choices and financial capacity.
+
+Additionally, state incentive programs that support residential decarbonization can vary in availability
+depending on funding cycles. Some programs are short-term or time-limited and may not always be
+accompanied by robust outreach to cities which makes it difficult to assess how effectively they are
+reaching local households.
+
+
+Recommended Areas for City Action
+Based on the findings of this report, the following are preliminary opportunities where City
+intervention may be considered in the next phase of program design. These recommendations will
+continue to be revised and refined as the team undertakes a detailed review of program models and
+lessons from other cities as well as engages the community to learn about their needs.
+
+   1. Explore opportunities to scale or complement existing weatherization and electrification
+      programs
+
+Existing weatherization and electrification programs are primarily funded through federal or state
+grants, which have finite resources and specifications on eligible households and allowable services.
+As a result, these programs are not able to meet the scale or breadth of need across Vancouver’s
+housing stock. For example, both the City’s Housing Rehabilitation Program and the County’s
+Weatherization Program currently have waitlists. Further, many older homes, particularly those built
+before 1980, prior to major energy code updates, require insulation and building envelope
+improvements that the Home Rehabilitation program often cannot address due to competing repair
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                   18
+needs and funding shortfalls. There are also opportunities to expand access to high-efficiency electric
+equipment and appliances by building on the existing HEAR grant program, which currently has a
+waitlist, and by increasing utilization of CPU and ETO rebates. These rebates may be underutilized
+due to limited awareness of available programs or because the incentive amounts are not large
+enough to motivate participation.
+
+Given these dynamics, the City should weigh the benefits and tradeoffs of scaling existing programs,
+which have established infrastructure and expertise but stricter eligibility and funding constraints,
+versus developing a complementary local program that operates with greater flexibility while
+connecting residents to these existing services.
+
+   2. Support whole-home, sequenced retrofits
+
+Program design should prioritize comprehensive, whole-home retrofits rather than isolated upgrades
+to achieve maximum benefits for residents and the climate. For example, the current HEAR program
+funds high-efficiency electric appliances but does not cover insulation or air sealing prior to
+installation. This can limit the effectiveness of HVAC upgrades which deliver maximum energy savings
+and resident benefits, such as reduced utility bills, when paired with weatherization measures.
+Conversely, certain appliances, like water heaters or dishwashers, can deliver full benefits without
+additional interventions. Programs should therefore consider both the appropriate sequencing and
+combination of upgrades.
+
+A comprehensive retrofit package may also include resident education to ensure households can use
+new systems effectively and adopt energy-saving behaviors (e.g., turning off lights) to fully realize
+program benefits. Finally, depending on program goals, whole-home retrofits may prioritize cooling
+measures to enhance resilience during extreme heat while also incorporating efficiency upgrades to
+minimize overall energy demand.
+
+   3. Lead on residential electrification
+The City is in a unique position to incentivize high-efficiency electric systems given that CPU is legally
+restricted from supporting these upgrades and other programs have not focused on this area. This is
+especially important as roughly 31% of all residential buildings in Vancouver rely on natural gas (U.S.
+Census Bureau, 2024), and electrification offers some of the largest emissions-reduction potential.
+
+   4. Create dedicated pathways for renters and multifamily buildings
+With nearly half of Vancouver residents living in rental housing and 18% residing in plexes (duplexes,
+triplexes, and quadplexes), decarbonization efforts must intentionally include programs tailored to
+these groups. This recommendation focuses on smaller existing multifamily buildings that will not be
+legally required to comply with Washington’s Clean Buildings Performance Standard which is aimed
+at buildings over 20,000 square feet. Targeting these buildings offers an opportunity to maximize
+impact as investments in these units may stretch public dollars further.
+
+However, since 57% of renters are cost-burdened in Vancouver, programs must protect tenants from
+added financial strain or displacement by prioritizing strong tenant protections (such as drawing from
+the Anti-Displacement Strategy designed for Central Vancouver) and ensure benefits flow to residents.
+At the same time, programs should address split incentives by creating appealing opportunities for
+property owners—such as financial incentives for upgrades or integrating improvements into
+affordable housing programs—so that investments support vulnerable populations while encouraging
+broad participation. Over the longer term, the City could also explore linking the Rental Registry to
+basic energy performance or upgrade requirements. Finally, since renters have limited ability to make
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                      19
+building-level improvements themselves, complementary resident education can help maximize
+benefits while empowering households to participate meaningfully in climate action.
+
+   5. Improve coordination, navigation, and information sharing across programs
+To make existing programs more accessible and effective, the City should centralize program
+information, such as through a one-stop resource center, and conduct targeted dissemination to
+groups that may not have previously received information. Current programs report challenges in
+reaching segments of the population outside existing City networks.
+
+Depending on the mix of existing and upcoming programs, the City could also play a more active role
+in coordinating or referring participants to appropriate pathways to ensure interventions are
+completed in the most effective sequence and all existing incentives (from CPU, city, state, and
+federal programs) are fully utilized. This coordination could also include connecting participants to
+workforce opportunities.
+
+Achieving this role will require intentional partnerships with community-based organizations and
+trusted community messengers, along with new models of funded collaboration. These partnerships
+should be built into program design from the outset and prioritize co-creation with communities to
+reach residents where they are.
+
+   6. Ensure Programs Serve Residents with the Greatest Climate and Social Vulnerabilities
+While any program expansion or creation will benefit all Vancouver residents by reducing greenhouse
+gas emissions and improving air quality, programs should intentionally center residents who
+experience combined risks from climate impacts, social inequities, and health vulnerabilities, as
+highlighted in the maps above. These maps can help identify the target populations such as areas
+with poor air quality or high heat exposure. Additional populations to consider include low-income
+households with high energy burdens, residents of manufactured homes, and the near-eligible
+households who exceed income limits for federal and state programs. Determining the program focus
+will require combining data from this report with program goals and community input to identify
+where interventions can have the greatest impact while advancing equity .
+
+
+Next Steps
+Building on the findings from this report, the next phase will involve reviewing successful program
+designs from other cities to identify approaches that best fit Vancouver’s context. In parallel, the team
+will evaluate climate funding options to support implementation. Input from City staff, local
+organizations, and community members will be incorporated to ensure the program is well-aligned
+with local needs. These insights, along with a recommended funding source, will be compiled into a
+final proposal for City leadership to consider a pilot program.
+
+
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                     20
+Citations
+ASHRAE. (n.d.). Building Decarb 101. ASHRAE. Retrieved https://www.ashrae.org/about/cebd-building-decarb-
+101
+
+BERK Consulting. (2025). Climate Vulnerability Assessment (Our Vancouver Our Future 2045) [Unpublished].
+
+Bump, T., Wilkerson, M., Cannon, J., La Bonte, K., Sherrill, J., Visser, M., & Ditter, J. (2024). Housing Needs
+Assessment: City of Vancouver Comprehensive Plan Update. ECOnorthwest.
+https://beheardvancouver.civilspace.io/en/projects/project-timeline#phase-1
+
+Cho, R. (2022, April 22). What Is Decarbonization, and How Do We Make It Happen? State of the Planet.
+https://news.climate.columbia.edu/2022/04/22/what-is-decarbonization-and-how-do-we-make-it-happen/
+
+City of Vancouver. (2022). City of Vancouver Climate Action Framework. https://www.cityofvancouver.us/wp-
+content/uploads/2023/08/vancouvercaf_final_121422.pdf
+
+City of Vancouver Climate Program. (2024). City of Vancouver 2023 Inventory of Community and Government
+Operations Greenhouse Gas Emissions. https://www.cityofvancouver.us/wp-
+content/uploads/2024/09/Attachment-A-2023-GHG-Inventory_VancouverWA_Community-and-Government.pdf
+
+Clark County Assessor’s Office. (2025). Taxlots 2 Public Use [Dataset]. Clark County GIS. https://city-of-
+vancouver-wa-geo-hub-cityofvancouver.hub.arcgis.com/datasets/CityOfVancouver::taxlots-2-public-use/about
+
+Clark County Community Services. (2024). Clark County Community Needs Assessment Report.
+https://clark.wa.gov/sites/default/files/media/document/2025-01/cna-2024_english.pdf
+
+Clark Public Utilities. (n.d.). Home Energy Assistance Program. Clark Public Utilities. Retrieved February 3, 2026,
+from https://www.clarkpublicutilities.com/residential-customers/financial-assistance/all-financial-assistance-
+programs/home-energy-assistance-program/
+
+Clark Public Utilities. (2024). Owner’s Manual: A guide to your customer-owned utility.
+https://www.clarkpublicutilities.com/wp-content/uploads/2024/03/2024-Owners-manual_web.pdf
+
+Han, S., Hu, M., Gao, X., Huang, Y., Guo, F., Shen, G. C., Wang, D., Lin, S., & Zhang, K. (2024). Energy burden and
+mental health: A national study in the United States. Science of The Total Environment, 955, 176796.
+https://doi.org/10.1016/j.scitotenv.2024.176796
+
+Kempe, Y. (2025, July 14). A cheat sheet to clean-energy tax credit changes under Trump’s new law. Canary Media.
+https://www.canarymedia.com/articles/clean-energy/tax-credit-changes-trump-law
+
+Michael Chang, Erikson, L., Araujo, K., Asinas, E. N., Chisholm Hatfield, S., Crozier, L., Fleishman, E., & Greene, C.
+(2023). Ch. 27. Northwest (Fifth National Climate Assessment). U.S. Global Change Research Program.
+https://cig.uw.edu/wp-content/uploads/sites/2/2025/09/NCA5_Ch27_Northwest.pdf
+
+NW Natural. (2021). Vision 2050: Destination Zero—NW Natural Carbon Neutrality Scenario Analysis.
+https://www.nwnatural.com/about-us/the-company/carbon-neutral-future
+
+Pelai, R., & Moore, E. (2025, September 2). How Cascadia Can Maintain Its Heat Pump Momentum. Sightline
+Institute. https://www.sightline.org/2025/09/02/how-cascadia-can-maintain-its-heat-pump-momentum/
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                                 21
+Rubin, K., Freed, M., & Aggarwal, A. (2023, December 18). 1 in 7 Families Live in Energy Poverty. States Can Ease
+That Burden. RMI. https://rmi.org/1-in-7-families-live-in-energy-poverty-states-can-ease-that-burden/
+
+Samayoa, M. (2026, January 6). NW Natural seeks to shift cost of failed RNG investment to customers. Oregon
+Public Broadcasting. https://www.opb.org/article/2026/01/06/nw-natural-renewable-gas-tyson-foods-rng-
+oregon/
+
+Seals, B. (2020, May 5). Indoor Air Pollution: The Link between Climate and Health. RMI. https://rmi.org/indoor-air-
+pollution-the-link-between-climate-and-health/
+
+U.S. Census Bureau. (2024). American Community Survey (Version ACS 1-Year Estimates Data Profiles) [Dataset].
+https://api.census.gov/data/2024/acs/acs1/profile
+
+U.S. Climate Resilience Toolkit. (2021). Glossary. https://toolkit.climate.gov/glossary
+
+Vogel, J., Hess, J., Kearl, K., Naismith, K., Bumbaco, B. G., & Henning, R. (2023). In The Hot Seat: Saving Lives From
+Extreme Heat in Washington State. https://cig.uw.edu/wp-content/uploads/sites/2/2023/06/CIG-Report-Heat-
+202-pages.pdf
+
+Walker, I., Casquero-Modrego, N., & Less, B. (2023). Challenges and Opportunities for Home Decarbonization.
+Berkeley Lab. https://buildingdecarb.org/wp-content/uploads/home_decarbonization_8.14.23.pdf
+
+Washington State Department of Commerce. (2024, April 15). Clean Energy Transformation Act (CETA).
+https://www.commerce.wa.gov/energy-policy/electricity-policy/ceta/
+
+Washington State Department of Ecology. (2023). Improving Air Quality in Overburdened Communities Highly
+Impacted by Air Pollution. https://apps.ecology.wa.gov/publications/documents/2302115.pdf
+
+World Health Organization. (2018). Low indoor temperatures and insulation. In WHO Housing and Health
+Guidelines. World Health Organization. https://www.ncbi.nlm.nih.gov/books/NBK535294/
+
+
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026                                 22
+City Hall | 415 W. 6th St. | Vancouver, WA 98660 | cityofvancouver.us
+
+
+CITY OF VANCOUVER | RESIDENTIAL DECARBONIZATION BACKGROUND REPORT | MARCH 5, 2026   23
+

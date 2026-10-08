@@ -118,3 +118,9 @@ item for the plan's environmental consultant is on the **6 October** agenda.
   the 2 October agenda.
 - **Public comment Parts 9–13.** Not read.
 - **The cluster development amendment text.** Not published.
+
+## Update, 7 October — adoption vote set for 13 October, 1pm
+
+The Council's 13 October agenda carries **Separate Business 1: adoption of Ordinance 2026-10-01**, the
+comp plan update. That is one hour after written comment closes at noon. The ordinance is not attached.
+See `briefs/2026-10-13-clark-county-council.md`.

@@ -134,3 +134,11 @@ No land changes hands.
 - **What the superseded "capital and bond-related allocations" were**, and whether any debt is
   outstanding.
 - **The twelve appointment letters and the two proclamations.** Not opened.
+
+## Update, 7 October — meeting cancelled; everything moves to 13 October at 1pm
+
+The 6 October meeting was *"cancelled due to lack of a quorum"*, and the Weekly Calendar posted 1 October
+already showed it cancelled. All items carry forward to **Tuesday 13 October, 1:00pm**, where the agenda
+adds the **comp plan adoption ordinance** and a Sheriff's fee hearing. See
+`briefs/2026-10-13-clark-county-council.md`. The Camas interlocal was re-posted (doc 238046) with the
+"Ridgefield" slip still in it.

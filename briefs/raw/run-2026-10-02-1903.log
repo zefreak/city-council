@@ -5,3 +5,31 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-10-02-digest.md
 [19:04:00] digest written: /home/scottr/research/city-council/briefs/raw/2026-10-02-digest.md
 [19:04:00] invoking claude (model=opus)
+Clark County's comprehensive plan hearing didn't finish on 1–2 October. The county's listing now shows it resuming **Monday 5 October at 10am**, with written comment open again until **noon on Tuesday 13 October**. All briefs and the web page are written, and the push to `main` (`7c83d98`) succeeded, so the page is live. The notification summary is in `briefs/raw/.last-bottom-line.txt`.
+
+**What needs action**
+- **Clark County comprehensive plan:** written comment by noon 13 October. The county's 2 October agenda said public comment "has been closed", but the listing posted after it reopens written comment. Nothing published explains the change or gives a vote date, so Monday looks like deliberation only, with no chance to speak.
+- **Clark County Council Time, Wednesday 7 October, item 8.1:** Councilor Yung asked for a change to state law on mobile home lot rent, and I checked it against the statute. Rent increases are capped at 5% a year, but RCW 59.20.380(3) lets a park owner take one uncapped increase when a home is sold, which cuts the seller's resale value. Closing that exception is good for park residents. The ask should be written as removing the exception, not as a review of the cap. No staff paper is attached.
+- **Clark County Council, Tuesday 6 October:** a five-year agreement with all the cities on the county's document-recording surcharge for housing, running to January 2031. It moves the money from old capital and bond uses towards shelter operations and housing for households at or below 50% of median income. The direction is probably good, but the agreement itself isn't in the packet and the dollar amount is blank. The nine consent items are routine.
+- **Vancouver arts commission, Thursday 8 October:** an amendment to the arts sales tax ordinance is on the agenda with no text. Written comment is due 5pm Wednesday.
+
+**Also found**
+- **The Clark County Council didn't send the anti–SAVE Act letter** the last brief asked readers to support. The 30 September minutes show the majority passed it to the Auditor as a "fact only" letter instead.
+- **The 2027 county budget is being built around Props 12 and 13 on the 3 November ballot** (public safety bonds and a property-tax levy increase). Public defense's $950K request sits in the series meant for "if the measures fail". That suggests defence funding is tied to the levy, but this is my inference from the request number. The jail is also opening a new 64-bed unit. Public testimony on the budget is 1 December.
+
+**Corrections recorded**
+- The README and the 1 October brief had said not to plan around a 5 October sitting. That was right when written and is now wrong; both carry a note saying so.
+- The rolling page had called the 6 October Clark County meeting unconfirmed. Its agenda has since posted.
+
+**What I couldn't check**
+- What happened at the 1–2 October hearing: no minutes or news coverage had been published.
+- Comprehensive plan public comment Parts 7–13.
+- The text of the Chair's cluster development amendment, which is still unpublished.
+- The detailed narratives behind each budget request, including the Sheriff's and Community Services'.
+- The wording and dollar amounts of Props 12 and 13.
+- 2026 c 118, the 2026 law that last amended the rent cap. I can't rule out that it also changed the exception.
+- The Vancouver Council agenda for 12 October hasn't been published yet.
+[19:12:34] claude exited rc=0
+notify-hook: taskwarrior task 6 created/updated
+[19:12:35] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:12:35] === run complete

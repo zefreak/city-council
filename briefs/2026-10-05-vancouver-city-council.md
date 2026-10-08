@@ -322,3 +322,10 @@ up to 90 min) · adjournment.
   published yet (0 items).
 - **Slide 9 of the budget deck ("Revenue – 2 of 2", p. 26) and slide 5 of the HB 1491 deck (p. 115)**
   are images. No text could be extracted from either.
+
+## Correction, 7 October — the family-sized option
+
+This brief described HB 1491's third option as 10% at 80% AMI where *"at least 10% of units have two or
+more bedrooms."* That is the City ordinance's wording, and **it is not the law.** 3SHB 1491 §3(7)(a)(ii)
+requires family-sized units *"with more than two bedrooms"*, which means three or more. The Title 20
+ordinance is therefore looser than the statute it implements. See `briefs/2026-10-12-vancouver-city-council.md`.

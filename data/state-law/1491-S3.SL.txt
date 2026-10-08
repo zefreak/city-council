@@ -1,0 +1,1817 @@
+                      CERTIFICATION OF ENROLLMENT
+
+                   THIRD SUBSTITUTE HOUSE BILL 1491
+
+
+                       Chapter 267, Laws of 2025
+
+                               69th Legislature
+                             2025 Regular Session
+
+
+                 TRANSIT-ORIENTED HOUSING DEVELOPMENT
+
+
+
+                     EFFECTIVE DATE: July 27, 2025
+
+
+
+
+Passed by the House April 22, 2025                  CERTIFICATE
+  Yeas 57 Nays 39
+                                       I, Bernard Dean, Chief Clerk of the
+                                       House of Representatives of the
+            LAURIE JINKINS             State of Washington, do hereby
+Speaker of the House of                certify that the attached is THIRD
+Representatives                        SUBSTITUTE    HOUSE   BILL   1491 as
+                                       passed     by     the     House   of
+                                       Representatives and the Senate on
+                                       the dates hereon set forth.
+Passed by the Senate April 15, 2025
+  Yeas 30 Nays 18
+                                                    BERNARD DEAN
+              DENNY HECK                                           Chief Clerk
+President of the Senate
+Approved May 13, 2025 10:30 AM                         FILED
+
+                                                    May 14, 2025
+
+
+
+
+                                               Secretary of State
+             BOB FERGUSON                      State of Washington
+Governor of the State of Washington
+                       THIRD SUBSTITUTE HOUSE BILL 1491
+
+
+                           AS AMENDED BY THE SENATE
+
+                   Passed Legislature - 2025 Regular Session
+     State of Washington         69th Legislature     2025 Regular Session
+
+     By House Appropriations (originally sponsored by Representatives
+     Reed, Richards, Berry, Duerr, Cortes, Doglio, Ryu, Fitzgibbon,
+     Alvarado, Davis, Ramel, Parshley, Mena, Peterson, Nance, Macri,
+     Fosse, Kloba, Ormsby, Scott, Pollet, Hill, Obras, and Simmons)
+
+     READ FIRST TIME 02/28/25.
+
+
+
+
+ 1       AN ACT Relating to promoting community and transit-oriented
+ 2   housing development; amending RCW 36.70A.030, 43.21C.229, 84.14.010,
+ 3   84.14.020, 84.14.030, 84.14.060, 84.14.090, 84.14.100, 84.14.110,
+ 4   82.02.060, and 82.02.090; adding new sections to chapter 36.70A RCW;
+ 5   adding a new section to chapter 47.12 RCW; adding a new section to
+ 6   chapter 64.38 RCW; adding a new section to chapter 64.90 RCW; adding
+ 7   a new section to chapter 64.34 RCW; adding a new section to chapter
+ 8   64.32 RCW; adding a new section to chapter 84.14 RCW; creating new
+ 9   sections; and providing expiration dates.
+
+
+10   BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:
+
+11       NEW SECTION. Sec. 1. The legislature finds that the state has
+12   made groundbreaking investments in state-of-the-art mass transit and
+13   intermodal infrastructure. The legislature finds that to maximize the
+14   state's return on these investments, land use policies and practices
+15   must allow housing development to keep pace with progress being
+16   implemented   in   transportation   infrastructure  development.   The
+17   legislature also intends new development to reflect the state's
+18   commitment to affordable housing and vibrant, walkable, accessible
+19   urban   environments    that   improve   health,   expand   multimodal
+20   transportation options, and include varied community facilities,
+21   parks, and green spaces that are open to people of all income levels.
+                                       p. 1                    3SHB 1491.SL
+1        The legislature recognizes that cities planning under chapter
+2    36.70A RCW require direction and technical assistance to ensure the
+3    benefits of state transportation investments are maximized and shared
+4    equitably while avoiding unnecessary programmatic and cost burdens to
+5    local governments in their comprehensive planning, code enactment,
+6    and permit processing workloads. The legislature further recognizes
+7    that regulatory flexibility and local control are also important
+8    features of optimal planning outcomes.
+
+
+ 9       Sec. 2.   RCW 36.70A.030 and 2024 c 152 s 1 are each amended to
+10   read as follows:
+11       Unless the context clearly requires otherwise, the definitions in
+12   this section apply throughout this chapter.
+13       (1) "Active transportation" means forms of pedestrian mobility
+14   including walking or running, the use of a mobility assistive device
+15   such as a wheelchair, bicycling and cycling irrespective of the
+16   number of wheels, and the use of small personal devices such as foot
+17   scooters   or  skateboards.   Active   transportation  includes  both
+18   traditional and electric assist bicycles and other devices. Planning
+19   for active transportation must consider and address accommodation
+20   pursuant to the Americans with disabilities act and the distinct
+21   needs of each form of active transportation.
+22       (2) "Active transportation facilities" means facilities provided
+23   for the safety and mobility of active transportation users including,
+24   but not limited to, trails, as defined in RCW 47.30.005, sidewalks,
+25   bike lanes, shared-use paths, and other facilities in the public
+26   right-of-way.
+27       (3) "Administrative design review" means a development permit
+28   process whereby an application is reviewed, approved, or denied by
+29   the planning director or the planning director's designee based
+30   solely on objective design and development standards without a public
+31   predecision hearing, unless such review is otherwise required by
+32   state or federal law, or the structure is a designated landmark or
+33   historic district established under a local preservation ordinance. A
+34   city may utilize public meetings, hearings, or voluntary review
+35   boards to consider, recommend, or approve requests for variances from
+36   locally established design review standards.
+37       (4) "Adopt a comprehensive land use plan" means to enact a new
+38   comprehensive land use plan or to update an existing comprehensive
+39   land use plan.
+                                     p. 2                     3SHB 1491.SL
+ 1       (5) "Affordable housing" means, unless the context clearly
+ 2   indicates otherwise, residential housing whose monthly costs,
+ 3   including utilities other than telephone, do not exceed ((thirty)) 30
+ 4   percent of the monthly income of a household whose income is:
+ 5       (a) For rental housing, 60 percent of the median household income
+ 6   adjusted for household size, for the county where the household is
+ 7   located, as reported by the United States department of housing and
+ 8   urban development; or
+ 9       (b) For owner-occupied housing, 80 percent of the median
+10   household income adjusted for household size, for the county where
+11   the household is located, as reported by the United States department
+12   of housing and urban development.
+13       (6) "Agricultural land" means land primarily devoted to the
+14   commercial production of horticultural, viticultural, floricultural,
+15   dairy, apiary, vegetable, or animal products or of berries, grain,
+16   hay, straw, turf, seed, Christmas trees not subject to the excise tax
+17   imposed by RCW 84.33.100 through 84.33.140, finfish in upland
+18   hatcheries,   or  livestock,   and  that   has  long-term   commercial
+19   significance for agricultural production.
+20       (7) "City" means any city or town, including a code city.
+21       (8) "Comprehensive land use plan," "comprehensive plan," or
+22   "plan" means a generalized coordinated land use policy statement of
+23   the governing body of a county or city that is adopted pursuant to
+24   this chapter.
+25       (9) "Cottage housing" means residential units on a lot with a
+26   common open space that either: (a) Is owned in common; or (b) has
+27   units owned as condominium units with property owned in common and a
+28   minimum of 20 percent of the lot size as open space.
+29       (10) "Courtyard apartments" means attached dwelling units
+30   arranged on two or three sides of a yard or court.
+31       (11) "Critical areas" include the following areas and ecosystems:
+32   (a) Wetlands; (b) areas with a critical recharging effect on aquifers
+33   used for potable water; (c) fish and wildlife habitat conservation
+34   areas; (d) frequently flooded areas; and (e) geologically hazardous
+35   areas. "Fish and wildlife habitat conservation areas" does not
+36   include such artificial features or constructs as irrigation delivery
+37   systems, irrigation infrastructure, irrigation canals, or drainage
+38   ditches that lie within the boundaries of and are maintained by a
+39   port district or an irrigation district or company.
+40       (12) "Department" means the department of commerce.
+                                     p. 3                     3SHB 1491.SL
+ 1       (13) "Development regulations" or "regulation" means the controls
+ 2   placed on development or land use activities by a county or city,
+ 3   including, but not limited to, zoning ordinances, critical areas
+ 4   ordinances, shoreline master programs, official controls, planned
+ 5   unit development ordinances, subdivision ordinances, and binding site
+ 6   plan ordinances together with any amendments thereto. A development
+ 7   regulation does not include a decision to approve a project permit
+ 8   application, as defined in RCW 36.70B.020, even though the decision
+ 9   may be expressed in a resolution or ordinance of the legislative body
+10   of the county or city.
+11       (14) "Emergency housing" means temporary indoor accommodations
+12   for individuals or families who are homeless or at imminent risk of
+13   becoming homeless that is intended to address the basic health, food,
+14   clothing, and personal hygiene needs of individuals or families.
+15   Emergency housing may or may not require occupants to enter into a
+16   lease or an occupancy agreement.
+17       (15) "Emergency shelter" means a facility that provides a
+18   temporary shelter for individuals or families who are currently
+19   homeless. Emergency shelter may not require occupants to enter into a
+20   lease or an occupancy agreement. Emergency shelter facilities may
+21   include day and warming centers that do not provide overnight
+22   accommodations.
+23       (16) "Environmental justice" means the fair treatment and
+24   meaningful involvement of all people regardless of race, color,
+25   national    origin,  or   income    with   respect   to    development,
+26   implementation, and enforcement of environmental laws, regulations,
+27   and    policies.    Environmental    justice    includes     addressing
+28   disproportionate environmental and health impacts in all laws, rules,
+29   and policies with environmental impacts by prioritizing vulnerable
+30   populations    and  overburdened   communities   and    the   equitable
+31   distribution of resources and benefits.
+32       (17) "Extremely low-income household" means a single person,
+33   family, or unrelated persons living together whose adjusted income is
+34   at or below ((thirty)) 30 percent of the median household income
+35   adjusted for household size, for the county where the household is
+36   located, as reported by the United States department of housing and
+37   urban development.
+38       (18) "Forestland" means land primarily devoted to growing trees
+39   for long-term commercial timber production on land that can be
+40   economically and practically managed for such production, including
+                                      p. 4                     3SHB 1491.SL
+ 1   Christmas trees subject to the excise tax imposed under RCW 84.33.100
+ 2   through 84.33.140, and that has long-term commercial significance. In
+ 3   determining whether forestland is primarily devoted to growing trees
+ 4   for long-term commercial timber production on land that can be
+ 5   economically and practically managed for such production, the
+ 6   following factors shall be considered: (a) The proximity of the land
+ 7   to urban, suburban, and rural settlements; (b) surrounding parcel
+ 8   size and the compatibility and intensity of adjacent and nearby land
+ 9   uses; (c) long-term local economic conditions that affect the ability
+10   to manage for timber production; and (d) the availability of public
+11   facilities and services conducive to conversion of forestland to
+12   other uses.
+13       (19) "Freight rail dependent uses" means buildings and other
+14   infrastructure that are used in the fabrication, processing, storage,
+15   and transport of goods where the use is dependent on and makes use of
+16   an adjacent short line railroad. Such facilities are both urban and
+17   rural development for purposes of this chapter. "Freight rail
+18   dependent uses" does not include buildings and other infrastructure
+19   that are used in the fabrication, processing, storage, and transport
+20   of coal, liquefied natural gas, or "crude oil" as defined in RCW
+21   90.56.010.
+22       (20) "Geologically hazardous areas" means areas that because of
+23   their susceptibility to erosion, sliding, earthquake, or other
+24   geological events, are not suited to the siting of commercial,
+25   residential, or industrial development consistent with public health
+26   or safety concerns.
+27       (21) "Green infrastructure" means a wide array of natural assets
+28   and built structures within an urban growth area boundary, including
+29   parks and other areas with protected tree canopy, and management
+30   practices at multiple scales that manage wet weather and that
+31   maintain and restore natural hydrology by storing, infiltrating,
+32   evapotranspiring, and harvesting and using stormwater.
+33       (22) "Green space" means an area of land, vegetated by natural
+34   features such as grass, trees, or shrubs, within an urban context and
+35   less than one acre in size that creates public value through one or
+36   more of the following attributes:
+37       (a) Is accessible to the public;
+38       (b) Promotes physical and mental health of residents;
+39       (c) Provides relief from the urban heat island effects;
+40       (d) Promotes recreational and aesthetic values;
+                                     p. 5                     3SHB 1491.SL
+ 1       (e) Protects streams or water supply; or
+ 2       (f) Preserves visual quality along highway, road, or street
+ 3   corridors.
+ 4       (23) "Long-term commercial significance" includes the growing
+ 5   capacity, productivity, and soil composition of the land for long-
+ 6   term commercial production, in consideration with the land's
+ 7   proximity to population areas, and the possibility of more intense
+ 8   uses of the land.
+ 9       (24) "Low-income household" means a single person, family, or
+10   unrelated persons living together whose adjusted income is at or
+11   below ((eighty)) 80 percent of the median household income adjusted
+12   for household size, for the county where the household is located, as
+13   reported by the United States department of housing and urban
+14   development.
+15       (25) "Major transit stop" means:
+16       (a) A stop on a high capacity transportation system funded or
+17   expanded under the provisions of chapter 81.104 RCW, except for any
+18   stop that solely serves express bus service or serves express bus
+19   service and other bus services not otherwise meeting the definition
+20   of major transit stop;
+21       (b) Commuter rail stops;
+22       (c) Stops on rail or fixed guideway systems; or
+23       (d) Stops on bus rapid transit routes, including those stops that
+24   are under construction.
+25       (26) "Middle housing" means buildings that are compatible in
+26   scale, form, and character with single-family houses and contain two
+27   or more attached, stacked, or clustered homes including duplexes,
+28   triplexes, fourplexes, fiveplexes, sixplexes, townhouses, stacked
+29   flats, courtyard apartments, and cottage housing.
+30       (27) "Minerals" include gravel, sand, and valuable metallic
+31   substances.
+32       (28) "Moderate-income household" means a single person, family,
+33   or unrelated persons living together whose adjusted income is at or
+34   below 120 percent of the median household income adjusted for
+35   household size, for the county where the household is located, as
+36   reported by the United States department of housing and urban
+37   development.
+38       (29) "Overburdened community" means a geographic area where
+39   vulnerable populations face combined, multiple environmental harms
+
+
+                                     p. 6                     3SHB 1491.SL
+ 1   and health impacts, and includes, but is not limited to, highly
+ 2   impacted communities as defined in RCW 19.405.020.
+ 3       (30) "Per capita vehicle miles traveled" means the number of
+ 4   miles traveled using cars and light trucks in a calendar year divided
+ 5   by the number of residents in Washington. The calculation of this
+ 6   value excludes vehicle miles driven conveying freight.
+ 7       (31) "Permanent supportive housing" is subsidized, leased housing
+ 8   with no limit on length of stay that prioritizes people who need
+ 9   comprehensive support services to retain tenancy and utilizes
+10   admissions practices designed to use lower barriers to entry than
+11   would be typical for other subsidized or unsubsidized rental housing,
+12   especially related to rental history, criminal history, and personal
+13   behaviors. Permanent supportive housing is paired with on-site or
+14   off-site voluntary services designed to support a person living with
+15   a complex and disabling behavioral health or physical health
+16   condition who was experiencing homelessness or was at imminent risk
+17   of homelessness prior to moving into housing to retain their housing
+18   and be a successful tenant in a housing arrangement, improve the
+19   resident's health status, and connect the resident of the housing
+20   with community-based health care, treatment, or employment services.
+21   Permanent supportive housing is subject to all of the rights and
+22   responsibilities defined in chapter 59.18 RCW.
+23       (32) "Public facilities" include streets, roads, highways,
+24   sidewalks, street and road lighting systems, traffic signals,
+25   domestic water systems, storm and sanitary sewer systems, parks and
+26   recreational facilities, and schools.
+27       (33) "Public services" include fire protection and suppression,
+28   law enforcement, public health, education, recreation, environmental
+29   protection, and other governmental services.
+30       (34) "Recreational land" means land so designated under RCW
+31   36.70A.1701 and that, immediately prior to this designation, was
+32   designated as agricultural land of long-term commercial significance
+33   under RCW 36.70A.170. Recreational land must have playing fields and
+34   supporting facilities existing before July 1, 2004, for sports played
+35   on grass playing fields.
+36       (35) "Rural character" refers to the patterns of land use and
+37   development established by a county in the rural element of its
+38   comprehensive plan:
+39       (a) In which open space, the natural landscape, and vegetation
+40   predominate over the built environment;
+                                     p. 7                     3SHB 1491.SL
+ 1       (b) That foster traditional rural lifestyles, rural-based
+ 2   economies, and opportunities to both live and work in rural areas;
+ 3       (c) That provide visual landscapes that are traditionally found
+ 4   in rural areas and communities;
+ 5       (d) That are compatible with the use of the land by wildlife and
+ 6   for fish and wildlife habitat;
+ 7       (e) That reduce the inappropriate conversion of undeveloped land
+ 8   into sprawling, low-density development;
+ 9       (f) That generally do not require the extension of urban
+10   governmental services; and
+11       (g) That are consistent with the protection of natural surface
+12   water flows and groundwater and surface water recharge and discharge
+13   areas.
+14       (36) "Rural development" refers to development outside the urban
+15   growth area and outside agricultural, forest, and mineral resource
+16   lands designated pursuant to RCW 36.70A.170. Rural development can
+17   consist of a variety of uses and residential densities, including
+18   clustered residential development, at levels that are consistent with
+19   the preservation of rural character and the requirements of the rural
+20   element. Rural development does not refer to agriculture or forestry
+21   activities that may be conducted in rural areas.
+22       (37) "Rural governmental services" or "rural services" include
+23   those public services and public facilities historically and
+24   typically delivered at an intensity usually found in rural areas, and
+25   may include domestic water systems and fire and police protection
+26   services   associated  with   rural  development   and  normally   not
+27   associated with urban areas. Rural services do not include storm or
+28   sanitary sewers, except as otherwise authorized by RCW 36.70A.110(4).
+29       (38) "Short line railroad" means those railroad lines designated
+30   class II or class III by the United States surface transportation
+31   board.
+32       (39) "Single-family zones" means those zones where single-family
+33   detached housing is the predominant land use.
+34       (40) "Stacked flat" means dwelling units in a residential
+35   building of no more than three stories on a residential zoned lot in
+36   which each floor may be separately rented or owned.
+37       (41) "Townhouses" means buildings that contain three or more
+38   attached single-family dwelling units that extend from foundation to
+39   roof and that have a yard or public way on not less than two sides.
+
+
+                                     p. 8                     3SHB 1491.SL
+ 1       (42) "Transportation system" means all infrastructure and
+ 2   services for all forms of transportation within a geographical area,
+ 3   irrespective of the responsible jurisdiction or transportation
+ 4   provider.
+ 5       (43) "Urban governmental services" or "urban services" include
+ 6   those public services and public facilities at an intensity
+ 7   historically and typically provided in cities, specifically including
+ 8   storm and sanitary sewer systems, domestic water systems, street
+ 9   cleaning services, fire and police protection services, public
+10   transit services, and other public utilities associated with urban
+11   areas and normally not associated with rural areas.
+12       (44) "Urban growth" refers to growth that makes intensive use of
+13   land for the location of buildings, structures, and impermeable
+14   surfaces to such a degree as to be incompatible with the primary use
+15   of land for the production of food, other agricultural products, or
+16   fiber, or the extraction of mineral resources, rural uses, rural
+17   development, and natural resource lands designated pursuant to RCW
+18   36.70A.170. A pattern of more intensive rural development, as
+19   provided in RCW 36.70A.070(5)(d), is not urban growth. When allowed
+20   to spread over wide areas, urban growth typically requires urban
+21   governmental services. "Characterized by urban growth" refers to land
+22   having urban growth located on it, or to land located in relationship
+23   to an area with urban growth on it as to be appropriate for urban
+24   growth.
+25       (45) "Urban growth areas" means those areas designated by a
+26   county pursuant to RCW 36.70A.110.
+27       (46) "Very low-income household" means a single person, family,
+28   or unrelated persons living together whose adjusted income is at or
+29   below ((fifty)) 50 percent of the median household income adjusted
+30   for household size, for the county where the household is located, as
+31   reported by the United States department of housing and urban
+32   development.
+33       (47)(a) "Vulnerable populations" means population groups that are
+34   more likely to be at higher risk for poor health outcomes in response
+35   to environmental harms, due to: (i) Adverse socioeconomic factors,
+36   such as unemployment, high housing and transportation costs relative
+37   to income, limited access to nutritious food and adequate health
+38   care, linguistic isolation, and other factors that negatively affect
+39   health outcomes and increase vulnerability to the effects of
+
+
+                                     p. 9                     3SHB 1491.SL
+ 1   environmental harms; and (ii) sensitivity factors, such as low birth
+ 2   weight and higher rates of hospitalization.
+ 3       (b) "Vulnerable populations" includes, but is not limited to:
+ 4       (i) Racial or ethnic minorities;
+ 5       (ii) Low-income populations; and
+ 6       (iii) Populations disproportionately impacted by environmental
+ 7   harms.
+ 8       (48) "Wetland" or "wetlands" means areas that are inundated or
+ 9   saturated by surface water or groundwater at a frequency and duration
+10   sufficient to support, and that under normal circumstances do
+11   support, a prevalence of vegetation typically adapted for life in
+12   saturated soil conditions. Wetlands generally include swamps,
+13   marshes, bogs, and similar areas. Wetlands do not include those
+14   artificial wetlands intentionally created from nonwetland sites,
+15   including, but not limited to, irrigation and drainage ditches,
+16   grass-lined   swales,   canals,   detention   facilities,   wastewater
+17   treatment facilities, farm ponds, and landscape amenities, or those
+18   wetlands created after July 1, 1990, that were unintentionally
+19   created as a result of the construction of a road, street, or
+20   highway. Wetlands may include those artificial wetlands intentionally
+21   created from nonwetland areas created to mitigate conversion of
+22   wetlands.
+23       (49) "Wildland urban interface" means the geographical area where
+24   structures and other human development meets or intermingles with
+25   wildland vegetative fuels.
+26       (50) "Floor area ratio" means a measure of development intensity
+27   equal to building square footage divided by the developable property
+28   square footage. Developable property excludes public facilities and
+29   portions of lots with critical areas and critical area buffers as
+30   designated in RCW 36.70A.060, except for critical aquifer recharge
+31   areas where a single-family detached house is an allowed use provided
+32   that any requirements to maintain aquifer recharge are met.
+33       (51) "Rail station area" means all lots fully within an urban
+34   growth area that are:
+35       (a) Fully or partially within one-half mile walking distance of
+36   an entrance to a train station with a stop on a light rail system, a
+37   commuter rail stop in a city with a population greater than 15,000,
+38   or a stop on a rail trolley operated west of the crest of the Cascade
+39   mountains; or
+
+
+                                     p. 10                    3SHB 1491.SL
+ 1       (b) Fully or partially within one-quarter mile walking distance
+ 2   of an entrance to a train station with a commuter rail stop in a city
+ 3   with a population no greater than 15,000.
+ 4       (52) "Bus station area" means all lots that are:
+ 5       (a) Fully within an urban growth area; and
+ 6       (b) Fully or partially within one-quarter mile walking distance
+ 7   of a stop on a fixed route bus system that is designated as a bus
+ 8   rapid transit stop in the transit development plan as required in RCW
+ 9   35.58.2795, for which an environmental determination has been issued
+10   as required under chapter 43.21C RCW, and that features fixed transit
+11   assets that indicate permanent, high capacity service including, but
+12   not limited to, elevated platforms or enhanced stations, off-board
+13   fare collection, dedicated lanes, busways, or transit signal
+14   priority.
+15       (53) "Station area" means a bus station area or a rail station
+16   area.
+
+
+17       NEW SECTION. Sec. 3. A new section is added to chapter 36.70A
+18   RCW to read as follows:
+19       (1) Cities planning under RCW 36.70A.040 may not enact or enforce
+20   any development regulation within a station area that would prohibit
+21   the siting of multifamily residential housing on lots where any other
+22   residential use is permissible.
+23       (2)(a) Cities planning under RCW 36.70A.040 must allow new
+24   residential and mixed-use development within any station area at the
+25   transit-oriented development density of:
+26       (i) At least 3.5 floor area ratio, on average, within a rail
+27   station area; and
+28       (ii) At least 2.5 floor area ratio, on average, or at least a 3.0
+29   floor area ratio, on average if a city exempts up to 25 percent of
+30   bus station areas, within a bus station area.
+31       (A) Cities must adopt regulations that allow for greater building
+32   height and increased density in all bus station areas for
+33   developments built with all mass timber products.
+34       (B) For the purposes of this subsection, "mass timber products"
+35   has the same meaning as in RCW 19.27.570.
+36       (b) A city planning under RCW 36.70A.040 may adopt a modification
+37   to a station area designation, but only after consultation with and
+38   approval by the department.
+
+
+                                     p. 11                    3SHB 1491.SL
+ 1       (c) Cities planning under RCW 36.70A.040 may not enact or enforce
+ 2   any development regulation that imposes:
+ 3       (i) A maximum floor area ratio of less than the transit-oriented
+ 4   development density in this subsection for any residential or mixed-
+ 5   use development within a station area, unless a city has adopted an
+ 6   exemption for the station area under (a)(ii) of this subsection; or
+ 7       (ii) A maximum residential density, measured in residential units
+ 8   per acre or other metric of land area within a station area.
+ 9       (3) For the purposes of this section:
+10       (a) "Mixed-use development" means a building subject to a
+11   regulation specifying allowable residential proportions within mixed-
+12   use areas.
+13       (b) "Workforce housing" means rental housing with monthly costs
+14   that do not exceed 30 percent of the monthly income of a household
+15   whose income is at or below 80 percent of the median household income
+16   adjusted for household size, for the county where the household is
+17   located, as reported by the United States department of housing and
+18   urban development.
+19       (4) Within any station area, any building in which all units are
+20   affordable or workforce housing for at least 50 years or are
+21   dedicated to permanent supportive housing, an additional 1.5 floor
+22   area ratio in excess of the transit-oriented development density
+23   required under subsection (2)(a) of this section must be permitted.
+24       (5) Any floor area within a building located in a station area
+25   that is reserved for residential units in multifamily housing that
+26   includes at least three bedrooms must not be counted toward
+27   applicable floor area ratio limits. A city may require the
+28   residential units to comply with affordability requirements to be
+29   eligible for an exclusion from the applicable floor area ratio
+30   limits.
+31       (6) Cities planning under RCW 36.70A.040 may by ordinance
+32   designate parts of a station area in which to enact or enforce floor
+33   area ratios for residential or mixed-use development that are more or
+34   less than the applicable transit-oriented development density, if the
+35   average maximum floor area ratio of all residential and mixed-use
+36   areas within a station area is no less than the applicable transit-
+37   oriented development density.
+38       (7)(a) Buildings constructed within a station area must maintain
+39   for at least 50 years:
+
+
+                                     p. 12                    3SHB 1491.SL
+ 1       (i) At least 10 percent of all residential units as affordable
+ 2   housing;
+ 3       (ii) At least 10 percent of all residential units as workforce
+ 4   housing if at least 10 percent of the units are family sized units
+ 5   with more than two bedrooms; or
+ 6       (iii) At least 20 percent of all residential units as workforce
+ 7   housing.
+ 8       (b) A building constructed within a station area is exempt from
+ 9   the affordability requirements in (a) of this subsection if:
+10       (i) The building is constructed on a lot in which a density that
+11   meets or exceeds the transit-oriented development density in
+12   subsection (2) of this section was authorized prior to January 1,
+13   2025;
+14       (ii) The building is subject to affordability requirements with a
+15   lower income threshold or a greater amount of required affordable
+16   housing that were enacted by a city prior to December 31, 2025; or
+17       (iii) A city has enacted or expands a mandatory program under RCW
+18   36.70A.540 that requires a minimum amount of affordable housing that
+19   must be provided by residential development, either on-site or
+20   through an in-lieu payment as allowed by RCW 36.70A.540, in an area
+21   where development regulations must comply with this section. Such
+22   mandatory program may be enacted, modified, or expanded by a city,
+23   and may require an amount of affordable housing and levels of
+24   affordability that differs or exceeds the requirements. An optional
+25   program established under RCW 36.70A.540 does not meet the
+26   requirements of this subsection (7)(b)(iii).
+27       (c) For each building that is exempt from the requirements for
+28   affordable or workforce housing under (b)(i) or (ii) of this
+29   subsection, the city must identify the density and affordability
+30   requirements   that  apply   to  the   building  or   parcel   in its
+31   comprehensive planning documents. For each building that is exempt
+32   from the requirements for affordable or workforce housing under
+33   (b)(iii) of this subsection, the city must identify the density and
+34   affordability requirements that apply to the building or parcel in
+35   its municipal code.
+36       (8)   A    city   must    approve    an   exemption    under  RCW
+37   84.14.020(1)(a)(ii)(D) for multifamily residential housing within a
+38   station area that meets the affordability requirements in subsection
+39   (7)(a) of this section and the requirements of chapter 84.14 RCW,
+
+
+                                     p. 13                    3SHB 1491.SL
+ 1   unless the city authorizes the 20-year exemption under RCW
+ 2   84.14.020(1)(a)(ii)(C).
+ 3       (9) A city that has enacted an incentive program prior to January
+ 4   1, 2025, that requires public benefits, such as school capacity,
+ 5   greater amounts of affordable housing, green space, or green
+ 6   infrastructure, in return for additional development allowances, may
+ 7   continue to require such public benefits if the plan and implementing
+ 8   development regulations requiring those public benefits provides
+ 9   development capacity that is substantially similar to that required
+10   in this section.
+11       (10)(a) No later than the deadlines established in subsection
+12   (15) of this section, cities planning under RCW 36.70A.040 must act
+13   to modify or repeal any existing development regulations applicable
+14   in a station area that, alone or in combination, are inconsistent
+15   with this section, and may not enact any development regulations
+16   applicable in a station area that, alone or in combination with other
+17   development regulations, are inconsistent with this section.
+18       (b) A city may apply any objective development regulations within
+19   a station area that are required for other multifamily residential
+20   uses in the same zone, including tree canopy and retention
+21   requirements.
+22       (c) This subsection (10) does not apply to development
+23   regulations   that  are   generally  applicable   health  and   safety
+24   standards, including building code standards and fire and life safety
+25   standards.
+26       (11) Nothing in this section requires alteration, displacement,
+27   or limitation of industrial or agricultural uses or industrial,
+28   manufacturing, or agricultural areas within the urban growth area.
+29       (12) Nothing in this section requires a city to issue a building
+30   permit if other federal, state, and local requirements for a building
+31   permit are not met.
+32       (13) Cities planning under RCW 36.70A.040 may exclude from the
+33   requirements in this section any portion of a lot that is designated
+34   as a shoreline environment governed by a shoreline master program or
+35   as a critical area governed by a critical area ordinance, except for
+36   critical aquifer recharge areas where a single-family detached house
+37   is an allowed use provided that any requirements to maintain aquifer
+38   recharge are met, and any lot that:
+39       (a) Is nonconforming with development regulations governing lot
+40   dimensions including, but not limited to, standards related to lot
+                                     p. 14                    3SHB 1491.SL
+ 1   width, area, geometry, or street access, unless an applicant
+ 2   demonstrates that the nonconforming lot may be developed in
+ 3   compliance with the development regulations governing lot dimensions
+ 4   by obtaining any modification, deviation, variance, or similar code
+ 5   departure approval allowed under the development regulations;
+ 6       (b) Contains a designated landmark or is located within a
+ 7   historic district established under a local preservation ordinance
+ 8   adopted prior to the effective date of this section;
+ 9       (c) Has been designated as containing urban separators by
+10   countywide planning policies as of the effective date of this
+11   section;
+12       (d) Is an industrial, manufacturing, or agricultural designated
+13   lot that either is limited to one dwelling unit per lot or only
+14   allows housing for individuals and their families responsible for
+15   caretaking, farm work, security, or maintenance; or
+16       (e) Is in a tsunami inundation area as mapped by the department
+17   of natural resources.
+18       (14) For cities subject to a growth target adopted under RCW
+19   36.70A.210 that limits the maximum residential capacity of the
+20   jurisdiction, any additional residential capacity required by this
+21   section may not be considered an inconsistency with the countywide
+22   planning policies, multicounty planning policies, or growth targets
+23   adopted under RCW 36.70A.210.
+24       (15)(a) Any city that is required to review its comprehensive
+25   plan by the deadlines specified in RCW 36.70A.130(5)(a) must comply
+26   with the requirements of this section by the earlier of December 31,
+27   2029, or its first implementation progress report due after December
+28   31, 2024 as specified in RCW 36.70A.130(9), and thereafter at each
+29   comprehensive plan update or implementation progress report following
+30   the completion or funding of any major transit stop that would create
+31   a new station area within the jurisdiction.
+32       (b) Any city that is required to review its comprehensive plan by
+33   the deadlines specified in RCW 36.70A.130(5) (b), (c), or (d) must
+34   comply with the requirements of this section no later than six months
+35   after its first comprehensive plan update due after December 31,
+36   2024,   and  thereafter   at  each   comprehensive  plan   update  or
+37   implementation progress report following the completion or funding of
+38   any major transit stop that would create a new station area within
+39   the jurisdiction.
+
+
+                                     p. 15                    3SHB 1491.SL
+ 1       (c) A federally recognized Indian tribe may voluntarily choose to
+ 2   participate in the planning process to implement the requirements of
+ 3   this section in accordance with RCW 36.70A.040(8).
+ 4       (16)(a) The department must publish a model transit-oriented
+ 5   development ordinance by June 30, 2027.
+ 6       (b) In any city subject to this section that has not passed
+ 7   ordinances, regulations, or other official controls by the deadlines
+ 8   required under subsection (15) of this section, the model ordinance
+ 9   supersedes, preempts, and invalidates local development regulations
+10   until the city takes all actions necessary to implement this section.
+11       (17) A city may seek an extension from the transit-oriented
+12   development density requirements of this section by applying to the
+13   department for an extension in any areas that are at high risk of
+14   displacement based on a city's antidisplacement analysis or an
+15   antidisplacement map. The department must review the city's analysis
+16   and certify a five-year extension from the requirements of this
+17   section for areas at high risk of displacement. The city must create
+18   an implementation plan that identifies the antidisplacement policies
+19   available to residents to mitigate displacement risk. During the
+20   extension, the city may delay implementation or enact alternative
+21   floor area ratio requirements within any areas at high risk of
+22   displacement.   The  department   may   recertify   an   extension   for
+23   additional   five-year   periods   based   on   evidence    of   ongoing
+24   displacement risk in the area.
+25       (18)(a)(i) The department may approve actions under this
+26   subsection (18) for cities that have, by June 30, 2026, adopted a
+27   plan and implementing development regulations for a specific station
+28   area that are substantially similar to the requirements of this
+29   section for that station area. In determining whether a city's
+30   adopted plan and development regulations are substantially similar,
+31   the department's evaluation may include, but not be limited to, if:
+32       (A) The regulations will provide a development capacity and allow
+33   the opportunity for creation of affordable housing that is at least
+34   equivalent to the amount of development capacity and affordable
+35   housing that would be allowed in that station area if the specific
+36   provisions of this section were adopted;
+37       (B) The jurisdiction offers a way to achieve buildings that
+38   exceed 85 feet in height; and
+39       (C) No lot within the station area is zoned exclusively for
+40   detached single-family residences.
+                                      p. 16                     3SHB 1491.SL
+1        (ii) The department must establish by rule any standards or
+2    procedures necessary to implement (a) of this subsection.
+3        (b) Any local actions approved by the department pursuant to (a)
+4    of this subsection are exempt from appeals under this chapter and
+5    chapter 43.21C RCW.
+6        (c) The department's final decision to approve or reject actions
+7    by cities under this subsection (18) may be appealed to the growth
+8    management hearings board by filing a petition as provided in RCW
+9    36.70A.290.
+
+
+10       NEW SECTION. Sec. 4. A new section is added to chapter 36.70A
+11   RCW to read as follows:
+12       Subject to appropriation, the department must establish and
+13   administer a grant program to assist cities in providing:
+14       (1) The infrastructure necessary to accommodate development at
+15   transit-oriented   development   densities    within station   areas,
+16   including water, sewer, stormwater, and transportation infrastructure
+17   and parks and recreation facilities;
+18       (2) Station area planning or other predevelopment costs necessary
+19   for implementation of station area plans; and
+20       (3)   The  staffing   necessary   to   implement transit-oriented
+21   development requirements.
+
+
+22       NEW SECTION. Sec. 5. A new section is added to chapter 36.70A
+23   RCW to read as follows:
+24       (1) To encourage transit-oriented development and transit use and
+25   resulting substantial environmental benefits, cities planning under
+26   RCW 36.70A.040 may not require off-street automobile parking as a
+27   condition of permitting residential or mixed-use development within a
+28   station area as defined in RCW 36.70A.030, except for off-street
+29   automobile parking that is permanently marked for the exclusive use
+30   of individuals with disabilities or parking that is permanently
+31   marked for the short-term exclusive use of delivery vehicles.
+32       (2) If a project permit application within a station area, as
+33   defined in RCW 36.70B.020, does not provide parking in compliance
+34   with this section, the proposed absence of parking may not be treated
+35   as a basis for issuance of a determination of significance pursuant
+36   to chapter 43.21C RCW.
+37       (3) The parking provisions of this section do not apply:
+
+
+                                     p. 17                    3SHB 1491.SL
+ 1       (a) If a local government submits to the department an empirical
+ 2   study prepared by a credentialed transportation or land use planning
+ 3   expert that clearly demonstrates, and the department finds and
+ 4   certifies, that the application of the parking limitations under
+ 5   subsection (1) of this section will be significantly less safe for
+ 6   automobile drivers or passengers, pedestrians, or bicyclists than if
+ 7   the jurisdiction's parking requirements were applied to the same
+ 8   location. The department must develop guidance to assist cities and
+ 9   counties on items to include in the study; or
+10       (b) To portions of cities within a one-mile radius of a
+11   commercial airport in Washington with at least 9,000,000 annual
+12   enplanements.
+13       (4) If a residential or mixed-use development provides parking
+14   for residential uses in excess of what is required in subsection (1)
+15   of this section, cities planning under RCW 36.70A.040 may enact or
+16   enforce development regulations to:
+17       (a) Require a share of any provided residential parking to be
+18   distributed between units designated as affordable housing and units
+19   offered at market rate; and
+20       (b) Include all or a portion of the cost of unbundled parking
+21   charges into the monthly cost for rental units designated as
+22   affordable housing.
+
+
+23       NEW SECTION.   Sec. 6.   A new section is added to chapter 47.12
+24   RCW to read as follows:
+25       (1) The department must review surplus property under this
+26   chapter in a county with a population over 2,000,000 that operates a
+27   municipal transit system and, in consultation with the county, select
+28   up to three park and ride facilities to conduct a pilot program to
+29   encourage transit-oriented development that meets the density and
+30   affordability requirements under section 3 of this act.
+31       (2) A park and ride selected for the pilot program must be:
+32       (a) Situated along state route number 99 with 400 to 500 parking
+33   stalls;
+34       (b) Situated on Interstate 405 with 500 to 900 parking stalls; or
+35       (c) Located in the southern portion of a county with a population
+36   over 2,000,000 with between 300 to 1,000 parking stalls.
+37       (3) For the purpose of the pilot program under this section, the
+38   department:
+
+
+                                     p. 18                    3SHB 1491.SL
+1        (a) May release any covenant imposed for highway purposes and
+2    replace it with a covenant requiring affordable housing;
+3        (b) May not seek a reversionary interest in the property but may
+4    enact other remedies enforceable by law.
+
+
+ 5       Sec. 7.   RCW 43.21C.229 and 2023 c 368 s 1 are each amended to
+ 6   read as follows:
+ 7       (1) The purpose of this section is to accommodate infill and
+ 8   housing development and thereby realize the goals and policies of
+ 9   comprehensive plans adopted according to chapter 36.70A RCW.
+10       (2) A city or county planning under RCW 36.70A.040 is authorized
+11   by this section to establish categorical exemptions from the
+12   requirements of this chapter. An exemption may be adopted by a city
+13   or county under this subsection if it meets the following criteria:
+14       (a) It categorically exempts government action related to
+15   development proposed to fill in an urban growth area, designated
+16   according to RCW 36.70A.110, where current density and intensity of
+17   use in the area is roughly equal to or lower than called for in the
+18   goals and policies of the applicable comprehensive plan and the
+19   development is either:
+20       (i) Residential development;
+21       (ii) Mixed-use development; or
+22       (iii) Commercial development up to 65,000 square feet, excluding
+23   retail development;
+24       (b) It does not exempt government action related to development
+25   that is inconsistent with the applicable comprehensive plan or would
+26   clearly exceed the density or intensity of use called for in the
+27   goals and policies of the applicable comprehensive plan;
+28       (c) The local government considers the specific probable adverse
+29   environmental impacts of the proposed action and determines that
+30   these specific impacts are adequately addressed by the development
+31   regulations or other applicable requirements of the comprehensive
+32   plan, subarea plan element of the comprehensive plan, planned action
+33   ordinance, or other local, state, or federal rules or laws; and
+34       (d)(i) The city or county's applicable comprehensive plan was
+35   previously   subjected   to   environmental    analysis   through  an
+36   environmental impact statement under the requirements of this chapter
+37   prior to adoption; or
+
+
+
+                                     p. 19                    3SHB 1491.SL
+ 1       (ii) The city or county has prepared an environmental impact
+ 2   statement that considers the proposed use or density and intensity of
+ 3   use in the area proposed for an exemption under this section.
+ 4       (3) All project actions that propose to develop one or more
+ 5   residential housing units within the incorporated areas in an urban
+ 6   growth area designated pursuant to RCW 36.70A.110 or middle housing
+ 7   within the unincorporated areas in an urban growth area designated
+ 8   pursuant to RCW 36.70A.110, and that meet the criteria identified in
+ 9   (a) and (b) of this subsection, are categorically exempt from the
+10   requirements of this chapter. For purposes of this section, "middle
+11   housing" has the same meaning as in RCW 36.70A.030 as amended by
+12   chapter 332, Laws of 2023. Jurisdictions shall satisfy the following
+13   criteria prior to the adoption of the categorical exemption under
+14   this subsection (3):
+15       (a) The city or county shall find that the proposed development
+16   is consistent with all development regulations implementing an
+17   applicable comprehensive plan adopted according to chapter 36.70A RCW
+18   by the jurisdiction in which the development is proposed, with the
+19   exception of any development regulation that is inconsistent with
+20   applicable provisions of chapter 36.70A RCW; and
+21       (b) The city or county has prepared environmental analysis that
+22   considers the proposed use or density and intensity of use in the
+23   area proposed for an exemption under this section and analyzes
+24   multimodal transportation impacts, including impacts to neighboring
+25   jurisdictions, transit facilities, and the state transportation
+26   system.
+27       (i) Such environmental analysis shall include documentation that
+28   the   requirements   for   environmental    analysis,   protection,   and
+29   mitigation for impacts to elements of the environment have been
+30   adequately addressed for the development exempted. The requirements
+31   may be addressed in locally adopted comprehensive plans, subarea
+32   plans, adopted development regulations, other applicable local
+33   ordinances   and   regulations,   or   applicable    state  and   federal
+34   regulations. The city or county must document its consultation with
+35   the   department   of   transportation    on    impacts  to   state-owned
+36   transportation   facilities    including     consideration   of   whether
+37   mitigation is necessary for impacts to transportation facilities.
+38       (ii) Before finalizing the environmental analysis pursuant to
+39   (b)(i) of this subsection (3), the city or county shall provide a
+40   minimum of 60 days' notice to affected tribes, relevant state
+                                      p. 20                      3SHB 1491.SL
+ 1   agencies, other jurisdictions that may be impacted, and the public.
+ 2   If a city or county identifies that mitigation measures are necessary
+ 3   to address specific probable adverse impacts, the city or county must
+ 4   address those impacts by requiring mitigation identified in the
+ 5   environmental analysis pursuant to this subsection (3)(b) through
+ 6   locally adopted comprehensive plans, subarea plans, development
+ 7   regulations, or other applicable local ordinances and regulations.
+ 8   Mitigation measures shall be detailed in an associated environmental
+ 9   determination.
+10       (iii) The categorical exemption is effective 30 days following
+11   action by a city or county pursuant to (b)(ii) of this subsection
+12   (3).
+13        (4) Until September 30, 2025, all project actions that propose to
+14   develop one or more residential housing or middle housing units
+15   within a city west of the crest of the Cascade mountains with a
+16   population of 700,000 or more are categorically exempt from the
+17   requirements of this chapter. After September 30, 2025, project
+18   actions that propose to develop one or more residential housing or
+19   middle housing units within the city may utilize the categorical
+20   exemption in subsection (3) of this section.
+21       (5) All project actions that propose to develop residential or
+22   mixed-use development within a station area are categorically exempt
+23   from the requirements of this chapter, subject to the rules of the
+24   department adopted according to RCW 43.21C.110(1)(a) that provide
+25   exceptions to the use of categorical exemptions adopted by the
+26   department. For the purpose of this subsection:
+27       (a) "Mixed-use development" has the same meaning as provided in
+28   section 3 of this act; and
+29       (b) "Station area" has the same meaning as provided in RCW
+30   36.70A.030.
+31       (6) Any categorical exemption adopted by a city or county under
+32   this section applies even if it differs from the categorical
+33   exemptions   adopted   by   rule   of   the   department  under   RCW
+34   43.21C.110(1)(a).   Nothing   in   this   section   shall  invalidate
+35   categorical exemptions or environmental review procedures adopted by
+36   a city or county under a planned action pursuant to RCW 43.21C.440.
+37   However, any categorical exemption adopted by a city or county under
+38   this section shall be subject to the rules of the department adopted
+39   according to RCW 43.21C.110(1)(a) that provide exceptions to the use
+40   of categorical exemptions adopted by the department.
+                                     p. 21                    3SHB 1491.SL
+ 1       NEW SECTION.   Sec. 8.   A new section is added to chapter 64.38
+ 2   RCW to read as follows:
+ 3       (1) Governing documents created after the effective date of this
+ 4   section and applicable to associations located fully or partially
+ 5   within a station area as defined in RCW 36.70A.030 may not prohibit
+ 6   the construction or development of multifamily housing or transit-
+ 7   oriented development density that must be permitted by cities under
+ 8   section 3 of this act or require off-street parking inconsistent or
+ 9   in conflict with section 5 of this act.
+10       (2) This section expires January 1, 2028.
+
+
+11       NEW SECTION.   Sec. 9.  A new section is added to chapter 64.90
+12   RCW to read as follows:
+13       Declarations and governing documents created after the effective
+14   date of this section and applicable to a common interest community
+15   located fully or partially within a station area as defined in RCW
+16   36.70A.030 may not prohibit the construction or development of
+17   multifamily housing or transit-oriented development density that must
+18   be permitted by cities under section 3 of this act or require off-
+19   street parking inconsistent or in conflict with section 5 of this
+20   act.
+
+
+21       NEW SECTION. Sec. 10. A new section is added to chapter 64.34
+22   RCW to read as follows:
+23       (1) A declaration created after the effective date of this
+24   section and applicable to an association located fully or partially
+25   within a station area as defined in RCW 36.70A.030 may not prohibit
+26   the construction or development of multifamily housing or transit-
+27   oriented development density that must be permitted by cities under
+28   section 3 of this act or require off-street parking inconsistent or
+29   in conflict with section 5 of this act.
+30       (2) This section expires January 1, 2028.
+
+
+31       NEW SECTION. Sec. 11. A new section is added to chapter 64.32
+32   RCW to read as follows:
+33       (1) A declaration created after the effective date of this
+34   section and applicable to an association of apartment owners located
+35   fully or partially within a station area as defined in RCW 36.70A.030
+36   may not prohibit the construction or development of multifamily
+37   housing or transit-oriented development density that must be
+                                     p. 22                    3SHB 1491.SL
+ 1   permitted by cities under section 3 of this act or require off-street
+ 2   parking inconsistent or in conflict with section 5 of this act.
+ 3       (2) This section expires January 1, 2028.
+
+
+ 4       Sec. 12. RCW 84.14.010 and 2024 c 332 s 17 are each amended to
+ 5   read as follows:
+ 6       The definitions in this section apply throughout this chapter
+ 7   unless the context clearly requires otherwise.
+ 8       (1) "Affordable housing" means residential housing that is rented
+ 9   by a person or household whose monthly housing costs, including
+10   utilities other than telephone, do not exceed thirty percent of the
+11   household's monthly income. For the purposes of housing intended for
+12   owner occupancy, "affordable housing" means residential housing that
+13   is within the means of low or moderate-income households.
+14       (2) "Campus facilities master plan" means the area that is
+15   defined by the University of Washington as necessary for the future
+16   growth and development of its campus facilities for campuses
+17   authorized under RCW 28B.45.020.
+18       (3) "City" means either (a) a city or town with a population of
+19   at least fifteen thousand, (b) the largest city or town, if there is
+20   no city or town with a population of at least fifteen thousand,
+21   located in a county planning under the growth management act, (c) a
+22   city or town with a population of at least five thousand located in a
+23   county subject to the provisions of RCW 36.70A.215, ((or)) (d) any
+24   city that otherwise does not meet the qualifications under (a)
+25   through (c) of this subsection, until December 31, 2031, that
+26   complies with RCW 84.14.020(1)(a)(iii) or 84.14.021(1)(b), or (e) for
+27   the exemption authorized in RCW 84.14.020(1)(a)(ii)(D), a city or
+28   town with a station area.
+29       (4) "Conversion" means the conversion of a nonresidential
+30   building, in whole or in part, to multiple-unit housing under this
+31   chapter.
+32       (5) "County" means a county with an unincorporated population of
+33   at least 170,000.
+34       (6) "Governing authority" means the local legislative authority
+35   of a city or a county having jurisdiction over the property for which
+36   an exemption may be applied for under this chapter.
+37       (7) "Growth management act" means chapter 36.70A RCW.
+38       (8) "Household" means a single person, family, or unrelated
+39   persons living together.
+                                     p. 23                    3SHB 1491.SL
+ 1       (9) "Low-income household" means a single person, family, or
+ 2   unrelated persons living together whose adjusted income is at or
+ 3   below eighty percent of the median family income adjusted for family
+ 4   size, for the county, city, or metropolitan statistical area, where
+ 5   the project is located, as reported by the United States department
+ 6   of housing and urban development.
+ 7       (10) "Moderate-income household" means a single person, family,
+ 8   or unrelated persons living together whose adjusted income is more
+ 9   than eighty percent but is at or below one hundred fifteen percent of
+10   the median family income adjusted for family size, for the county,
+11   city, or metropolitan statistical area, where the project is located,
+12   as reported by the United States department of housing and urban
+13   development.
+14       (11) "Multiple-unit housing" means a building or a group of
+15   buildings having four or more dwelling units not designed or used as
+16   transient accommodations and not including hotels and motels.
+17   Multifamily units may result from new construction or rehabilitated
+18   or conversion of vacant, underutilized, or substandard buildings to
+19   multifamily housing.
+20       (12) "Owner" means the property owner of record.
+21       (13) "Permanent residential occupancy" means multiunit housing
+22   that provides either rental or owner occupancy on a nontransient
+23   basis. This includes owner-occupied or rental accommodation that is
+24   leased for a period of at least one month. This excludes hotels and
+25   motels that predominately offer rental accommodation on a daily or
+26   weekly basis.
+27       (14)   "Rehabilitation   improvements"   means   modifications   to
+28   existing structures, that are vacant for twelve months or longer,
+29   that are made to achieve a condition of substantial compliance with
+30   existing building codes or modification to existing occupied
+31   structures which increase the number of multifamily housing units.
+32       (15) "Residential targeted area" means an area within an urban
+33   center or urban growth area that has been designated by the governing
+34   authority as a residential targeted area in accordance with this
+35   chapter.   With  respect   to   designations   after   July  1,   2007,
+36   "residential targeted area" may not include a campus facilities
+37   master plan.
+38       (16) "Rural county" means a county with a population between
+39   fifty thousand and seventy-one thousand and bordering Puget Sound.
+
+
+                                     p. 24                     3SHB 1491.SL
+ 1       (17) "Station area" has the same meaning as defined in RCW
+ 2   36.70A.030.
+ 3       (18) "Substantial compliance" means compliance with local
+ 4   building or housing code requirements that are typically required for
+ 5   rehabilitation as opposed to new construction.
+ 6       (((18))) (19) "Urban center" means a compact identifiable
+ 7   district where urban residents may obtain a variety of products and
+ 8   services. An urban center must contain:
+ 9       (a)   Several   existing   or   previous,    or   both,   business
+10   establishments that may include but are not limited to shops,
+11   offices, banks, restaurants, governmental agencies;
+12       (b) Adequate public facilities including streets, sidewalks,
+13   lighting, transit, domestic water, and sanitary sewer systems; and
+14       (c) A mixture of uses and activities that may include housing,
+15   recreation, and cultural activities in association with either
+16   commercial or office, or both, use.
+
+
+17       Sec. 13.   RCW 84.14.020 and 2021 c 187 s 3 are each amended to
+18   read as follows:
+19       (1)(a) The value of new housing construction, conversion, and
+20   rehabilitation improvements qualifying under this chapter is exempt
+21   from ad valorem property taxation, as follows:
+22       (i) For properties for which applications for certificates of tax
+23   exemption eligibility are submitted under this chapter before July
+24   22, 2007, the value is exempt for ten successive years beginning
+25   January 1 of the year immediately following the calendar year of
+26   issuance of the certificate;
+27       (ii) For properties for which applications for certificates of
+28   tax exemption eligibility are submitted under this chapter on or
+29   after July 22, 2007, the value is exempt:
+30       (A) For eight successive years beginning January 1st of the year
+31   immediately following the calendar year of issuance of the
+32   certificate;
+33       (B) For twelve successive years beginning January 1st of the year
+34   immediately following the calendar year of issuance of the
+35   certificate, if the property otherwise qualifies for the exemption
+36   under this chapter and meets the conditions in this subsection
+37   (1)(a)(ii)(B). For the property to qualify for the twelve-year
+38   exemption under this subsection, the applicant must commit to renting
+39   or selling at least twenty percent of the multifamily housing units
+                                     p. 25                    3SHB 1491.SL
+ 1   as affordable housing units to low and moderate-income households,
+ 2   and the property must satisfy that commitment and any additional
+ 3   affordability and income eligibility conditions adopted by the local
+ 4   government under this chapter. In the case of projects intended
+ 5   exclusively for owner occupancy, the minimum requirement of this
+ 6   subsection (1)(a)(ii)(B) may be satisfied solely through housing
+ 7   affordable to moderate-income households; ((or))
+ 8       (C) For 20 successive years beginning January 1st of the year
+ 9   immediately following the calendar year of issuance of the
+10   certificate, if the property otherwise qualifies for the exemption
+11   under this chapter and meets the conditions in this subsection
+12   (1)(a)(ii)(C). For the property to qualify for the 20-year exemption
+13   under this subsection, the project must be located within one mile of
+14   high capacity transit of at least 15 minute scheduled frequency, in a
+15   city that has implemented, as of July 25, 2021, a mandatory
+16   inclusionary zoning requirement for affordable housing that ensures
+17   affordability of housing units for a period of at least 99 years and
+18   that has a population of no more than 65,000 as measured on July 25,
+19   2021. To qualify for the exemption provided in this subsection
+20   (1)(a)(ii)(C), the applicant must commit to renting at least 20
+21   percent of the dwelling units as affordable to low-income households
+22   for a term of at least 99 years, and the property must satisfy that
+23   commitment and all required affordability and income eligibility
+24   conditions adopted by the local government under this chapter. A city
+25   must require the applicant to record a covenant or deed restriction
+26   that ensures the continuing rental of units subject to these
+27   affordability requirements consistent with the conditions in this
+28   subsection (1)(a)(ii)(C) for a period of no less than 99 years. The
+29   covenant or deed restriction must also address criteria and policies
+30   to maintain public benefit if the property is converted to a use
+31   other than which continues to provide for permanently affordable low-
+32   income housing consistent with this subsection (1)(a)(ii)(C); or
+33       (D) For 20 successive years beginning January 1st of the year
+34   immediately following the calendar year of issuance of the
+35   certificate, if the property is located fully or partially with a
+36   station area of a city and meets the affordability requirements in
+37   section 3(7)(a) of this act. A county may approve an exemption under
+38   this subsection for multifamily residential housing within a station
+39   area if the property otherwise qualifies for the exemption under this
+40   chapter and meets the density requirements in section 3(2)(a) of this
+                                     p. 26                    3SHB 1491.SL
+ 1   act and affordability requirements in section 3(7)(a) of this act. A
+ 2   city or county must require the applicant to record a covenant or
+ 3   deed restriction that ensures the continuing rental or ownership of
+ 4   units subject to the affordability requirements in section 3(7)(a) of
+ 5   this act for a period of no less than 50 years. The covenant or deed
+ 6   restriction must also address criteria and policies to maintain
+ 7   public benefit if the property is converted to a use other than one
+ 8   which continues to provide for permanently affordable low-income
+ 9   housing consistent with section 3(7)(a) of this act; and
+10       (iii) Until December 31, 2026, for a city as defined in RCW
+11   84.14.010(3)(d), for 12 successive years beginning January 1st of the
+12   year immediately following the calendar year of issuance of the
+13   certificate, if the property otherwise qualifies for the exemption
+14   under this chapter and meets the conditions in this subsection
+15   (1)(a)(iii). For the property to qualify for the 12-year exemption
+16   under this subsection, the applicant must commit to renting or
+17   selling at least 20 percent of the multifamily housing units as
+18   affordable housing units to low and moderate-income households, the
+19   property   must   satisfy   that   commitment   and   any  additional
+20   affordability and income eligibility conditions adopted by the local
+21   government under this chapter, and the area must be zoned to have an
+22   average minimum density equivalent to 15 dwelling units or more per
+23   gross acre, or for cities with a population over 20,000, the area
+24   must be zoned to have an average minimum density equivalent to 25
+25   dwelling units or more per gross acre. In the case of projects
+26   intended exclusively for owner occupancy, the minimum requirement of
+27   this subsection (1)(a)(iii) may be satisfied solely through housing
+28   affordable to low-income or moderate-income households.
+29       (b) The exemptions provided in (a)(i) through (iii) of this
+30   subsection do not include the value of land or nonhousing-related
+31   improvements not qualifying under this chapter.
+32       (c) For properties receiving an exemption as provided in
+33   (a)(ii)(B) of this subsection that are in compliance with existing
+34   contracts and where the certificate of tax exemption is set to expire
+35   after June 11, 2020, but before December 31, 2021, the exemption is
+36   extended until December 31, 2021, provided that the property must
+37   satisfy any eligibility criteria or limitations provided in this
+38   chapter as a condition to the existing exemption for a given property
+39   continue to be met. For all properties eligible to receive an
+40   extension pursuant to this subsection (1)(c), the city or county that
+                                     p. 27                    3SHB 1491.SL
+ 1   issued the initial certificate of tax exemption, as required in RCW
+ 2   84.14.090, must notify the county assessor and the applicant of the
+ 3   extension of the certificate of tax exemption.
+ 4       (2) When a local government adopts guidelines pursuant to RCW
+ 5   84.14.030(2) and includes conditions that must be satisfied with
+ 6   respect to individual dwelling units, rather than with respect to the
+ 7   multiple-unit housing as a whole or some minimum portion thereof, the
+ 8   exemption may, at the local government's discretion, be limited to
+ 9   the value of the qualifying improvements allocable to those dwelling
+10   units that meet the local guidelines.
+11       (3) In the case of rehabilitation of existing buildings, the
+12   exemption does not include the value of improvements constructed
+13   prior to the submission of the application required under this
+14   chapter. The incentive provided by this chapter is in addition to any
+15   other incentives, tax credits, grants, or other incentives provided
+16   by law.
+17       (4) This chapter does not apply to increases in assessed
+18   valuation made by the assessor on nonqualifying portions of building
+19   and value of land nor to increases made by lawful order of a county
+20   board of equalization, the department of revenue, or a county, to a
+21   class of property throughout the county or specific area of the
+22   county to achieve the uniformity of assessment or appraisal required
+23   by law.
+24       (5) At the conclusion of the exemption period, the value of the
+25   new housing construction, conversion, or rehabilitation improvements
+26   must be considered as new construction for the purposes of chapters
+27   84.55 and 36.21 RCW as though the property was not exempt under this
+28   chapter.
+29       (6) For properties that qualified for, satisfied the conditions
+30   of, and utilized the exemption under subsection (1)(a)(ii)(A) or (B)
+31   of this section, following the initial exemption period or the
+32   extension period authorized in subsection (1)(c) of this section, the
+33   exemption period may be extended for an additional 12 years for
+34   projects that are within 18 months of expiration contingent on city
+35   or county approval. For the property to qualify for an extension
+36   under this subsection (6), the applicant must meet at a minimum the
+37   locally adopted requirements for the property to qualify for an
+38   exemption  under   subsection  (1)(a)(ii)(B)   of  this   section  as
+39   applicable at the time of the extension application, and the
+40   applicant commits to renting or selling at least 20 percent of the
+                                     p. 28                    3SHB 1491.SL
+ 1   multifamily housing units as affordable housing units for low-income
+ 2   households.
+ 3       (7) At the end of both the tenth and eleventh years of an
+ 4   extension, for twelve-year extensions of the exemption, applicants
+ 5   must provide tenants of rent-restricted units with notification of
+ 6   intent to provide the tenant with rental relocation assistance as
+ 7   provided in subsection (8) of this section.
+ 8       (8)(a) Except as provided in (b) of this subsection, for any 12-
+ 9   year exemption authorized under subsection (1)(a)(ii)(B) or (iii) of
+10   this section after July 25, 2021, or for any 12-year exemption
+11   extension authorized under subsection (6) of this section, at the
+12   expiration of the exemption the applicant must provide tenant
+13   relocation assistance in an amount equal to one month's rent to a
+14   qualified tenant within the final month of the qualified tenant's
+15   lease. To be eligible for tenant relocation assistance under this
+16   subsection, the tenant must occupy an income-restricted unit at the
+17   time the exemption expires and must qualify as a low-income household
+18   under this chapter at the time relocation assistance is sought.
+19       (b) If affordability requirements consistent, at a minimum, with
+20   those required under subsection (1)(a)(ii)(B) or (iii) of this
+21   section remain in place for the unit after the expiration of the
+22   exemption, relocation assistance in an amount equal to one month's
+23   rent must be provided to a qualified tenant within the final month of
+24   a qualified tenant's lease who occupies an income-restricted unit at
+25   the time those additional affordability requirements cease to apply
+26   to the unit.
+27       (9) No new exemptions may be provided under this section
+28   beginning on or after January 1, 2032. No extensions may be granted
+29   under subsection (6) of this section on or after January 1, 2046.
+
+30       Sec. 14.   RCW 84.14.030 and 2021 c 187 s 9 are each amended to
+31   read as follows:
+32       An owner of property making application under this chapter must
+33   meet the following requirements:
+34       (1) The new or rehabilitated multiple-unit housing must be
+35   ((located)):
+36       (a) Located in a residential targeted area as designated by the
+37   city or county; or
+38       (b) Be located fully or partially within a station area if
+39   applying under RCW 84.14.020(1)(a)(ii)(D);
+                                     p. 29                    3SHB 1491.SL
+ 1       (2) The multiple-unit housing must meet guidelines as adopted by
+ 2   the governing authority that may include height, density, public
+ 3   benefit features, number and size of proposed development, parking,
+ 4   income limits for occupancy, limits on rents or sale prices, and
+ 5   other adopted requirements indicated necessary by the city or county.
+ 6   The required amenities should be relative to the size of the project
+ 7   and tax benefit to be obtained;
+ 8       (3) The new, converted, or rehabilitated multiple-unit housing
+ 9   must provide for a minimum of fifty percent of the space for
+10   permanent residential occupancy. In the case of existing occupied
+11   multifamily development, the multifamily housing must also provide
+12   for a minimum of four additional multifamily units. Existing
+13   multifamily vacant housing that has been vacant for twelve months or
+14   more does not have to provide additional multifamily units;
+15       (4) New construction multifamily housing and rehabilitation
+16   improvements must be completed within three years from the date of
+17   approval of the application, plus any extension authorized under RCW
+18   84.14.090(5);
+19       (5) Property proposed to be rehabilitated must fail to comply
+20   with one or more standards of the applicable state or local building
+21   or housing codes on or after July 23, 1995. If the property proposed
+22   to be rehabilitated is not vacant, an applicant must provide each
+23   existing tenant housing of comparable size, quality, and price and a
+24   reasonable opportunity to relocate; and
+25       (6) The applicant must enter into a contract with the city or
+26   county approved by the governing authority, or an administrative
+27   official or commission authorized by the governing authority, under
+28   which the applicant has agreed to the implementation of the
+29   development on terms and conditions satisfactory to the governing
+30   authority.
+
+31       Sec. 15.   RCW 84.14.060 and 2014 c 96 s 5 are each amended to
+32   read as follows:
+33       (1) The duly authorized administrative official or committee of
+34   the city or county may approve the application if it finds that:
+35       (a) A minimum of four new units are being constructed or in the
+36   case of occupied rehabilitation or conversion a minimum of four
+37   additional multifamily units are being developed;
+
+
+
+                                     p. 30                    3SHB 1491.SL
+ 1       (b) If applicable, the proposed multiunit housing project meets
+ 2   the affordable housing requirements as described in ((RCW 84.14.020))
+ 3   this chapter;
+ 4       (c) The proposed project is or will be, at the time of
+ 5   completion, in conformance with all local plans and regulations that
+ 6   apply at the time the application is approved;
+ 7       (d) The owner has complied with all standards and guidelines
+ 8   adopted by the city or county under this chapter and, if applicable,
+ 9   section 3 of this act; and
+10       (e) The site is located in a residential targeted area of an
+11   urban center or urban growth area that has been designated by the
+12   governing authority in accordance with procedures and guidelines
+13   indicated in RCW 84.14.040, or is located fully or partially within a
+14   station area if applying under RCW 84.14.020(1)(a)(ii)(D).
+15       (2) An application may not be approved after July 1, 2007, if any
+16   part of the proposed project site is within a campus facilities
+17   master plan, except as provided in RCW 84.14.040(1)(d).
+18       (3) An application may not be approved for a residential targeted
+19   area in a rural county on or after January 1, 2020.
+
+
+20       Sec. 16. RCW 84.14.090 and 2021 c 187 s 10 are each amended to
+21   read as follows:
+22       (1) Upon completion of rehabilitation or new construction for
+23   which an application for a limited tax exemption under this chapter
+24   has been approved and after issuance of the certificate of occupancy,
+25   the owner must file with the city or county the following:
+26       (a) A statement of the amount of rehabilitation or construction
+27   expenditures made with respect to each housing unit and the composite
+28   expenditures made in the rehabilitation or construction of the entire
+29   property;
+30       (b) A description of the work that has been completed and a
+31   statement that the rehabilitation improvements or new construction on
+32   the owner's property qualify the property for limited exemption under
+33   this chapter;
+34       (c) If applicable, a statement that the project meets the
+35   affordable housing requirements as described in ((RCW 84.14.020))
+36   this chapter; and
+37       (d) A statement that the work has been completed within three
+38   years of the issuance of the conditional certificate of tax
+39   exemption.
+                                     p. 31                    3SHB 1491.SL
+ 1       (2) Within ((thirty)) 30 days after receipt of the statements
+ 2   required under subsection (1) of this section, the authorized
+ 3   representative of the city or county must determine whether the work
+ 4   completed, and the affordability of the units, is consistent with the
+ 5   application and the contract approved by the city or county and is
+ 6   qualified for a limited tax exemption under this chapter. The city or
+ 7   county must also determine which specific improvements completed meet
+ 8   the requirements and required findings.
+ 9       (3) If the rehabilitation, conversion, or construction is
+10   completed within three years of the date the application for a
+11   limited tax exemption is filed under this chapter, or within an
+12   authorized extension of this time limit, and the authorized
+13   representative of the city or county determines that improvements
+14   were constructed consistent with the application and other applicable
+15   requirements,    including   if    applicable,   affordable   housing
+16   requirements, and the owner's property is qualified for a limited tax
+17   exemption under this chapter, the city or county must file the
+18   certificate of tax exemption with the county assessor within ((ten))
+19   10 days of the expiration of the ((thirty)) 30-day period provided
+20   under subsection (2) of this section.
+21       (4) The authorized representative of the city or county must
+22   notify the applicant that a certificate of tax exemption is not going
+23   to be filed if the authorized representative determines that:
+24       (a) The rehabilitation or new construction was not completed
+25   within three years of the application date, or within any authorized
+26   extension of the time limit;
+27       (b) The improvements were not constructed consistent with the
+28   application or other applicable requirements;
+29       (c) If applicable, the affordable housing requirements as
+30   described in ((RCW 84.14.020)) this chapter were not met; or
+31       (d) The owner's property is otherwise not qualified for limited
+32   exemption under this chapter.
+33       (5) If the authorized representative of the city or county finds
+34   that construction or rehabilitation of multiple-unit housing was not
+35   completed within the required time period due to circumstances beyond
+36   the control of the owner and that the owner has been acting and could
+37   reasonably be expected to act in good faith and with due diligence,
+38   the governing authority or the city or county official authorized by
+39   the governing authority may extend the deadline for completion of
+40   construction or rehabilitation for a period not to exceed ((twenty-
+                                     p. 32                    3SHB 1491.SL
+ 1   four)) 24 consecutive months. For preliminary or final applications
+ 2   submitted on or before February 15, 2020, with any outstanding
+ 3   application requirements, such as obtaining a temporary certificate
+ 4   of occupancy, the city or county may choose to extend the deadline
+ 5   for completion for an additional five years. The five-year extension
+ 6   begins immediately following the completion of any outstanding
+ 7   applications or previously authorized extensions, whichever is later.
+ 8       (6) The governing authority may provide by ordinance for an
+ 9   appeal of a decision by the deciding officer or authority that an
+10   owner is not entitled to a certificate of tax exemption to the
+11   governing authority, a hearing examiner, or other city or county
+12   officer authorized by the governing authority to hear the appeal in
+13   accordance with such reasonable procedures and time periods as
+14   provided by ordinance of the governing authority. The owner may
+15   appeal a decision by the deciding officer or authority that is not
+16   subject to local appeal or a decision by the local appeal authority
+17   that the owner is not entitled to a certificate of tax exemption in
+18   superior court under RCW 34.05.510 through 34.05.598, if the appeal
+19   is filed within ((thirty)) 30 days of notification by the city or
+20   county to the owner of the decision being challenged.
+
+
+21       Sec. 17.   RCW 84.14.100 and 2021 c 187 s 5 are each amended to
+22   read as follows:
+23       (1) Thirty days after the anniversary of the date of the
+24   certificate of tax exemption and each year for the tax exemption
+25   period, the owner of the rehabilitated or newly constructed property,
+26   or the qualified nonprofit or local government that will assure
+27   permanent affordable homeownership for at least 25 percent of the
+28   units for properties receiving an exemption under RCW 84.14.021, must
+29   file with a designated authorized representative of the city or
+30   county an annual report indicating the following:
+31       (a) A statement of occupancy and vacancy of the rehabilitated or
+32   newly constructed property during the twelve months ending with the
+33   anniversary date;
+34       (b) A certification by the owner that the property has not
+35   changed use and, if applicable, that the property has been in
+36   compliance with the affordable housing requirements as described in
+37   ((RCW 84.14.020)) this chapter since the date of the certificate
+38   approved by the city or county;
+
+
+                                     p. 33                    3SHB 1491.SL
+ 1       (c) A description of changes or improvements constructed after
+ 2   issuance of the certificate of tax exemption; and
+ 3       (d) Any additional information requested by the city or county in
+ 4   regards to the units receiving a tax exemption.
+ 5       (2) All cities or counties, which issue certificates of tax
+ 6   exemption for multiunit housing that conform to the requirements of
+ 7   this chapter, must report annually by April 1st of each year,
+ 8   beginning in 2007, to the department of commerce. A city or county
+ 9   must be in compliance with the reporting requirements of this section
+10   to offer certificates of tax exemption for multiunit housing
+11   authorized in this chapter. The report must include the following
+12   information:
+13       (a) The number of tax exemption certificates granted;
+14       (b) The total number and type of units produced or to be
+15   produced;
+16       (c) The number, size, and type of units produced or to be
+17   produced meeting affordable housing requirements;
+18       (d) The actual development cost of each unit produced;
+19       (e) The total monthly rent or total sale amount of each unit
+20   produced;
+21       (f) The annual household income and household size for each of
+22   the affordable units receiving a tax exemption and a summary of these
+23   figures for the city or county; and
+24       (g) The value of the tax exemption for each project receiving a
+25   tax exemption and the total value of tax exemptions granted.
+26       (3)(a) The department of commerce must adopt and implement a
+27   program to effectively audit or review that the owner or operator of
+28   each property for which a certificate of tax exemption has been
+29   issued, except for those properties receiving an exemption that are
+30   owned or operated by a nonprofit or for those properties receiving an
+31   exemption from a city or county that operates an independent audit or
+32   review program, is offering the number of units at rents as committed
+33   to in the approved application for an exemption and that the tenants
+34   are being properly screened to be qualified for an income-restricted
+35   unit. The audit or review program must be adopted in consultation
+36   with local governments and other stakeholders and may be based on
+37   auditing a percentage of income-restricted units or properties
+38   annually. A private owner or operator of a property for which a
+39   certificate of tax exemption has been issued under this chapter, must
+40   be audited at least once every five years.
+                                     p. 34                    3SHB 1491.SL
+ 1       (b) If the review or audit required under (a) of this subsection
+ 2   for a given property finds that the owner or operator is not offering
+ 3   the number of units at rents as committed to in the approved
+ 4   application or is not properly screening tenants for income-
+ 5   restricted units, the department of commerce must notify the city or
+ 6   county and the city or county must impose and collect a sliding scale
+ 7   penalty not to exceed an amount calculated by subtracting the amount
+ 8   of rents that would have been collected had the owner or operator
+ 9   complied with their commitment from the amount of rents collected by
+10   the owner or operator for the income-restricted units, with
+11   consideration of the severity of the noncompliance. If a subsequent
+12   review or audit required under (a) of this subsection for a given
+13   property finds continued substantial noncompliance with the program
+14   requirements, the exemption certificate must be canceled pursuant to
+15   RCW 84.14.110.
+16       (c) The department of commerce may impose and collect a fee, not
+17   to exceed the costs of the audit or review, from the owner or
+18   operator of any property subject to an audit or review required under
+19   (a) of this subsection.
+20       (4) The department of commerce must provide guidance to cities
+21   and counties, which issue certificates of tax exemption for multiunit
+22   housing that conform to the requirements of this chapter, on best
+23   practices in managing and reporting for the exemption programs
+24   authorized under this chapter, including guidance for cities and
+25   counties to collect and report demographic information for tenants of
+26   units receiving a tax exemption under this chapter.
+27       (5) This section expires January 1, 2058.
+
+28       Sec. 18. RCW 84.14.110 and 2012 c 194 s 10 are each amended to
+29   read as follows:
+30       (1) If improvements have been exempted under this chapter, the
+31   improvements continue to be exempted for the applicable period under
+32   RCW 84.14.020, so long as they are not converted to another use and
+33   continue to satisfy all applicable conditions. If the owner intends
+34   to convert the multifamily development to another use, or if
+35   applicable, if the owner intends to discontinue compliance with the
+36   affordable housing requirements as described in ((RCW 84.14.020))
+37   this chapter or any other condition to exemption, the owner must
+38   notify the assessor within sixty days of the change in use or
+39   intended discontinuance. If, after a certificate of tax exemption has
+                                     p. 35                    3SHB 1491.SL
+ 1   been filed with the county assessor, the authorized representative of
+ 2   the governing authority discovers that a portion of the property is
+ 3   changed or will be changed to a use that is other than residential or
+ 4   that housing or amenities no longer meet the requirements, including,
+ 5   if applicable, affordable housing requirements, as previously
+ 6   approved or agreed upon by contract between the city or county and
+ 7   the owner and that the multifamily housing, or a portion of the
+ 8   housing, no longer qualifies for the exemption, the tax exemption
+ 9   must be canceled and the following must occur:
+10       (a) Additional real property tax must be imposed upon the value
+11   of the nonqualifying improvements in the amount that would normally
+12   be imposed, plus a penalty must be imposed amounting to twenty
+13   percent. This additional tax is calculated based upon the difference
+14   between the property tax paid and the property tax that would have
+15   been paid if it had included the value of the nonqualifying
+16   improvements dated back to the date that the improvements were
+17   converted to a nonmultifamily use;
+18       (b) The tax must include interest upon the amounts of the
+19   additional tax at the same statutory rate charged on delinquent
+20   property taxes from the dates on which the additional tax could have
+21   been paid without penalty if the improvements had been assessed at a
+22   value without regard to this chapter; and
+23       (c) The additional tax owed together with interest and penalty
+24   must become a lien on the land and attach at the time the property or
+25   portion of the property is removed from multifamily use or the
+26   amenities no longer meet applicable requirements, and has priority to
+27   and must be fully paid and satisfied before a recognizance, mortgage,
+28   judgment, debt, obligation, or responsibility to or with which the
+29   land may become charged or liable. The lien may be foreclosed upon
+30   expiration of the same period after delinquency and in the same
+31   manner provided by law for foreclosure of liens for delinquent real
+32   property taxes. An additional tax unpaid on its due date is
+33   delinquent. From the date of delinquency until paid, interest must be
+34   charged at the same rate applied by law to delinquent ad valorem
+35   property taxes.
+36       (2) Upon a determination that a tax exemption is to be canceled
+37   for a reason stated in this section, the governing authority or
+38   authorized representative must notify the record owner of the
+39   property as shown by the tax rolls by mail, return receipt requested,
+40   of the determination to cancel the exemption. The owner may appeal
+                                     p. 36                    3SHB 1491.SL
+ 1   the   determination  to   the   governing  authority   or   authorized
+ 2   representative, within thirty days by filing a notice of appeal with
+ 3   the clerk of the governing authority, which notice must specify the
+ 4   factual and legal basis on which the determination of cancellation is
+ 5   alleged to be erroneous. The governing authority or a hearing
+ 6   examiner or other official authorized by the governing authority may
+ 7   hear the appeal. At the hearing, all affected parties may be heard
+ 8   and all competent evidence received. After the hearing, the deciding
+ 9   body or officer must either affirm, modify, or repeal the decision of
+10   cancellation of exemption based on the evidence received. An
+11   aggrieved party may appeal the decision of the deciding body or
+12   officer to the superior court under RCW 34.05.510 through 34.05.598.
+13       (3) Upon determination by the governing authority or authorized
+14   representative to terminate an exemption, the county officials having
+15   possession of the assessment and tax rolls must correct the rolls in
+16   the manner provided for omitted property under RCW 84.40.080. The
+17   county assessor must make such a valuation of the property and
+18   improvements as is necessary to permit the correction of the rolls.
+19   The value of the new housing construction, conversion, and
+20   rehabilitation improvements added to the rolls is considered as new
+21   construction for the purposes of chapter 84.55 RCW. The owner may
+22   appeal the valuation to the county board of equalization under
+23   chapter 84.48 RCW and according to the provisions of RCW 84.40.038.
+24   If there has been a failure to comply with this chapter, the property
+25   must be listed as an omitted assessment for assessment years
+26   beginning January 1 of the calendar year in which the noncompliance
+27   first occurred, but the listing as an omitted assessment may not be
+28   for a period more than three calendar years preceding the year in
+29   which the failure to comply was discovered.
+
+30       NEW SECTION. Sec. 19. A new section is added to chapter 84.14
+31   RCW to read as follows:
+32       The governing authority of a city with a station area must adopt
+33   and implement standards and guidelines to be used in considering
+34   applications and making the determinations required under RCW
+35   84.14.060. The standards and guidelines must establish basic
+36   requirements for both new construction and rehabilitation, which must
+37   include:
+38       (1) Application process and procedures;
+
+
+                                     p. 37                    3SHB 1491.SL
+ 1       (2) Income and rent standards for affordable units that meet the
+ 2   requirements of section 3(7)(a) of this act;
+ 3       (3) Requirements that address demolition of existing structures
+ 4   and site utilization; and
+ 5       (4) Building requirements that comply with this act.
+
+
+ 6       Sec. 20. RCW 82.02.060 and 2023 c 337 s 10 are each amended to
+ 7   read as follows:
+ 8       The local ordinance by which impact fees are imposed:
+ 9       (1) Shall include a schedule of impact fees which shall be
+10   adopted for each type of development activity that is subject to
+11   impact fees, specifying the amount of the impact fee to be imposed
+12   for each type of system improvement. The schedule shall be based upon
+13   a formula or other method of calculating such impact fees. The
+14   schedule shall reflect the proportionate impact of new housing units,
+15   including multifamily and condominium units, based on the square
+16   footage, number of bedrooms, or trips generated, in the housing unit
+17   in order to produce a proportionally lower impact fee for smaller
+18   housing units. In determining proportionate share, the formula or
+19   other method of calculating impact fees shall incorporate, among
+20   other things, the following:
+21       (a)   The   cost  of  public   facilities   necessitated  by   new
+22   development;
+23       (b) An adjustment to the cost of the public facilities for past
+24   or future payments made or reasonably anticipated to be made by new
+25   development to pay for particular system improvements in the form of
+26   user fees, debt service payments, taxes, or other payments earmarked
+27   for or proratable to the particular system improvement;
+28       (c) The availability of other means of funding public facility
+29   improvements;
+30       (d) The cost of existing public facilities improvements; and
+31       (e) The methods by which public facilities improvements were
+32   financed;
+33       (2) May provide an exemption for low-income housing, and other
+34   development   activities  with   broad   public   purposes,  including
+35   development of an early learning facility, from these impact fees,
+36   provided that the impact fees for such development activity shall be
+37   paid from public funds other than impact fee accounts;
+38       (3)(a) May not impose an impact fee on development activities of
+39   an early learning facility greater than that imposed on commercial
+                                     p. 38                    3SHB 1491.SL
+ 1   retail or commercial office development activities that generate a
+ 2   similar number, volume, type, and duration of vehicle trips;
+ 3       (b) When a facility or development has more than one use, the
+ 4   limitations in this subsection (3) or the exemption applicable to an
+ 5   early learning facility in subsections (2) and (4) of this section
+ 6   only apply to that portion that is developed as an early learning
+ 7   facility. The impact fee assessed on an early learning facility in
+ 8   such a development or facility may not exceed the least of the impact
+ 9   fees   assessed  on   comparable  businesses   in   the  facility  or
+10   development;
+11       (4) May provide an exemption from impact fees for low-income
+12   housing or for early learning facilities. Local governments that
+13   grant exemptions for low-income housing or for early learning
+14   facilities under this subsection (4) may either: Grant a partial
+15   exemption of not more than ((eighty)) 80 percent of impact fees, in
+16   which case there is no explicit requirement to pay the exempted
+17   portion of the fee from public funds other than impact fee accounts;
+18   or provide a full waiver, in which case the remaining percentage of
+19   the exempted fee must be paid from public funds other than impact fee
+20   accounts, except as provided in (b) of this subsection. These
+21   exemptions are subject to the following requirements:
+22       (a) An exemption for low-income housing granted under subsection
+23   (2) of this section or this subsection (4) must be conditioned upon
+24   requiring the developer to record a covenant that, except as provided
+25   otherwise by this subsection, prohibits using the property for any
+26   purpose other than for low-income housing. At a minimum, the covenant
+27   must address price restrictions and household income limits for the
+28   low-income housing, and that if the property is converted to a use
+29   other than for low-income housing, the property owner must pay the
+30   applicable impact fees in effect at the time of conversion;
+31       (b) An exemption for early learning facilities granted under
+32   subsection (2) of this section or this subsection (4) may be a full
+33   waiver without an explicit requirement to pay the exempted portion of
+34   the fee from public funds other than impact fee accounts if the local
+35   government requires the developer to record a covenant that requires
+36   that at least 25 percent of the children and families using the early
+37   learning facility qualify for state subsidized child care, including
+38   early childhood education and assistance under chapter 43.216 RCW,
+39   and that provides that if the property is converted to a use other
+40   than for an early learning facility, the property owner must pay the
+                                     p. 39                    3SHB 1491.SL
+ 1   applicable impact fees in effect at the time of conversion, and that
+ 2   also provides that if at no point during a calendar year does the
+ 3   early learning facility achieve the required percentage of children
+ 4   and families qualified for state subsidized child care using the
+ 5   early learning facility, the property owner must pay 20 percent of
+ 6   the impact fee that would have been imposed on the development had
+ 7   there not been an exemption within 90 days of the local government
+ 8   notifying the property owner of the breach, and any balance remaining
+ 9   thereafter shall be a lien on the property; and
+10       (c) Covenants required by (a) and (b) of this subsection must be
+11   recorded with the applicable county auditor or recording officer. A
+12   local government granting an exemption under subsection (2) of this
+13   section or this subsection (4) for low-income housing or an early
+14   learning facility may not collect revenue lost through granting an
+15   exemption by increasing impact fees unrelated to the exemption. A
+16   school district who receives school impact fees must approve any
+17   exemption under subsection (2) of this section or this subsection
+18   (4);
+19       (5) Shall provide a credit for the value of any dedication of
+20   land for, improvement to, or new construction of any system
+21   improvements provided by the developer, to facilities that are
+22   identified in the capital facilities plan and that are required by
+23   the county, city, or town as a condition of approving the development
+24   activity;
+25       (6) Shall allow the county, city, or town imposing the impact
+26   fees to adjust the standard impact fee at the time the fee is imposed
+27   to consider unusual circumstances in specific cases to ensure that
+28   impact fees are imposed fairly;
+29       (7) Shall include a provision for calculating the amount of the
+30   fee to be imposed on a particular development that permits
+31   consideration of studies and data submitted by the developer to
+32   adjust the amount of the fee;
+33       (8) Shall establish one or more reasonable service areas within
+34   which it shall calculate and impose impact fees for various land use
+35   categories per unit of development;
+36       (9) May provide for the imposition of an impact fee for system
+37   improvement costs previously incurred by a county, city, or town to
+38   the extent that new growth and development will be served by the
+39   previously constructed improvements provided such fee shall not be
+40   imposed to make up for any system improvement deficiencies; ((and))
+                                     p. 40                    3SHB 1491.SL
+ 1       (10) Shall provide a 50 percent reduction of the impact fees
+ 2   specified in the schedule of impact fees for system improvements
+ 3   under RCW 82.02.090(7)(a) if the project is within a station area and
+ 4   claiming a multiple-unit housing property tax exemption under RCW
+ 5   84.14.020(1)(a)(ii)(D); and
+ 6       (11) Must adopt or amend by ordinance, and incorporate into their
+ 7   development regulations, zoning regulations, and other official
+ 8   controls the requirements of this section to take effect six months
+ 9   after the jurisdiction's next periodic comprehensive plan update
+10   required under RCW 36.70A.130.
+11       For purposes of this section, "low-income housing" means housing
+12   with a monthly housing expense, that is no greater than ((thirty)) 30
+13   percent of ((eighty)) 80 percent of the median family income adjusted
+14   for family size, for the county where the project is located, as
+15   reported by the United States department of housing and urban
+16   development.
+17       For the purposes of this section, "early learning facility" has
+18   the same meaning as in RCW 43.31.565.
+
+
+19       Sec. 21.   RCW 82.02.090 and 2023 c 121 s 2 are each amended to
+20   read as follows:
+21       The definitions in this section apply throughout this section and
+22   RCW 82.02.050 through 82.02.080 unless the context clearly requires
+23   otherwise.
+24       (1) "Development activity" means any construction or expansion of
+25   a building, structure, or use, any change in use of a building or
+26   structure, or any changes in the use of land, that creates additional
+27   demand and need for public facilities. "Development activity" does
+28   not include:
+29       (a) Buildings or structures constructed by a regional transit
+30   authority; or
+31       (b) Buildings or structures constructed as shelters that provide
+32   emergency housing for people experiencing homelessness, or emergency
+33   shelters for victims of domestic violence, as defined in RCW
+34   70.123.020.
+35       (2) "Development approval" means any written authorization from a
+36   county, city, or town which authorizes the commencement of
+37   development activity.
+38       (3) "Impact fee" means a payment of money imposed upon
+39   development as a condition of development approval to pay for public
+                                     p. 41                    3SHB 1491.SL
+ 1   facilities needed to serve new growth and development, and that is
+ 2   reasonably related to the new development that creates additional
+ 3   demand and need for public facilities, that is a proportionate share
+ 4   of the cost of the public facilities, and that is used for facilities
+ 5   that reasonably benefit the new development. "Impact fee" does not
+ 6   include a reasonable permit or application fee.
+ 7       (4) "Owner" means the owner of record of real property, although
+ 8   when real property is being purchased under a real estate contract,
+ 9   the purchaser is considered the owner of the real property if the
+10   contract is recorded.
+11       (5) "Project improvements" mean site improvements and facilities
+12   that are planned and designed to provide service for a particular
+13   development project and that are necessary for the use and
+14   convenience of the occupants or users of the project, and are not
+15   system improvements. An improvement or facility included in a capital
+16   facilities plan approved by the governing body of the county, city,
+17   or town is not considered a project improvement.
+18       (6) "Proportionate share" means that portion of the cost of
+19   public facility improvements that are reasonably related to the
+20   service demands and needs of new development.
+21       (7) "Public facilities" means the following capital facilities
+22   owned or operated by government entities: (a) Public streets, roads,
+23   and bicycle and pedestrian facilities that were designed with
+24   multimodal commuting as an intended use; (b) publicly owned parks,
+25   open space, and recreation facilities; (c) school facilities; and (d)
+26   fire protection facilities.
+27       (8) "Service area" means a geographic area defined by a county,
+28   city, town, or intergovernmental agreement in which a defined set of
+29   public facilities provide service to development within the area.
+30   Service areas must be designated on the basis of sound planning or
+31   engineering principles.
+32       (9) "Station area" has the same meaning as defined in RCW
+33   36.70A.030.
+34       (10) "System improvements" mean public facilities that are
+35   included in the capital facilities plan and are designed to provide
+36   service to service areas within the community at large, in contrast
+37   to project improvements.
+
+
+38       NEW SECTION. Sec. 22. Sections 12 through 19 of this act apply
+39   to property taxes levied for collection in 2026 and thereafter.
+                                     p. 42                    3SHB 1491.SL
+1       NEW SECTION. Sec. 23. If specific funding for the purposes of
+2   this act, referencing this act by bill or chapter number, is not
+3   provided by June 30, 2025, in the omnibus appropriations act, this
+4   act is null and void.
+
+        Passed by the House April 22, 2025.
+        Passed by the Senate April 15, 2025.
+        Approved by the Governor May 13, 2025.
+        Filed in Office of Secretary of State May 14, 2025.
+
+                                --- END ---
+
+
+
+
+                                   p. 43                      3SHB 1491.SL
+
