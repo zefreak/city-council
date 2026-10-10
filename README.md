@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 47 — through the 7 Oct evening run: **Clark adopts the comp plan (Ord. 2026-10-01) at 1pm on 13 Oct, one hour after written comment closes; ordinance not attached**; the 6 Oct meeting was lost to a quorum failure and carried to 13 Oct with a Sheriff fee hearing that more than doubles eviction writ fees ($55→$135, $95→$220); Vancouver 12 Oct HB 1491 final vote, with the ordinance's "two or more bedrooms" looser than the statute's "more than two" and an MFTE companion on consent that omits the 150% income-growth rule from the code; cultural access conflict-of-interest ordinance (three commissioners applied); "City Council Vacancies" unexplained; Clark 14 Oct TIP ($260.8M) and parks CIP ($89.8M, new parks "purposefully" slowed). Fetcher fixed for CivicClerk's `streamUrl` change |
+| Briefs written | 49 — through the 9 Oct evening run: **Clark published Ordinance 2026-10-01 at ~3:15pm Fri 9 Oct. The Council had already denied the Camas and La Center-north farmland de-designations on 5 Oct and approved La Center SW and both Ridgefield expansions; Tuesday 13 Oct ratifies. Written comment by noon 13 Oct preserves Hearings Board appeal standing (RCW 36.70A.280(2)(b))**. Traffic impact fees confirmed (rural $398→$1,368/trip); MHP overlay adopted with the "not economically viable" exit intact; shelter code bans "temporary structures"; Housing Commission ordered. EMSD2 12 Oct: AMR +10% (max) vs CPI 4.4%, cost table unreadable. Vancouver CCRA 15 Oct: dev fees "lowest of 7" but framed as a risk; parking scofflaw boots/impound with no vehicle-residency carve-out. Earlier: Sheriff eviction writ fees $55→$135; Vancouver HB 1491 "two or more bedrooms" looser than statute |
 
 ## Layout
 
@@ -325,6 +325,10 @@ that ever changes.
   `vancouver.municipal.codes/VMC/<section>` — it 200s to `curl` with a browser UA, prints the
   ordinance history and the "current through" ordinance, and is the same publisher the old
   `codepublishing.com` URL redirects to. Cache both texts side by side.
+  **Clark County's code is not there.** `codepublishing.com/WA/ClarkCounty/` now points only to
+  `ecode360.com/CL4705`, which renders in the browser, and the `*.county.codes` guesses 403. So a Clark
+  County redline (e.g. the Ordinance 2026-10-01 code exhibits, 9 October 2026) cannot be diffed from
+  `curl` alone. Say "direction not established" rather than guess.
 - **`enablePublicSpeakerSignup` and `enableWrittenComment` are unreliable and lean false.** Both
   returned **False** for the 14 September 2026 City Council meeting, whose agenda page sets out
   three registration routes and a noon written-comment deadline. They appear to report whether the

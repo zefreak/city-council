@@ -79,3 +79,16 @@ Nothing else on the agenda.
 - The 15 October County Planning Commission agenda and its comment rules. Not fetched.
 - The TIP project-by-project schedule (slides 12–14) and the free parking days calendar. Both are
   images.
+
+## Update, 9 October — the stormwater plan is now attached
+
+The presentation was posted after the 7 October run (doc 238301, cached at
+`data/clark-county/2026-10-14-ws/238301.txt`). **It is routine and mostly good.** It funds 32
+projects for **$23.5M over 2027–2032**: $12.97M capital repair, $5.74M water quality (concentrated on
+lower Salmon Creek tributaries and the Hwy 99 corridor), $1.63M habitat, $864K reforestation and $600K
+property acquisition. Funding is the Clean Water Fund ($9.3M, 40%), REET 2 ($8.7M, 37%) and state
+grants ($5.5M, 23%), plus an existing $3.4M state loan at 0.4%. The deck says the programme *"does not
+construct stormwater facilities to support new development"*. It addresses existing development only,
+so this is not a hidden growth subsidy. It is adopted by resolution, with **no public hearing**
+(slide 3). The Planning Commission hearing is on 15 October and Council adoption on 3 November.
+Nothing to act on. The earlier "flagged on title alone" note above is superseded.

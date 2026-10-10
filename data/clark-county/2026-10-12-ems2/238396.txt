@@ -1,0 +1,106 @@
+Priorities 1 & 2 Time Life Priority              Power BI Desktop
+
+
+
+
+       High Density     Low Density
+       n       %        n     %
+
+1/2   1,507 91.57% 130       90.00%
+
+      Priorities 3 & 4 Emergent                                                      Q1 2026
+                                                                                     Q2 2026
+        High Density     Low Density                                                 Q3 2026
+        n       %         n     %                                                    Q4 2026
+                                                                                     Q1 2027
+3/4    1,068   96.72% 464 95.04%                                                     Q2 2027
+                                                                                     Q3 2027
+                                                                                     Q4 2027
+      Priorities 5 & 6 Emergent              Non 911 Routine (IFT)
+                                                                                     Q1 2028
+                                                                                     Q2 2028
+       High Density     Low Density          Scheduled              UnScheduled
+                                                                                     Q3 2028
+       n       %         n     %           n        %               n      %
+                                                                                     Q4 2028
+                                       
+
+5/6    784     92.98%   255 98.04%         102        98.04%        703   99.00%
+                                                    Power BI Desktop
+
+
+
+     6                  4,208         0.03%                                                      198
+MA Received            Total Calls   Mutual Aid %                                           MA Given
+
+
+
+
+              Mutual Aid Received                                                  Mutual Aid Given
+                                                                                                                     January
+                4                                                                                      76
+                                                                                                 70                  February
+                                                                                                                     March
+                                                                          52
+                                                                                                                     April
+                               2                                                                                     May
+                                                                                                                     June
+                                                                                                                     July
+                                                                                                                     August
+
+               April          May                                        April                   May   June          September
+                                                                                                                     October
+              Mutual Aid Received                                                  Mutual Aid Given                  November
+                                                                                                                     December
+                                                                          D2 LD                               167
+
+                                                                         D2 HD              21
+ Clark                                  6
+                                                              North Country EMS         8
+
+                                                               Non Contract Area    2
+                                                                                                         Power BI Desktop
+
+         Q1            Q2           Q3          Q4             Q1              Q2          Q3     Q4         Q1          Q2        Q3          Q4                APPROVED
+        2026          2026         2026        2026           2027            2027        2027   2027       2028        2028      2028        2028
+                                                                                                                                                                 DENIED
+
+
+
+
+Exception Detail Report Final                                                                     Exceptions by Quarter
+QuarterAndYear Exemption Approved Exemption Denied Total                                                APPROVED    DENIED
+
+ Q1 2026                               19                     10        29
+                                                                                                                                                                    23
+ Q2 2026                               23                      1        24                                                         19
+   Total                                42                     11        53                                                                        10
+                                                                                                                                                                                   1
+
+                                                                                                                                         Q1 2026                         Q2 2026
+
+
+
+
+Exceptions Requested by Type                                                                      Exception Detail Exception Report
+                                                                                                   Date            IncidentNumber ExemptionReason                                      ExemptionStatus Documentation
+                         BLS to ALS Upgrade                                          11            
+
+                        Access: Construction                                 8
+                                                                                                   06/29/2026 261800584           Downgraded/Slowed Response                           APPROVED             
+                                                                                                   06/29/2026 261800915           Access: Construction                                 APPROVED             
+              Downgraded/Slowed Response                                 7
+                                                                                                   06/23/2026 261740941           Access: Construction                                 APPROVED             
+  Call Upgraded to ALS Requiring Reassign…                           6
+                                                                                                   06/22/2026 261730850           Access: Construction                                 APPROVED             
+                   Access: Construction Zone              3
+                                                                                                   06/21/2026 261720546           Ambulance Diversion to Higher Priority Call          APPROVED             
+           Call Downgraded to Code 1 by Fire              3
+                                                                                                   06/21/2026 261720740           Access: Construction                                 APPROVED             
+                        Severe Weather: Fog               3
+                                                                                                   06/18/2026 261690354           BLS to ALS Upgrade                                   APPROVED             
+ Ambulance Diversion to Higher Priority Call          2
+                                                                                                   06/17/2026 261680277           Access: Address Change                               DENIED               
+ AMR Requested Code 1 by Provider On S…               2
+                                                                                                   06/12/2026 261630572           BLS to ALS Upgrade                                   APPROVED             
+

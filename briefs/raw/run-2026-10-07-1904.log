@@ -5,3 +5,34 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-10-07-digest.md
 [19:04:43] digest written: /home/scottr/research/city-council/briefs/raw/2026-10-07-digest.md
 [19:04:43] invoking claude (model=opus)
+The briefs are written and pushed to main (61c9ebd), and the rolling page is rebuilt, so it's live. The notification summary is in `.last-bottom-line.txt`.
+
+**Bottom line:** Clark County votes to adopt its 20-year comprehensive plan (Ordinance 2026-10-01) at **1pm on Tuesday 13 October**. Written comment closes at **noon the same day**, one hour earlier. The adopting ordinance isn't attached to the agenda or posted on the comp plan page, whose newest documents are dated 29 September. The digest cut the agenda off before this item, so I only found it by opening the agenda PDF.
+
+**Other findings**
+- **Clark, 13 Oct:**
+  - The 6 Oct meeting was cancelled for lack of a quorum and its items moved to 13 Oct.
+  - A new Sheriff's fee ordinance raises eviction writ fees from $55 to $135 and from $95 to $220. Ordinary service fees rise about 33%. No cost study is attached, and community outreach is listed as "None".
+  - The HB 2060 housing-fund agreement still has no dollar figure attached.
+- **Vancouver, 12 Oct:**
+  - **HB 1491 hearing and final vote:** the ordinance's family-sized option says "two or more bedrooms", but the state law (3SHB 1491 §3(7)(a)(ii)) says "more than two". The companion tax-exemption (MFTE) ordinance on consent words it a third way.
+  - **MFTE ordinance:** it also leaves the HB 1494 rule letting a tenant's income rise to 150% of the limit out of the code text, although the staff report promises it.
+  - None of the drafting errors flagged on 5 October has been fixed.
+- **Arts tax amendment:** it's a good conflict-of-interest rule. Three serving arts commissioners had applied for grants.
+- **Clark, 14 Oct work sessions:** the six-year road plan totals $260.8M. Its ranking formula gives multimodal access 6 points against 20 for economic development. The parks plan says new park development is being "purposefully" slowed because there's no money to operate new parks.
+
+**Corrections:** my 5 Oct brief, and §32c of `context/HOUSING-vancouver-wa.md`, described the family-sized option as "two or more bedrooms". That's wrong as a statement of the law, and both now carry a note saying so. My guess in the 8 Oct arts commission brief about what the amendment covered was also wrong; it was labelled as a guess, and the brief now has the correction.
+
+**Fixed:** Vancouver's agenda system changed how it serves agenda and packet PDFs. The old download path now returns 404, so every agenda and packet link in tonight's digest was dead. `agenda_watch.py` now uses the new path; I tested it and documented the change in README.
+
+**What I couldn't check:**
+- The text of the comp plan adopting ordinance.
+- What happened at the 5 Oct hearing sitting (video only, and I didn't watch it).
+- Why the 6 Oct meeting lacked a quorum.
+- What "City Council Vacancies" means on Vancouver's 12 Oct agenda. Web search was denied permission in this run.
+- Whether Clark County judgments routinely pass Sheriff writ fees on to evicted tenants.
+- The stormwater capital plan and Vancouver's budget workshop, which have no attachments.
+[19:13:59] claude exited rc=0
+notify-hook: taskwarrior task 7 created/updated
+[19:13:59] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:13:59] === run complete

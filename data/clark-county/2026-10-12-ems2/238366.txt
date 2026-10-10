@@ -1,0 +1,52 @@
+Claims Format per SAO
+
+April 1, 2026 to June 30, 2026
+               (Fund 1004) 04/01/2026-6/30/2026       Total
+
+Invoices
+Supplier Invoice: SI0249883                       $           5,000.00
+
+Supplier Invoice: SI0250383                       $           2,500.00
+
+Supplier Invoice: SI0250389                       $           5,975.62
+
+Supplier Invoice: SI0252248                       $           2,500.00
+
+Supplier Invoice: SI0253083                       $           5,975.62
+
+Supplier Invoice: SI0256115                       $           2,500.00
+
+Supplier Invoice: SI0256314                       $           5,975.62
+
+Supplier Invoice: SI0258278                       $           2,500.00
+
+Supplier Invoice: SI0259192                       $           5,975.62
+
+Manual Journals
+Internal Service Delivery: ISD                    $                -
+
+Auditors Adjustment Journals
+dates:___1/1/2026__ through _3/31/2026____        $                -
+
+
+total                                             $           38,902.48
+EMSD2 2026 Q2 Warrants
+Sum of Transaction Amount                      Column Labels
+                    Month                          Expense         Income     Grand Total
+ Jan                                                   28,030.25      -457.18    27,573.07
+ Feb                                                   35,085.20  -37,568.36     -2,483.16
+ Mar                                                   34,005.87  -52,124.84    -18,118.97
+ Apr                                                   15,975.62  -18,928.44     -2,952.82
+   3410000:Charges for Goods and Services                         -18,446.75    -18,446.75
+   3610000:Interest and Other Earnings                                -481.69      -481.69
+   5400000:Services                                    15,975.62                 15,975.62
+ May                                                    5,975.62      -513.40     5,462.22
+   3410000:Charges for Goods and Services                                0.00         0.00
+   3610000:Interest and Other Earnings                                -513.40      -513.40
+   5400000:Services                                     5,975.62                  5,975.62
+ Jun                                                   16,951.24  -37,241.50    -20,290.26
+   3410000:Charges for Goods and Services                         -36,893.50    -36,893.50
+   3610000:Interest and Other Earnings                                -348.00      -348.00
+   5400000:Services                                    16,951.24                 16,951.24
+                                   Grand Total        136,023.80 -146,833.72    -10,809.92
+
