@@ -92,3 +92,13 @@ construct stormwater facilities to support new development"*. It addresses exist
 so this is not a hidden growth subsidy. It is adopted by resolution, with **no public hearing**
 (slide 3). The Planning Commission hearing is on 15 October and Council adoption on 3 November.
 Nothing to act on. The earlier "flagged on title alone" note above is superseded.
+
+## Update, 14 October evening — after the meeting
+
+- **The parks deck was replaced** (doc 238751 replaces 238216). The only changes are "Park
+  Improvement Fees" corrected to "Park *Impact* Fees", and the layout. Nothing in the substance moved.
+- **A fourth session, the 2027 Annual Budget update, was added** (Weekly Calendar updated 12 October,
+  doc 238531). **No attachment, so it is flagged on title alone.**
+- Council Time at 1pm was **cancelled**.
+- The same TIP, parks and stormwater plans went to the County Planning Commission on 15 October. See
+  `briefs/2026-10-15-clark-county-planning-commission.md`.

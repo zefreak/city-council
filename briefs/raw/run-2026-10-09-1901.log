@@ -5,3 +5,39 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-10-09-digest.md
 [19:01:11] digest written: /home/scottr/research/city-council/briefs/raw/2026-10-09-digest.md
 [19:01:11] invoking claude (model=opus)
+The briefs are written and the page is live: it's pushed to `main` (commit `d389717`), and the site build ran cleanly.
+
+**The main finding:** at about 3:15pm today Clark County posted the comp plan ordinance (Ord. 2026-10-01, 247 pp.) and its staff report. The staff report says the Council's *"deliberations and decisions occurred at"* the 1–5 October hearing, so Tuesday's 1pm vote only ratifies them. The ordinance's own findings show how the five farmland de-designations ended:
+- **Denied:** Camas (the biggest) and La Center north.
+- **Approved:** La Center southwest (minus a 20-acre parcel) and both Ridgefield expansions.
+
+**Correction:** the last version of the page treated Tuesday's vote as the moment to change the outcome. That was wrong, and the page now says so. A written comment by noon Tuesday still matters, for a different reason: under RCW 36.70A.280(2)(b), only people who took part orally or in writing can appeal to the Growth Management Hearings Board. So a comment naming items 7–9 keeps the right to appeal them. I cached the statute.
+
+**Also in the ordinance:**
+- **Traffic impact fees, now exact:** the rural rate goes from $398 to $1,368 per trip, Orchards from $477 to $1,251. They take effect 12 November.
+- **Housing Commission:** the Council ordered one, but its make-up isn't set yet. That's an opening.
+- **Farmland credit programme:** Councilor Little's TDR policy was adopted, but without the $25,000 example price.
+- **Mobile home park protection:** adopted with the "not economically viable" exit still in it.
+- **Shelters:** the new code bans "temporary structures". Whether that rules out pallet-shelter villages is unclear.
+
+**New briefs:**
+- **EMS District #2, Monday 12 Oct:** AMR asks for the 10% maximum against 4.4% inflation. Its cost table is an image with no readable figures, and public comment comes after the votes.
+- **Vancouver City Center Redevelopment Authority, Thursday 15 Oct:**
+  - Development fees are the lowest of seven compared cities, yet the deck floats a "pause".
+  - A parking plan adds booting and impound with no carve-out for people living in vehicles.
+  - A consultant study recommends discounted city, county and housing-authority land for private development.
+- **Updates to existing briefs:** the Lodging Tax packet has no applications in it, and the stormwater plan ($23.5M) is routine.
+
+**What I couldn't verify:**
+- Most of the ordinance's 38 code exhibits, all the plan maps, and Exhibit 3a (listed but not attached).
+- Which redline changes are additions and which are deletions. Clark's code has moved to ecode360, which renders in the browser and I couldn't fetch it with curl, so the briefs say the direction isn't established rather than guess.
+- AMR's cost figures.
+- The Waterfront Gateway update, which has no attachment.
+- Which date is right for Vancouver's scofflaw code: December, per the parking deck, or 9 November on consent, per the council calendar.
+- Clark's 14 Oct Council Time agenda, which wasn't posted yet.
+
+The notification summary is at `briefs/raw/.last-bottom-line.txt`.
+[19:11:05] claude exited rc=0
+notify-hook: taskwarrior task 8 created/updated
+[19:11:05] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:11:05] === run complete

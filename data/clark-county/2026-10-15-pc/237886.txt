@@ -1,0 +1,121 @@
+                                                                                                                                            Completion    Estimated
+ Map ID     Project ID              Project Name                                              Description                                     Year       Project Total
+   7        OS-80        Heritage Farm Wetland Restoration     This project will excavate a shallow floodplain bench and provide               2026         $3,949,838
+                                                               wetland and riparian restoration along a channelized headwater reach
+                                                               of Cougar Creek on the County's Heritage Farm property.
+
+   12       CP-203       Cougar Creek 3 Enhancement            This project reconnects the incised Cougar Creek channel to its                 2028         $1,271,820
+                                                               floodplain using valley spanning wood structures, protects existing
+                                                               waste water infrastructure, reduces and mitigates bank erosion, and
+                                                               increases wetland and riparian habitat.
+
+   11       CP-195       NE Hazel Dell Ave (78th to Cougar     This project will retrofit existing catch basins or curb inlets along both      2027           $945,000
+                         Creek) WQ                             sides of NE Hazel Dell Avenue between NE 78th Street and Cougar
+                                                               Creek crossing by installing storm filter cartridges to provide water
+                                                               quality treatment before the runoff is discharged to Cougar Creek.
+
+   14       CP-213       Hwy 99 (99th St to Hazel Dell Plaza) The project will retrofit existing catch basins and/or curb inlets along         2026           $790,241
+                         WQ                                   both sides of Highway 99 between NE 99th Street and Hazel Dell Plaza
+                                                              by installing media filter cartridges to provide water quality treatment
+                                                              before the runoff is discharged to Tenny Creek.
+
+23 and 24   CP-193 CP- Hwy 99 (78th to 86th St) WQ             This project will retrofit existing catch basins and/or curb inlets along       2026           $714,941
+            197                                                both sides of NE Highway 99 between NE 78th Street and NE 86th
+                                                               Street by installing storm filter cartridges to provide water quality
+                                                               treatment before the runoff is discharged to Cougar Creek.
+
+   34       CP-223       Schriber NW Reforestation Phase 1-3 This project will restore approximately 21 acres of riparian buffer            2025-2030         $444,948
+                                                              located on Clark County-owned property along the south bank of the
+                                                              East Fork Lewis River.
+   43       CP-233       Vancouver Lake Lowlands              This project will restore approximately 25 acres of riparian habitat          2028-2032         $510,000
+                         Reforestation Phase 1-3              located on Clark County-owned property in the Vancouver Lake
+                                                              lowlands.
+   28       CP-214       NE 99th St (I-5 to E of Hwy 99) WQ   The project will retrofit existing catch basins and/or curb inlets along         2027           $710,000
+                                                              both sides of NE 99th Street between Interstate 5 and approximately
+                                                              300 feet to the east of Highway 99 by installing media filter cartridges
+                                                              to provide water quality treatment before the runoff is discharged to
+                                                              Tenny Creek.
+   21       CP-105       NE Hazel Dell Ave (N of NE 111th St) This project will construct a wetpond or bioretention rain garden                2029           $455,000
+                         ROW WQ                               facility to capture runoff from a developed residential area on the
+                                                              westside of NE Hazel Dell Ave and a portion of the roadway (Hazel Dell
+                                                              Ave) to provide water quality treatment, and flow control before
+                                                              discharging to Suds Creek.
+   NA       CP-239       Headwater Protection Land            Location unknown. This project is a placeholder for potention                    2027           $200,000
+                         Acquisition                          contribution of Clean Water funds in the even Clark County moves to
+                                                              purchase additional property in the Salmon Creek headwaters in 2027.
+
+   NA       CP-219       Natural Areas Acquisition (*Three     This project is a placeholder for potential contribution of Clean Water         2026           $200,000
+                         Creeks)                               funds in the event Clark County moves to purchase property in the
+                                                               Three Creeks greenway area. The potential purchase is included in the
+                                                               county’s Natural Areas Acquisition Plan.
+
+   30       CP-216       OneWater Pilot Project                This One Water project will explore retrofitting existing storage pipes in      2029            $75,000
+                                                               the fields of CRHS and installing pre-treatment, allowing stormwater to
+                                                               be used for field irrigation
+   17       OS-145       Whipple Creek Near NW 11th Ave        This project excavates a floodplain bench to reconnect the channel to           2031           $520,000
+                         Habitat                               its floodplain, provides engineered bank stabilization to reduce erosion
+                                                               and sediment, and improves overall grade control in the middle reach
+                                                               of Whipple Creek.
+   22       CP-204       I-SUDS1 Lower Suds Creek              This project removes a culvert and berm to increase floodplain                  2030         $1,171,000
+                         Restoration                           connectivity and fish passage between Suds Creek and Salmon Creek,
+                                                               improve water quality by reducing temperature and sediment,
+                                                               enhance channel complexity, and restore wetlands.
+31   CP-215   NE 99th St (NE 25th Ave to Tenny       This project will retrofit existing catch basins and/or curb inlets along     2028       $540,000
+              Creek) WQ                              NE 99th Street between NE 25th Avenue and Tenny Creek by installing
+                                                     media filter cartridges to provide water quality treatment.
+
+32   CP-220   Natural Areas Acquisition (*Lacamas This project is a placeholder for potential contribution of Clean Water          2028       $400,000
+              Subarea Lower)                      funds in the event Clark County moves to purchase property in the
+                                                  Lower Lacamas SubArea. The potential purchase is included in the
+                                                  county’s Natural Areas Acquisition Plan.
+
+35   CP-224   St. Johns Road (NE 82nd St and 88th This project will retrofit existing catch basins/curb inlets along St.           2029      $1,145,000
+              St) WQ                              John's Road by installing storm filter cartridges to provide water quality
+                                                  treatment before the runoff is discharged to Lalonde Creek.
+
+36   CP-225   NE 50th Ave & Saint John's Road WQ This project will retrofit existing catch basins/curb inlets around the           2029       $350,000
+                                                     intersection of NE 50th Ave and St. John's Road by installing storm
+                                                     filter cartridges to provide water quality treatment before the runoff is
+                                                     discharged to Lalonde Creek.
+44   CP-234   St. Johns Road (NE 68th St to 78th St) This project will retrofit existing catch basins/curb inlets along St.        2031      $1,600,000
+              WQ                                     John's Road between NE 68th Street and NE 78th Street by installing
+                                                     filter cartridges to provide water quality treatment before the runoff is
+                                                     discharged to Cold Creek.
+37   CP-226   Velvet Acres SWF Repair                This project repairs a non-functioning stormwater treatment and               2027       $500,000
+                                                     detention facility that was dedicated to the county.
+38   CP-227   Fraser Pond Cleanout                   This project performs large-scale sediment removal in a detention             2026       $400,000
+                                                     pond constructed in 1999.
+5    CP-221   Philbrook Farms Tract D Repair         The project will repair a stormwater infiltration facility on a county-       2027       $750,000
+                                                     owned stormwater tract that also serves as recreational space for
+                                                     Philbrook Farms residents.
+39   CP-229   Tiger Lily SWF Repair                  This project repairs stormwater treatment swales in a subdivision             2029       $100,000
+                                                     constructed in 1999.
+41   CP-231   Horizon West II SWF Repair             This project repairs a stormwater treatment facility in 2003                  2027       $100,000
+ 6   CP-218   Swan Ponds SWF Repair                  The project will repair and remove sediment from Swan Pond, which is          2028       $130,000
+                                                     an inline detention facility constructed along the main channel of
+                                                     Tenny Creek downstream of NE 99th Street.
+42   CP-232   Fairfield/Kennedy-Kramer SWF           This project addresses poor functioning of two large treatment and            2029       $400,000
+              Repair                                 detention facilities originally constructed in 2004.
+2    CP-235   Valleywood UIC                         This project will upgrade an existing infiltration system and add water       2027      $1,000,000
+                                                     quality treatment devices.
+NA   CP-236   Public Works Advance Mitigation        This project will identify and develop a new Advance Mitigation site for      2029       $600,000
+                                                     use by Public Works to mitigate habitat and/or wetland impacts
+                                                     associated with future projects.
+3    CP-237   Fairgrounds SWF Repair                 This project will repair and remove sediment from a stormwater facility       2028       $250,000
+                                                     at the Clark County Fairgrounds complex, and add pre-treatment for
+                                                     runoff entering the facility.
+4    CP-238   Sunnyside Subdivision WQ               This project will begin design of a large-scale neighborhood                  2029       $300,000
+                                                     stormwater system in the Sunnyside subdivision, which currently lacks
+                                                     any stormwater infrastructure. This project phase is for design only.
+
+NA   OP-1     2029 Major Repair/Replace Package This project is an asset management effort that repairs or replaces high         2029-2031   $1,980,000
+                                                priority older treatment practices that are at end of design life.
+
+NA   OP-2     Detention Pond Major Maintenance       This project is an asset management effort that restores high priority      2026-2031   $1,800,000
+                                                     older detention ponds to their design capacity through large-scale
+                                                     sediment removal. Approximately 18 ponds.
+NA   OP-3     Major Pipe Repair                      This project is an asset management effort that repairs or replaces high    2027-2031   $4,100,000
+                                                     priority stormwater pipe segments. The project assumes up to 1% of
+                                                     existing pipe inventory repaired or replaced annually beginning in
+                                                     2028.
+

@@ -346,3 +346,30 @@ No land changes hands.
 - **Whether Sheriff writ fees are routinely taxed against tenants** in Clark County unlawful detainer
   judgments, and the CPI change since 2017. Both are stated as likely or approximate, not checked.
 - Kurt Truong's appointment letter (image-only PDF) and the two proclamations.
+
+## Update, 14 October — the outcome (secondary source)
+
+**The Council adopted the comprehensive plan unanimously on 13 October, with one last-minute change.**
+Source: *The Columbian*, "Clark County Council approves 20-year growth plan", Shari Phiel,
+14 October 2026, cached at `data/news/2026-10-14-columbian-growth-plan.html`. **This is a news
+report. The minutes and the as-adopted ordinance are not yet published**, so treat the details as
+reported rather than verified.
+
+- **The change: a six-month moratorium on rural cluster development.** Councilor Little asked to
+  reconsider the new rural-cluster standards adopted during deliberations, which let owners of
+  agricultural and resource land divide off small parcels for development. Chair Marshall proposed the
+  moratorium so the Council can study how the code has been applied. Councilor Yung asked for the
+  Agricultural Advisory Commission's view.
+- **The moratorium needs a public hearing within 60 days**, so by about **12 December** (the article; it
+  matches RCW 36.70A.390). **No date is set yet. It is a comment opening.**
+- **The left-critical read: on balance, good.** Rural cluster subdivisions on resource land are a form
+  of sprawl, and pausing them protects farmland. The same reasoning stopped the Camas and La Center
+  north expansions. Expect property-rights opposition at the hearing. The last rural-cluster moratorium
+  ran from **1994 to 2016** (article), so "six months" deserves to be held to a real study with a
+  deadline, not left open-ended in either direction.
+- The plan now goes to the Department of Commerce. **The Hearings Board appeal window is 60 days from
+  the County's published notice of adoption** (RCW 36.70A.290(2)). The notice date is not yet known.
+  UGA expansions take effect 60 days after adoption (§V.1.c), about **12 December**.
+
+Not established: whether the moratorium was adopted as part of the ordinance or by a separate
+motion; the final votes on items 7–9; and whether any other amendment was made.

@@ -1,0 +1,1130 @@
+                                                                                          DSHS Agreement Number:
+                                      INTERLOCAL AGREEMENT                                2664-73060
+                                      Respite in Community Settings
+                                                                                          Program Contract Number:
+ This Agreement is by and between the State of Washington Department
+ of Social and Health Services (DSHS) and the Contractor identified                       Contractor Contract Number:
+ below, and is issued pursuant to the Interlocal Cooperation Act, chapter
+ 39.34 RCW.
+ CONTRACTOR NAME                                                        CONTRACTOR doing business as (DBA)
+
+ City of Vancouver                                                      VANCOUVER CITY OF - 01
+ CONTRACTOR ADDRESS                                                     WASHINGTON UNIFORM             DSHS INDEX NUMBER
+                                                                        BUSINESS IDENTIFIER (UBI)
+ PO Box 1995
+ Vancouver, WA 98668                                                    065-001-364                    1767
+ CONTRACTOR CONTACT                       CONTRACTOR TELEPHONE          CONTRACTOR FAX                CONTRACTOR E-MAIL ADDRESS
+
+ Andrew Meade                             (360) 487-7098                                              andy.meade@cityofvancouv
+                                                                                                      er.us
+ DSHS ADMINISTRATION                      DSHS DIVISION                                   DSHS CONTRACT CODE
+
+ Developmental Disabilities               Division of Developmental Disabilities          1803LP-64
+ Admin
+ DSHS CONTACT NAME AND TITLE                           DSHS CONTACT ADDRESS
+
+ Susan Winkler                                         1305 Tacoma Ave S Suite 300
+ Contracts Specialist
+                                                       Tacoma, WA 98402
+ DSHS CONTACT TELEPHONE                          DSHS CONTACT FAX                         DSHS CONTACT E-MAIL ADDRESS
+
+ (253) 753-7151                                  (253)597-4368                            Winklsm2@dshs.wa.gov
+ IS THE CONTRACTOR A SUBRECIPIENT FOR PURPOSES OF THIS CONTRACT?               ASSISTANCE LISTING NUMBER(S)
+
+ No
+ AGREEMENT START DATE                            AGREEMENT END DATE                       MAXIMUM AGREEMENT AMOUNT
+
+ 11/01/2026                                08/31/2029                               Fee For Service
+ EXHIBITS. The following Exhibits are attached and are incorporated into this Agreement by reference:
+  Exhibits (specify): A - DDA Policies & Agreements
+     No Exhibits.
+ The terms and conditions of this Agreement are an integration and representation of the final, entire and exclusive
+ understanding between the parties superseding and merging all previous agreements, writings, and communications, oral
+ or otherwise regarding the subject matter of this Agreement, between the parties. The parties signing below represent
+ they have read and understand this Agreement, and have the authority to execute this Agreement. This Agreement shall
+ be binding on DSHS only upon signature by DSHS.
+ CONTRACTOR SIGNATURE                                     PRINTED NAME AND TITLE                              DATE SIGNED
+
+                                                          Andrew Meade, Marshall Center Director
+ DSHS SIGNATURE                                           PRINTED NAME AND TITLE                              DATE SIGNED
+
+                                                          Luise Frank, Contracts Specialist 3
+
+
+
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                                     Page 1
+                                             DSHS General Terms and Conditions
+
+
+1.       Definitions. The words and phrases listed below, as used in this Contract, shall each have the
+         following definitions:
+
+         a. “Central Contracts and Legal Services” means the DSHS central headquarters contracting office, or
+            successor section or office.
+
+         b. “Confidential Information” or “Data” means information that is exempt from disclosure to the public
+            or other unauthorized persons under RCW 42.56 or other federal or state laws. Confidential
+            Information includes, but is not limited to, Personal Information.
+
+         c. “Contract” or “Agreement” means the entire written agreement between DSHS and the Contractor,
+            including any Exhibits, documents, or materials incorporated by reference. The parties may execute
+            this contract in multiple counterparts, each of which is deemed an original and all of which
+            constitute only one agreement. E-mail or Facsimile transmission of a signed copy of this contract
+            shall be the same as delivery of an original.
+
+         d. “CCLS Chief” means the manager, or successor, of Central Contracts and Legal Services or
+            successor section or office.
+
+         e. “Contractor” means the individual or entity performing services pursuant to this Contract and
+            includes the Contractor’s owners, members, officers, directors, partners, employees, and/or agents,
+            unless otherwise stated in this Contract. For purposes of any permitted Subcontract, “Contractor”
+            includes any Subcontractor and its owners, members, officers, directors, partners, employees,
+            and/or agents.
+
+         f.   “Debarment” means an action taken by a Federal agency or official to exclude a person or business
+              entity from participating in transactions involving certain federal funds.
+
+         g. “DSHS” or the “Department” means the state of Washington Department of Social and Health
+            Services and its employees and authorized agents.
+
+         h. “Encrypt” means to encode Confidential Information into a format that can only be read by those
+            possessing a “key;” a password, digital certificate or other mechanism available only to authorized
+            users. Encryption must use a key length of at least 256 bits for symmetric keys, or 2048 bits for
+            asymmetric keys. When a symmetric key is used, the Advanced Encryption Standard (AES) must
+            be used if available.
+
+         i.   “Personal Information” means information identifiable to any person, including, but not limited to,
+              information that relates to a person’s name, health, finances, education, business, use or receipt of
+              governmental services or other activities, addresses, telephone numbers, Social Security Numbers,
+              driver license numbers, other identifying numbers, and any financial identifiers.
+
+         j.   “Physically Secure” means that access is restricted through physical means to authorized
+              individuals only.
+
+         k. “Program Agreement” means an agreement between the Contractor and DSHS containing special
+            terms and conditions, including a statement of work to be performed by the Contractor and payment
+            to be made by DSHS.
+
+         l.   “RCW” means the Revised Code of Washington. All references in this Contract to RCW chapters or
+              sections shall include any successor, amended, or replacement statute. Pertinent RCW chapters
+              can be accessed at http://apps.leg.wa.gov/rcw/.
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                   Page 2
+                                             DSHS General Terms and Conditions
+
+
+         m. “Regulation” means any federal, state, or local regulation, rule, or ordinance.
+
+         n. “Secured Area” means an area to which only authorized representatives of the entity possessing
+            the Confidential Information have access. Secured Areas may include buildings, rooms or locked
+            storage containers (such as a filing cabinet) within a room, as long as access to the Confidential
+            Information is not available to unauthorized personnel.
+
+         o. “Subcontract” means any separate agreement or contract between the Contractor and an individual
+            or entity (“Subcontractor”) to perform all or a portion of the duties and obligations that the Contractor
+            is obligated to perform pursuant to this Contract.
+
+         p. “Tracking” means a record keeping system that identifies when the sender begins delivery of
+            Confidential Information to the authorized and intended recipient, and when the sender receives
+            confirmation of delivery from the authorized and intended recipient of Confidential Information.
+
+         q. “Trusted Systems” include only the following methods of physical delivery: (1) hand-delivery by a
+            person authorized to have access to the Confidential Information with written acknowledgement of
+            receipt; (2) United States Postal Service (“USPS”) first class mail, or USPS delivery services that
+            include Tracking, such as Certified Mail, Express Mail or Registered Mail; (3) commercial delivery
+            services (e.g. FedEx, UPS, DHL) which offer tracking and receipt confirmation; and (4) the
+            Washington State Campus mail system. For electronic transmission, the Washington State
+            Governmental Network (SGN) is a Trusted System for communications within that Network.
+
+         r.   “WAC” means the Washington Administrative Code. All references in this Contract to WAC
+              chapters or sections shall include any successor, amended, or replacement regulation. Pertinent
+              WAC chapters or sections can be accessed at http://apps.leg.wa.gov/wac/.
+
+2.       Amendment. This Contract may only be modified by a written amendment signed by both parties. Only
+         personnel authorized to bind each of the parties may sign an amendment.
+
+3.       Assignment. The Contractor shall not assign this Contract or any Program Agreement to a third party
+         without the prior written consent of DSHS.
+
+4.       Billing Limitations.
+
+         a. DSHS shall pay the Contractor only for authorized services provided in accordance with this
+            Contract.
+
+         b. DSHS shall not pay any claims for payment for services submitted more than twelve (12) months
+            after the calendar month in which the services were performed.
+
+         c. The Contractor shall not bill and DSHS shall not pay for services performed under this Contract, if
+            the Contractor has charged or will charge another agency of the state of Washington or any other
+            party for the same services.
+
+5.       Compliance with Applicable Law and Washington State Requirements.
+
+         a. Applicable Law. Throughout the performance of this Agreement, Contractor shall comply with all
+            federal, state, and local laws, regulations, and executive orders to the extent they are applicable to
+            this Agreement.
+
+         b. Civil Rights and Nondiscrimination. Contractor shall comply with all federal and state civil rights
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                     Page 3
+                                             DSHS General Terms and Conditions
+
+
+              and nondiscrimination laws, regulations, and executive orders to the extent they are applicable to
+              this Agreement, including, but not limited to, and as amended, Titles VI and VII of the Civil Rights
+              Act of 1964; Sections 503 and 504 of the Rehabilitation Act of 1973; the Americans with Disabilities
+              Act (ADA); Executive Order 11246; the Health Insurance Portability and Accountability Act of 1996
+              (HIPAA); the Age Discrimination in Employment Act of 1967, the Age Discrimination Act of 1975,
+              the Vietnam Era Veterans’ Readjustment Assistance Act of 1974, and Chapter 49.60 of the Revised
+              Code of Washington, Washington’s Law Against Discrimination. These laws, regulations and
+              executive orders are incorporated by reference herein to the extent that they are applicable to the
+              Contract and required by law to be so incorporated.
+
+              In the event of the Contractor’s noncompliance or refusal to comply with any applicable
+              nondiscrimination laws, regulations, and executive orders, this Agreement may be rescinded,
+              canceled, or terminated in whole or in part.
+
+         c. Nondiscrimination.
+
+              (1) Nondiscrimination Requirement. During the term of this Contract, Contractor, including any
+                  subcontractor, shall not discriminate on the bases enumerated at RCW 49.60.530(3). In
+                  addition, Contractor, including any subcontractor, shall give written notice of this
+                  nondiscrimination requirement to any labor organizations with which Contractor, or
+                  subcontractor, has a collective bargaining or other agreement.
+
+              (2) Obligation to Cooperate. Contractor, including any subcontractor, shall cooperate and comply
+                  with any Washington state agency investigation regarding any allegation that Contractor,
+                  including any subcontractor, has engaged in discrimination prohibited by this Contract pursuant
+                  to RCW 49.60.530(3).
+
+         d. Certification Regarding Russian Government Contracts and/or Investments. The Contractor,
+            by signature to this Contract, certifies that the Contractor is not presently an agency of the Russian
+            government, an entity which is Russian-state owned to any extent, or an entity sanctioned by the
+            United States government in response to Russia’s invasion of Ukraine. The Contractor also agrees
+            to include the above certification in any and all Subcontracts into which it enters. The Contractor
+            shall immediately notify DSHS if, during the term of this Contract, Contractor no longer complies
+            with this certification. DSHS may immediately terminate this Contract by providing Contractor
+            written notice if Contractor does not comply with this certification during the term hereof. This is a
+            requirement under Directive of the Governor 22-03.
+
+         e. Reporting Certain Requests from the Federal Government or Law Enforcement Entities.
+            Contractor shall report to DSHS, within 24 hours, all non-routine requests from a law enforcement
+            authority or federal agency for any of the following: (i) health care information, as defined in RCW
+            70.02.010, (ii) program eligibility information for individuals, or (iii) information that may identify a
+            health care provider’s or facilities delivery of health care services to noncitizens, or delivery of
+            protected health care services as defined in RCW 7.115.010 (gender affirming treatment and
+            reproductive health care services that are lawful in the state of Washington). This is a requirement
+            under Chapter 424, Laws of 2025.
+
+              Examples of non-routine requests include surveys, requests for disclosure, subpoenas, and other
+              mechanisms for obtaining data or information. Additionally, search warrants or other requests for
+              disclosure are considered non-routine if they expressly seek data or information about services to
+              noncitizens, gender affirming services, or reproductive health care services.
+
+6.       Confidentiality.
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                      Page 4
+                                             DSHS General Terms and Conditions
+
+
+         a. The Contractor shall not use, publish, transfer, sell or otherwise disclose any Confidential
+            Information gained by reason of this Contract for any purpose that is not directly connected with
+            Contractor’s performance of the services contemplated hereunder, except:
+
+              (1) as provided by law; or,
+
+              (2) in the case of Personal Information, with the prior written consent of the person or personal
+                  representative of the person who is the subject of the Personal Information.
+
+         b. The Contractor shall protect and maintain all Confidential Information gained by reason of this
+            Contract against unauthorized use, access, disclosure, modification or loss. This duty requires the
+            Contractor to employ reasonable security measures, which include restricting access to the
+            Confidential Information by:
+
+              (1) Allowing access only to staff that have an authorized business requirement to view the
+                  Confidential Information.
+
+              (2) Physically Securing any computers, documents, or other media containing the Confidential
+                  Information.
+
+              (3) Ensure the security of Confidential Information transmitted via fax (facsimile) by:
+
+                  (a) Verifying the recipient phone number to prevent accidental transmittal of Confidential
+                      Information to unauthorized persons.
+
+                  (b) Communicating with the intended recipient before transmission to ensure that the fax will be
+                      received only by an authorized person.
+
+                  (c) Verifying after transmittal that the fax was received by the intended recipient.
+
+              (4) When transporting six (6) or more records containing Confidential Information, outside a
+                  Secured Area, do one or more of the following as appropriate:
+
+                  (a) Use a Trusted System.
+
+                  (b) Encrypt the Confidential Information, including:
+
+                       i. Encrypting email and/or email attachments which contain the Confidential Information.
+                       ii. Encrypting Confidential Information when it is stored on portable devices or media,
+                           including but not limited to laptop computers and flash memory devices.
+
+                  Note: If the DSHS Data Security Requirements Exhibit is attached to this contract, this
+                  item, 6.b.(4), is superseded by the language contained in the Exhibit.
+
+              (5) Send paper documents containing Confidential Information via a Trusted System.
+
+              (6) Following the requirements of the DSHS Data Security Requirements Exhibit, if attached to this
+                  contract.
+
+         c. Upon request by DSHS, at the end of the Contract term, or when no longer needed, Confidential
+            Information shall be returned to DSHS or Contractor shall certify in writing that they employed a
+            DSHS approved method to destroy the information. Contractor may obtain information regarding
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                      Page 5
+                                             DSHS General Terms and Conditions
+
+
+              approved destruction methods from the DSHS Contact identified on the cover page of this Contract.
+
+         d. Paper documents with Confidential Information may be recycled through a contracted firm, provided
+            the contract with the recycler specifies that the confidentiality of information will be protected, and
+            the information destroyed through the recycling process. Paper documents containing Confidential
+            Information requiring special handling (e.g. protected health information) must be destroyed on-site
+            through shredding, pulping, or incineration.
+
+         e. Notification of Compromise or Potential Compromise. The compromise or potential compromise of
+            Confidential Information must be reported to the DSHS Contact designated on the contract within
+            one (1) business day of discovery. Contractor must also take actions to mitigate the risk of loss and
+            comply with any notification or other requirements imposed by law or DSHS.
+
+7.       Digital Accessibility. If this Contract includes the acquisition, procurement, development, modification
+         or enhancement of public-facing digital content or tools; including websites, applications, and media
+         (Covered Technology), the following requirements shall apply:
+
+         a. All Covered Technology under this Contract must meet Level AA compliances with Web Content
+            Accessibility Guidelines (WCAG) 2.2.
+
+         b. Contractor shall validate compliance with this requirement through either a third-party accessibility
+            validation report, a Vendor Product Accessibility Template (VPAT), or compliance review
+            documentation.
+
+         c. Should the Covered Technology under this Contract fails to meet the required compliance level, the
+            Contractor shall submit a remediation plan addressing all issues identified to the DSHS Contact
+            identified on the cover page of this Contract. DSHS may immediately terminate this Contract by
+            providing the Contractor written notice if the Contractor fails to timely remediate all issues identified.
+
+8.       Debarment Certification. The Contractor, by signature to this Contract, certifies that the Contractor is
+         not presently debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded
+         by any Federal department or agency from participating in transactions (Debarred). The Contractor also
+         agrees to include the above requirement in any and all Subcontracts into which it enters. The
+         Contractor shall immediately notify DSHS if, during the term of this Contract, Contractor becomes
+         Debarred. DSHS may immediately terminate this Contract by providing Contractor written notice if
+         Contractor becomes Debarred during the term hereof.
+
+9.       E-Signature and Records. An electronic signature or electronic record of this Contract or any other
+         ancillary agreement shall be deemed to have the same legal effect as delivery of an original executed
+         copy of this Contract or such other ancillary agreement for all purposes.
+
+10.      Governing Law and Venue. This Contract shall be construed and interpreted in accordance with the
+         laws of the state of Washington and the venue of any action brought hereunder shall be in Superior
+         Court for Thurston County.
+
+11.      Independent Contractor. The parties intend that an independent contractor relationship will be created
+         by this Contract. The Contractor and his or her employees or agents performing under this Contract are
+         not employees or agents of the Department. The Contractor, his or her employees, or agents
+         performing under this Contract will not hold himself/herself out as, nor claim to be, an officer or
+         employee of the Department by reason hereof, nor will the Contractor, his or her employees, or agent
+         make any claim of right, privilege or benefit that would accrue to such officer or employee.
+
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                      Page 6
+                                             DSHS General Terms and Conditions
+
+
+12.      Inspection. The Contractor shall, at no cost, provide DSHS and the Office of the State Auditor with
+         reasonable access to Contractor’s place of business, Contractor’s records, and DSHS client records,
+         wherever located. These inspection rights are intended to allow DSHS and the Office of the State
+         Auditor to monitor, audit, and evaluate the Contractor’s performance and compliance with applicable
+         laws, regulations, and these Contract terms. These inspection rights shall survive for six (6) years
+         following this Contract’s termination or expiration.
+
+13.      Maintenance of Records. The Contractor shall maintain records relating to this Contract and the
+         performance of the services described herein. The records include, but are not limited to, accounting
+         procedures and practices, which sufficiently and properly reflect all direct and indirect costs of any
+         nature expended in the performance of this Contract. All records and other material relevant to this
+         Contract shall be retained for six (6) years after expiration or termination of this Contract.
+
+         Without agreeing that litigation or claims are legally authorized, if any litigation, claim, or audit is started
+         before the expiration of the six (6) year period, the records shall be retained until all litigation, claims, or
+         audit findings involving the records have been resolved.
+
+14.      Order of Precedence. In the event of any inconsistency or conflict between the General Terms and
+         Conditions and the Special Terms and Conditions of this Contract or any Program Agreement, the
+         inconsistency or conflict shall be resolved by giving precedence to these General Terms and
+         Conditions. Terms or conditions that are more restrictive, specific, or particular than those contained in
+         the General Terms and Conditions shall not be construed as being inconsistent or in conflict.
+
+15.      Severability. If any term or condition of this Contract is held invalid by any court, the remainder of the
+         Contract remains valid and in full force and effect.
+
+16.      Survivability. The terms and conditions contained in this Contract or any Program Agreement which,
+         by their sense and context, are intended to survive the expiration or termination of the particular
+         agreement shall survive. Surviving terms include, but are not limited to: Billing Limitations;
+         Confidentiality, Disputes; Indemnification and Hold Harmless, Inspection, Maintenance of Records,
+         Notice of Overpayment, Ownership of Material, Termination for Default, Termination Procedure, and
+         Treatment of Property.
+
+17.      Contract Renegotiation, Suspension, or Termination Due to Change in Funding.
+
+         If the funds DSHS relied upon to establish this Contract or Program Agreement are withdrawn, reduced
+         or limited, or if additional or modified conditions are placed on such funding, after the effective date of
+         this contract but prior to the normal completion of this Contract or Program Agreement:
+
+         a. At DSHS’s discretion, the Contract or Program Agreement may be renegotiated under the revised
+            funding conditions.
+
+         b. At DSHS’s discretion, DSHS may give notice to Contractor to suspend performance when DSHS
+            determines that there is reasonable likelihood that the funding insufficiency may be resolved in a
+            timeframe that would allow Contractor’s performance to be resumed prior to the normal completion
+            date of this contract.
+
+              (1) During the period of suspension of performance, each party will inform the other of any
+                  conditions that may reasonably affect the potential for resumption of performance.
+
+              (2) When DSHS determines that the funding insufficiency is resolved, it will give Contractor written
+                  notice to resume performance. Upon the receipt of this notice, Contractor will provide written
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                        Page 7
+                                             DSHS General Terms and Conditions
+
+
+                  notice to DSHS informing DSHS whether it can resume performance and, if so, the date of
+                  resumption. For purposes of this subsubsection, “written notice” may include email.
+
+              (3) If the Contractor’s proposed resumption date is not acceptable to DSHS and an acceptable date
+                  cannot be negotiated, DSHS may terminate the contract by giving written notice to Contractor.
+                  The parties agree that the Contract will be terminated retroactive to the date of the notice of
+                  suspension. DSHS shall be liable only for payment in accordance with the terms of this
+                  Contract for services rendered prior to the retroactive date of termination.
+
+         c. DSHS may immediately terminate this Contract by providing written notice to the Contractor. The
+            termination shall be effective on the date specified in the termination notice. DSHS shall be liable
+            only for payment in accordance with the terms of this Contract for services rendered prior to the
+            effective date of termination. No penalty shall accrue to DSHS in the event the termination option in
+            this section is exercised.
+
+18.      Waiver. Waiver of any breach or default on any occasion shall not be deemed to be a waiver of any
+         subsequent breach or default. Any waiver shall not be construed to be a modification of the terms and
+         conditions of this Contract. Only the CCLS Chief or designee has the authority to waive any term or
+         condition of this Contract on behalf of DSHS.
+
+                        Additional General Terms and Conditions – Interlocal Agreements:
+
+19.      Disputes. Both DSHS and the Contractor (“Parties”) agree to work in good faith to resolve all conflicts
+         at the lowest level possible. However, if the Parties are not able to promptly and efficiently resolve,
+         through direct informal contact, any dispute concerning the interpretation, application, or
+         implementation of any section of this Agreement, either Party may reduce its description of the dispute
+         in writing, and deliver it to the other Party for consideration. Once received, the assigned managers or
+         designees of each Party will work to informally and amicably resolve the issue within five (5) business
+         days. If managers or designees are unable to come to a mutually acceptable decision within five (5)
+         business days, they may agree to issue an extension to allow for more time.
+
+         If the dispute cannot be resolved by the managers or designees, the issue will be referred through each
+         Agency’s respective operational protocols, to the Secretary of DSHS (“Secretary”) and the Contractor’s
+         Agency Head (“Agency Head”) or their deputies or designated delegates. Both Parties will be
+         responsible for submitting all relevant documentation, along with a short statement as to how they
+         believe the dispute should be settled, to the Secretary and Agency Head.
+
+         Upon receipt of the referral and relevant documentation, the Secretary and Agency Head will confer to
+         consider the potential options of resolution, and to arrive at a decision within fifteen (15) business days.
+         The Secretary and Agency Head may appoint a review team, a facilitator, or both, to assist in the
+         resolution of the dispute. If the Secretary and Agency Head are unable to come to a mutually
+         acceptable decision within fifteen (15) business days, they may agree to issue an extension to allow for
+         more time.
+
+         The final decision will be put in writing, and will be signed by both the Secretary and Agency Head. If
+         the Agreement is active at the time of resolution, the Parties will execute an amendment or change
+         order to incorporate the final decision into the Agreement. The decision will be final and binding as to
+         the matter reviewed and the dispute shall be settled in accordance with the terms of the decision.
+
+         If the Secretary and Agency Head are unable to come to a mutually acceptable decision, the Parties
+         will request intervention by the Governor, per RCW 43.17.330, in which case the governor shall employ
+         whatever dispute resolution methods that the governor deems appropriate in resolving the dispute.
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                     Page 8
+                                             DSHS General Terms and Conditions
+
+
+         Both Parties agree that, the existence of a dispute notwithstanding, the Parties will continue without
+         delay to carry out all respective responsibilities under this Agreement that are not affected by the
+         dispute.
+
+20.      Hold Harmless.
+
+         a. The Contractor shall be responsible for and shall hold DSHS harmless from all claims, loss, liability,
+            damages, or fines arising out of or relating to the Contractor’s, or any Subcontractor’s, performance
+            or failure to perform this Agreement, or the acts or omissions of the Contractor or any
+            Subcontractor. DSHS shall be responsible for and shall hold the Contractor harmless from all
+            claims, loss, liability, damages, or fines arising out of or relating to DSHS’ performance or failure to
+            perform this Agreement.
+
+         b. The Contractor waives its immunity under Title 51 RCW to the extent it is required to indemnify,
+            defend, and hold harmless the State and its agencies, officials, agents, or employees.
+
+21.      Ownership of Material. Material created by the Contractor and paid for by DSHS as a part of this
+         Contract shall be owned by DSHS and shall be “work made for hire” as defined by Title 17 USCA,
+         Section 101. This material includes, but is not limited to: books; computer programs; documents; films;
+         pamphlets; reports; sound reproductions; studies; surveys; tapes; and/or training materials. Material
+         which the Contractor uses to perform the Contract but is not created for or paid for by DSHS is owned
+         by the Contractor and is not “work made for hire”; however, DSHS shall have a perpetual license to use
+         this material for DSHS internal purposes at no charge to DSHS, provided that such license shall be
+         limited to the extent which the Contractor has a right to grant such a license.
+
+22.      Subrecipients.
+
+         a. General. If the Contractor is a subrecipient of federal awards as defined by 2 CFR Part 200 and
+            this Agreement, the Contractor shall:
+
+              (1) Maintain records that identify, in its accounts, all federal awards received and expended and the
+                  federal programs under which they were received, by Assistance Listing Numbers (ALN) title
+                  and number, award number and year, name of the federal agency, and name of the pass-
+                  through entity;
+
+              (2) Maintain internal controls that provide reasonable assurance that the Contractor is managing
+                  federal awards in compliance with laws, regulations, and provisions of contracts or grant
+                  agreements that could have a material effect on each of its federal programs;
+
+              (3) Prepare appropriate financial statements, including a schedule of expenditures of federal
+                  awards;
+
+              (4) Incorporate 2 CFR Part 200, Subpart F audit requirements into all agreements between the
+                  Contractor and its Subcontractors who are subrecipients;
+
+              (5) Comply with the applicable requirements of 2 CFR Part 200, including any future amendments
+                  to 2 CFR Part 200, and any successor or replacement Office of Management and Budget
+                  (OMB) Circular or regulation; and
+
+              (6) Comply with the Omnibus Crime Control and Safe streets Act of 1968, Title VI of the Civil Rights
+                  Act of 1964, Section 504 of the Rehabilitation Act of 1973, Title II of the Americans with
+                  Disabilities Act of 1990, Title IX of the Education Amendments of 1972, The Age Discrimination
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                    Page 9
+                                             DSHS General Terms and Conditions
+
+
+                  Act of 1975, and The Department of Justice Non-Discrimination Regulations, 28 C.F.R. Part 42,
+                  Subparts C.D.E. and G, and 28 C.F.R. Part 35 and 39. (Go to
+                  https://ojp.gov/about/offices/ocr.htm for additional information and access to the aforementioned
+                  Federal laws and regulations.)
+
+         b. Single Audit Act Compliance. If the Contractor is a subrecipient and expends $1,000,000 or more
+            in federal awards from any and/or all sources in any fiscal year, the Contractor shall procure and
+            pay for a single audit or a program-specific audit for that fiscal year. Upon completion of each audit,
+            the Contractor shall:
+
+              (1) Submit to the DSHS contact person the data collection form and reporting package specified in
+                  2 CFR Part 200, Subpart F, reports required by the program-specific audit guide (if applicable),
+                  and a copy of any management letters issued by the auditor;
+
+              (2) Follow-up and develop corrective action for all audit findings; in accordance with 2 CFR Part
+                  200, Subpart F; prepare a “Summary Schedule of Prior Audit Findings” reporting the status of all
+                  audit findings included in the prior audit's schedule of findings and questioned costs.
+
+         c. Overpayments. If it is determined by DSHS, or during the course of a required audit, that the
+            Contractor has been paid unallowable costs under this or any Program Agreement, DSHS may
+            require the Contractor to reimburse DSHS in accordance with 2 CFR Part 200.
+
+23.      Termination.
+
+         a. Default. If for any cause, either party fails to fulfill its obligations under this Agreement in a timely
+            and proper manner, or if either party violates any of the terms and conditions contained in this
+            Agreement, then the aggrieved party will give the other party written notice of such failure or
+            violation. The responsible party will be given 15 working days to correct the violation or failure. If
+            the failure or violation is not corrected, this Agreement may be terminated immediately by written
+            notice from the aggrieved party to the other party.
+
+         b. Convenience. Either party may terminate this Interlocal Agreement for any other reason by
+            providing 30 calendar days’ written notice to the other party.
+
+         c. Payment for Performance. If this Interlocal Agreement is terminated for any reason, DSHS shall
+            only pay for performance rendered or costs incurred in accordance with the terms of this Agreement
+            and prior to the effective date of termination.
+
+24.      Treatment of Client Property. Unless otherwise provided, the Contractor shall ensure that any adult
+         client receiving services from the Contractor has unrestricted access to the client’s personal property.
+         The Contractor shall not interfere with any adult client’s ownership, possession, or use of the client’s
+         property. The Contractor shall provide clients under age eighteen (18) with reasonable access to their
+         personal property that is appropriate to the client’s age, development, and needs. Upon termination of
+         the Contract, the Contractor shall immediately release to the client and/or the client’s guardian or
+         custodian all of the client’s personal property.
+
+
+
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                      Page 10
+                                                 Special Terms and Conditions
+
+1.       Definitions Specific to Special Terms. The words and phrases listed below, as used in this Contract,
+         shall each have the following definitions:
+
+         a. “Assistance” means help provided to a Client for the purpose of aiding him/her in the performance
+            of tasks.
+
+         b. “Authorized” means DDA Case Resource Manager, or Social Worker approval of funding for
+            services as evidenced by a social service authorization in ProviderOne.
+
+         c. “Case Resource Manager (CRM)” means the DSHS or DDA worker assigned to a Client.
+
+         d. “Client” means an individual whom DSHS has determined eligible to receive DDA services.
+
+         e. “Culturally Appropriate” means responsive to a Client’s cultural beliefs and values, ethnic norms,
+            language needs, religion, and individual differences.
+
+         f.   “DDA” means the Developmental Disabilities Administration within DSHS.
+
+         g. “Family” means a parent, child, sibling, aunt, uncle, cousin, grandparent, grandchild, grandniece, or
+            grandnephew, including such relatives when related through adoption or marriage or registered
+            domestic partnership.
+
+         h. “Nurse Delegation” means:
+
+              (1) Services in compliance with WAC 246-840-910 through 246-840-970 by a registered nurse to
+                  provide training and nursing management for nursing assistants who perform delegated nursing
+                  tasks.
+
+              (2) Delegated nursing tasks include, but are not limited to, administration of non-injectable
+                  medications, except for insulin, blood glucose testing, and tube feedings.
+
+              (3) Services include the initial visit, care planning, competency testing of the nursing assistant,
+                  consent of the Client, additional instruction, and supervisory visits.
+
+              (4) Clients who receive nurse delegation services must be considered "stable and predictable" by
+                  the delegated nurse.
+
+         i.   “Personal care services” means those specific services under WAC 388-106 provided to DSHS
+              Clients.
+
+         j.   “Physical Assistance” means the provision of hands-on assistance for any task necessary.
+
+         k. “Positive Behavior Support Plan” means a written plan developed to implement strategies to relate
+            to others and direct interventions to decrease challenging behaviors.
+
+         l.   “Positive Behavior Support Principles” means addressing a challenging behavior that focuses on
+              changing the physical and interpersonal environment and increasing a person’s skills so that the
+              person is able to get their needs met without having to resort to a challenging behavior.
+
+         m. “Primary Caregiver(s)” or “Caregiver” means the person who provides the majority of your care and
+            supervision.
+
+         n.   “Protective Supervision” means supervision to ensure the safety and well-being of a Client,
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                     Page 11
+                                                 Special Terms and Conditions
+
+              exclusive of those responsibilities that should be assumed by a legal representative.
+
+         o. “Respite Care” means short-term, intermittent relief for persons who live with and provide care for
+            individuals with developmental and intellectual disabilities on either an emergency or a planned
+            basis.
+
+         p. “Service Plan” means the Person-Centered Service Plan or Individual Support Plan, which is a
+            written plan for long-term care service delivery, which identifies ways to meet the Client’s needs
+            with the most appropriate services or supports as, described under chapter WAC 388-828.
+
+         q. “Transportation Services” means the process of transporting and accompanying a Client from one
+            location to another in accordance with the client’s needs.
+
+         r.   “Unsupervised access” means:
+
+              (1) An individual will or may have the opportunity to be alone with a child, juvenile, or a vulnerable
+                  adult; and
+
+              (2) Neither a qualified employee, contract employee, volunteer, nor student intern of the agency, or
+                  entity nor a relative or guardian of the child, juvenile or vulnerable adult is present.
+
+2.       Purpose. The purpose of this Contract is to provide short-term intermittent respite care in order to
+         provide relief for primary caregivers as described under chapter 388-845 WAC. Respite Care can be
+         provided in Community Centers, Senior Centers, Parks and Recreation Departments, and Summer
+         Programs.
+
+3.       Licenses, Registrations, and Certifications.
+
+         a. The Contractor is required to follow all laws, rules, and policies applicable to their license, registration,
+            and/or certification.
+
+         b. The Contractor shall meet the training requirements associated with their license, registration,
+            and/or certification.
+
+         c. When licensing, certification, and contract requirements differ, the Contractor shall meet the highest
+            standard.
+
+         d. In the event that any required license of the Contractor is revoked or expired, this Contract shall be
+            suspended, without the necessity of written notice by DSHS, as of the effective date of revocation
+            or the actual date of expiration. In the case of license revocation, this Contract shall then be
+            terminated in accordance with the terms of this Contract, and such termination shall be effective on
+            the effective date of the license revocation.
+
+         e. The provision of Respite Care services cannot result in the licensed provider exceeding their
+            licensed capacity.
+
+4.       General Requirements.
+
+         a. DSHS shall request services from the Contractor on an as needed basis. This Contract does not
+            obligate DSHS to authorize services to the Contractor.
+
+         b. Respite Care provided under the terms of this Contract must be pre-approved in writing by DSHS in
+            accordance with the Client’s Service Plan, and shall be provided in a manner that is culturally
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                       Page 12
+                                                 Special Terms and Conditions
+
+              appropriate for the Client and the Client’s family.
+
+         c. All services shall be provided in a manner consistent with the published rules and policies of DSHS
+            and within the scope of acceptable practice as determined by DSHS.
+
+         d. The Contractor must emphasize Positive Behavior Support Principles in the provision of all services
+            to Clients. Positive Behavior Support is based on respect, dignity, and personal choice.
+
+5.       Contractor Qualifications. The Contractor must:
+
+         a. Be licensed by the State of Washington as a business under chapter 19.02 RCW and shall meet or
+            exceed the minimum licensing requirements under chapter 458-02 WAC.
+
+         b. Contractors shall hold all appropriate endorsements, licenses and certifications in addition to
+            Washington State Business license as applicable to their business operation.
+
+         c. Contractors outside of Washington State must maintain equivalent licensure or certification
+            requirements as paragraph a. and b. above according to their states’ requirements for business
+            operation.
+
+         d. Publish on a publically accessible website the services offered by the contractor and make
+            publically accessible the services offered by the contractor. The contractor’s website must include:
+
+              (1) The identified number of service hours being provided in the program/class/event including
+                  days/date and start and end time;
+
+              (2) Activities that will occur during program/class/event; and
+
+              (3) The rate schedule for the program/class/event.
+
+         e. The Contractor shall ensure that they or their employees possess the following minimum
+            qualifications:
+
+              (1) Meet minimum age requirements as required by license, certification or rule;
+
+              (2) Possess the following minimum standards of knowledge and experience:
+
+                  (a) General knowledge of acceptable standards of performance, including the necessity to
+                      perform dependably, report punctually, maintain flexibility, and to demonstrate kindness and
+                      caring to the Client;
+
+                  (b) Knowledge of when and how to contact the Client’s legal representative and the Client’s
+                      CRM;
+
+                  (c) Adequate skills to read, either directly or through an interpreter, understand, and implement
+                      the services authorized in the plan;
+
+                  (d) Adequate communication skills to convey and understand, either directly or through an
+                      interpreter, information required to implement the Client’s written Service Plan(s) and verbal
+                      instructions; and
+
+                  (e) Adequate skills to maintain provider records of services performed and payments received.
+
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                    Page 13
+                                                 Special Terms and Conditions
+
+         f.   The Contractor shall ensure that employees and volunteers:
+
+              (1) Understand specific directions for providing the care that an individual Client requires;
+
+              (2) Meet the need of the client as identified in the Service Plan;
+
+              (3) Provide services within the scope of practice for their profession/skill level;
+
+              (4) Observe the Client for change in health status, including weakness, confusion, and loss of
+                  appetite;
+
+              (5) Identify problem situations and take appropriate action;
+
+              (6) Respond to emergencies without direct supervision; and
+
+              (7) Respect and consider the Client’s individual differences and preferences when performing
+                  routine tasks in a culturally appropriate manner, as described in the DDA Guiding Values.
+
+         g. The Contractor shall cooperate with DSHS in the evaluation of the Contractor’s performance under
+            the terms of this Contract including the following:
+
+              (1) Follow-up contact with Clients, their families, legal representatives or primary caregivers
+                  regarding their satisfaction with the services provided;
+
+              (2) Investigation and documentation of all complaints about the service provided; and
+
+              (3) Periodic monitoring of service documentation records, verification of provider qualifications, and
+                  of billing and payment data in ProviderOne.
+
+6.       Statement of Work. The Contractor shall provide the services and staff, and otherwise do all things
+         necessary for or incidental to the performance of work, as set forth below:
+
+         a. Obtain information about the Client’s identified needs and care requirements, and ensure that the
+            Client’s needs are met while providing services. This includes following the guidance of any written
+            plans for Client support such as the Service Plan, Nurse Delegation assessment or Positive
+            Behavior Support Plan.
+
+         b. Contact the Client’s CRM if the Contractor has not heard from the Client or the Client’s primary
+            caregiver within seven (7) days of the Contractor’s receipt of the service authorization.
+
+         c. Make arrangements with the primary caregiver for emergency medical treatment should this
+            become a necessity.
+
+         d. Deliver Respite Care in a manner consistent with WAC 388-845-1600 through 1620 and DDA
+            Policies. See Exhibit A, DDA Policies & Agreements.
+
+         e. Provide all support needs as identified in the Service Plan including personal care, physical
+            assistance, support and protective supervision to the Client in daily routine activities and to prevent
+            injury to him or herself and to others.
+
+         f.   Maintain transportation records to document the dates, times, destinations, and distances of each
+              Client’s transportation services. Upon request, the Contractor shall make the records available to
+              DSHS or DSHS/designee for review and audit.
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                     Page 14
+                                                 Special Terms and Conditions
+
+         g. Maintain sufficient vehicle and passenger insurance coverage and current driver’s license in
+            accordance with chapter 308-104 and 308-106 WAC.
+
+         h. Operate and maintain the transportation vehicle(s) in a manner consistent with protecting and
+            promoting the Client’s health and welfare.
+
+         i.   Contractor shall not require client, client’s guardian and/or client’s legal representative to enter into
+              any agreement releasing or limiting Contractor’s legal liability for injuries arising out of premises
+              operation, acts of independent contractors, products completion, or personal injuries sustained due
+              to contractor’s negligence in connection with providing services under this contract unless
+              contractor, at the same time, requires client, client’s guardian and/or client’s legal representative to
+              release the State of Washington and all of its agencies, agents, contractors, servants and
+              employees from liability for any acts of contractor causing injuries arising out of premises operation,
+              acts of independent contractors, products completion, or personal injuries sustained due to
+              contractor’s negligence in connection with providing services under this Contract.
+
+7.       Community Center – Day Center. In addition to the other terms in this contract, the following terms
+         also apply to Community Center – Day Center programs:
+
+         a. Day centers are center-based programs that offer scheduled programming within set hours of
+            operation and provide a package of supports that include on-sight supervision, social activities and
+            daily care.
+
+         b. Day centers may offer off-site activities.
+
+         c. Day centers must not be contracted with the Department as an Adult Day Care Center or Child
+            Care Center.
+
+         d. The Contractor must comply with any required site inspections, when deemed necessary by DSHS.
+
+
+
+
+8.       Additional Client Rights:
+
+         a. In compliance with Title VI of the Civil Rights Act of 1964, and under RCW 2.42.010, RCW
+            2.43.010, and RCW 49.60.010, the Contractor shall ensure that Limited English Proficient (LEP)
+            Clients have access to a certified, or, if non-certifiable language, to an otherwise qualified language
+            interpreter, who has successfully passed the DSHS language test. The Contractor shall also ensure
+            that DSHS Clients have access to documents translated into the Client’s primary language. To
+            request a qualified interpreter, you must register at https://hcauniversal.com/new-req1.a.uester-
+            registration/ or email scheduling@ulsonline.net. For additional information, visit their Provider FAQs
+            page.
+
+         b. In compliance with the Americans with Disabilities Act (ADA) of 1990, under RCW 2.42.010 and
+            RCW 49.60.010, the Contractor shall ensure that deaf, deaf-blind, or hard of hearing Clients have
+            access to the services of an interpreter certified by the National Association of the Deaf (NAD) as a
+            Sign Language Interpreter, or a qualified interpreter having a Registry of Interpreters for the Deaf
+            (RID).
+
+9.       Duty to Report Suspected Abuse, Abandonment, Neglect or Financial Exploitation. The
+         Contractor and its employees must immediately report all instances of suspected abandonment, abuse,
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                      Page 15
+                                                 Special Terms and Conditions
+
+         financial exploitation or neglect of a vulnerable adult under RCW 74.34.035 or a child under RCW
+         26.44.030.The report shall be made to the Department’s current state abuse hotline, 1-866-363-4276
+         (END-HARM). The Contractor must also report all suspected instances to the Client’s case manager. If
+         the notice to the Client’s case manager was verbal then it must be followed up by written notification
+         within one business day. Further, when required by RCW 74.34.035, the Contractor and the
+         Contractor’s employees must immediately make a report to the appropriate law enforcement agency.
+
+10.      Significant Change in Client’s Condition. The Contractor agrees to report any significant change in
+         the Client’s condition within twenty-four (24) hours to the Client’s Case Manager.
+
+11.      Death of Clients. The Contractor shall report all deaths of DSHS Clients receiving services under this
+         Contract to the Client’s case manager within one hour upon notification of the death. The Contractor
+         shall follow up with written notification of the Client’s death to the Client’s case manager within one
+         business day.
+
+12.      Provider Screenings.
+
+         a. The State must ensure the Department does not pay federal funds to excluded persons or entities.
+            States are also required to check for the death of an individual provider, agency owner or
+            authorized official prior to contracting. The required ownership and control information for
+            individuals with ownership interest of five percent (5%) or more, officers and managing employees
+            will be obtained from the Medicaid Provider Disclosure Statement and checked against all required
+            federal exclusion lists, and the Social Security Death Master List, prior to finalizing a contract.
+
+         b. The Contractor will report any change in ownership, managing employees, and/or those with a
+            controlling interest to the Department within thirty-five (35) days of such a change so that these
+            individuals can be screened against the required federal exclusion lists as well as the Social
+            Security Death Master List. For detailed instructions, please refer to the Medicaid Provider
+            Disclosure Statement.
+
+13.      Duty to Disclose Business Transactions.
+
+         a. Under 42 CFR 455.104, the Contractor is required to provide disclosures from individuals with
+            ownership interest, managing employees, and those with a controlling interest. The State must
+            obtain certain disclosures from providers and complete screenings to ensure the State does not pay
+            federal funds to excluded person or entities. Contractor must complete and submit a Medicaid
+            Provider Disclosure Statement, DSHS Form 27-094. According to 42 CFR 455.104(c) (1),
+            disclosures must be provided:
+
+              (1) When the prospective Contractor submits their initial application;
+
+              (2) When the prospective Contractor signs the contract;
+
+              (3) Upon request of the Department at contract revalidation/renewal;
+
+              (4) Within thirty-five (35) days after any change in ownership of the Contractor entity.
+
+         b. Failure to submit the requested information may cause the Department to refuse to enter into an
+            agreement or contract with the Contractor or to terminate existing agreements. The State will
+            recover any payments made to a disclosing entity that fails to disclose ownership or control
+            information, as required by 42 CFR 455.104.
+
+         c. Under 42 CFR 455.105(b), within thirty-five (35) days of the date of a request by the Secretary of
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                      Page 16
+                                                 Special Terms and Conditions
+
+              the U.S. Department of Health and Human Services or DSHS, the Contractor must submit full and
+              complete information related to Contractor’s business transactions that include:
+
+              (1) The ownership of any subcontractor with whom the Contractor has had business transactions
+                  totaling more than $25,000 during the twelve (12) month period ending on the date of the
+                  request; and
+
+              (2) Any significant business transactions between the Contractor and any wholly owned supplier, or
+                  between the Contractor and any subcontractor, during the five (5) year period ending on the
+                  date of the request.
+
+         d. Failure to comply with requests made under this term may result in denial of payments until the
+            requested information is disclosed. See 42 CFR 455.105(c).
+
+14.      Background Check. The signatory for this contract agrees to undergo and successfully complete a
+         DSHS criminal history background check conducted by DSHS every three years or more often as
+         required by program rule or as otherwise stated in the contract, and as required under RCW
+         43.20A.710, RCW 43.43.830 through 43.43.842. If the Contractor has owners, administrators,
+         subcontractors, employees or volunteers who may have unsupervised access to Clients in the course
+         of performing the work under this Contract, the Contractor shall require those owners, administrators,
+         subcontractors, employees or volunteers to successfully complete a criminal history background check
+         prior to any unsupervised access and at least every three years thereafter or more often if required by
+         program rule or as otherwise stated in the contract. The Contractor must maintain documentation of
+         successful completion of required background checks.
+
+15.      False Claims Act Education Compliance. Federal law requires any entity receiving annual Medicaid
+         payments of five (5) million or more to provide education regarding federal and state false claims laws
+         for all of its employees, contractors and/or agents. If Contractor receives at least five (5) million or
+         more in annual Medicaid payments under one or more provider identification number(s), the Contractor
+         is required to establish and adopt written policies for all employees, including management, and any
+         contractor or agent of the entity, including detailed information about both the federal and state False
+         Claims Acts and other applicable provisions of Section 1902(a)(68) of the Social Security Act. The law
+         requires the following:
+
+         Contractor must establish written policies to include detailed information about the False Claims Act,
+         including references to the Washington State False Claims Act;
+
+         a. Policies regarding the handling and protection of whistleblowers;
+
+         b. Policies and procedures for detecting and preventing fraud, waste, and abuse;
+
+         c. Policies and procedures must be included in an existing employee handbook or policy manual, but
+            there is no requirement to create an employee handbook if none already exists.
+
+16.      Bribes and Kickbacks. Federal law stipulates that Medicaid participants be offered free choice among
+         qualified providers, therefore any exclusive relationship between the Contractor and any other Medicaid
+         service is prohibited.
+
+17.      State or Federal Audit Requests. The Contractor is required to respond to State or Federal audit
+         requests for records or documentation, within the timeframe provided by the requestor. The Contractor
+         must provide all records requested to either State or Federal agency staff or their designees.
+
+18.      Drug-Free Workplace. The Contractor agrees he or she and all employees or volunteers shall not use
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                 Page 17
+                                                 Special Terms and Conditions
+
+         or be under the influence of alcohol, marijuana, illegal drugs, and/or any substances that impact the
+         Contractor’s ability to perform duties under this Contract.
+
+19.      Execution and Waiver. This Contract shall be binding on DSHS only upon signature by DSHS with an
+         Authorized Countersignature. Only the Contracting Officer or the Contracting Officer’s designee has
+         authority to waive any provision of this Contract on behalf of DSHS.
+
+
+
+20.      Consideration. Total consideration payable to Contractor for satisfactory performance of the work
+         under this Contract shall be based on the following:
+
+         a. DSHS shall pay the Contractor at the published rate, for services provided under this contract. The
+            Contractor hereby waives written notice of subsequent rate changes. Subsequent rate changes will
+            not require a revised Contract and are not disputable. Current rates are published at:
+            https://www.dshs.wa.gov/altsa/management-services-division/office-rates-management.
+
+         b. DSHS will only reimburse the Contractor for the number of hours authorized and provided per
+            client. DSHS will pay the contractor at an established rate in 15-minute intervals. The Contractor will
+            be reimbursed up to the Contractor’s published rate for services provided unless that rate exceeds
+            the equivalent of 15 minute intervals of service the client received.
+
+         c. Transportation services must be written in the client’s Service Plan. Mileage shall be paid at current
+            State of Washington rates, as published by the Office of Financial Management, for miles driven
+            while transporting one Client to a waiver service. Transportation is to and from the respite service
+            and must be provided in accordance with WAC chapter 388-845.
+
+         d. Transportation as a component of the Respite in Community Settings service must be included in
+            the total published rate.
+
+         e. Administrative functions, such as record keeping, travel to work site, billing, and report development
+            are not billable as separate services but are included in the established rate schedule
+
+         f.   DSHS shall not pay the Contractor separately for the cost of other expenses such as equipment
+              rental, meals and snacks for all day activities this must be rolled into the cost of the service.
+
+21.      Billing and Payment.
+
+         a. The Contractor shall bill for authorized services using the ProviderOne Payment system, which is
+            the state of Washington’s Medicaid management system.
+
+         b. Billing instructions are located at https://www.hca.wa.gov/billers-providers-
+            partners/providerone/providerone-billing-and-resource-guide
+
+         c. The Contractor agrees to accept this payment as total and complete remuneration for services
+            provided under this Contract to DSHS Clients. DSHS clients cannot be billed fees beyond the
+            hourly contracted rate for the service Respite in Community Settings.
+
+         d. DSHS shall not pay the Contractor for cancelled or missed appointments, nor for scheduled hours
+            of service when Clients are not seen or served by the Contractor.
+
+         e. Only DSHS shall have the authority to authorize services under this Contract.
+
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                  Page 18
+                                                 Special Terms and Conditions
+
+         f.   Respite care is a service authorized in 15 minute increments. DSHS shall not pay for more respite
+              units than is received by the client. Client can pay for services provided that exceed waiver
+              allotment as long as it does not surpass the contracted rate.
+
+         g. DSHS shall only reimburse or pay for services which are authorized and within the scope of respite
+            services.
+
+         h. The contractor shall provide invoices or documentation of the dates of service, duration of time and
+            total cost prior to service being provided. The CRM will create an authorization in CARE in
+            “reviewing” status. After confirmation that the service is completed appropriately, the CRM will
+            change the status of the authorization to “approved” which will allow the authorization to be claimed.
+
+         i.   The contractor shall provide invoices after service provided, as requested by DSHS
+
+         j.   If DSHS pays the Contractor for services authorized but not provided by the Contractor, the amount
+              paid shall be considered an overpayment.
+
+         k. If this Contract is terminated for any reason, DSHS shall pay for only those services authorized and
+            provided through the date of termination.
+
+         l.   Payment shall be considered timely if made by DSHS within thirty (30) days Payment shall be sent
+              to the address designated by Contractor. DSHS may, at its discretion, terminate the Contract or
+              withhold payments claimed by Contractor for services rendered if Contractor fails to satisfactorily
+              comply with any term or condition of this Contract.
+
+22.      Insurance.
+
+         a. DSHS certifies that it is self-insured under the State’s self-insurance liability program, as provided
+            by RCW 4.92.130, and shall pay for losses for which it is found liable.
+
+         b. The Contractor certifies, by checking the appropriate box below, initialing to the left of the box
+            selected, and signing this Agreement, that:
+
+                                The Contractor is self-insured or insured through a risk pool and shall pay for losses
+                            for which it is found liable; or
+
+                                The Contractor maintains the types and amounts of insurance identified below and
+                            shall, prior to the execution of this Agreement by DSHS, provide certificates of insurance
+                            to that effect to the DSHS contact on page one of this Agreement.
+
+              Commercial General Liability Insurance (CGL) – to include coverage for bodily injury, property
+              damage, and contractual liability, with the following minimum limits: Each Occurrence - $2,000,000;
+              General Aggregate - $4,000,000. The policy shall include liability arising out of premises,
+              operations, independent contractors, products-completed operations, personal injury, advertising
+              injury, and liability assumed under an insured contract. The State of Washington, DSHS, its elected
+              and appointed officials, agents, and employees shall be named as additional insureds.
+
+         .
+
+
+
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                      Page 19
+                                                              Exhibit A
+
+                                                      DDA Policies & Agreements
+
+
+Policies
+The following DDA Policies are hereby incorporated as Contractor Requirements.
+
+          5.06        Client Rights
+          5.13        Protection from Abuse: Mandatory Reporting
+          5.14        Positive Behavior Support Principles
+          5.19        Positive Behavior Support for Children & Youth
+          6.15        Nurse Delegation Services
+
+Policies can be located at https://www.dshs.wa.gov/dda/policies-and-rules/policy-manual. In the event
+DSHS updates or changes these policies, the revised policy/policies will be incorporated into this Contract
+without the requirement of an amendment.
+
+DDA Guiding Values:
+The DDA Guiding Values can be located at:
+https://www.dshs.wa.gov/sites/default/files/DDA/dda/documents/DDA%20Guiding%20Values%20Booklet.pdf
+
+Disability Rights of Washington (DRW) Agreement:
+The following access agreement is regarding “Disability Rights of Washington (DRW) rights and
+responsibilities. The agreement can be located at:
+https://www.dshs.wa.gov/sites/default/files/DDA/dda/documents/WPAS.pdf.
+
+*Note: WPAS has changed its name to “Disability Rights of Washington (DRW)” and DDD has changed its name to
+“Developmental Disabilities Administration (DDA)
+
+
+
+
+DSHS Central Contracts & Legal Service9
+1803LP DDA Respite in Community Settings (8- 29-19)                                                Page 20
+

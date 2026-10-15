@@ -1,0 +1,1432 @@
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                                              Determination of NONSIGNIFICANCE
+                                                                Notice Date: September 2, 2026
+
+                                        2027 - 2032 Parks and Lands Capital Improvement Plan
+
+
+                 Please find enclosed an environmental Determination of Non-Significance (DNS) issued
+                 pursuant to State Environmental Policy Act (SEPA) Rules (Chapter 197-11, Washington
+                 Administrative Code). The enclosed review comments reflect evaluation of the
+                 environmental checklist by the lead agency as required by WAC 197-11-330(1)(a)(i).
+
+                 Written comments may be submitted on this determination within fifteen (15) days of its
+                 issuance, after which the DNS will be reconsidered in light of the comments received.
+
+                 Please address all correspondence to:
+
+                                                  Clark County Public Works – Parks and Nature Division
+                                                  David L Stipe, Parks Planning and Development Manager
+                                                  PO Box 9810
+                                                  Vancouver, WA 98666-9810
+                                                  david.stipe@clark.wa.gov
+
+
+                                                                     DISTRIBUTION LIST
+                 Federal Emergency Management Agency                                           US Army Corps of Engineers
+                 US Environmental Protection Agency                                            US Fish & Wildlife
+                 US Soil Conservation Services                                                 Bonneville Power Administration
+
+                 Confederated Tribes of Warm Springs                                           Cowlitz Indian Tribe
+                 The Confederated Tribes of Grand Ronde                                        Confederated Tribes & Bands of the Yakama Nation
+
+                 Washington State Department of Archaeology & Historic Preservation            Washington State Department of Ecology
+                 Washington State Department of Fish & Wildlife                                Washington State Department of Natural Resources SW
+                 Washington State Department of Transportation
+
+                 Camas Public Library                                                          City of Battle Ground
+                 City of Camas                                                                 City of La Center
+                 City of Ridgefield                                                            City of Washougal
+                 City of Woodland                                                              City of Vancouver
+                 Clark County Community Development                                            Clark County Conservation District
+                 Clark County Council                                                          Clark County Fire & Rescue
+                 Clark County Fire District 3, 5, 6, 10, 13                                    Clark County Sheriff’s Office
+                 East County Fire & Rescue                                                     Fire Marshall’s Office
+                 Fort Vancouver Regional Library                                               Regional Transportation Council
+                 Southwest Clean Air Agency                                                    SW Washington Health District
+                 Vancouver Fire Department
+
+                 Battle Ground School District                                                 Camas School District
+                 Evergreen School District                                                     Green Mountain School District
+                 Hockinson School District                                                     La Center School District
+                 Mt. Pleasant School District                                                  Ridgefield School District
+                 Vancouver School District                                                     Washougal School District
+                 Woodland School District
+
+                 Friends of Curtin Creek (postcard only)                                       Camas Washougal Post-Record
+                 The Columbian                                                                 The Reflector
+
+                 AT&T                                                                          Century Link
+                 Clark Public Utilities – Electric                                             Clark Public Utilities – Water
+                 Clark Regional Wastewater District                                            Northwest Natural
+                 Pacific Power & Light                                                         Xfinity – Comcast
+                 C-Tran                                                                        Clark County Association of Realtors
+                 Clark County Home Builders Association                                        Columbia River Economic Development Council
+                 Greater Vancouver Chamber of Commerce                                         Port of Camas-Washougal
+                 Port of Vancouver                                                             Vancouver Audubon Society
+
+
+
+
+                                                                         Clark County Public Works
+                                                                 1300 Franklin Street, Vancouver, Washington
+                                                                                  www.clark.wa.gov
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                                        Determination of NONSIGNIFICANCE
+                                                          Notice Date: September 2, 2026
+
+                            2027-2032 Clark County Parks and Lands Capital Improvement Plan
+
+
+
+
+                 Airport Green Neighborhood Association                                 Hudson’s Bay Neighborhood Association
+                 Andresen/St. Johns Neighborhood Association                            Image Neighborhood Association
+                 Arnada Neighborhood Association                                        Kevanna Park Neighborhood Association
+                 Bagley Downs Neighborhood Association                                  Landover-Sharmel Neighborhood Association
+                 Bella Vista Neighborhood Association                                   Lincoln Neighborhood Association
+                 Bennington Neighborhood Association                                    Maple Tree Neighborhood Association
+                 Burnt Bridge Creek Neighborhood Association                            Marrion Neighborhood Association
+                 Burton Evergreen Neighborhood Association                              Meadow Glade Neighborhood Association
+                 Carter Park Neighborhood Association                                   Meadow Homes Neighborhood Association
+                 Cascade Highlands Neighborhood Association                             Mountain View Neighborhood Association
+                 Cascade Southeast Neighborhood Association                             Northeast Hazel Dell Neighborhood Association
+                 Central Park Neighborhood Association                                  North Fork Lewis River Neighborhood Association
+                 Cimarron Neighborhood Association                                      North Garrison Heights Neighborhood Association
+                 Columbia Way Neighborhood Association                                  North Hearthwood Neighborhood Association
+                 Concerned Citizens of Hockinson Neighborhood Association               North Image Neighborhood Association
+                 Countryside Woods Neighborhood Association                             North Salmon Creek Neighborhood Association
+                 Daybreak Neighborhood Association                                      Northcrest Neighborhood Association
+                 Dubois Park Neighborhood Association                                   Northfield Neighborhood Association
+                 East Fork Frontier Neighborhood Association                            Northwest Neighborhood Association
+                 East Fork Hills Rural Neighborhood Association                         Northwood Neighborhood Association
+                 East Minnehaha Neighborhood Association                                Oakbrook Neighborhood Association
+                 East Old Evergreen Hwy Neighborhood Association                        Ogden Neighborhood Association
+                 Edgewood Park Neighborhood Association                                 Old Evergreen Hwy Neighborhood Association
+                 Ellsworth Springs Neighborhood Association                             Parkside Neighborhood Association
+                 Enterprise/Paradise Point Neighborhood Association                     Parkway East Neighborhood Association
+                 Esther Short Neighborhood Association                                  Pleasant Highlands Neighborhood Association
+                 Evergreen Highlands Neighborhood Association                           Proebstel Neighborhood Association
+                 Fairway/164th Avenue Neighborhood Association                          Ramblin’ Creek/South Salmon Creek Neighborhood Association
+                 Father Blanchet Park Neighborhood Association                          Ridgefield Junction Neighborhood Association
+                 Felida Neighborhood Association                                        Riveridge Neighborhood Association
+                 Fern Prairie Neighborhood Association                                  Riverview Neighborhood Association
+                 Fircrest Neighborhood Association                                      Road’s End Neighborhood Association
+                 First Place Neighborhood Association                                   Rose Village Neighborhood Association
+                 Fisher-Mill Plain Neighborhood Association                             Sherwood Neighborhood Association
+                 Fisher’s Creek Neighborhood Association                                Shumway Neighborhood Association
+                 Fisher’s Landing East Neighborhood Association                         Sifton Neighborhood Association
+                 Forest Ridge Neighborhood Association                                  Southcliff Neighborhood Association
+                 Four Creeks Neighborhood Association                                   Sunnyside Neighborhood Association
+                 Fourth Plain Village Neighborhood Association                          Truman Neighborhood Association
+                 Fruit Valley Neighborhood Association                                  Vancouver Heights Neighborhood Association
+                 Greater Brush Prairie Neighborhood Association                         VanMall Neighborhood Association
+                 Green Meadows Neighborhood Association                                 Village at Fisher’s Landing Neighborhood Association
+                 Harney Heights Neighborhood Association                                Washougal River Neighborhood Association
+                 Hearthwood Neighborhood Association                                    West Hazel Dell Neighborhood Association
+                 Heritage Neighborhood Association                                      West Minnehaha Neighborhood Association
+                 Hough Neighborhood Association                                         Wildwood Neighborhood Association
+
+
+
+
+                                                                     Clark County Public Works
+                                                             1300 Franklin Street, Vancouver, Washington
+                                                                              www.clark.wa.gov
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                                  Determination of NONSIGNIFICANCE
+                                                    Notice Date: September 2, 2026
+
+                               2027-2032 Clark County Parks and Lands Capital Improvement Plan
+
+
+                                        DETERMINATION OF NONSIGNIFICANCE (DNS)
+
+                 Description of Proposal:
+                 Clark County is proposing to adopt an update to its existing Parks and Lands Capital
+                 Improvement Plan (CIP) for years 2027 through 2032, as a non-project SEPA review, as
+                 required by law, to reflect changes to the overall program. The Parks and Lands CIP
+                 identifies park and legacy land acquisition and improvement project phases to be completed
+                 during the next six-year period within unincorporated Clark County. The purpose of this
+                 program is to prepare a comprehensive park, open space and conservation improvement
+                 work schedule that addresses resident needs and financial constraints while considering
+                 environmental concerns.
+
+                 Proponent: Clark County Public Works
+
+                 Location of proposal, including street address, if any:
+                 Various locations throughout Clark County
+
+                 Lead Agency: Clark County Public Works, the lead agency for this proposal, has
+                 determined that it does not have a probable significant adverse impact on the environment.
+                 An environmental impact statement (EIS) is not required under RCW 43.21C.030(2)(c). This
+                 decision was made after review of the attached environmental checklist and other
+                 information on file with the lead agency. This information is available to the public on
+                 request. The Environmental Checklist is also available at:
+                 https://clark.wa.gov/public-works/sepa.
+
+                 This determination is based on the following findings and conclusions:
+                 The lead agency has determined that the requirements for environmental analysis,
+                 protection, and mitigation measures have been adequately addressed in the development
+                 regulations and comprehensive plan adopted under chapter 36.70A RCW, and in other
+                 applicable local, state, or federal laws or rules, as provided by RCW 43.21C.240 and WAC
+                 197-11-158. This is a non-project action and as such, there are no impacts to the
+                 environment due to this action. Each project in the Parks and Lands CIP will go through a
+                 specific environmental review during design, avoiding and minimizing impacts as practicable
+                 and mitigating any resulting impacts.
+
+                 This DNS is issued under WAC 197-11-340(2); the lead agency will not act on this proposal
+                 for 15 days from the date of the notice.
+
+                 Comments must be submitted by:              September 17, 2026
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                                  Determination of NONSIGNIFICANCE
+                                                    Notice Date: September 2, 2026
+
+                               2027-2032 Clark County Parks and Lands Capital Improvement Plan
+
+
+
+                 Responsible Official:             Kenneth A. Lader, P.E.
+                 Position/Title                    Public Works Director
+                                                   Clark County Public Works
+
+                 Contact Person:                   David L Stipe, Parks Planning and Development Manager
+                                                   david.stipe@clark.wa.gov
+
+                 Address:                          PO Box 9810
+                                                   Vancouver, WA 98666-9810
+
+
+                 Signature: ______________________________________
+
+                 Date: 08/25/26
+                       __________________________________________
+
+
+
+                 For other formats, contact the Clark County ADA Office at ADA@clark.wa.gov.
+
+                 Appeal process: All appeals shall be in writing, filed with the responsible official and
+                 accompanied by an appellate fee, pursuant to CCC 40.570.080.D SEPA and County
+                 Decisions.
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                                               SEPA Environmental Checklist
+
+
+            A. BACKGROUND
+
+                 1. Name of proposed project, if applicable:
+
+                     2027-2032 Clark County Parks and Lands Capital Improvement Plan
+
+                 2. Name of applicant:
+
+                     Clark County Public Works
+
+                 3. Address and phone number of applicant and contact person:
+
+                     Applicant:
+                     Kenneth A. Lader, P.E., Public Works Director
+                     1300 Franklin St.
+                     PO Box 9810
+                     Vancouver, WA 98666-9810
+                     564-397- 4185
+                     ken.lader@clark.wa.gov
+
+                     Contact:
+                     David Stipe, Parks and Nature Planning and Development Manager
+                     1300 Franklin St.
+                     P.O. Box 9810
+                     Vancouver, WA 98666-9810
+                     564-397-5881
+                     david.stipe@clark.wa.gov
+
+                 4. Date checklist prepared:
+
+                     August 19, 2026
+
+                 5. Agency requesting checklist:
+
+                     Clark County Public Works
+
+                 6. Proposed timing or schedule (including phasing, if applicable):
+
+                     Adoption of the Parks and Lands Capital Improvement Program (CIP) is anticipated to
+                     occur in November 2026. State Law mandates that the CIP be adopted before the annual
+                     budget adoption.
+
+                 7. Do you have any plans for future additions, expansion, or further activity related to
+                    or connected with this proposal? If yes, explain.
+
+                     Yes, the Parks and Lands CIP is reviewed and updated annually. An annual element will be
+                     adopted separately and monitored throughout each year. Any project phases which are not
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                     completed in the current year, and which have received funding, may be carried over to the
+                     next CIP annual element.
+
+                 8. List any environmental information you know about that has been prepared, or will
+                    be prepared, directly related to this proposal.
+
+                     Projects currently in design or under construction have environmental documentation on file
+                     or in progress. Projects not yet underway will undergo complete environmental review
+                     during the design process.
+
+                 9. Do you know whether applications are pending for governmental approvals of other
+                    proposals directly affecting the property covered by your proposal? If yes, explain.
+
+                     No known governmental approvals are pending that would affect the Parks and Lands CIP.
+
+                 10. List any government approvals or permits that will be needed for your proposal, if
+                     known.
+
+                     The proposed Parks and Lands CIP requires annual adoption by the Clark County Council
+                     before the Annual Budget is adopted.
+
+                 11. Give brief, complete description of your proposal, including the proposed uses and
+                     the size of the project and site. There are several questions later in this checklist
+                     that ask you to describe certain aspects of your proposal. You do not need to repeat
+                     those answers on this page. (Lead agencies may modify this form to include
+                     additional specific information on project description.)
+
+                     The program identifies park and legacy land acquisition and improvement project phases to
+                     be completed during the next six-year period within unincorporated Clark County. The
+                     purpose of this program is to prepare a comprehensive park, open space and conservation
+                     improvement work schedule that addresses resident needs and financial constraints while
+                     considering environmental concerns.
+
+                 12. Location of the proposal. Give sufficient information for a person to understand the
+                     precise location of your proposed project, including a street address, if any, and
+                     section, township, and range, if known. If a proposal would occur over a range of
+                     area, provide the range or boundaries of the site(s). Provide a legal description, site
+                     plan, vicinity map, and topographic map, if reasonably available. While you should
+                     submit any plans required by the agency, you are not required to duplicate maps or
+                     detailed plans submitted with any permit applications related to this checklist.
+
+                     The program identifies the location of park and legacy land improvement projects to be
+                     designed and constructed over the following six years within the unincorporated area of
+                     Clark County. A reference map for improvements projects can be found in the CIP.
+
+
+
+
+                                                                                                   Page 2 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+            B. ENVIRONMENTAL ELEMENTS
+
+                 1. Earth
+                    a. General description of the site:
+                       (check all that apply): ☒ Flat, ☒ rolling, ☒ hilly, ☒ steep slopes, ☒
+                       mountainous, ☐ other
+
+                          The county is generally characterized by flat to rolling terrain with potentially
+                          steep slopes along waterways and in mountainous areas. Projects will be
+                          evaluated on a case-by-case basis.
+
+                     b. What is the steepest slope on the site (approximate percent slope)?
+
+                          Slopes vary throughout the county. Slope conditions for each project are evaluated on a
+                          case-by-case basis.
+
+                     c. What general types of soils are found on the site (for example, clay, sand, gravel,
+                        peat, muck)? If you know the classification of agricultural soils, specify them,
+                        and note any agricultural land of long-term commercial significance and
+                        whether the proposal results in removing any of these soils.
+
+                          Soil types vary throughout the county. Soil conditions for each project are evaluated on
+                          a case-by-case basis.
+
+                     d. Are there surface indications or history of unstable soils in the immediate
+                        vicinity? If so, describe.
+
+                          There are mapped areas of potential instability due to underlying geologic conditions
+                          and physical characteristics associated with steep slopes along various waterways.
+                          Detailed designs for new projects will include appropriate measures to ensure stability.
+
+                     e. Describe the purpose, type, total area, and approximate quantities, and total
+                        affected area of any filling or grading proposed. Indicate source of fill.
+
+                          Specific projects will address the need, source and location of necessary filling or
+                          grading, and appropriate permits will be secured before construction begins.
+
+                     f.   Could erosion occur as a result of clearing, construction, or use? If so, generally
+                          describe.
+
+                          Erosion could occur as a result of clearing for construction of projects. Appropriate
+                          erosion control measures are included in the plans developed during project design and
+                          implemented in the field during construction.
+
+
+
+
+                                                                                                       Page 3 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                     g. About what percent of the site will be covered with impervious surfaces after
+                        project construction (for example, asphalt or buildings)?
+
+                          Approximately 35% of county park land and 5% of legacy land, designated for new or
+                          improved facilities, will be covered with impervious surfaces.
+
+                     h. Proposed measures to reduce or control erosion, or other impacts to the earth, if
+                        any:
+
+                          Detailed design plans will be submitted when specific improvements are proposed,
+                          including drainage and erosion control plans.
+
+                 2. Air
+
+                     a. What types of emissions to the air would result from the proposal (i.e., dust,
+                        automobile, odors, industrial wood smoke) during construction, operation, and
+                        maintenance when the project is completed? If any, generally describe and give
+                        approximate quantities if known.
+
+                          Fugitive dust could occur during the construction of the proposed park improvements.
+                          Watering the construction areas or covering disturbed soils while not being worked are
+                          both approved best management practices.
+
+                     b. Are there any off-site sources of emissions or odor that may affect your
+                        proposal? If so, generally describe.
+
+                          There are no known off-site sources of emissions or odor that may affect the proposal.
+
+                     c. Proposed measures to reduce or control emissions or other impacts to air, if
+                        any:
+
+                          Specific projects will have to meet federal, state, and regional air quality standards
+                          before completion of design phase. During construction, fugitive emissions, primarily
+                          particulate matter, must be minimized to prevent a health hazard and/or nuisance
+                          situation to neighbors and/or motorists on adjacent roadways. Best Available Control
+                          Technology must be used to control particulate emissions in all areas where there is
+                          construction, material transport, or where operating equipment. The use of a dust
+                          suppressant or watering of traveled areas and covering materials being transported on
+                          a routine basis should be sufficient to keep particulate emissions to a minimum at all
+                          times during construction.
+
+                 3. Water
+
+                     a. Surface Water:
+
+                          1) Is there any surface water body on or in the immediate vicinity of the site
+                             (including year-round and seasonal streams, saltwater, lakes, ponds,
+                             wetlands)? If yes, describe type and provide names. If appropriate, state
+                             what stream or river it flows into.
+
+                                                                                                   Page 4 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                             Several projects are adjacent to perennial or seasonal streams and wetlands.
+                             Project level SEPA analysis will be performed at the time of project design, and
+                             appropriate permitting and mitigation will be identified at that time.
+
+                         2) Will the project require any work over, in, or adjacent to (within 200 feet) the
+                            described water? If yes, please describe and attach available plans.
+
+                             Specific projects within the CIP may require work over, in, or adjacent to wetlands
+                             and waterways. Final design of specific projects will be subject to mitigation
+                             measures through project specific SEPA, Shoreline, interdepartmental review, and
+                             various other regulations, where applicable.
+
+                         3) Estimate the amount of fill and dredge material that would be placed in or
+                            removed from surface water or wetlands and indicate the area of the site that
+                            would be affected. Indicate the source of fill material.
+
+                             Specific projects will address the source and location of any necessary filling or
+                             dredging, and appropriate permits will be secured before construction begins.
+
+                         4) Will the proposal require surface water withdrawals or diversions? Give
+                            general description, purpose, and approximate quantities if known.
+
+                             Individual construction projects could require surface water diversions and/or
+                             culverting. Detailed engineering plans to address an appropriate diversion method
+                             based on the waterway and site conditions will be prepared at the time of site-
+                             specific design.
+
+                         5) Does the proposal lie within a 100-year flood plain? If so, note location on the
+                            site plan.
+
+                             Clark County has many acres which lie within 100-year floodplains. Detailed
+                             locations will be identified when specific projects are designed. Most projects will
+                             not involve structures or fill that would cause impacts to floodplains. However,
+                             where project development would cause impacts, all federal, state, and local
+                             floodplain provisions will be met.
+
+                         6) Does the proposal involve any discharges of waste materials to surface
+                            waters? If so, describe the type of waste and anticipated volume of
+                            discharge.
+
+                             There will be no discharge of waste materials to surface waters. Stormwater runoff
+                             (described below) is the only discharge to surface waters.
+
+                     b. Ground Water:
+
+                         1) Will ground water be withdrawn from a well for drinking water or other
+                            purposes? If so, give a general description of the well, proposed uses and
+                            approximate quantities withdrawn from the well. Will water be discharged to
+                            groundwater? Give general description, purpose, and approximate quantities
+                            if known.
+                                                                                                    Page 5 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                             Ground water withdrawal for drinking water may occur at a given site. Final design
+                             of specific projects will be subject to mitigation measures through project specific
+                             SEPA, Shoreline, interdepartmental review, and various other regulations, where
+                             applicable.
+
+                         2) Describe waste material that will be discharged into the ground from septic
+                            tanks or other sources, if any (for example: Domestic sewage; industrial,
+                            containing the following chemicals . . .; agricultural; etc). Describe the
+                            general size of the system, the number of such systems, the number of
+                            houses to be served (if applicable), or the number of animals or humans the
+                            system(s) are expected to serve.
+
+                             Septic tank disposal of domestic sewage may occur at a given site. Final design of
+                             specific projects will be subject to mitigation measures through project specific
+                             SEPA, Shoreline, interdepartmental review, and various other regulations, where
+                             applicable.
+
+                     c. Water Runoff (including storm water):
+
+                         1) Describe the source of runoff (including storm water) and method of
+                            collection and disposal, if any (include quantities, if known). Where will this
+                            water flow? Will this water flow into other waters? If so, describe.
+
+                             Surface water runoff will be generated from impervious vehicular and pedestrian
+                             surfaces. Improvement projects will meet federal, state, and local standards for
+                             stormwater collection and treatment as applicable.
+
+                         2) Could waste materials enter ground or surface waters? If so, generally
+                            describe.
+
+                             Waste materials will not enter ground or surface waters as a result of this action.
+                             Contractors are required to develop spill response plans to ensure materials are
+                             kept out of ground and surface waters.
+
+                         3) Does the proposal alter or otherwise affect drainage patterns in the vicinity
+                            of the site? If so, describe.
+
+                             Clark County is required by federal, state, and local codes to capture, treat, and
+                             detain stormwater from new impervious surfaces. Some projects may result in an
+                             alteration of drainage patterns because of new storm sewers and stormwater
+                             facilities. Detailed engineering plans will be prepared at the time of site-specific
+                             design.
+
+                     d. Proposed measures to reduce or control surface, ground, and runoff water, and
+                        drainage pattern impacts, if any:
+
+                         Future construction of projects will include measures to avoid waste materials from road
+                         and pedestrian surfaces (i.e., oils, anti-freeze, and sediments) from entering ground or
+                         surface waters. These materials shall be identified and addressed during the review of
+                         specific projects.
+                                                                                                    Page 6 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                 4. Plants
+
+                     a. Indicate the types of vegetation found on the site:
+
+                         Many different species of trees, shrubs, herbaceous and aquatic vegetation
+                         are found throughout Clark County. Specific types and species will be
+                         identified for each project during design.
+
+                     b. What kind and amount of vegetation will be removed or altered?
+
+                         The species and amount of vegetation that will be removed or altered by a project will
+                         be determined at time of design and appropriate restoration and mitigation measures
+                         will be implemented.
+
+                     c. List threatened or endangered species known to be on or near the site.
+
+                         According to the US Fish and Wildlife Service Information for Planning and Consultation
+                         (IPaC) database, there are currently no federally listed threatened or endangered
+                         species known within Clark County. As of 2024, the following vascular plant species are
+                         identified by the Washington Department of Natural Resources to be of concern in
+                         Clark County:
+
+                                                                     Heritage     State
+              Common Name               Latin Name                   Rank         Status        Federal Status
+                                        Actaea elata var. elata
+              Tall bugbane              (Cimicifuga elata)           G4T4/S3      Sensitive
+                                        Actaea laciniata                                        Sensitive
+              Mt. Hood bugbane          (Cimicifuga laciniata)       G4/ S2       Sensitive     (USFS)
+                                        Aphyllon californicum
+                                        ssp. grayanum
+                                        (Orobanche californica
+              Gray’s broomrape          ssp. grayana)                G4T3T4/ S1   Endangered
+                                                                                                Sensitive (BLM,
+              Oregon bolandra           Bolandra oregana             G3/S2        Threatened    USFS)
+              Dense sedge               Carex densa                  G4/S2        Sensitive
+                                                                                             ESA delisted in
+              Golden paintbrush         Castilleja levisecta         G2/S2        Threatened 2023
+                                        Cirsium remotifolium         G5TNR                   Sensitive
+              Weak thistle              var. remotifolium            [T3]/S1      Endangered (USFS)
+                                        Collinsia sparsiflora var.
+              Few-flowered              sparsiflora                                             Sensitive (BLM,
+              collinsia                 (C. s. var. bruceae)         G4T4/S1      Sensitive     USFS)
+                                        Corydalis aquae-gelidae
+              Clackamas                 (C. caseana ssp. aquae-                                 Sensitive (BLM,
+              corydalis                 gelidae)                     G3/S2        Threatened    USFS)
+              Oregon coyote-
+              thistle                   Eryngium petiolatum          G4/S2        Sensitive
+
+
+                                                                                                   Page 7 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                                        Euonymus occidentalis      G5TNR/
+              Western wahoo             var. occidentalis          S2              Sensitive
+                                                                                                  Sensitive (BLM,
+              Water howellia            Howellia aquatilis         G3/S2           Threatened     USFS)
+                                                                                                  Sensitive (BLM,
+              Nuttall’s quillwort       Isöetes nuttallii          G4?/S2          Sensitive      USFS)
+              Spreading rush            Juncus patens              G5/S1           Sensitive
+              Torrey’s peavine          Lathyrus torreyi           G5/S1           Sensitive
+              Bradshaw’s
+              biscuitroot               Lomatium bradshawii        G2/S1           Endangered Sensitive (BLM)
+                                        Nuttallanthus texanus
+                                        (Linaria canadensis var.
+              Texas blue toadflax       texana)                    G4G5/S1         Sensitive
+                                        Penstemon hesperius
+                                        (P. rydbergii,
+              Tall beardtongue          misapplied)                G1/S1           Endangered
+              Soft-leaved willow        Salix sessilifolia         G4?/S2          Sensitive
+              Hairy-stemmed                                                                   Sensitive (BLM,
+              checkermallow             Sidalcea hirtipes          G2/S2           Threatened USFS)
+              Nelson's                                                                        ESA delisted in
+              checkermallow             Sidalcea nelsoniana        G2G3/S1         Endangered 2023
+                                        Symphyotrichum hallii
+              Hall's aster              (Aster hallii)             G4/S2           Sensitive
+                                        Trillium albidum ssp.
+              Small-flowered            Parviflorum                G4G5T2T3/
+              trillium                  (T. parviflorum)           S2S3            Sensitive
+              Narrow-leaf mule’s-
+              ears                      Wyethia angustifolia       G4/S1           Sensitive
+
+                     d. Proposed landscaping, use of native plants, or other measures to preserve or
+                        enhance vegetation on the site, if any;
+
+                         On-site restoration and all mitigation measures, including the planting of native
+                         species, will be addressed when specific projects are proposed, with special
+                         consideration given to the enhancement of the natural ecosystem, wetlands,
+                         archeological protection, and wildlife enhancement. State and Federal agencies will be
+                         consulted to identify and protect threatened and/or endangered species.
+
+                     e. List all noxious weeds and invasive species known to be on or near the site.
+
+                         As of 2026, the species listed in the table below are identified as noxious weeds
+                         typically found in Clark County. Site specific noxious weeds and invasive species will be
+                         identified during the project planning phase and treated accordingly.
+
+
+
+
+                                                                                                     Page 8 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+
+                          A complete list of all noxious weeds found in Clark County can be found at:
+                          https://clark.wa.gov/public-works/clark-county-noxious-weed-list
+
+                 5. Animals
+
+                     a. List any birds and animals which have been observed on or near the site or are
+                        known to be on or near the site:
+
+                         birds: hawks, herons, eagles, songbirds, and other local birds
+                         mammals: deer, beavers, coyotes, opossums, weasels, raccoons, river otters, rabbits,
+                         squirrels, and other small mammals and domestic farm animals
+                         fish: lamprey, sturgeon, salmon, steelhead, trout, smelt, minnows, carp, suckers,
+                         catfish, sandroller, sunfish, perch, sculpin
+
+                         Specific birds, mammals and fish at a project site will be identified during project design.
+
+
+
+                                                                                                       Page 9 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                     b. List any threatened and endangered species known to be on or near the site.
+
+                         According to the US Fish and Wildlife Service Information for Planning and Consultation
+                         (IPaC) database, there are several federally threatened or endangered species that
+                         may be found in Clark County, including:
+
+
+              Common Name                           Latin Name                        Federal Status
+              Columbian White-tailed Deer           Odocoileus virginianus leucurus   Threatened
+              Gray Wolf                             Canis lupus                       Endangered
+              North American Wolverine              Gulo gulo luscus                  Threatened
+              California Condor                     Gymnogyps californianus           Experimental population
+              Marbled Murrelet                      Brachyramphus marmoratus          Threatened
+              Northern Spotted Owl                  Strix occidentalis caurina        Threatened
+              Streaked Horned Lark                  Eremophila alpestris strigata     Threatened
+              Yellow-billed Cuckoo                  Coccyzus americanus               Threatened
+              Northwestern Pond Turtle              Actinemys marmorata               Proposed Threatened
+              Bull Trout                            Salvelinus confluentus            Threatened
+              Steelhead trout                       Oncorhynchus mykiss               Threatened
+              Coho Salmon                           Oncorhynchus kisutch              Threatened
+              Chinook Salmon                        Oncorhynchus tshawytscha          Threatened
+              Chum Salmon                           Oncorhynchus keta                 Threatened
+              Monarch Butterfly                     Danaus plexippus                  Proposed Threatened
+              Suckley’s Cuckoo Bumble Bee           Bombus suckleyi                   Proposed Endangered
+
+
+                     c. Is the site part of a migration route? If so, explain.
+
+                         Yes, Clark County falls within the Pacific flyway for migrating bird species. The
+                         Columbia River corridor is part of the migration route for salmon, Canada geese and
+                         other waterfowl. Also, the Lewis and Washougal Rivers have migrating salmon,
+                         steelhead, and coho.
+                         Specific migratory routes at a project site will be identified during project design.
+
+                     d. Proposed measures to preserve or enhance wildlife, if any:
+
+                         Measures to preserve and/or enhance wildlife will be addressed when specific
+                         recreation and open space projects are proposed for development.
+
+                     e. List any invasive animal species known to be on or near the site.
+
+                         A review of available databases will be conducted to identify invasive animal species
+                         during specific project design.
+
+
+
+
+                                                                                                    Page 10 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                 6. Energy and Natural Resources
+
+                     a. What kinds of energy (electric, natural gas, oil, wood stove, solar) will be used to
+                        meet the completed project's energy needs? Describe whether it will be used for
+                        heating, manufacturing, etc.
+
+                         No energy resources will be used as a result of the proposed action. Future
+                         construction of parks, recreation and open space improvement projects will require
+                         energy resources and needs will be addressed during project design.
+
+                     b. Would your project affect the potential use of solar energy by adjacent
+                        properties? If so, generally describe.
+
+                         This proposal will not affect the potential use of solar energy by adjacent properties. It is
+                         unlikely that a project within the CIP would affect the potential use of solar energy by
+                         adjacent properties, but a project specific analysis will be done at time of design.
+
+                     c. What kinds of energy conservation features are included in the plans of this
+                        proposal? List other proposed measures to reduce or control energy impacts, if
+                        any:
+
+                         No specific energy conservation features are included in this proposal. Specific projects
+                         should address any appropriate or applicable conservation measures in their
+                         environmental review.
+
+                 7. Environmental Health
+
+                     a. Are there any environmental health hazards, including exposure to
+                        toxic chemicals, risk of fire and explosion, spill, or hazardous waste,
+                        that could occur as a result of this proposal? If so, describe.
+
+                         This proposal would not result in any environmental health hazards
+                         occurring. Potential environmental health hazards for each project are
+                         evaluated on a case-by-case basis during design.
+
+                         1) Describe any known or possible contamination at the site from
+                            present or past uses.
+
+                             Project specific analysis for known or possible contamination will be done
+                             at the time of design.
+
+                         2) Describe existing hazardous chemicals/conditions that might affect
+                            project development and design. This includes underground
+                            hazardous liquid and gas transmission pipelines located within the
+                            project area and in the vicinity.
+
+                             Project specific analysis will be done at the time of design. Clark County
+                             will identify utilities within proposed work areas and coordinate with utility
+                             companies on construction impacts.
+
+                                                                                                        Page 11 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                         3) Describe any toxic or hazardous chemicals that might be stored,
+                            used, or produced during the project's development or
+                            construction, or at any time during the operating life of the project.
+
+                             During construction of specific projects, herbicides, diesel fuel, and other
+                             petroleum products may be used
+
+                         4) Describe special emergency services that might be required.
+
+                             Identifying special emergency services that may be required will be done
+                             at the time of design.
+
+                         5) Proposed measures to reduce or control environmental health
+                            hazards, if any.
+
+                             Measures will be implemented during construction in order to protect land
+                             and water resources. Project specific plans will include requirements for
+                             spill prevention, preparedness, and response to prevent hazardous
+                             substances from discharging from the project site. Contractors will be
+                             required to prepare a Spill Prevention, Control and Countermeasures
+                             Plan to address management of these materials on site, spill prevention
+                             and clean up should a spill occur. If pre-existing contaminated media or
+                             solid waste is found during construction, the contaminated media and/or
+                             solid waste will be characterized and disposed of in a licensed hazardous
+                             disposal facility.
+
+                     b. Noise
+
+                         1) What types of noise exist in the area which may affect your project (for
+                            example: traffic, equipment, operation, other)?
+
+                             Types of noise for each project will be evaluated on a case-by-case basis.
+
+                         2) What types and levels of noise would be created by or associated with the
+                            project on a short-term or a long-term basis (for example: traffic,
+                            construction, operation, other)? Indicate what hours noise would come from
+                            the site.
+
+                             Future construction of projects will result in construction noise (equipment
+                             operation) during normal working hours. Once construction is complete, noise from
+                             park users is possible at any time.
+
+                         3) Proposed measures to reduce or control noise impacts, if any:
+
+                             Project impacts will be evaluated on a case-by-case basis. Mitigation measures will
+                             comply with established federal standards where applicable.
+
+
+
+
+                                                                                                     Page 12 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                 8. Land and Shoreline Use
+
+                         a. What is the current use of the site and adjacent properties? Will the
+                            proposal affect current land uses on nearby or adjacent properties?
+                            If so, describe.
+
+                             Projects vary in land use throughout the County. Final design of specific
+                             projects will be evaluated for effects on nearby or adjacent land uses and
+                             subject to mitigation measures through future SEPA, Shoreline,
+                             interdepartmental review, and various other regulations, where
+                             applicable.
+
+                         b. Has the project site been used as working farmlands or working
+                            forest lands? If so, describe. How much agricultural or forest land of
+                            long-term commercial significance will be converted to other uses
+                            as a result of the proposal, if any? If resource lands have not been
+                            designated, how many acres in farmland or forest land tax status
+                            will be converted to nonfarm or nonforest use?
+
+                             The implementation of individual projects under the County Parks and
+                             Lands’s CIP may result in conversions of agricultural and forest land of
+                             long-term commercial significance. The Parks and Lands CIP serves as
+                             the capital facilities financial plan for park, recreation and open space
+                             infrastructure as a component of the county’s comprehensive plan. Any
+                             major conversions of agricultural or forest land would be analyzed as part
+                             of comprehensive plan updates. Individual projects in unincorporated
+                             Clark County will primarily be constructed on county owned land. A
+                             majority of the larger parks, recreation and open space projects are
+                             planned within the urban and urbanizing portions of unincorporated Clark
+                             County, so the potential for projects that may impact agricultural, or forest
+                             lands of long-term significance is manageable.
+
+                             1) Will the proposal affect or be affected by surrounding working
+                                farm or forest land normal business operations, such as
+                                oversize equipment access, the application of pesticides, tilling,
+                                and harvesting? If so, how:
+
+                                  Future parks, recreation and open space projects may be affected by
+                                  surrounding working farm or forest land business operations. Project-
+                                  specific analysis should provide an opportunity to ensure that
+                                  projects meet the needs of these land uses.
+
+                         c. Describe any structures on the site.
+
+                             Structures on specific project sites will vary and an analysis will be done at
+                             the time of design.
+
+
+
+
+                                                                                                       Page 13 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                         d. Will any structures be demolished? If so, what?
+
+                              No structure demolition is a part of this proposal. Demolition of structures will be
+                              evaluated at the time of design for specific projects.
+
+                         e. What is the current zoning classification of the site?
+
+                              Zoning classifications will vary for specific projects. Final design of specific projects
+                              will be subject to mitigation measures through project specific SEPA, shoreline,
+                              interdepartmental review, and various other regulations, where applicable.
+
+                         f. What is the current comprehensive plan designation of the site?
+
+                              Comprehensive plan designation will vary for specific projects. Final design of
+                              specific projects will be subject to mitigation measures through project specific
+                              SEPA, Shoreline, interdepartmental review, and various other regulations, where
+                              applicable.
+
+                         g. If applicable, what is the current shoreline master program designation of the
+                            site?
+
+                              Shoreline master program designations will vary for specific projects. Final design
+                              of specific projects will be reviewed for compliance with the shoreline master
+                              program, where applicable, and will be subject to mitigation measures through
+                              project specific SEPA, shoreline, interdepartmental review, and various other
+                              regulations, where applicable.
+
+                         h. Has any part of the site been classified as a critical area by the city or
+                            county? If so, specify.
+
+                              There are potential wetlands, waterways, flood hazard areas, priority habitat areas,
+                              potentially unstable slopes, geologic hazard areas, state shoreline areas, critical
+                              aquifer recharge areas, and public wellhead protection areas within Clark County as
+                              identified in the Clark County Resource Maps and by Chapter 40 of the Clark
+                              County Code. No specific critical areas have been identified for this proposal.
+
+                         i.   Approximately how many people would reside or work in the completed
+                              project?
+
+                              The number of people that reside or work in a completed project will vary and a
+                              project specific analysis will be done at time of design.
+
+                         j.   Approximately how many people would the completed project displace?
+
+                              Some right-of-way acquisition is anticipated, which rarely would involve the
+                              relocation of individual residents. This will be evaluated for each specific project
+                              during design.
+
+
+
+                                                                                                         Page 14 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                         k. Proposed measures to avoid or reduce displacement impacts, if any:
+
+                              All available and reasonable alternatives will be used to minimize relocations during
+                              completion of the projects contained herein.
+
+                         l.   Proposed measures to ensure the proposal is compatible with existing and
+                              projected land uses and plans, if any:
+
+                              The Parks and Lands CIP is developed based on existing and anticipated
+                              recreation needs for the unincorporated areas of Clark County. It is also consistent
+                              with the Parks, Recreation & Open Space (PROS) Plan, County Comprehensive
+                              Plan and the 20-year Capital Facilities Plan. Part of the criteria for review by the
+                              Clark County Council is to evaluate the proposal in terms of its compatibility with
+                              existing and projected land uses.
+
+                         m. Proposed measures to reduce or control impacts to agricultural and forest
+                            lands of long-term commercial significance, if any:
+
+                              The Parks and Lands CIP and capital facilities program for parks, recreation and
+                              open space infrastructure are analyzed in conjunction with the County’s
+                              Comprehensive Plan amendments. The process of adopting comprehensive plan
+                              amendments provides an opportunity to ensure that future parks, recreation and
+                              open space projects are compatible with nearby agriculture and forest lands of long-
+                              term commercial significance. In addition, project-specific analysis will ensure that
+                              parks, recreation and open space infrastructure are designed to meet the needs of
+                              the surrounding residents.
+
+                 9. Housing
+
+                         a. Approximately how many units would be provided, if any? Indicate whether
+                            high, middle, or low-income housing.
+
+                              No housing units will be provided by parks, recreation and open space projects.
+
+                         b. Approximately how many units, if any, would be eliminated? Indicate
+                            whether high, middle, or low-income housing.
+
+                              Some right-of-way acquisition is anticipated, which rarely will involve the relocation
+                              of current residents. All available and reasonable alternatives will be used to
+                              minimize relocations during completion of the projects contained herein.
+
+                         c. Proposed measures to reduce or control housing impacts, if any:
+
+                              Every reasonable effort will be made to avoid impacts on existing or future
+                              residences. Specific measures will be addressed as part of the environmental
+                              review of individual projects.
+
+
+
+
+                                                                                                      Page 15 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                 10. Aesthetics
+
+                         a. What is the tallest height of any proposed structure(s), not including
+                            antennas; what is the principal exterior building material(s) proposed?
+
+                             The height of the tallest proposed structure(s) is not known at this time and a
+                             project specific analysis will be done at time of design.
+
+                         b. What views in the immediate vicinity would be altered or obstructed?
+
+                             The potential alteration or obstruction of views is not known at this time and a
+                             project specific analysis will be done at the time of design.
+
+                         c. Proposed measures to reduce or control aesthetic impacts, if any:
+
+                             Every reasonable effort will be made to avoid or reduce aesthetic impacts and a
+                             project specific analysis will be done at the time of design.
+
+                 11. Light and Glare
+
+                         a. What type of light or glare will the proposal produce? What time of day would
+                            it mainly occur?
+
+                            Completed construction of parks, recreation and open space projects could result in
+                            light or glare produced by site security lighting and lit recreation facilities during non-
+                            daylight hours.
+                         b. Could light or glare from the finished project be a safety hazard or interfere
+                            with views?
+
+                             It is possible that lights from lit recreation facilities from park and recreation projects
+                             could interfere with views during non-daylight hours. These potential hazards will be
+                             addressed as part of the environmental review of individual projects.
+
+                         c. What existing off-site sources of light or glare may affect your proposal?
+
+                             Existing off-site sources of light or glare that may affect a specific proposal are not
+                             currently known and a project specific analysis will be done at the time of design.
+
+                         d. Proposed measures to reduce or control light and glare impacts, if any:
+
+                             Lighting impacts and measures to reduce or control light and glare impacts will be
+                             addressed at the time of site-specific planning.
+
+                 12. Recreation
+
+                         a. What designated and informal recreational opportunities are in the immediate
+                            vicinity?
+
+                             Clark County has a variety of county, city, state, and federal recreational
+                             opportunities including sports facilities, neighborhood, community and regional
+                                                                                                         Page 16 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                             parks, open space, and wildlife habitat areas. Some of these recreational
+                             opportunities are formally designated, while others are informally used without
+                             designation or authorization.
+
+                         b. Would the proposed project displace any existing recreational uses? If so,
+                            describe.
+
+                             None of the specific projects in this proposal with displace any existing recreational
+                             uses.
+
+                         c. Proposed measures to reduce or control impacts on recreation, including
+                            recreation opportunities to be provided by the project or applicant, if any:
+
+                             No measures are proposed as a part of this action. Specific measures to reduce or
+                             control impacts on recreation will be evaluated and measures implemented as
+                             necessary during specific project design and review.
+
+                 13. Historic and Cultural Preservation
+
+                         a. Are there any buildings, structures, or sites, located on or near the
+                            site that are over 45 years old listed in or eligible for listing in
+                            national, state, or local preservation registers? If so, specifically
+                            describe.
+
+                             The Cultural Resources Inventory of Clark County identifies numerous
+                             archaeological sites associated with Native American activity countywide.
+                             More than 70 historic structures, sites, objects, and vessels, as well as
+                             one historic district and one national landmark are located in Clark
+                             County. Historic preservation officials emphasize that comprehensive
+                             field investigations have not been conducted, and that artifacts and
+                             historic resources are probably not confined to those identified sites.
+                             Individual project evaluations will be done during design of specific
+                             projects.
+
+                         b. Are there any landmarks, features, or other evidence of Indian or
+                            historic use or occupation? This may include human burials or old
+                            cemeteries. Are there any material evidence, artifacts, or areas of
+                            cultural importance on or near the site? Please list any professional
+                            studies conducted at the site to identify such resources.
+
+                             Landmarks, features, or other evidence of Indian or historic use or
+                             occupation are not known at this time and a project specific analysis will
+                             be done at time of design.
+
+                         c. Describe the methods used to assess the potential impacts to
+                            cultural and historic resources on or near the project site. Examples
+                            include consultation with tribes and the department of archeology
+                            and historic preservation, archaeological surveys, historic maps,
+                            GIS data, etc.
+
+                                                                                                     Page 17 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                             Assessment of impacts will be conducted by trained professionals.
+                             Archaeological and cultural resource monitoring, documentation and
+                             resulting reports will be designed to satisfy federal, state, and local
+                             regulations, as necessary.
+
+                         d. Proposed measures to avoid, minimize, or compensate for loss,
+                            changes to, and disturbance to resources. Please include plans for
+                            the above and any permits that may be required.
+
+                             Preservation officials have emphasized the need for cultural resource
+                             evaluations and inventories performed on sites, which have a greater
+                             potential for historic significance. Such surveys will be performed, as
+                             appropriate, with avoidance and/or mitigation measures to be identified
+                             and implemented on a site-specific basis.
+
+                 14. Transportation
+
+                         a. Identify public streets and highways serving the site or affected geographic
+                            area and describe proposed access to the existing street system. Show on
+                            site plans, if any.
+
+                             No specific public streets or highways are a part of this proposal.
+
+                         b. Is the site or affected geographic area currently served by public transit? If
+                            so, generally describe. If not, what is the approximate distance to the nearest
+                            transit stop?
+                            Clark County is served by C-TRAN with fixed route and demand transit service.
+
+                         c. Will the proposal require any new or improvements to existing roads, streets,
+                            pedestrian, bicycle, or state transportation facilities, not including driveways?
+                            If so, generally describe (indicate whether public or private).
+
+                             This proposal identifies park, recreation and open space improvement projects to
+                             be completed in the next six years. The purpose of this proposal is to prepare a
+                             comprehensive parks, recreation and open space improvement work schedule for
+                             the next six years. Some of the projects in this program are improvements to
+                             existing facilities, while others are new projects.
+
+                         d. Will the project or proposal use (or occur in the immediate vicinity of) water,
+                            rail, or air transportation? If so, generally describe.
+
+                             It is not known at this time if a specific proposal will use water, rail or air
+                             transportation and a project specific analysis will be done at the time of design.
+
+                         e. How many vehicular trips per day would be generated by the completed
+                            project or proposal? If known, indicate when peak volumes would occur and
+                            what percentage of the volume would be trucks (such as commercial and
+                            non-passenger vehicles). What data or transportation models were used to
+                            make these estimates?
+
+                                                                                                   Page 18 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                             No additional vehicular trips will be generated by this proposal. Trip generation will
+                             be evaluated for individual projects on a case-by-case basis at the time of design.
+
+                         f. Will the proposal interfere with, affect, or be affected by the movement of
+                            agricultural and forest products on roads or streets in the area? If so,
+                            generally describe.
+
+                             It is not known at this time if a proposal will interfere with, affect, or be affected by
+                             the movement of agricultural and forest products on roads or streets. A project
+                             specific analysis will be done at the time of project design.
+
+                         g. Proposed measures to reduce or control transportation impacts, if any:
+
+                             The Parks and Lands CIP is developed to improve the County's overall recreation
+                             and open space system. Traffic Impact Studies will be performed on individual
+                             projects on a case-by-case basis.
+
+                 15. Public Services
+
+                         a. Would the project result in an increased need for public services (for
+                            example: fire protection, police protection, health care, schools, other)? if so,
+                            generally describe.
+
+                             Once constructed, new public park, recreation and open space improvements are
+                             added to the County's park and lands maintenance schedules.
+
+                         b. Proposed measures to reduce or control direct impacts on public services, if
+                            any.
+
+                             Measures to reduce impacts to public services will be addressed at the individual
+                             project design level.
+
+                 16. Utilities
+
+                         a. Check utilities currently available at the site: ☒ electricity, ☒ natural gas, ☒
+                            water, ☒ refuse service, ☒ telephone, ☒ sanitary sewer, ☒ septic system,
+                            ☐ other.
+
+                             Various utilities are commonly found throughout the unincorporated areas of Clark
+                             County.
+
+                         b. Describe the utilities that are proposed for the project, the utility providing the
+                            service, and the general construction activities on the site or in the immediate
+                            vicinity which might be needed.
+
+                             Coordinating parks, recreation and open space improvements with utility system
+                             expansion will be addressed as specific projects are designed.
+
+
+
+                                                                                                        Page 19 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+
+            SIGNATURE
+
+                 The above answers are true and complete to the best of my knowledge. I understand that the
+                 lead agency is relying on them to make its decision.
+
+
+
+            Signature:       ______________________________________
+
+            Name of signee: Kenneth A. Lader, P.E.
+
+            Position and Agency/Organization: Public Works Director - Clark County
+
+            Date Submitted: 08/25/26
+                            ________________
+
+
+
+
+                                                                                              Page 20 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+            C. SUPPLEMENTAL SHEET FOR NON-PROJECT ACTIONS
+
+                 1. How would the proposal be likely to increase discharge to water; emissions to air;
+                    production, storage, or release of toxic or hazardous substances; or production of
+                    noise?
+
+                     Once new recreation and open space facilities are constructed, vehicular traffic to a site
+                     may result in automobile emissions to the air, polluted water runoff discharged into surface
+                     water, and increased noise.
+
+                     Proposed measures to avoid or reduce such increases are:
+
+                     Projects contain improvements to the non-vehicular system, which may improve air quality
+                     by encouraging non-vehicular travel.
+
+                     Surface water runoff will be generated from impervious vehicular and pedestrian surfaces.
+                     Improvement projects will meet federal, state, and local standards for stormwater collection
+                     and treatment as applicable.
+
+                 2. How would the proposal be likely to affect plants, animals, fish, or marine life?
+
+                     Existing vegetation may be removed at the time of construction of individual projects.
+                     In addition, animals, fish or marine life could be temporarily displaced during construction.
+
+                     Proposed measures to protect or conserve plants, animals, fish, or marine life are:
+
+                     Every attempt will be made to avoid displacement of unnecessary numbers of plants and
+                     animals. Areas disturbed during construction will be revegetated with native plants to the
+                     extent possible and mitigation measures will be implemented in accordance with federal,
+                     state and local regulations. For projects along streams, riparian and in-stream
+                     enhancements for fish habitat will also be made to the extent practicable.
+
+                 3. How would the proposal be likely to deplete energy or natural resources?
+
+                     The proposal is not expected to deplete energy or natural resources.
+
+                     Proposed measures to protect or conserve energy and natural resources are:
+
+                     No proposed measures are included as a part of this proposal. Conservation and
+                     protection measures may be proposed at the time of design of an individual project.
+
+                 4. How would the proposal be likely to use or affect environmentally sensitive areas or
+                    areas designated (or eligible or under study) for governmental protection: such as
+                    parks, wilderness, wild and scenic rivers, threatened or endangered species habitat,
+                    historic or cultural sites, wetlands, floodplains, or prime farmlands?
+
+                     Projects may be adjacent to or minimally impact areas designated as environmentally
+                     sensitive. Specific mitigation of these impacts will be addressed as part of specific project
+                     designs and will follow all federal, state, and local regulations.
+
+                                                                                                    Page 21 of 22
+Docusign Envelope ID: 1F26399A-344C-882C-839A-F8B7C659BA5A
+
+
+                                    2027-2032 Clark County Parks and Lands Capital Improvement
+                                                          Plan (CIP)
+
+
+
+                     Proposed measures to protect such resources or to avoid or reduce impacts are:
+
+                     Further analysis of the possible impacts and measures to reduce impacts will be addressed
+                     as part of the environmental review of individual projects.
+
+                 5. How would the proposal be likely to affect land and shoreline use, including whether
+                    it would allow or encourage land or shoreline uses incompatible with existing plans?
+
+                     The Parks and Lands CIP does not encourage land or shoreline uses which are
+                     incompatible with existing plans.
+
+                     Proposed measures to avoid or reduce shoreline and land use impacts are:
+
+                     A project specific shoreline and land use analysis will be done at time of design of individual
+                     projects, and appropriate mitigation measures will be completed as required by federal,
+                     state and local regulations.
+
+                 6. How would the proposal be likely to increase demands on transportation or public
+                    services and utilities?
+
+                     This proposal does not impact transportation, public services or utilities. Impacts of
+                     individual projects in the proposal will be evaluated during design.
+
+                     Proposed measures to reduce or respond to such demand(s) are:
+
+                     Additional maintenance costs are anticipated within the financial constraints of the program.
+                     Specific projects are designed to minimize long-term maintenance costs and to minimize
+                     impacts on other utilities.
+
+                 8. Identify, if possible, whether the proposal may conflict with local, state, or federal
+                    laws or requirements for the protection of the environment.
+
+                     No conflicts have been identified at this time.
+
+
+
+
+                                                                                                      Page 22 of 22
+

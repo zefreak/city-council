@@ -28,3 +28,23 @@ the minutes are worth a note:
 Schedule from the minutes: applicant presentations on 21 October, 29 October (may be cancelled) and
 6 November; funding recommendations on 12 or 18 November. Comment rules are unchanged: email
 callie.taylor@cityofvancouver.us, or pre-register on 360-487-7843, by **5pm Tuesday 13 October**.
+
+## Update, 14 October evening — the meeting deck (attachment 5235)
+
+The deck still lists no applicants or amounts. It does name the **disclosed conflicts**, and they are
+worth knowing before the applicant presentations on 21 October:
+
+- **Temple Lentz:** The Historic Trust's website rebuild and its Prune Festival applications.
+- **Christie Rust:** the Vancouver Downtown Association's **Downtown Ambassador Program**.
+- The chair is Councilmember **Sarah Fox**. No conflict is disclosed for any other member.
+
+**The Downtown Ambassador application is the one to watch.** Ambassador programmes typically combine
+hospitality with "clean and safe" street work, which often includes moving unhoused people along.
+Lodging tax may be spent only on tourism promotion and tourism-related facilities (RCW 67.28.1816).
+Whether this programme qualifies, and what its ambassadors are told to do about people sleeping
+downtown, are fair questions. **I have not seen the application; this is a question, not a finding.**
+
+Calendar from the deck: presentations on 21 and 29 October, then 6 November (presentations or final
+recommendations), a final recommendation on 18 November if needed, and **Council on 7 December**. The
+19 October Council vouchers include **$325,000 to Visit Vancouver** (Vancouver USA Regional Tourism
+Office), with no memo line.
