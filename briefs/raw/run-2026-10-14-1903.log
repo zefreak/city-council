@@ -5,3 +5,36 @@ Already up to date.
 digest -> /home/scottr/research/city-council/briefs/raw/2026-10-14-digest.md
 [19:03:10] digest written: /home/scottr/research/city-council/briefs/raw/2026-10-14-digest.md
 [19:03:11] invoking claude (model=opus)
+The briefs are written and pushed (commit `3bfefb4`), and the site rebuilt cleanly, so the page is live.
+
+**Act on these:**
+- **Clark County Planning Commission, tomorrow (Thu 15 Oct) at 6:30pm.** This is the first public hearing on the $260.8M road programme. Its scoring gives bike, transit and trail access 6 points and economic development 20. Written comment by email to jeffrey.delapena@clark.wa.gov is accepted until the hearing ends. This meeting wasn't in the digest because the watcher doesn't scrape the Planning Commission page; I found it by hand.
+  - The strongest testimony already on file (doc 238636) uses the County's own figures. In July the six-year programme was shown balanced at $246.8M. On 7 October, Public Works said it would draw down reserves even with a 1% levy increase.
+  - The Gorge disaster-rebuild code on the same agenda is genuinely good.
+- **Vancouver City Council, Monday 19 Oct.** The MFTE ordinance's hearing text is identical to the first reading; I compared them line by line. None of the three problems flagged on 12 Oct has been fixed:
+  - The protection for tenants whose income rises is still only in a recital, not the code, and the recital misstates it.
+  - The family-sized option is still 10% of the *restricted* units, about 1% of the building.
+  - The recitals still give the wrong reading and hearing dates.
+  - Comment by noon Monday (email or online registration), or register in person by 6:30pm.
+- **Same meeting, homelessness workshop.** The quarterly report says 23 people have died since last December. It gives no date for the Bridge Shelter's beds to open, but the 1,500-foot camping ban around the shelter starts on 1 November regardless.
+
+**Clark County comp plan:** adopted unanimously on 13 Oct, with a six-month moratorium on rural cluster development added. That moratorium needs a public hearing by about 12 December. This comes from *The Columbian*'s 14 Oct report; the minutes and the as-adopted ordinance aren't published yet.
+
+**Also in this run:**
+- The Lodging Tax committee deck names two disclosed conflicts. One is the Downtown Association's Downtown Ambassador application, which is presented on 21 Oct.
+- One Arts Commission appointee on Vancouver's consent agenda answered "No" to living in city limits. I couldn't check whether the code requires residency.
+- New briefs for 15 Oct (Planning Commission), 19 Oct and 21 Oct (Urban Forestry, routine). I added update notes to the 13 Oct and 14 Oct briefs.
+
+**What I could not verify:**
+- Clark County's 20 Oct agenda wasn't posted by 7pm tonight, though it was due at 5pm, so whether that meeting is happening is unconfirmed.
+- Whether Vancouver's HB 1491 zoning ordinance passed on 12 Oct, and with what wording.
+- What Vancouver's $2.66M payment to "Doolittle Acquisitions" is for; the voucher has no memo.
+- The Gorge code text beyond its staff report, and the road programme's priority tables, which are images.
+- Vancouver's municipal code site returned 403, which is why the residency question is open.
+- WebSearch was denied this run, so the comp plan outcome comes from fetching the Columbian article directly.
+
+The notification summary is at `briefs/raw/.last-bottom-line.txt`.
+[19:11:44] claude exited rc=0
+notify-hook: taskwarrior task 9 created/updated
+[19:11:45] notification handled by /home/scottr/research/city-council/data/notify-hook.sh
+[19:11:45] === run complete

@@ -1,0 +1,2155 @@
+Docusign Envelope ID: 538D983E-08BD-813E-8369-C2DD9A4440F9
+
+
+
+
+        CLARKCOUNT/ STAFF REPORT
+        DEPARTMENT: PUBLIC HEALTH, ENVIRONMENTAL HEALTH DIVISION
+
+        DATE: OCTOBER 20, 2026
+
+        REQUESTED ACTION:
+        Adopt ordinance number 2026-10-20 of dark County Code Chapter 24. 22, Drinking Water, making
+        requirements effective January 1, 2027
+
+
+
+        D Consent                     Hearing                D County Manager
+
+        BACKGROUND
+
+        dark County Public Health (CCPH) has prepared dark County Code Chapter 24. 22, Drinking Water
+        Regulations. The ordinance is intended to provide a consistent local framework for individual wells, two-party
+        shared water systems and small Group B public water systems, while adopting applicable state requirements.
+        The ordinance also clarifies the roles and responsibilities of the Health Officer, owners, responsible parties,
+        applicants, and operators.
+
+        A major objective of the ordinance is to separate enforceable code requirements from technical and
+        administrative implementation details. Core legal requirements remain in Chapter 24.22, while detailed
+        design standards, review procedures, forms, standard details, operations and maintenance guidance, and staff
+        procedures will be maintained in supporting technical and administrative manuals. This structure is intended
+        to make the code easier to use and maintain while allowing technical guidance to be updated as standards
+        and practices change.
+
+        Review by applicable departments/offices:
+        Community Development Review: dark County Public Health provided colleagues in the Community
+        Development Department with the draft code for review and comment.
+
+        Prosecuting Attorney Review: The County's Prosecuting Attorney's Office has been engaged throughout
+        development of the ordinance. A final review was completed to prepare for this staff report
+
+        Informal industry review: The ordinancewas developed through coordinated review by CCPhl staff with
+        input from local industry professionals, since a technical advisory committee has not yet been initiated. Staff
+        used institutional knowledgefrom many years of implementing state drinking water regulations to tailor the
+        new code to fill identified gaps and meet local needs.
+
+        Prior council discussions/direction/approval:
+        . Work Session- September 30, 2026 - Presentation and Recording
+
+
+
+        COUNCIL POLICY IMPLICATIONS
+        . Creates dark County Code Chapter 24. 22.
+        . Establishesa regulatory framework for drinking water supplies within CCPH jurisdiction.
+        . Clarifies governance for individual wells, two-party shared water systems, and Group B public water
+       systems.
+
+
+                                                                                                               rev. 4/2026
+Docusign Envelope ID: 538D983E-08BD-813E-8369-C2DD9A4440F9
+
+
+
+
+        . Codifies Health Officer authority over new public water system operations and maintenance, system
+        modifications, compliance, enforcement, and abandonment.
+        . Incorporates existing state drinking water and well-construction requirements by reference.
+        . Supplemental implementation support provided through separate technical manual rather than placing
+        detailed procedures and design criteria in the ordinance.
+
+        ADMINISTRATIVE POLICY IMPLICATIONS
+        No administrative policy implications are expected. The County's Drinking Water Ordinance is implemented
+        through development review and the permitting process already in place for with dark County Public Health.
+
+        COMMUNITY OUTREACH
+        Development and Engineering Advisory Board (DEAB) - DEAB was engaged through the development of
+        the draft ordinance at its September 2026 meeting. DEABwas offered an early review and comment period
+        and all of their comments were reviewed and revisions were integrated as appropriate.
+
+        Department of Ecology: A detailed agency review was conducted in September 2026 and comments were
+        provided by a licensed geologist in the Water Resources Program. All comments were reviewed and revisions
+        were integrated as appropriate.
+
+        Department of Health: A thorough agency review was conducted in September 2026 with the Office of
+        Drinking Water team from across the state. All comments were reviewed and revisions were integrated as
+        appropriate.
+
+        Public Review and Comment: Public comment on the draft ordinance was accepted through October 17,
+        2026. All comments received during this period were reviewed and incorporated as appropriate.
+
+        The State Environmental Policy Act (SEPA): A SEPAnotice period began in early October 2026 and a
+        determination of non-significancewas issued.
+
+        Planning Commission: CCPH staff conferred with the liaison and Planning Director and determined the
+        ordinance did not required a work session or hearing through the Commission.
+
+
+
+        BUDGET IMPLICATIONS (IF APPLICABLE)
+       There are no direct County budget impacts as a result of adopting ordinance No, 2026-10-20to create dark
+       County Code 2^. 22 Drinking Water Ordinance.
+
+
+
+
+         YES/NO        BUDGETIMPACT
+        NO             Operating Budget Impact
+        NO             Capital Budget Impacts
+        YES            Action falls within existing budget capacity.
+        NO             Action falls within existing budget capacity but requires a change of purpose within existing
+                       appropriation. If YES, please complete the budget impact statement. If YES, please route
+                       this Staff Report through the Budget Director and then to the County Manager.
+Docusign Envelope ID: 538D983E-08BD-813E-8369-C2DD9A4440F9
+
+
+
+
+         NO             Additional budget capacity is necessaryand will be requested at the next supplemental or
+                        annual budget. If YES, please complete the budget impact statement. If YES, please route
+                        this Staff Report through the Budget Director and then to the County Manager. This action
+                        will be referred to the county council with a recommendation from the county manager.
+
+
+        BUDGET DETAILS
+
+         JVPE                 DETAIL
+         Dollar amount        $0
+         Fund                 NA
+         Cost center          NA
+         BASUB                NA
+         Program              NA
+
+
+
+        Budget Director (if applicable)
+
+
+
+
+          Am^ ^^IA.                                                      fyni fiu^.
+        Gerry Preston                                                  April Furth
+        Environmental Public Health Director                           Deputy County Manager
+
+
+        Please list attachments:
+        1. Final proposed ordinance amending dark County Code Chapter 24.22
+       2. Staff presentation / ordinance summary
+       3. Supporting technical-manual framework or implementation summary
+
+
+
+       APPROVED:
+       CLARKCOUNTY,WASHINGTON
+       CLARKCOUNTYCOUNCIL
+
+       DATE:.
+
+       SR#_
+
+
+
+       APPROVED:
+       Kathleen Otto, County Manager
+
+
+       DATE:
+     1   ORDINANCENO. 2026-10-20
+ 2
+
+ 3       AN ORDINANCEcreatinga portion of the dark County Code related to initiating a
+ 4       drinkingwatercode in Title 24.22
+ 5
+
+ 6        WHEREAS, the dark County Council has the authority and responsibility to supervise
+ 7       all matters pertaining to the preservation of the life and health of the people within its
+ 8       jurisdiction and to enforcethrough the local health officerthe public health statutes of
+ 9       the state and rules promulgated by the state board of health and secretary of health in
+10       accordance with Chapter 70.05. 060 Revised Code of Washington (RCW); and
+11
+
+12       WHEREAS,the state board of health promulgated rules pertainingto safe drinking
+13       water, wells and public water systems in Chapter 246-290, Chapter 246-291
+14       Washington Administrative Code (WAC) and Chapter 70. 116 and Chapter 70. 119A of
+15       the Revised Code of Washington;and
+
+16
+
+17       WHEREAS, dark County has over 900 Group B public water systems serving an
+18       estimated population of 80, 000 residents and around 95% of County residents are
+19       reliant on ground waterfor their water supply; and
+
+20
+
+21       WHEREAS,public health is protected by ensuringwatersupplies meet minimum
+22       operational and management requirements and water wells meet proper standards;
+23       and
+
+24
+
+25       WHEREAS,on September 30, 2026, the County Council held a work session with
+26       County staff on the proposed code and updated Council on the feedbackfrom the
+27       Development and EngineeringAdvisory Board (DEAB) and the resolutions and
+28       outcomes of feedback; and
+
+29
+
+30       WHEREAS,public comments on the proposed revisions occurred through October of
+31       2026. All comments received during this period were reviewed and incorporated as
+32       appropriate; and
+33   WHEREASon October 2, 2026, dark County published a State Environmental Policy
+34   Act (SEPA) which began October 2026 and determination of non-significance (DNS)
+35   was prepared;and
+
+36   WHEREASthe Council is consideringthe matter at a duly advertised public hearingand
+37   concludesthat adoption will further the public health, safety, andwelfare; now,
+38   therefore,
+39
+40   BE IT ORDERED, RESOLVEDAND DECREED BYTHE CLARK COUNTY COUNCIL,
+41   STATEOFWASHINGTON,AS FOLLOWS:
+42
+43   Section 1. A newsection is addedto the dark County Codeto read:
+44
+
+45   TITLE 24. 22 DRINKINGWATER PROTECTION
+46
+47   Section 2. Effective Date. This ordinanceshall be effective on January 1, 2027
+48
+49   Section4. Instructionsto Clerk. The Clerk of the Council shall: [MAY INCLUDE
+50   ADDITIONAL INSTRUCTIONS DEPENDINGON TYPE OF CODE, FOR EXAMPLE -
+51   RCW36. 70A. 106]
+52
+53                   A. Record a copy of this Ordinancewith the dark CountyAuditor; and
+54                   B. Cause notice of adoption of this Ordinanceto be publishedforthwith,
+55                      pursuantto dark County Code 1.02. 140.
+56                   C. Provide a copy of this Ordinanceto Code Publishing.
+57
+
+58   Sections. Roll Call Vote. The followingpersonsvoted in favor of the aboveordinance
+59   [amendments]:
+60
+61
+62
+63
+64
+65
+66      The following persons voted in opposition to the above ordinance
+67
+68
+69     ADOPTEDon this _day of
+70
+71     COUNTY COUNCIL
+72     CLARK COUNTY, WASHINGTON
+73     Attest:
+
+74
+75                                      By
+76                            Sue Marshall, Chair
+77     Clerk to the Council                   By:.
+78                                                          Glen Yung, Councilor
+
+79                                     By:.
+80                                             Michelle Belkot, Councilor
+81                3s to Form Onlv;             By:
+
+82     ANTHONY F. GOLIK                              Wil Fuentes, Councilor
+83                                           By:
+84     By                                          Matt Little, Councilor
+85
+86
+87
+88
+89
+90
+91
+92
+
+
+93   Part I - Introduction and Administration
+
+94   24. 22. 010 Purpose, Objectives, Authority, and Administration
+ 95   (1) Objectives & Authority
+
+ 96      The dark County Council findsthat the followingrules and regulations are
+ 97      necessaryto protect and maintain health and sanitarymeasuresgoverning
+ 98      individual wells and publicwatersystems that provide potablewater and to
+ 99      protect groundwaterresources supportingdrinkingwaterand other beneficial
+100      water uses in accordancewith RCW 18. 104, RCW90.44, WAC 173-160,and WAC
+101      246-290 through WAC 246-295.
+
+102      Nothing contained in these rules and regulations shall be construed to prevent the
+103      Health Officerfrom requiringcompliancewith higherstandardsthan those
+104      contained in these rules and regulations where such higher public health standards
+105      are essential to maintain a safe and reliable source of potable drinking water and
+106      protect public health.
+
+107      (a) The purpose of these regulations is to protect public health by:
+108
+109       (i)    Minimizingthe public health riskfrom water systems that do not meet the
+110              minimum requirements for individual wells and publicwatersystems and
+111              their conveyance infrastructure, includingwaterwells, piping, pumps,
+112              storage, and treatment methods;
+113       (ii)   Minimizingthe adverse effects to public health from the noncompliant
+114              siting, construction, or maintenance of water wells;
+115      (iii)   Minimizingthe adverse effects to public health from the noncompliant
+116              managementand operation of individual wells and Group B publicwater
+117              systems;
+118      (iv)    Establishing conditions for the revocation of approvals, the cessation of use
+119              of individual wells or watersystems, and the elimination of public health
+120              hazards; and
+121      (v)     Requiringall public water systems and individual wells to comply with
+122              applicablefederal, state, and local drinkingwater requirements.
+123
+124              These regulations establish requirements for the location, design,
+125              installation, operation, maintenance,and monitoringof drinkingwater
+126              systems and drinking water infrastructure to:
+127
+128      (vi)    Ensurethat individualwells, individual well watersystems, publicwater
+129              system wells, and public water systems provide a safe and reliable source of
+130              potable drinkingwater; and
+131
+132      (vii)   Minimize potential public health risks associatedwith contaminated water
+133              sources, impairment of drinking water resources, and waterborne illness.
+
+134      It is the intent of this chapterto placethe obligation for compliance upon the
+135      responsible party or an individual well or Group B publicdrinkingwatersystem
+136      within the chapter's scope. No provision or term used in this chapter is intendedto
+137      impose any mandatoryduty upon dark County Public Health or its officers or
+138      employees. Implementation and enforcement of this chaptershall be discretionary.
+
+139      These regulations are adopted by the Council in accordancewith the authority
+140      granted in RCW 70. 05, RCW 70. 119A. 060, and RCW 18. 104. 043 to establish
+141      minimum public health requirements for the siting, construction, maintenance,and
+142      operation of Group B public drinking water systems and individual water wells.
+143
+144   (2) Applicabilityof Regulations
+145
+146      The requirementsfound in this chapter shall applyto:
+147      (a) small Group B publicwatersystems,
+148      (b) waterwells, and
+149      (c) underthejurisdiction of the Council and as required by state and local law.
+150
+151
+152   (3) Administration
+153
+154      An applicant proposingany newwaterwell or publicwatersystem shall submit to
+155      dark County Public h-lealth the plans, studies and information described below
+156      prior to the issuanceor use of any newwaterwell. The h-lealth Officershall
+157      administerand enforcethe provisions of this chapter and may adopt rules, policies,
+158      procedures, standards,guidancedocuments,forms, and administrative
+159      requirements necessaryto implement and administerthis chapter, consistentwith
+160      applicablefederal, state, and local law.
+161
+162      The Health Officer may delegatethe administration and enforcement of this
+163      chapter to authorized employees or designees of dark County Public Health,
+164      unless otherwise prohibited by law.
+165
+166      Pursuantto RCW70.05.060,the Board of Health may establishfee schedulesfor
+167      permits, operating permits, inspections, plan reviews, sanitary surveys, variances,
+168      waivers,appeals, and other services authorized underthis chapter, dark County
+169      Public Health may administer and collect such fees in accordance with the fee
+170      schedule adopted bythe Board of Health.
+171
+172      Pursuant to RCW 70A. 125. 090, the Board of Health may require purveyors of
+173      public water systems to obtain annual operating permits and establish
+174      requirements necessary for the administration of such permits.
+175
+176   (4) Adoption by Reference
+177
+178      WAC Chapters 173-160, 246-290, 246-291, 246-292, 246-293, 246-294, and
+179      246-295, as amended,are herebyadopted by reference. If a conflict arises
+180      between these chapters and dark County Code 24. 22, the more restrictive
+181      regulation shall prevail.
+182
+183   (5) Definitions and Abbreviations
+184
+185      All words used in this chaptershall havetheir common definition, as used in
+186      context, unless a specificdefinition is set forth herein.The definitionsused in this
+187      chapter are intended to be used specificto this chapter and should not be used for
+188      definingwords,terms, or phrases in anotherchapteror section of other
+189      environmental health codes, unless specifically indicatedotherwise in the text.
+190
+191       Abandonedweir'-Awellthathasbeenoutofusefor more than one year,
+192      unmaintained,or is in such disrepairthat it is unusableor is a risk to public health
+193      or the environment. An abandoned well is also a well that has not been
+194      decommissioned in conformance with applicable code.
+195
+196      "Accessory Dwelling Unit (ADU)" - A second dwelling unit, located on the same lot,
+197      attachedto, or detachedfrom, the principal dwelling; and meets the requirements
+198      of dark CountyTitle 40. An accessorydwellingunit (ADU) is a separate public
+199      watersystem connection if the ADU is physicallyseparatefrom the main
+200      residence. If the ADU is physicallywithin the main residence,the ADU is not a
+201      publicwatersystem separateconnection.
+202
+203       Accessory use"or "accessorystructure" - Onewhich is subordinateto the
+204      principal use of a buildingon the lot servinga purpose customarily incidental to the
+205     use of the principal building.
+206
+207    AdequateWaterSupply" - A potable source of watersupplied to a public
+208   gathering, residence, commercial business, industry, or for the purpose of the
+209   platting of land, that meets appropriate local, state, and federal drinking water
+210   supply rules and regulations, includinganyfees and/or permits, pertainingto
+211   drinkingwater sources and the delivery of a safe and reliable supply of drinking
+212   water.
+213
+214   "Adverse Impact"- A lowered water quality, decreased ability to withdraw water
+215   from the source, or other physical, chemical, or biological impactsthat limit the use
+216   of the well or aquiferas a water source as defined in RCW90.48.020.
+217
+218    Alternative Water Source"- A sourceof waterthat is not supplied by either an
+219   individual well or a public water system.
+220
+221   "ANSI" The American National Standards Institute.
+222
+223   "Applicable Planning Authority" - Any adopted federal, state, regional, county,
+224   municipal,or utility plan, regulation, ordinance, permit, approval, comprehensive
+225   plan, coordinatedwater system plan, utility service area designation,development
+226   regulation, or other legally adopted planningor regulatory document governing
+227   the provision of potable water service or land development.
+228
+229   "Application"- Eitherthe act of seekinga required approval or certificationfrom
+230   the hlealth Department or the forms, format and supportingdocumentation
+231   required bythe health officerto gain approval or certification.
+232
+233   "Approved" - The Health Department hasdetermined that the activity,
+234   construction, or other action meets the current requirements of this chapter.
+235
+236   "Binding Site Plan .(BSP)" - A land division process used to create lots or tracts
+237   classified for industrial or commercial uses pursuant to RCW 58. 17. 035 or
+238   residential condominiums pursuantto RCW64.34, as defined by dark County
+239   Title 40.
+240
+241   "BoundaryLineAdjustment (BLA)"- Altering boundary lines between platted or
+242   unplatted lots, or both, which does not create any individual lot, tract, parcel, site,
+243   or division, nor create any lot, tract, parcel site, or division which contains
+244   insufficient area and dimension to meet minimum requirements for width and area
+245   for a building site, except as provided for Title 40 of dark County Code.
+246
+247   "CCC"-dark County Code
+248
+249   "Camps"- An establishedgroup campwhichis establishedor maintainedfor
+250   recreation, education,vacation, or similar purposesfor use by organizedgroups
+251   and whereinthese activities are conducted on a closely supervised basis.
+252
+253   "Capacity"- The ability of a watersystem to provide a safe and reliable source of
+254   potable drinking water to its current service connections and any future service
+255   connections defined in the water system plan. The evaluation of capacity includes
+256   but is not limited to: system managementand operation, financialviability, water
+257   system infrastructure, water supply source, and waterquality.
+258
+259   "Certified Operator" - A water system operator meeting the requirements of the
+260   WashingtonState Departmentof hlealth for the operation of a publicwatersystem
+261   underWAC246-292-050
+262
+263   "darkCounty CoordinatedWaterSystem Plan (CWSP)"- The coordination and
+264   collaboration of watersystems to cover growth managementand identifywater
+265   service providers, including water service areas, levels of service needed, and local
+266   policies that provides water for dark County, as referenced in WAC 246-291-090.
+267
+268   "Coliform Sample"- A sample of water collected from the distribution system at or
+269   after the first service point and analyzedfor coliform presence in compliancewith
+270   this chapter. Analysisfor coliform presence can include but are not limited to - total
+271   coliform; fecal coliform; or E. (Escherichia) coli.
+272
+273   "Connection"- Means a residential, nonresidential, or recreational service
+274   connection to a publicwater system:
+275   (a) A residential connection is a connection to a public water system that provides
+276      potable water to a dwelling unit;
+277   (b) A recreational connection is a connectionto a publicwatersystem that
+278      provides potable water to a campsite or recreational vehicle site; or
+279   (c) A nonresidential connection is a connectionto a publicwatersystem that
+280      provides potable water including, but not limited to a: Commercial property,
+281      industrial property, civic property, municipal property, institutional property,
+282        school, recreational use, or anyother authorized use that provides potable
+283        waterto a nonresidential population.
+284
+285   "Contaminant" - A substance that may adversely affect public health or the
+286   aestheticqualities of the water as defined under RCW90.48.020 (also see
+287   Pollution).
+288
+289    Covenant" - An agreement recorded with the dark County Auditor stating
+290   certain land use activities and/or practices are required or prohibited.
+291
+292   "Cross-Connection" - Any actual or potential physical connection between a
+293   publicwatersystem or a consumer'swatersystem and anysource of nonpotable
+294   liquid, solid, or gasthat could contaminatethe potablewatersupply by backflowin
+295   accordance with WAC 246-291-010
+296
+297   "Customer" or "Consumer"- Any person or entity receiving water from a public
+298   watersystem from eitherthe meter, or the point wherethe service line connects
+299   with the distribution system if no meter is present. For purposes of cross-
+300   connection control, "consumer" meansthe responsible party or operator of
+301   a water system connected to a public water system through a service connection.
+302
+303   "Decommission a Well" - To fill or plug a well so that it will not produce water,
+304   serve as a channel for movement of water or pollution, or allowthe entry of
+305   pollutants into the well or aquifers as described in WAC 173-160-381.
+306
+307   "Departmentof Health" - The WashingtonState Department of hlealth
+308
+309   "Disinfection" -The use of chlorine or other agent or process the department
+iin   orknrr^v/oc   Fr^r L'llllncr r^r ln'3/n-ht\/^-l-inrr
+                    .
+                                                             mir'r/^l^/^lnm^-al /-i^rr-irticmc   in/^li irllnrr n-i-t-h r\rr£ani/~
+
+
+      and indicatororganisms.
+
+      "Distribution System"- That portion of a public water supply system which stores,
+      transmits, pumps, and distributes water to consumers.
+
+
+      "Domestic Water Supply" -Any water supply which serves a family residence(s).
+320   "GroundSurface"- The naturally occurringsurfaceof the land, or the finished land
+321   surfaceelevation resultingfrom an approved engineeringgradingand/orfilling
+322   project.
+323
+324   "Groundwater"-All waters that exist beneath the land surface or beneath the bed
+325   of any stream, lake or reservoir, or other body of surface water, whatever may be
+326   the geological formation or structure in whichsuchwater stands or flows,
+327   percolates or otherwise moves. Per RCW 90. 44. 035, there is a recognized
+328   distinction between natural groundwater and artificially stored
+329   groundwater.
+330
+331   "GroundWater Under the Direct Influenceof SurfaceWater (GWI)"-Anywater
+332   beneaththe surfaceof the ground asdescribed in WAC 246-290-010.
+333
+334   "Group A Water System" - A public water system as defined by WAC 246-290
+335
+336   "Group B ServiceArea"-The area encompassed bythe lots/parcels approved in
+337   the Group B Design Report.
+338
+339   "Group B WaterSystem"- A publicwatersystem asdefined by reference in WAC
+340   246-290-020(5)(c))
+341
+342   "GUI"-Ground water under the direct influence of surface water, See GWI.
+343
+344   "Guideline" -A department document assisting the responsible party and/or
+345   persons in meeting a rule requirement.
+346
+347   "Health Officer"- The health officerof dark County, or a representative
+348   authorized by and under the direct supervision of the health officer as defined in
+349   RCW 70. 05.
+350
+351   "Human consumption" - The use of water for drinking, bathing, showering,
+352   handwashing,cooking,food preparation, dishwashing,ice-making,or oral hygiene.
+353
+354   "Inactivation" - An existing water system ceases operating as a public water
+355   system.
+356
+357   "IndividualWell" - A waterwell that is constructed to serve a single-family
+358   residence and residential irrigation associated with that single-family residence,
+359   and is exemptfrom the State board of health drinkingwater regulations,WAC
+360   246-290.
+361
+362    Irrigation Well" - A water well that is constructed for the purposes of irrigation
+363   only and not for potable use.
+364
+365   "M"or "m"-Meter
+366
+367   "Maximum Contaminant Level (MCL)"- The maximum level allowed of a
+368   contaminantin waterwhich is delivered to anyuser of a watersystem.
+369
+370   "Nephelometric Turbidity Unit (NTU)" - A unit of measurement used for
+371   determiningthe level of turbidity, or clarity, in a water sample.
+372
+373   "Noticeof Non-Compliance"- A description of the conditionthat exists on a
+374   property that is not in compliance with the requirements of this chapter.
+375
+376   "NSF"- National Sanitation Foundation International
+377
+378   "OSS"- OnsiteSewageSystem
+379
+380   "Peak Hourly Design (PHD)" - The maximum rate of water use, excluding fire flow,
+381   which can be expected to ever occur within a defined service area over a sixty-
+382   minute time period.
+383
+384   "PlannedUnit Development (PUD)"-A flexible zoningconceptwhich provides an
+385   opportunity to mold a district composed of residential and commercial units so that
+386   it creates a more desirableenvironment, and results in asgood or better use of land
+387   than that produced through the limiting standards provided in the regular zoning.
+388
+389   "Plat"-The subdivisionof land from one or more parcels into a total number of
+390   parcels greater than the number of parcels originally proposed to be subdivided
+391   (commonly known as a subdivision).
+392
+393   "Pollution"- Contamination, or other alteration of the physical, chemical or
+394   biological properties, of anywaters of the state, includingbut not limited to change
+395   in temperature, taste, color, turbidity, odor of the waters, dischargeof any liquid,
+396   gaseous,solid, radioactive,or other substance into anywaters of the state creating
+397   or is likely to create a nuisance or that render such waters harmful, detrimental or
+398   injurious to the public health, safetyor welfare, or to domestic, commercial,
+399   industrial, agricultural, recreational, or other legitimate beneficial uses, or to
+400   livestock, wild animals, birds,fish, or other aquatic life as defined in RCW
+401   90.48.020.
+402
+403   "Potable"-Waterthat meets state and local drinkingwaterquality standardsand is
+404   safefor human consumption.
+405
+406   "Project"- An applicationfor land development and/or buildingpermit such as a
+407   site plan, BLA,single subdivision,short division, or other division of land that will be
+408   treated as a single project for the purpose of administering these water
+409   regulations. The Health Department may use the following criteria in determining
+410   if land use applicationswill bedetermined to be a project:
+411
+412      .   Common, adjacent, or overlapping ownership of lots or parcels
+413      .   Responsible parties connected byjoint development contracts
+414      .   Common origin of lots from a common larger parcel(s)
+415      .   Contemporaneousor near-contemporaneousdevelopment schedules
+416      .   Jointor substantiallysimilarSEPAreview
+417      .   Construction of common roads
+418      .   Common Utility Corridors
+419
+420   "PSI" or "psi" - Pounds per Square Inch
+421
+422   "PublicWaterSupply"- Anywatersupply intended or usedfor human
+423   consumption or other domestic uses, including source, treatment, storage,
+424   transmission and distribution facilitieswherewater is furnishedto anycommunity,
+425   collection or number of individuals,availableto the publicfor human consumption
+426   or domestic use, excludingwater supplies servingone single-familyresidence..
+427
+428   "PublicWaterSystem" -Anysystem, includingcollection, treatment, storage, or
+429   distributionfacilities used primarilyto provide waterfor human consumption as
+430   defined by reference in WAC246-291-010.
+431
+432   "Purveyor"- an agency,subdivisionof the state, municipal corporation, firm,
+433   company, mutual or cooperative association, institution, partnership, or person or
+434   other entity owningor operatinga publicwatersystem, or applyingto create a
+435   publicwatersystem. Purveyor also meansthe authorizedagentsof these entities.
+436
+437   "RCW"- Revised Code of Washington
+438
+439   "RepeatSample"- A sample collected to confirm the results of a previous sample
+440   analysis.
+441
+442   "ResponsibleParty" - The person(s) or entity designatedthrough recorded
+443   documents as havingprimary responsibilityfor the application,ownership,
+444   operation, maintenance,monitoring, repair,financial management, regulatory
+445   compliance and communicationwith the Health Officer. If legal documents are not
+446   recorded, then the property owner(s) where the well is located is the responsible
+447   party. If more than one responsible party exists, each shall be jointly and severally
+448   responsible unless otherwise specified in a recorded agreement.
+449
+450   "Revokeor Revocation"- To rescind or terminate a certification, permit, formal
+451   approval or other such actions bythe Health Department.
+452
+453   "SameFarm"- A parcel of land or series of parcels that are connected by covenants
+454   and devoted to the production of livestock or agricultural commoditiesfor
+455   commercial purposes and does not qualify as a Group A public water system.
+456
+457   "SanitaryControl Area (SCA)"- A circular or semicircular protective area
+458   centering around a water well for the purpose of excluding existing and/or possible
+459   sources of pollution that may have an adverse impact on the water quality
+460   withdrawnfrom the well. TheSCAis typically 100feet in radius aroundthe well
+461   head.
+462
+463   "Satellite Management Agency (SMA)" - A person or entity that is approved by
+464   WA DOH, in accordancewith WAC 246-295,to own or operate publicwater
+465   systems on a regional or county-wide basiswithoutthe necessityfor a physical
+466   connection between the systems.
+467
+468   "SanitarySurvey" - A review, inspection, and assessmentof a publicwater system
+469   by dark County Public Health.
+470
+471   "SecondaryMC" - Water Qualitystandards basedon factors other than health
+472   effects such as taste and odor.
+473
+474   "Service" - A connection to a public water system designed to provide potable
+475   water (see Connection).
+476
+477   "Significant Deficiency" - Serious sanitary deficiencies in an individual or public
+478   water system, which include, but are not limited to, defects in design, operation,
+479   maintenance,or failureto maintain sanitarycontrol area,or a failure or
+480   malfunction of the sources, treatment, storage, or distribution system that the
+481   Health Officerdetermines to be causing,or has potential to cause,the introduction
+482   of contamination into the water delivered to consumers.
+483
+484   "SingleFamily Residence"- A structure designedand used solely for the purpose
+485   of a domicile by a single person or family. A structure is not a single-family
+486   residence if it is used for an activity requiring a permit or license under one or more
+487   of the following:
+488
+489          Food service establishment, chapter 246-215 WAC;
+490          Residential treatment facilities, chapter246-337 WAC;
+491          Transient accommodations, chapter 246-360 WAC;
+492          Assisted livingfacility licensing rules chapter 388-78AWAC;
+493          Minimum licensingrequirements for childcarecenters, chapter 170-
+494          295WAC;
+495          Nursing homes, chapter 388-97 WAC;
+496          Adult family home minimum licensing requirements, chapter 388-76 WAC;
+497          or,
+498
+499          Commercial businesses,where a fee is paid bythe publicfor a service, and
+500          the service is provided within the single-familyresidential structure, will not
+501          beconsidered a single-family residencefor the purposes of these
+502          regulations.
+503
+504   "Sources"- The source of watersupplied to a publicwater or individual residence,
+505   i.e. groundwaterwells, springs, surfacewateror GUI.
+506
+507   "Spring" - A source of water from an aquifer that discharges to the ground surface.
+508
+509
+510            "Surface Water" - A body of water open to the atmosphere and subject to surface
+511            runoff. Withdrawal of surface water is subject any and all applicable regulations,
+512            includingbut not limited to Chapter 90.03 RCW.
+513
+514            "Temporary Uses"- Those temporary uses and/or structures as defined in CCC
+515            40.260.220.
+516
+517            "|jmhos/cm"- Micromhos per centimeter
+518
+519            "WAC"- WashingtonAdministrative Codeas amended.
+520
+521            "WaterFacilities Inventory Form (WFI)"- Theform summarizingeach public
+522            water system's characteristics.
+523
+524           "Water System Operations and Maintenance Agreement (O&M Agreement)" -
+525           meansa written agreement recorded with the dark CountyAuditor that identifies
+526           the ownership, management responsibilities, operation and maintenance
+527           requirements, monitoring requirements, financial responsibilities, access rights,
+528           dispute resolution procedures, and successorobligationsassociatedwith a public
+529           water system. The agreement shall run with the land and remain binding upon all
+530           current and future property owners served by the water system.
+531
+532           "WAVE"-acronymfor "wateradequacyand verification evaluation".
+533
+534           "Well"- Any excavationfor the location, diversion, artificial recharge, observation,
+535           monitoring, dewatering,or withdrawalof ground waterfor agricultural, municipal,
+?>."iR        inrlii<;+rial Hnmp<;tir nr mmmprrial II<;P inrliiHinpHrillprf \A/pll<;   Hiip\A/pllc;   anrf tpc;+
+
+              wells as defined by Chapter 173-160WAC.
+
+
+
+
+541      Part II - Establishing a Drinking Water Source
+542      24.22.030 WaterSourceApproval
+543   The hlealth Officershall establish the criteria for the approval of a source of drinking
+544   water basedon WashingtonStateAdministrative Code. In accordancewith state and local
+545   regulations, dark County Public Health performs assessmentsof proposed and existing
+546   individualwater suppliesfor adequacyand potability.These assessments are for the
+547   purpose of establishingproof of adequateand potablewater as a part of the approval
+548   process for subdivisions,buildingpermits, and/or issuanceof permits for installation of
+549   on-site sewagedisposal systems. Establishingproof of adequateand potable water
+550   includes, but is not limited to, the following:
+
+551      (1) General Requirements
+552
+553         (a) Drinking water sources shall comply with the well siting, construction, and
+554             approval requirements of this chapter and all applicable federal, state, and local
+555             laws and regulations.
+556
+557         (b) No newdrinkingwatersource, previously unapproved existingsource, or
+558             changein use of an existingsourceshall be used as a potablewater supply
+559             without approval from the Health Officer.All source approval related to service
+560             provided as part of a Group A publicwatersystem shall be underthe purviewof
+561             the WashingtonState Dept of Health in accordancewith WAC246-290.
+562
+563         (c) The Health Officer may establish conditions of approval necessary to protect
+564             public health and ensure compliance with this chapter.
+565
+566         (d) The standardsestablished in this chapter are minimum public health
+567            requirements. The Health Officer may require additional protective measures
+568            where necessary to protect public health.
+569
+570         (e) The Health Officer maydeny,condition, suspend, revoke, or modifyapproval of
+571             a drinkingwater source whenthe sourcefails to comply with this chapter or
+572            when necessary to protect public health.
+573
+574         (f) Drinkingwater sources shall be developed and protected in a manner that
+575            provides a safe, reliable, and adequate supply of potable water and minimizes
+576            public health risk.
+577
+578      (2) Individualand IrrigationWells
+579
+580      (a) In addition to the above General Requirements in this Part, individual and
+581          irrigation wells shall comply with this chapter and applicableprovisions of
+582          Chapters 173-160 and 173-162 WAC and Chapter 18. 104 RCW;
+583
+584      (b) An applicant shall demonstrate that the proposed source is capable of providing
+585          a safe, reliable, and adequate supply of potable water, and, if necessary,
+586
+587      (c) The Health Officer may require information necessary to evaluate source
+588          capacity, source protection, water quality, engineering, hydrogeologic
+589          conditions,treatment, operation, and long-term reliability.
+590
+591   (3) Group B
+592
+593      (a) In addition to the above General Requirements in this Part I, an applicant shall
+594          demonstrate that the proposed source is capable of providing a safe, reliable,
+595          and adequatesupply of potable water, and, if necessary,
+596
+597      (b) The Health Officer may require information necessary to evaluate source
+598          capacity,source protection, water quality, engineering, hydrogeologic
+599          conditions,treatment, operation, and long-term reliability.
+600
+601   (4) Springs and Alternative Drinking Water Sources
+602
+603      (a) In addition to the above General Requirements in this Part I, Springs and other
+604          alternative potable water sources may be approved by the Health Officer when
+605          the applicantdemonstrates compliancewith this chapterand applicable
+606          federal, state, and local requirements and, if necessary,
+607
+608      (b) The Health Officer may require additional source orotection. treatment.
+609          monitoring, engineering,or operational requirements necessaryto protect
+610         public health.
+611
+612      (c) Surface water sources and sources of groundwater under the direct influence
+613          of surfacewater shall complywith applicablestate drinkingwater
+614         requirements. A Group B water system shall not utilize surface water or
+615         groundwater under the direct influence of surface water as a public water
+616         supply.
+617
+618   (5) Source Water Quality
+619
+620      (a) An initial analysis result of untreated (raw) water quality from a Washington
+621          State-accredited laboratory, includingas a minimum, a bacteriological,and
+622          Primary InorganicChemicalsTests of the sourcewater quality; and
+623
+624      (b) In areas where the Health Officer determines that other contamination may be
+625         present, or at the discretion of the Health Officer, sample results for these
+626         contaminants may also be required; and
+627
+628      (c) Ifwaterquality informationfrom this subsection showsa contaminantlevel of
+629          concern,the Health Officer may require further action bythe applicant.
+630
+631      (d) If water quality results taken from the proposed source confirm a primary and
+632          secondary MCLviolation, the applicantshall ensure that appropriate treatment
+633         is provided which shall eliminate the public health risk to consumers served by
+634         the system for the operating life of the system.
+635
+636      (e) The Health Officer may deny a proposed water source basedon the review of
+637          the type and level of contaminants present in the sourcewater.
+638
+639   (6) SourceApproval Documentation
+640
+641      (a) Prior to approval of a new drinking water source, previously unapproved
+642          existingsource, or changein use of an existingsource, the applicantshall submit
+643          documentation, in the form of a WAVEapplication,demonstratingcompliance
+644         with this chapter and applicable federal, state, and local requirements.
+645
+646     (b) Documentation required by the Health Officer may include, but is not limited
+647         to:
+648
+649         (1) Water right documentation, where required by the Washington State
+650             Departmentof Ecology;
+651
+652         (2) Well siting approval;
+653
+654         (3) Documentation demonstrating compliance with applicable well
+655            construction requirements;
+             (4) Sourcedevelopment and pump test data, includingstaticwater level, yield,
+                 drawdown,recovery rate, pumpingduration, and other information
+                necessary to evaluate source capacity;
+
+
+             (5) Information regarding existing or proposed land uses, water uses, or other
+                conditions that may affect source quality or quantity;
+
+
+            (6) Maps depicting the project location, proposed water source, surrounding
+                area,topography, property boundaries,potential sources of contamination,
+                and other features affectingthe quality or quantity of the proposed drinking
+                water source;
+
+
+            (7) Recent water quality report from a Washington State-accredited
+670             laboratory; and
+671
+672         (8) Any additional information the Health Officerdetermines is necessaryto
+673             evaluate compliancewith this chapter.
+674
+675      (c) The Health Officermay require engineeringreports, hydrogeologicevaluations,
+676          groundwaterstudies, source protection plans, or other technical
+677          documentationwhen necessaryto determine whether a proposed drinking
+678          water sourcewill provide a safe, reliable, and adequatesupply of potablewater.
+679
+680   (7) SourceWater Protection and SanitaryControl Area
+681
+682      (a) Every drinkingwater sourceshall be protected by a sanitarycontrol area
+683          sufficientto prevent actual or potential sources of contamination from
+684         adversely affectins water aualitv.
+685
+686      (b) Unless otherwise approved bythe hlealth Officer,the minimum sanitary
+687         control area shall be one hundred (100) feet in radius for wells and two hundred
+688         (200) feet in radius for springs.
+689
+690      (c) The h-tealth Officer may require a larger sanitary control area where geological,
+691          hydrological, land use, or other site conditionswarrant additional protection.
+692
+693          (d) The Health Officer may approve a reduced sanitarycontrol areawherethe
+694              applicantdemonstrates, through engineering, hydrogeologic,and water quality
+695              information,that equivalent protection of public health will be provided.
+696
+697          (e) No person shall construct, locate, store, disposeof, or conduct any activity
+698             within a sanitary control area that may adversely affect a drinking water source
+699             without approval from the Health Officer.
+700
+701          (f) The responsible party shall maintain the sanitarycontrol areathrough
+702              ownership,easement, covenant, or other legal instrument approved bythe
+703              Health Officer.
+704
+705          (g) Wherea required sanitarycontrol areaextendsonto property not owned by
+706              the responsible party of the drinkingwater source, the responsible party shall
+707              obtain and maintain a recorded easement, covenant, or other legal instrument
+708             acceptable to the Health Officer that provides for the protection of the sanitary
+709             control area and access necessary to administer this chapter.
+710
+
+
+711 Part III -Water Supply Determination
+
+712   24.22.020WaterSupply Requirements
+
+713   Every residence, business,or other placewhere people reside,work, or where occupancy
+714   approval is required within dark County shall havean adequate, lawful supply of potable
+715   drinkingwater asdefined in this chapter. The Health Officershall establishthe criteria for
+716   determiningadequatewatersupply, which includes, but may not be limited to, the
+717   following:
+
+718      (1) General Requirements:
+719          (a) Adequatewater supply may be provided by individualwells or publicwater
+720              systems, provided appropriate state and local watersupply requirements have
+721              been met. The health officershall determine the adequacyfor each proposed
+722              watersupply as defined in, but not limited to, this chapter.
+723
+724         (b) Any newwatersource originatingfrom a well must befrom a drilled well, unless
+725             specificallyauthorized bythe Health Officer
+726
+727   (c) All new drinking water or irrigation wells constructed within dark County must
+728       be approved by the Health Officer and, at a minimum, meet the requirements of
+729      this chapter and Chapters 173-160 and 173-162 WAC, Chapters 173-527 and
+730      173-528 WAC and Chapter 18. 104 RCW.
+731
+732   (d) Approval of a well proposed as a drinkingwatersource or irrigation source shall
+733       require the reviewof the substantiallycompleted water system and ancillary
+734       systems such aswatertreatment components.
+735
+736   (e) Approval of a well authorizes its use only for the specificusefor which it was
+737       designatedand approved to beconstructed.
+738
+739   (f) The Health Officer may request anyand all additional information or
+740      documentation necessary to determine if a well has been sited and/or
+741      constructed to meet the requirements of this chapteror anyother applicable
+742      state or local regulations. Failureto submit the requested documentation will
+743      result in the cessation of well application processes.
+744
+745   (g) The Health Department shall not approve a newwell located in geologically
+746       hazardouslocation as defined by dark County CodeTitle 40.430 Wells located
+747      in mapped geohazard areas must be approved per Title 40. 430.
+748
+749   (h) Equipment, devices, and materials used in publicwatersystem production,
+750      transport, storage, treatment, or delivery of drinking water shall meet relevant
+751      NSF and/or ANSI standards or have the approval of the DOH and/or ECY as
+752      applicable.
+753
+754   (i) The well shall not be constructed if, in the determination of the health officer, it
+755       will causethe underlyinggroundwaterqualityto be subject to pollution as a
+756      result of its use.
+757
+758   (j) The Health Officer may revoke a well siting or construction approval if
+759       information is provided to the Health Officer indicatingthat the original
+760       application and/or supplemental documentation contained significant errors or
+761      omissions.
+762
+763   (k) The standardsand requirements of this chapter represent the minimum
+764       standardsand requirements establishedto be protective of public health. The
+765          Health Officer may require additional protective measuresthan those
+766          containedwithin this chapter.
+767
+768       (I) The Health Officer may order a well contractor, well operator, and/or the
+769           responsible party to repair, alter, or decommission a well if the department
+770          determines that the construction of the well did not meet the standards for well
+771          construction in effect at the time of construction or at completion in
+772          accordance with RCW 18. 104. 043:. Well repair, alteration or decommissioning
+773          shall complywith Chapter 173-160WAC.
+774
+775
+776   (2) Public Water System Availability
+777
+778      Wherean approved publicwater system is availableand authorizedto provide
+779      potablewater serviceto a property pursuantto the adopted dark County
+780      CoordinatedWaterSystem Plan, utility service area designation,approved
+781      development, applicable comprehensive plan, development regulation, municipal
+782      ordinance,dark County Code, or other applicableplanningauthority, the property
+783      shall obtain potablewaterservicefrom the approved publicwatersystem before a
+784      newwell or other potablewatersource may be established.
+785
+786      A newwell or other potablewater source may be approved only when the Health
+787      Officer determines that:
+788
+789      (a) Public water service is unavailable or infeasible;
+790
+791      (b) Connection to the approved public water system is not required by an
+792          applicable planningauthority or approved development; and
+793
+794      (c) The proposed potable water source otherwise complies with this chapter and
+795          applicable law.
+796
+797   (3) Subdivision and Land Division Water Supply Requirements
+798       A. In additionto the General Requirementof this Part, if a parcel of land is part of
+799          a plat (subdivision), short plat, or project that gained approval subject to the
+800          provision of public water, or if the parcel's building permit was conditioned
+801          upon the use of public water:
+802      (i) The Health Officer may not approve an individualwell for use as a water
+803          source.
+804
+805      (ii) The parcel or subdivision (plat) must be provided water by the public water
+806          system.
+807
+808     (iii) Existing wells may be approved for irrigation purposes (non-potable) if the
+809           well conforms to the requirements of this chapter and all other applicable
+810          policies and regulations.
+811
+812   B. WaterSupplyfor Site Plansand Subdivisionsof Land
+813        In additionto the Genera Requirements of this Part,Watersupply for
+814        Platting, Planned Unit Developments (PUD), Site Plans, and Boundary Line
+815        Adjustments (BLA) shall meet the following requirements:
+816              I. Preliminary PlatApproval- Establishingadequatewater supply for
+817                 preliminary plat approval shall meet the following:
+818
+819                       a. WaterSupply:Applicantswherethere is a PublicWater
+820                          System availablemust meet the followingrequirements in
+821                          additionto the General Requirements of this Part:
+822
+823                         (i)   Providethe name and WashingtonStatewatersystem
+824                               facility identification numberof the proposed water
+825                               source on the plat application; and
+826
+827                        (ii)   Submit a current, within one year, letter from the
+828                               publicwater purveyor indicatingwillingnessand ability
+829                               to serve the proposed development; and
+830
+831                       (iii)   Plats proposing a new Group B water system shall
+832                               indicatethe number and location of the proposed
+833                               well(s) on the applicationfor preliminary plat approval.
+834                               Thelocation(s)ofthewell(s)and number of lots must
+835                               meet the requirements of this chapter, WAC 246-291,
+836                               and any and all other applicable regulations prior to
+837                               preliminary plat approval; and
+838
+839    (iv)      The Health Officer may not approve a new Group B or
+840              Group A water system withinthe service area of an
+841              existingGroup A water system in accordancewith
+842              state law (WAC 173-527 and 173-528) or the dark
+843              County Coordinated Water System Plan.
+844
+845    (v)       For proposed developments within areasserviced by
+846              one or more Group A water systems, connection to a
+847              GroupA water system may be required per the dark
+848              County CoordinatedWaterSystem Plan. Group A
+849              watersystems maywaivethat requirement in writing.
+850
+851   b. Water Supply: Applicants seeking Preliminary Plat
+852          Approval with Individual Wells must meet the following
+853          requirements in additionto the General Requirements of
+854          this Part:
+855
+856     (1)     Comply with WAC 173-527 and WAC 173-528 and
+857             CCC Title 40; and
+858
+859    (II)     Submitthe number of proposed individualwells on the
+860             applicationfor preliminary plat approval; and
+861
+862             Ensure compliancewith the withdrawal limits set forth
+863             in RCW 90. 44. 050 or the appl icant's water rights. The
+864             Health Officershall use 750 gallons per dayfor each
+865             individual well to calculate the number of lots that can
+866             be approved;and
+867
+868   (IV)      The well and 100' SCA must be contained within the
+869             boundaries of the parent parcel(s) and, if not so
+870             contained, a covenant shall be recorded on the
+871             property encroached.
+872
+873   c. Water Supply: Applicants seeking Preliminary Plat
+874       Approval with a Combination of PublicWaterSystem and
+875       an IndividualWell or Wells must meet the following
+876                           requirements in additionto the General Requirements of
+877                           this Part:
+
+878
+
+879                             (1)   Comply with WAC 173-527 and WAC 173-528 and
+880                                   CCCTitle 40; and
+881
+882                            (II)   Submitthe number of proposed individual wells on
+883                                   the applicationfor preliminary plat approval; and
+884
+885                           (Ill)   The number of wells or connectionsservingthe
+886                                   proposed development shall not exceedthe
+887                                   withdrawal limits stipulated by RCW90.44.050 or
+888                                   an applicant'swater right. The Health Officershall
+889                                   use750 gallons per day for each individual well or
+890                                   connection to calculate the number of lots that can
+891                                   be approved;and
+892
+893                           (IV)    The well and 100' SCA must be contained within
+894                                   the boundaries of the parent parcel(s) and, if not so
+895                                   contained, a covenant shall be recorded on the
+896                                   property encroached.
+897
+898   C. Plats: Final Approval - WaterSupply
+
+899   Final plat approval shall meet the following requirements:
+
+900
+901             (A) For Group B Water System:
+902                  (I)   Compliance with the requirements described in the
+903                        preliminary plat approval asapplicable.
+904                 (II)   Thewell(s) must be drilled and water system built out to the
+905                        extent necessaryto develop the new lots, and havea current
+906                        Group B WaterSystem approval;
+907
+908                        The well(s) and 100-foot protective radius (SanitaryControl
+909                        Area) shall be located on the faceof the plat for eachwell;
+910
+911                   (IV)           All conditionsof approval have been placed on the face of the
+912                                  plat as hlealth Department Notes; and
+913
+914                    (V)           Ifthe project does not havewater rights, a note on the plat
+915                                  shall be required detailingthe withdrawallimits in RCW
+916                                  90.44.050.
+917
+918                (B) Plats using Individual Wells as the source of water supply:
+919
+920                     (I)          Compliancewith the requirements described in the
+921                                  preliminary plat approval as applicable;
+922                    (II)          Eachwell must be drilled and havea current approved WAVE.
+923
+924                              The well and 100-foot protective radius (Sanitary Control
+925                              Area) shall be located on the face of the plat for eachwell;
+926
+927                   (IV)       All conditions of approval have been placed on the face of the
+928                                  plat as Health Department Notes; and
+929
+930                    (V)           If the project does not havewater rights, a note on the plat
+931                              shall be required detailing the withdrawal limits in RCW
+932                              90.44. 050.
+933
+934   D. Boundary Line Adjustments (BLA)
+935
+936          (i)      In orderforthe Health Officerto approve a water supplyfora BLA
+937                   the followingrequirements must be met as applicable:
+938
+939                   (A) Applicants usinga publicwatersupply:
+940
+941                           (I)       Providethe name and WashingtonState publicwater
+942                                     system or well tag identification number of the proposed
+943                                     watersource on the plat application;and
+944
+945                           (II)      Submita current, within one year, letter from the public
+946                                     water purveyor indicatingwillingnessand abilityto serve
+947                                     the proposed development.
+948
+949   B. For applicants usingindividual wells as a watersupply:
+950
+951           (I)      The new lot configuration utilizes onsite sewage systems,
+952                    then the new lot shall conform to lot sizing standards
+953                    stipulated in this chapter and WAC246-272a;
+954
+955          (II)      Provide a site plan or site diagram showingthe location of
+956                    septic system components, buildingfootprints, easements
+957                    and anyother buildingor legal restriction that would not
+958                    allow a well to be drilled on the lot; and
+959
+960                    Proposedwells shall meet the siting requirements of this
+961                    chapter;
+962
+963      (IV)          Documented compliancewith required SCAsetbacks,or
+964                    establish easements and/or covenants and
+965
+966          (V)       All wells must havea current WAVE.
+967
+968   C. Planned Unit Development (PUD)
+969
+970    (i)          Final WaterSupplyApproval shall be granted asfollows:
+971
+972      (A) PUD'Sshall be served by an approved GroupA watersystem.
+973
+974      (B) Submita current, within one year, letter from the publicwater
+975          purveyor indicatingwillingness and abilityto serve the
+976          proposed development prior to preliminary land use approval;
+977             and
+978
+979      (C) Applicants shall submit final acceptance letters from the
+980             Group A water system to the applicable planning authority
+981             prior to final land use approval.
+982
+983   D. Site Plan
+984
+985      (A) Applicants usinga publicwatersupply shall provide the
+986          following:
+ 987
+ 988            (I)   Compliancewith the requirements described in the
+ 989                  preliminary plat approval asapplicable;
+
+ 990
+
+ 991       (II)       Submission of a letter dated within one year of the
+ 992                  applicationfrom the publicwater purveyor indicating
+ 993                  willingnessand abilityto serve the proposed
+ 994                  development .identifyingthe the name and
+ 995                  WashingtonState identification number of the
+ 996                  proposed watersource; or
+ 997
+ 998                  hlealth Officer approval of an existing, expanding, or
+ 999                  new Group B water system that meets the
+1000                  requirements of this chapter.
+1001
+1002   (B) Applicants using individualwells asa water supply shall
+1003       provide the following:
+1004
+1005        (I)       Compliancewith the requirements described in the
+1006                  preliminary plat approval as applicable;
+1007
+1008       (II)       A site plan or site diagram showing the location of the
+1009                  well, the location of on-site sewage system
+1010                  components, building footprints, easements, and any
+1011                  other building or legal restriction that would not allow
+1012                  a well to be drilled on the lot; and
+1013
+1014                  All proposed wells must havea current WAVE.
+1015
+1016   E. Commercial Businesses
+1017
+1018      (i)         All commercial businesses located within a permanent
+1019                  structure shall be supplied by a potable source of
+1020                  water, under pressure, from an approved public water
+1021                  system. The Health Officer may waive this requirement
+1022                  if the public does not have accessto the water and the
+1023                                        water system serves 8 or less people in accordance
+1024                                        with WAC296-307 andWAC 162-16-220.
+
+
+1025
+
+
+1026   Part IV Construction and System Infrastructure
+
+1027   24. 22. 040 Well Construction and System Infrastructure Standards
+
+1028   In accordancewith state and local regulations, dark County Public Health performs
+1029   assessments of the construction of all proposed water wells, the alteration and
+1030   decommissioning of existing water wells, and for existing individual water supplies
+1031   seekingapproval for a changein use or in support of the approval processfor subdivisions,
+1032   buildingpermits, and/or issuanceof oermits for installation of on-site sewagedisDosal
+1033   systems. Establishingproof of adequateconstruction includes, but is not limited to, the
+1034   following:
+
+1035      (1) General Well Construction Standards
+1036
+1037         (a) All newwaterwells shall be constructed in accordancewith this chapter and
+1038             applicable provisions of Chapters 173-160 and 173-162 WAC;
+1039
+1040         (b) All existingwaterwells shall be altered, repaired,and decommissioned in
+1041             accordancewith this chapter and applicableprovisions of Chapters 173-160
+1042             and 173-162 WAC;
+1043
+1044         (c) All existingindividualwells undergoinga changein useor beingused in support
+1045             of the approval for subdivisions,buildingpermits, and/or issuanceof permits
+1046             for installation of on-site sewagedisposal systems shall meet the construction
+1047             requirements of this chapter and applicable provisions of Chapters 173-160
+1048             and 173-162WAC;
+1049
+1050         (d) All drinkingwatersystem components shall be constructed to protect
+1051             groundwater, prevent contamination, and provide a safe, reliable, and adequate
+1052             supply of potable water;
+1053
+1054         (e) Materials, equipment, devices,and components used in the production,
+1055             treatment, storage,transmission, or distribution of drinkingwatershall comply
+1056         with applicable NSF,ANSI,WashingtonState Departmentof Health, and
+1057         WashingtonState Departmentof Ecologystandards,as applicable;and
+1058
+1059      (f) The Health Officermay require inspections,testing, documentation, or other
+1060          information necessary to verify compliance with this chapter.
+1061
+1062   (2) Construction, Alteration, Decommissioning, Notification and Commencement
+1063
+1064      (a) The responsible party or authorized representative shall provide all
+1065          notifications required bythis chapteror applicablestate law before
+1066          construction, alteration, or decommissioningbegins.
+1067
+1068      (b) Construction, alteration, or decommissioning shall not begin until all required
+1069          approvals have been obtained and the responsible party or authorized
+1070          representative has notified CCPH of their intent to begin construction or
+1071          decommissioningactivities.
+1072
+1073      (c) The Health Officer may conduct inspections before, during, or after
+1074          construction, alteration, or decommissioningto verify compliancewith this
+1075         chapter.
+1076
+1077   (3) Well Alteration and Repair
+1078
+1079      (a) Alteration or repair of an existing well shall comply with this chapter and
+1080          applicable provisions of Chapter 173-160WAC.
+1081
+1082      (b) Alteration or repair or an existing well shall not reduce the sanitary protection,
+1083         structural integrity, or water quality of the well.
+1084
+1085      (c) The Health Officer may require inspection, testing, disinfection, or corrective
+1086         action before the well is returned to service.
+1087
+1088   (4) WaterStorage,Treatment, and DistributionSystem Components
+1089
+1090      (a) Water storage facilities, treatment equipment, pressure tanks, pumps, piping,
+1091          valves, and other drinkingwatersystem components shall bedesigned,
+1092          installed, and maintainedto protect waterquality and provide reliableservice.
+1093
+1094          (b) Components shall be approved for potablewater use and installed in
+1095              accordancewith applicable manufacturerspecificationsand industry
+1096              standards.
+1097
+1098          (c) Cross-connections shall be prohibited except where protected in accordance
+1099              with applicable cross-connection control requirements.
+1100
+1101          (d) The Health Officer may require treatment, pressure testing, disinfection,
+1102              operational testing, or other verification prior to placingthe system into
+1103              service.
+1104
+1105       (5) Final Construction Approval
+1106
+1107          (a) A newlyconstructed, altered, repaired,or expandeddrinkingwatersystem
+1108              shall not be placed into service until approved bythe Health Officer.
+1109
+1110          (b) Final approval may require submission of construction records, test results, as-
+1111              built documentation, certifications,or other information as necessaryto
+1112              demonstrate compliance with this chapter.
+1113
+1114          (c) The Health Officer may require corrective actions beforegrantingfinal
+1115              approval.
+
+
+1116   Part V - Group B Water System Governance
+
+1117   24. 22. 050 Water System Governance Requirements
+
+1118   The Health Officershall establish the requirements for the governanceof new Group B
+1119   drinking water systems in dark County. The requirements include, but are not limited to,
+1120   the following:
+
+1121      (1) General Requirements:
+1122
+1123          (a) Every new Group B publicdrinkingwatersystem regulated underthis chapter
+1124              shall have an identified responsible party. The default responsible party shall be
+1125              the owner(s) of the property upon which the drinking water source resides
+1126              unless documents showinga different responsible party such as,for example
+1127              only and without limitation: Homeowner'sassociationdocuments, recorded
+1128              covenants and easementsor other contractual agreement.
+1129
+1130      (b) The responsible party or ownerfor a new Group B drinkingwatersystem shall
+1131          ensure compliancewith this chapter and all applicablefederal, state, and local
+1132          laws and regulations.
+1133
+1134      (c) The responsible party or owner shall notifythe Health Officerof anychangein
+1135          ownership,responsible party, or contact information within thirty (30) daysof
+1136         the effective date of such change.
+1137
+1138   (2) Responsible Party
+1139
+1140      (a) Every newGroup B publicdrinkingwater system shall designatea responsible
+1141          party authorizedto act on behalfof the system.
+1142
+1143      (b) The responsible party shall serve asthe primary contact and shall be
+1144         responsible for submitting applications, reports, notices, water quality results,
+1145         and other information to the Health Officeras required underthis chapter. If a
+1146         responsible party is not specified in recorded documents,then the property
+1147         owner(s) wherethe well is located is the responsible party.
+1148
+1149   (3) Governance Documentation
+
+1150         The Health Officer may require documentation demonstratingownership,the
+1151         responsible party or legal authorityto construct, operate, maintain, repair, or
+1152         modify a drinkingwatersystem such as, and without limitation deeds,
+1153         easements, covenants, recorded agreements, organizational documents, or
+1154         other legal instruments acceptable to the Health Officer.
+
+1155
+1156   (4) Easementsand Access
+1157
+1158      (a) Easements necessaryfor the construction, operation, maintenance,repair,
+1159          replacement, inspection, monitoring, or protection of a new Group B public
+1160          drinkingwater system shall be recorded and maintained.
+1161
+1162      (b) Easementsshall identifythe rights and responsibilitiesof the parties and
+1163          provide adequate legal accessto Group B publicdrinkingwater system
+1164         facilities.
+1165
+1166          (c) The Health Officer may require documentation demonstratingadequate legal
+1167              access before approving a new Group B drinking water system or issuing
+1168             permits.
+1169
+1170          (d) Easements,covenants, sharedwell agreements, or other recorded legal
+1171              instruments required under this chapter shall provide the Health Officer
+1172              reasonableaccessto drinkingwatersystem facilitiesfor inspections,
+1173              investigations,waterquality sampling,complianceverification, emergency
+1174              response, and other activities authorized underthis chapteror applicable law.
+1175
+1176      (5) SharedWaterSystem Agreennents
+1177
+1178          (a) Two-partysharedwatersystems shall begoverned by a recorded sharedwell
+1179              agreement approved bythe Health Officer.
+1180
+1181          (b) Sharedwell agreements shall establish ownershipinterests, designate a
+1182              responsible party, identifyoperation and maintenance responsibilities, allocate
+1183              costs, establish access rights, identify repair and replacement responsibilities,
+1184              provide procedures for ownershiptransfer, and includedispute resolution
+1185             provisions.
+1186
+1187      (6) Changesin Ownershipor Governance
+1188          (a) Successorsin interest shall assumethe rights, responsibilities, and obligations
+1189              established bythis chapter and any recorded agreements applicableto the
+1190             drinking water system.
+1191
+1192         (b) Failureto maintain required governancedocumentation or recorded
+1193             agreements mayconstitute a violation of this chapter.
+1194
+1195
+
+
+1196   Part VI Operations and Maintenance
+
+1197   24. 22. 060 Operations and Maintenance Requirements
+
+1198   Per 246-291WAC,a purveyor of a Group B system shall provide potablewaterto the
+1199   system's consumers. Therefore, the Health Officershall establishthe requirements for
+1200   ongoingoperations and maintenanceof Group B waterssystems, including, but not
+1201   limited to, the following:
+
+1202      (1) General Requirements.The responsible party or ownershall:
+1203
+1204          (a) Provide potablewaterto the system's consumers;
+1205          (b) Properly operate, monitor, inspect, and maintain the drinkingwatersystem to
+1206              provide a safe, reliable, and adequatesupply of potablewater and minimize
+1207              risks to public health;
+1208
+1209          (c) Promptly correct deficienciesthat may adverselyaffectwaterquality, water
+1210              quantity, system reliability, or public health; and
+1211
+1212          (d) Comply with this chapter and all applicablefederal, state, and local laws and
+1213              regulations.
+1214
+1215      (2) Water Quantity
+1216            a. In additionto the General Requirements of this Part, the responsible party
+1217                 or owner shall:
+
+1218                 i Maintainthe drinkingwatersource and system to provide an adequate
+1219                 quantity of potable water for its intended use; and
+
+1220                 ii. Investigateand correct conditionsthat adversely affectwater quantity,
+1221                 pressure, storage capacity,or system reliability.
+
+1222              b. The Health Officer may require source capacityevaluations, pump testing,
+1223                 operational modifications,water conservation measures, or other
+1224                 corrective actionswhen necessaryto ensure an adequateand reliablewater
+1225                 supply or protect public health.
+1226
+1227             c. Newshared publicwatersystems or water systems receivinga changeof
+1228                service require participation in the drinkingwater O&M program.The
+1229                 hlealth Officer may require pumping, testing or other forms of verification
+1230                 of capacityto provide sufficientwater supply.
+1231
+1232      (3) Water Quality Monitoringand Sampling
+1233
+1234      (a) Under Chapter 246-291WAC,the Health Officer mayestablish and implement
+1235         operational and maintenance requirements for Group B water Systems,
+1236          including water quality monitoring, sampling, sanitary surveys, inspections,
+1237         reporting requirements, and operatingpermit conditions,consistentwith
+1238         applicablestate law and as necessaryto protect public health.
+1239
+1240      (b) The responsible party or owner shall collect, submit, and report water quality
+1241          samples as required bythis chapteror applicablestate law
+1242
+1243   (4) SourceWater Protection and SanitaryControl Areas
+1244
+1245      (a) The responsible party or ownershall maintain all required sanitarycontrol
+1246          areasto protect drinkingwater sourcesfrom existingand potential sources of
+1247         contamination.
+1248
+1249      (b) Activities that may adversely affect source water quality shall be prohibited
+1250          within a sanitarycontrol area unless approved bythe Health Officer.
+1251
+1252      (c) The responsible party or ownershall maintain easements, covenants, and other
+1253          legal protections associatedwith the sanitarycontrol area.
+1254
+1255   (5) Well Maintenance and Disinfection
+1256
+1257      (a) Wells and drinkingwatersystem components shall be maintained in good
+1258          repairto prevent contamination and ensure reliable operation.
+1259
+1260      (b) When bacterial contamination is confirmed, the responsible party or owner
+1261          shall disinfectthe drinkingwatersystem in accordancewith the current
+1262          applicableAmerican WaterWorksAssociation (AWWA)standards.
+1263
+1264      (c) Drinking water shall not be returned to service until bacteriological samples
+1265         analyzed by a Washington State-accredited laboratory demonstrate
+1266         satisfactory results.
+1267
+1268
+1269   (6) RecordkeepingRequirements
+1270
+1271      (a) The responsible party or ownershall maintain, and make availablefor
+1272          inspection upon request of the Health Officer, records required by this chapter
+1273          and applicable lawfor the period required by this chapter or applicable law,
+1274          including, but not limited to,
+1275
+1276      (b) Water quality monitoring results, inspections, maintenanceactivities, repairs,
+1277          treatment system maintenance,operational records, complaints, emergency
+1278          response actions, and other documentation required by the Health Officer
+1279
+1280   (7) PropertyTransfer Requirements
+1281
+1282      (a) The responsible party shall provide Group B publicdrinkingwatersystem
+1283          documentation as required underthis chapter duringthe transfer of ownership.
+1284
+1285      (b) The Health Officermay review availablewater system recordsto determine
+1286          compliancewith this chapter
+1287
+1288   (8) Regulatory Access
+1289
+1290      (a) As authorized by RCW70A. 125. 150 the health officeror their designeeshall
+1291          havethe right to enter a premises underthe control of a publicwatersystem at
+1292          reasonabletimes with prior notification in order to determine compliancewith
+1293          applicable lawsand rules to test, inspect, or sample features of a publicwater
+1294          system and inspect,copy, or photograph monitoringequipment or other
+1295          features of a publicwatersystem, or records required to be kept under lawsor
+1296          rules regulatingpublicwatersystems. Forthe purposes of this section,
+1297          "premises under the control of a public water system" does not include the
+1298          premises or private property of a customer of a publicwatersystem past the
+1299          point on the system wherethe service connection is made unless a previously
+1300          designated sample location is located on private property.
+1301
+1302      (b) The health officeror their designee need not give prior notification to enter a
+1303          premises under paragraph"1"of this subsection if the purpose of the entry is to
+1304          ensure compliance by the publicwatersystem with a prior order of the hlealth
+1305          Departmentor if the health officer or the health officer's designeehas
+1306          reasonablecauseto believethe publicwatersystem isviolatingthe law and
+1307          poses a serious threat to public health and safety.
+1308
+1309      (c) If consentto entry is denied,the health officer or their designee may seek a
+1310          warrantfor the purpose of conductingan administrative inspectionfrom a
+1311         court official authorized to issue such warrants. An administrative search
+1312         warrant may be requested for the purposes of inspectingor examining
+1313         property, buildings, premises, place, books, records, or other physical evidence,
+1314         or conductingtests or takingsamples. The warrant shall be issued upon
+1315         probablecause. It is sufficient probable causeto showanyof the following:
+1316
+1317             a. The inspection, examination,test, or samplingis pursuantto a general
+1318                administrative plan to determine compliancewith lawsor rules
+1319                    administered by the Health Department; or
+1320
+1321                 b. The health officer or their designee has reason to believe that a violation
+1322                    of a lawor rule hasoccurred, is occurring, or mayoccur, and/or poses a
+1323                    seriousthreat to public health and safety.
+1324
+1325      (d) The health officer may inspect any publicwater system for the purpose of
+1326          conducting a water system sanitary survey, determining conformance with
+1327          construction documents, investigatinga water system complaint or non-
+1328          compliancewith state or local regulations, collectingwater samples, or carrying
+1329          out anyother activity necessaryfor protectingthe public health of the users of
+1330          the water system as authorized by RCW 70A. 125. 150), and RCW 70. 05.070(8).
+1331
+1332      (e) Watersystem responsible party and/or managersshall provide safeaccessto
+1333          their respective publicwater system facilities at suchtime and date asthe
+1334          health officer may require.
+1335
+1336   (9) Emergency Response
+1337
+1338      (a) Responsible Partyshall:
+1339            i. Take immediate action to protect public health wheneveran actual or
+1340               potential condition exists that may affectthe safety, quality, or
+1341                    availability of drinking water;
+1342
+1343           ii.      Promptly investigate and correct anyconditionthat maycompromise
+1344                    the integrity of the drinkingwater system or pose a riskto public health;
+1345                    and
+1346
+1347              iii.   Notifythe Health Officeras soon as practicablewhen an emergency
+1348                     condition presents an actual or potential public health threat or when
+1349                     required bythis chapter or applicablestate law.
+1350
+1351          (b) The Health Officer may require corrective actions, includingwater quality
+1352              sampling, disinfection, operational modifications, public notification, water use
+1353              restrictions, or other measures necessaryto protect public health.
+1354
+1355         (c) The health officer, or their designee may declare a public health emergencyas
+1356             provided by RCW70A.125.010.Water system problems determined to be a
+1357             public health emergencyasthe result of violation of lawsor regulations shall be
+1358             subject to the enforcement provisions in Title 32 of dark County Code. In
+1359             addition,as limited by RCW70A. 125.010,the Health Officer may also impose
+1360             penalties for violations of laws or regulations that are determined to be a public
+1361             health emergency.
+
+
+1362 Part VII - System Changes and Modifications
+
+1363   24. 22. 070 System Changes and Modifications
+
+1364   The Health Officeshall establishthe requirements for the approval of a changein use,
+1365   changesto, or modificationsof Group B watersystems including, but not limited to, the
+1366   following:
+
+1367      (1) General Requirements
+1368
+1369         (a) No person shall modify, expand, replace, abandon, or otherwise alter a Group B
+1370             public drinking water system regulated under this chapter without approval
+1371             from the Health Officerwhen required bythis chapter or applicable law; and
+
+
+
+                 and local laws and regulations;
+
+
+             (c) Modificationsshall not adversely affectwater quality, water quantity, system
+                 reliability, or public health; and
+
+             (d) The Health Officer may require plans, engineeringreports, water quality
+                 sampling, pump testing, inspections, or other information necessary to evaluate
+                 a proposed modification.
+1382
+1383   (2) Expansionof Service
+
+1384   In additionto the General Requirements, the followingshall applyto a proposed
+1385   expansionof service:
+
+1386          (a) A Group B publicdrinkingwater system shall not be expandedto serve
+1387              additional service connectionswithout prior approval from the hlealth
+1388             Officer.
+1389
+1390          (b) The responsible party or owner shall demonstrate that the existingsource,
+1391              treatment, storage, distribution system, and infrastructure are adequateto
+1392             serve the proposed expansion.
+1393
+1394          (c) Expansionresulting in a changein watersystem classificationshall comply
+1395              with the applicable requirements of this chapter prior to servingadditional
+1396             connections.
+1397
+1398   (3) Modificationsto WaterSources
+1399       In additionto the General Requirements, the followingshall applyto a proposed
+1400      modification to a water source:
+1401
+1402      (a) Replacement, deepening, rehabilitation,or modificationof a Group B public
+1403          drinkingwatersource shall comply with this chapter and applicablestate well
+1404         construction requirements.
+1405
+1406      (b) The Health Officermay require water quality sampling, source capacity
+1407          evaluation, hydrogeologicinformation, or other documentation prior to
+1408          approving a modifiedwater source.
+1409
+1410   (4) Treatment, Storage, and DistributionSystem Modifications
+1411       In additionto the General Requirements, the followingshall apply to a proposed
+1412       treatment, storage or distribution system modification:
+1413
+1414      (a) Modificationsto a Group B publicwater system treatment systems, storage
+1415          facilities, pressure tanks, pumps, piping, or distribution infrastructure shall be
+1416          designed and constructed to maintain compliancewith this chapter by a
+1417          Professional Engineer
+1418
+1419      (b) The Health Officer may require testing, disinfection, inspection, or operational
+1420         verification before modified facilities are returned to service.
+1421
+1422   (5) Change in Ownership or Use
+1423       In additionto the General Requirements, the followingshall applyto a proposed
+1424       changein ownershipor use:
+1425
+1426      (a) A changein ownershipor responsible party designationdoes not constitute
+1427          approval of an existingdrinkingwater system.
+1428
+1429      (b) A changein use or occupancythat increaseswaterdemand or changesthe
+1430          classificationof the Group B public drinkingwater system may require review
+1431         and approval by the Health Officer.
+1432
+1433      (c) The Health Officermay require evaluation of water quantity, water quality,
+1434          infrastructure, or system capacity before approvinga changein use.
+1435
+1436   (6) System Abandonmentand Decommissioning
+1437       In additionto the General Requirements,the followingshall applyto a proposed
+1438       system abandonmentor decommissioning:
+1439
+1440      (a) Group B public drinkingwater systems or individual componentsthat are
+1441          permanently removed from service shall be decommissioned in accordance
+1442         with this chapter and applicable state law.
+1443
+1444      (b) Wells shall be decommissioned in accordance with Chapter 173-160 WAC.
+1445
+1446      (c) Abandonmentof a Group B drinkingwatersystem does not relieve the
+1447          responsible party of responsibilityfor correctingconditionsthat pose a public
+1448         health risk.
+1449
+1450   (7) Change in WaterSystem Classification
+1451       In additionto the General Requirements,the followingshall applyto a proposed
+1452       changein watersystem classification:
+1453
+1454      (a) Whena proposed modificationchangesthe number of service connections or
+1455          otherwise changes the classification of a Group B public drinking water system,
+1456             the system shall comply with all applicable requirements for the new
+1457             classification before the modification is approved.
+1458
+1459         (b) The Health Officer may require additional documentation, improvements, or
+1460             corrective actions necessaryto demonstrate compliancewith the requirements
+1461             applicableto the newclassification.
+
+
+1462   Part VIII - Compliance and Enforcement
+
+1463   24.22.080 Complianceand Enforcement
+
+1464   The Health Officershall establishthe requirements for the compliancewith and
+1465   enforcement of this chapter including, but not limited to, the following:
+
+1466      (1) General Compliance:
+1467
+1468         (a) Every responsible party, operator or other person subjectto this chapter shall
+1469             complywith the requirements of this chapter and all applicablefederal, state,
+1470             and local laws and regulations.
+1471
+1472         (b) Except as set forth in this chapter, no individual or entity shall establish,
+1473             construct, modify, operate, (naintain, abandon,or otherwise alter a Group B
+1474             public drinkingwatersystem.
+1475
+1476         (c) Compliance with this chapter does not relieve any responsible party or owner
+1477             from obtaining other permits, approvals, or authorizations required by
+1478             applicable federal, state, regional, county, and/or local law.
+1479
+1480         (d) Failureto comply with this chapter may result in enforcement action by the
+1481             Health Officer as provided in this chapter and other applicable provisions of
+1482             dark County Code.
+1483
+1484      (2) Authority of the Health Officerto Enforce:
+1485
+1486         (a) The Health Officershall administerand enforce the provisionsof this chapter
+1487            and investigate actual or suspected violations.
+1488
+1489      (b) The Health Officeror designeemay conduct inspections, investigations,
+1490          sanitarysurveys, review records, collect samples, require testing, and obtain
+1491          information necessaryto determine compliancewith this chapter.
+1492
+1493      (c) The Health Officer may issue permits, approvals, notices, notice and orders, and
+1494          directives; establish permit conditions; require corrective actions; and take
+1495          other actions authorized bythis chapter, dark CountyTitle 32, or applicable
+1496          lawto protect public health.
+1497
+1498      (d) In administeringthis chapter, the Health Officer may seekvoluntary
+1499          compliance through education, technical assistance, conferences, compliance
+1500          schedules, or other informal meanswheneverappropriate and consistentwith
+1501          the protection of public health. Nothing in this subsection limits the authority of
+1502         the Health Officer to take immediate enforcement action when necessary to
+1503         protect public health or asotherwise authorized by law.
+1504
+1505      (e) The Health Officer may require the responsible party, operator, or applicantto
+1506          submit plans, reports, engineeringinformation, hydrogeologicevaluations,
+1507          water quality or quantity data, operational records, or other documentation
+1508         necessary to determine compliance with this chapter.
+1509
+1510      (f) The Health Officermay establish administrative procedures,forms, policies,
+1511          guidance, and permit conditions necessary to implement and administer this
+1512          chapter, provided such procedures are consistentwith applicablefederal, state,
+1513         and local law.
+1514
+1515   (3) Variancesand Waivers:
+1516
+1517         (a) Applicationsfor variances,waivers, or exemptions authorized under
+1518             applicable state law shall be processed in accordance with the following:
+1519
+1520                (i) Well construction regulations under WAC 173-160-106;
+1521
+1522               (ii) GroupA publicwater systems underWAC246-290-060;and
+1523
+1524               (iii) Group B publicwatersystems underWAC 246-291-060.
+1525
+1526          (b) For requests not otherwise governed by subsection (a) of this section, the
+1527              Health Officer maygrant a waiverfrom specificrequirements of this
+1528              chapterwhen the applicantdemonstratesthat:
+1529
+1530                (i) The proposed alternative provides an equivalent or greater level of
+1531                    protection to public health;
+1532
+1533                (ii) Thewaiver is consistentwith the intent and purpose of this chapter;
+1534
+1535               (iii) The waiver is not prohibited by federal or state law; and
+1536
+1537               (iv) Thewaiverwill not create an unreasonable risk to public health.
+1538
+1539         (c) A request for a waiver shall be submitted in writing and include sufficient
+1540             technical information for the Health Officerto evaluatethe request.
+1541
+1542         (d) The Health Officermay approve, approve with conditions, or deny a waiver
+1543             request.
+1544
+1545         (e) In approvinga waiver,the Health Officermay impose conditions necessary
+1546             to protect public health, including, but not limited to, monitoring, reporting,
+1547             inspections,operational requirements, engineeringcontrols, treatment, or
+1548             other corrective measures.
+1549
+1550         (f) Approval of a waiver underthis section does not relieve the responsible
+1551             party from complying with all other applicable provisions of this chapter
+1552
+1553         (g) A waiver granted under this section may be modified, suspended, or
+1554             revoked by the Health Officer if the conditions of approval are not
+1555             maintainedor if necessaryto protect public health.
+1556
+1557
+1558   (4) Alternative Methods and Materials
+1559
+1560      (a) The hlealth Officer may approve the use of alternative methods, materials,
+1561         technologies, equipment, or designs not specifically prescribed by this chapter
+1562         when the applicant demonstrates that the proposed alternative provides an
+1563      equivalent or greater level of protection to public health and is consistent with
+1564      the intent of this chapter.
+1565
+1566   (b) A requestfor an alternative method or material shall be submitted in writing
+1567       and shall includesufficienttechnical information, engineeringdata,
+1568       manufacturer's specifications,performance testing, or other documentation
+1569       necessaryfor the Health Officerto evaluate the request.
+1570
+1571   (c) In evaluating a request, the Health Officer may consider, including but not
+1572      limited to:
+1573
+1574          a. Applicablefederal,state, and local laws and regulations;
+1575
+1576          b. Engineeringprinciples and accepted industry standards;
+1577
+1578          c. Scientificor technical data;
+1579
+1580          d. Manufacturer testing and certifications;
+1581
+1582          e. Reliability and long-term performance;
+1583
+1584         f. Operation and maintenance requirements; and
+1585
+1586         g. Potential impacts to public health.
+1587
+1588   (d) The h-lealth Officer mayapprove, approve with conditions,or deny a requestfor
+1589      an alternative method or material.
+1590
+1591   (e) Approval may beconditioned upon additional monitoring, testing, inspections,
+1592       reporting, maintenance,operational requirements, or other measures
+1593       necessaryto protect public health.
+1594
+1595   (f) Approval of an alternative method or material shall not relieve the responsible
+1596       party from complying with all other applicable provisions of this chapter.
+1597
+1598   (g) The Health Officer may modifyor revoke approval of an alternative method or
+1599       material if it is determined that the approved alternative no longer provides
+1600          equivalent protection of public health or no longer complies with the conditions
+1601          of approval.
+1602
+1603   (5) Regulatory Referral of Licensed Professionals
+1604
+1605      (a) When a licensed drinkingwater professional, includingbut not limited to a
+1606          waterwell contractor, pump installer, professional engineer,satellite
+1607          management agency,or other person licensed or certified under applicable
+1608          state law, is found to be in violation of this chapteror applicablestate drinking
+1609          wateror well construction requirements, the Health Officer may refer the
+1610          matter to the appropriate state licensingor regulatory agencyfor investigation
+1611          or enforcement.
+1612
+1613      (b) Referrals may include, but are not limited to:
+1614
+1615            (i)   The WashingtonState Departmentof Ecologyfor matters governed by
+1616                  Chapter 173-162 WAC;
+1617
+1618           (ii)   TheWashingtonState Department of Health for matters governed by
+1619                  Chapters 246-290 through 246-295 WAC; or
+1620
+1621          (iii)   Any other state licensingor regulatory authority havingjurisdiction over
+1622                  the licensed professional.
+1623
+1624      (c) A referral under this section is independent of any enforcement action
+1625          authorizedunderthis chapter and does not preclude the Health Officerfrom
+1626          pursuinganyother administrative, civil, or legal remedy authorized byfederal,
+1627          state, or local law.
+1628
+1629
+1630   (6) Notice of Violation
+1631
+1632      (a) When the Health Officer determines that a violation of this chapter exists, the
+1633          Health Officer may issue a written Notice of Violationto the responsible party,
+1634          operator, or other person responsiblefor the violation.
+1635
+1636      (b) A Notice of Violationshall identify, as applicable:
+1637
+1638           (i)   The nature of the violation;
+1639
+1640          (ii)   The applicable provisions ofthis chapter or other lawthat have been
+1641                 violated;
+1642
+1643         (iii)   The corrective actions necessary to achieve compliance;
+1644
+1645         (iv)    The time allowed for compliance; and
+1646
+1647          (v)    The potential consequences of failure to comply.
+1648
+1649      (c) A Notice of Violation may require the responsible person to submit
+1650          documentation, conducttesting, implement corrective measures, cease
+1651         prohibited activities, or perform other actions necessary to achieve compliance
+1652         with this chapter.
+1653
+1654      (d) Failure to comply with a Notice of Violation within the time specified may result
+1655         in additional enforcement actions authorized by this chapter, Title 32 of the
+1656         dark County Code, or other applicable federal, state, or local law.
+1657
+1658      (e) Issuance of a Notice ofViolation does not preclude the Health Officer from
+1659          taking immediate action when necessary to protect public health or where
+1660         otherwise authorized by law.
+1661
+1662   (7) ComplianceOrders and Corrective Actions
+1663
+1664      (a) When the Health Officer determines that a violation of this chapter exists, the
+1665         Health Officer may issue a Compliance Order requiring corrective actions
+1666         necessary to achieve compliance with this chapter and protect public health.
+1667
+1668      (b) A Compliance Order may require one or more of the following:
+1669
+1670           (i)   Correction of deficiencies or violations;
+1671
+1672          (ii)   Repair, replacement, modification, or removal of drinking water system
+1673                 components;
+1674
+1675         (iii)   Water quality or water quantity monitoring;
+1676
+1677          (iv)     Additional testing, inspections,or sanitarysurveys;
+1678
+1679          (v)      Installation or modificationof treatment equipment;
+1680
+1681         (vi)      Operational or maintenancechanges;
+1682
+1683         (vii)     Public notification or water use restrictions;
+1684
+1685        (viii)     Connection to an approved public water system when required by this
+1686                   chapteror applicable law;
+1687
+1688         (ix)      Well inactivation or decommissioningin accordancewith this chapter
+1689                   and applicablestate law;or
+1690
+1691          (x)      Any other action determined by the Health Officerto be necessaryto
+1692                   protect public health.
+1693
+1694      (c) Compliance Ordersshall identifythe violation, the corrective actions required,
+1695         and the time allowed for compliance.
+1696
+1697      (d) Failure to comply with a Compliance Order within the time specified may result
+1698         in additional enforcement actions authorized by this chapter, Title 32 of the
+1699         dark County Code, or other applicable federal, state, or local law.
+1700
+1701     (e) Issuanceof a Compliance Orderdoes not preclude the Health Officerfrom
+1702         taking immediate action when necessaryto protect public health or where
+1703         otherwise authorized by law.
+1704
+1705   (8) EmergencyOrders
+1706     (a) When the Health Officer determines that an actual or imminent threat to public
+1707         health exists, the Health Officer or designee may issue emergency orders or
+1708         take other actionsauthorized bythis chapter or applicable lawto protect public
+1709         health.
+1710
+1711     (b) Emergency orders may require immediate corrective actions, including, but not
+1712         limited to:
+1713
+1714            (i)   Issuanceof boil water advisoriesor other public notifications;
+1715
+1716           (ii)   Water use restrictions;
+1717
+1718          (iii)   Water quality sampling or monitoring;
+1719
+1720          (iv)    Disinfection or treatment of the drinking water system;
+1721
+1722           (v)    Repair, replacement, or modification of drinking water system
+1723                  components;
+1724
+1725          (vi)    Temporary suspension of system operation;
+1726
+1727         (vii)    Provision of an alternative potablewater supply; or
+1728
+1729         (viii)   Any other action determined necessaryto eliminate or reduce an actual
+1730                  or potential threat to public health.
+1731
+1732      (c) The Health Officeror designeemay declare a public health emergency as
+1733          authorized by RCW 70. 119A. 030.
+1734
+1735      (d) Violationsdetermined to constitute a public health emergency may be subject
+1736          to the enforcement provisions of Title 32 of the dark County Codeand the
+1737          penalties authorized by RCW70. 119A.040,whereapplicable.
+1738
+1739      (e) Emergency orders issued under this section shall remain in effect until the
+1740          Health Officerdeterminesthat the conditions creatingthe public health threat
+1741          have been corrected or the order is otherwise modified or rescinded.
+1742
+1743   (9) Civil Enforcement and Penalties
+1744
+1745      (a) Any person whoviolates any provision of this chapter, any permit, approval,
+1746         variance, waiver, or other authorization issued under this chapter, or any lawful
+1747         order of the Health Officershall be subject to the civil enforcement provisions
+1748         of Title 32 of the dark County Codeand other applicablefederal, state, and
+1749         local laws.
+1750
+1751          (b) The Health Officermay pursue one or more enforcement remediesauthorized
+1752              by this chapter, Title 32 of the dark County Code, or applicable law to obtain
+1753             compliance and protect public health.
+1754
+1755          (c) The remedies provided bythis chapter are cumulative and not exclusive. The
+1756             use of one remedy shall not preclude the use of any other administrative, civil,
+1757             equitable, or legal remedy authorized by law.
+1758
+1759          (d) Nothing in this chapter limits the authority of the Health Officer to seek
+1760              injunctive relief, recover costs, or pursue any other remedy authorized by
+1761             federal, state, or local law.
+1762
+1763   (10)          Appeals
+1764
+1765          (a) Any person aggrieved by a final decision, order, permit action, approval, denial,
+1766              modification, suspension, revocation, variance, waiver, alternative method
+1767              determination, or other administrative action of the Health Officerunderthis
+1768              chapter may appeal such decision in accordance with Chapter 32. 08 of the
+1769              dark County Code.
+1770
+1771      (b) Appeals shall be filed in the manner, within the time, and in accordance with the
+1772          procedures established in Chapter 32. 08 of the dark County Code, as may be
+1773             amended.
+1774
+1775      (c) Unless otherwise provided by lawor ordered bythe Hearing Examineror other
+1776          authority havingjurisdiction, the filingof an appeal shall not stay the
+1777          effectiveness of the decisionor order beingappealed.
+1778
+1779      (d) Nothingin this section limits the authority of the Health Officerto issue or
+1780          enforce an emergencyorder or to take immediate action necessaryto protect
+1781          public health as authorized bythis chapteror applicable law.
+1782
+1783   (11)         ContinuingViolations
+1784
+1785      (a) Each day a violation of this chapter continues after the time established for
+1786          compliance shall constitute a separate violation unless otherwise provided by
+1787             law.
+1788
+1789         (b) Thecontinuation of a violation does not precludethe Health Officerfrom
+1790             pursuingone or more enforcement actionsauthorized bythis chapter,Title 32
+1791             of the dark County Code,or other applicablefederal,state, or local law.
+1792
+1793         (c) The correction of a violation does not relieve any person of liabilityfor
+1794            violations that occurred prior to achieving compliance.
+1795
+
+
+1796   Part IX - Inactivation and Abandonment
+
+1797   24.22.090WaterSystem DecommissioningandAbandonment
+
+1798   A Group B watersystem regulated underthis chaptershall comply with the followingas
+1799   applicable:
+
+1800      (1) General Requirements
+1801
+1802         (a) Drinkingwatersystems and wells that are permanently removed from service
+1803            shall be inactivated, abandoned,or decommissioned in accordancewith this
+1804            chapter and applicablefederal,state, and local laws.
+1805
+1806         (b) Wellsthat have not been approved dueto poorwaterquality, or well
+1807             construction deficiencies,and that are consideredto be a threat to publichealth
+1808            and/or the water resource, shall be decommissioned to meet the requirements
+1809            of this chapter and Chapter 173-160 WAC
+1810
+1811         (c) For anywell discovered bythe Health Officerthrough
+1812             application reviewor field investigation, a determination of usewill be
+1813             required. If it is determined that the well is an abandonedwell, the well
+1814            shall be decommissioned in accordance with Chapter 173-160 WAC. If the
+1815            well is in use, it shall be required to be approved through a WaterAdequacy
+1816            Verification Evaluation (WAVE)for its proposed use as a drinkingwater supply
+1817            or an irrigation supply.
+1818
+1819         (d) The responsible party or ownershall ensure that decommissioningactivities
+1820             are completed in a mannerthat protects public health, publicsafety, and
+1821             groundwaterresources.
+1822
+1823      (2) Abandoned Wells
+1824      (a) Anywell that is abandoned,unusable, permanently discontinuedfrom service,
+1825          or in such disrepairthat continued use is impractical or presents a risk to public
+1826          health, public safety, or groundwater quality shall be decommissioned.
+1827
+1828          Wells not connected to a legal beneficial use may be determined bythe Health
+1829          Officerto be abandonedand decommissionedor reconditioned to prevent risks
+1830          to public health and safety.
+1831      (b) A well shall also be decommissionedwhen required by this chapter or
+1832          applicable state law.
+1833
+1834   (3) Well Decommissioning
+1835       In additionto the general requirements...
+1836
+1837      (a) Wells required to be decommissionedunderthis chapter, Chapter 173-160
+1838          WAC, Chapter246-291WAC,or other applicable lawshall be decommissioned
+1839          in accordancewith Chapter 173-160WAC.
+1840
+1841      (b) Decommissioningshall be performed by a person authorized underapplicable
+1842          state law and shall be completed usingmethods approved bythe Washington
+1843          State Department of Ecology.
+1844
+1845      (c) Documentation demonstrating completion of well decommissioning shall be
+1846          submitted to the Health Officer upon request.
+1847
+1848   (4) WaterSystem Decommissioning
+1849       In addition to the general requirements...
+1850
+1851      (a) The responsible party or ownershall notifythe dark County PublicHealth
+1852          before permanently discontinuingoperation of a two-partysharedwater
+1853          system or Group B publicwater system.
+1854
+1855      (b) Where required by applicable law, the responsible party or owner shall notify
+1856          other agencieshavingjurisdiction over the drinkingwatersystem.
+1857
+1858      (c) The responsible party or ownershall ensurethat all public health hazards
+1859          associatedwith the discontinueddrinkingwatersystem have been eliminated
+1860          prior to final decommissioning.
+1861
+1862          (d) If the well serving a discontinued drinkingwatersystem will remain in service
+1863              for another lawful purpose, continued use shall complywith this chapter and
+1864              any applicableapproval requirements.
+1865
+1866      (5) Continued Use of ExistingWells
+1867
+1868          (a) A well serving a discontinued public water system may continue to be used for
+1869              another lawful purpose only with approval of the hlealth Officerwhen required
+1870              by this chapter.
+1871
+1872          (b) Any proposed change in use shall comply with the applicable requirements of
+1873              Chapter 24.22, includingSection 24.22.070 (System Changesand
+1874              Modifications),and all applicablefederal, state, and local laws.
+1875
+
+
+1876 Part X. Severability
+1877   The provisions of this Ordinance are hereby declared to be separate and severable, and
+1878   the invalidity of any clause, paragraph, subdivision, section or portion of this chapter or
+1879   the invalidity of the application thereto any person or circumstance shall not affect the
+1880   validity of its application not other persons and circumstances.
+
+1881
+
+1882
+
+1883
+
+1884
+
+1885
+
+1886
+
+1887
+
+1888
+
+1889
+
+1890
+
+1891
+1892
+

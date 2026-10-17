@@ -1,0 +1,2116 @@
+Financial Trends
+Monitoring Report                                                              2025
+Clark County, Washington
+
+
+
+
+                                  Prepared by
+                          Clark County Auditor’s Office
+                           Financial Services Division
+
+
+
+
+For other formats, please contact the ADA Coordinator: Voice 564.397.2282 or ada@clark.wa.gov
+For Washington Relay Service, please dial 711 or 800.833.6388. For Speech to Speech Service,
+please dial 877.833.6341
+This page is blank intentionally
+2025 Financial Trends Monitoring Report
+Table of Contents
+
+    Transmittal Letter ....................................................................... i
+    Fiscal Policies ........................................................................... v
+    Revenues
+          Governmental Revenue per Capita ................................................................... 1
+          General Fund Revenue per Capita.................................................................... 2
+          Tax Revenue per Capita ................................................................................... 3
+          Intergovernmental Revenue .............................................................................. 4
+          Enterprise Operating Revenue and Expenses .................................................. 5
+          Elastic Revenue as a Percent of Total Revenue ............................................... 6
+
+    Expenditures
+          Governmental Expenditures per Capita ............................................................ 7
+          Capital Project Expenditures per Capita ............................................................ 8
+          General Fund Expenditures per Capita ............................................................. 9
+          Employees per Capita ..................................................................................... 10
+          Personnel Expenditures .................................................................................. 11
+          Employee Benefit Costs .................................................................................. 12
+          Repair and Maintenance Costs ....................................................................... 13
+
+    Operating Position
+          General Fund Net Change in Fund Position .................................................... 14
+          Fund Balance – General Fund (& Permanent Reserve) .................................. 15
+          Fund Balance – Road Fund ............................................................................ 16
+          Fund Liquidity – General Fund and Road Fund ............................................... 17
+          Enterprise Funds – Change in Net Position..................................................... 18
+          Net Position – Insurance Reserves ................................................................. 19
+
+    Debt Structure
+          Long-Term Debt .............................................................................................. 20
+          Debt Service Costs ......................................................................................... 21
+          Overlapping Debt per Capita ........................................................................... 22
+
+    Economic Base
+          Population of Cities and County ...................................................................... 23
+          Median Household Income.............................................................................. 24
+          Registered and Participating Voters ................................................................ 25
+          Assessed Property Values .............................................................................. 26
+          Residential and Commercial Development...................................................... 27
+          Community Employment ................................................................................. 28
+          Taxable Sale of Goods and Services .............................................................. 29
+This page is blank intentionally
+                   CLARK COUNTY WASHINGTON                                          clark.wa.gov/auditor
+                   AUDITOR                                                          1300 Franklin Street
+                   FINANCIAL SERVICES                                               PO Box 5000
+                                                                                    Vancouver, WA 98666-5000
+                                                                                    564.397.2310
+
+AUDITOR GREG KIMSEY
+
+September 24, 2026
+
+Honorable Sue Marshall, Chair
+Clark County Council
+PO Box 5000
+Vancouver, Washington 98666-5000
+
+RE: Clark County Financial Trends Monitoring Report – 2025
+
+
+
+Dear Councilor Marshall,
+
+The following represents our report of financial trends for Clark County for the ten-year period ended
+December 31, 2025.
+Introduction
+This report has been compiled in accordance with the provisions of the Clark County Fiscal Policy Plan,
+and includes trends of key financial and economic indicators for the government and community of
+Clark County, Washington.
+
+Information for the report is derived from various County financial records and reports, including the
+Annual Comprehensive Financial Report (ACFR), as well as reports from various other local and state
+governments and agencies.
+Fiscal Policies
+The report presents the 17 fiscal policies included in the Clark County Fiscal Policy Plan. These policies
+provide guidelines for the prudent management of the County's finances. These guidelines are not
+absolute rules, but variation from them should be carefully considered and of limited duration only. We
+have provided a brief narrative following each policy statement that represents our opinion of the
+degree to which the County is in compliance with the policy.
+Financial Indicators
+The report presents a combination of 29 financial measures and demographic indicators that can help
+highlight issues and trends. The analysis of each indicator gives guidance on what trends may mean in
+terms of Clark County’s fiscal health.
+It is important to understand the data behind the indicators to be able to recognize the meaning of any
+particular trend and if the current result is cause for concern. Therefore, formulas used in calculations
+and data sources are identified for each of the indicators. The indicators are divided into five categories:
+Revenues, Expenditures, Operating Position, Debt Structure, and Economic Base.
+
+                                                     i
+Regular analysis can highlight potential fiscal problems and provide the necessary information required
+for timely corrective action. By taking action to address weaknesses and to strengthen fiscal health, the
+county can help ensure that resources are available to fund the level of services required by the
+taxpayers.
+Rating Structure
+There is considerable variation in the way that local governments manage their finances. The variations
+make development of benchmarks difficult for many indicators. Ratings for these indicators were
+influenced by the model for evaluating financial condition that was developed by the International
+City/County Management Association in 2003.
+
+The analysis of these indicators includes a “Warning Trend,” which helps to focus on conditions that
+currently exist or that should be avoided. Staff has evaluated each indicator and assigned a rating
+according to the following rating scheme of "positive," "negative," or "mixed", based on the following:
+
+           Green – Positive Trend – The trend is a favorable position
+
+
+
+
+           Yellow – Mixed Trend – The trend is mixed/neutral and uncertain. The indicator should be
+           watched carefully because it may move in a direction that could have a negative impact on
+           the county’s financial health.
+
+
+
+           Red – Negative Trend – The County trend follows the Warning Trend. More information
+           should be gathered and, if possible, corrective action should be taken.
+
+
+
+
+A summary of the 29 indicators reveals the following:
+   • 20 are positive indicators; 8 are neutral/mixed; 1 is a red “negative” indicators at this time.
+   • The 20 subjects receiving positive ratings in 2025 are discussed below:
+         o Revenue:
+                  Intergovernmental Revenue – Normalizing for the COVID-19 funding,
+                     intergovernmental revenue has hovered consistently between nearly 17% and
+                     22% as a percentage of total revenue.
+                  Enterprise Operating Revenue and Expenses – With the exception of 2024,
+                     where adjusted operating expenses exceeded adjusted operating revenues by
+                     $0.6 million, revenues have consistently exceeded expenses between 2016 and
+                     2025.
+                  Elastic Revenue as a Percent of Total Revenue – The elastic revenues, which
+                     are highly responsive to economic base and inflation, have remained stable
+                     between 2016 and 2025. In the years following the economic downturn after the
+                     housing market crash, the elastic revenues saw higher volatility.
+
+                                                    ii
+o   Expenditures:
+        Governmental Expenditures per Capita – Adjusted for inflation, the expenditures
+          per capita have remained stable over the ten year period of this report; the low
+          was $750 during the COVID-19 recovery, and the high was $912 in 2016. Recent
+          data has upturned back toward the pre-2020 numbers.
+        Governmental Capital Project Expenditures per Capita – The expenditures are
+          gradually increasing after a dip from 2019-2021. A combination of factors
+          resulted in deferring capital projects. Recent expenditures are still below the
+          levels in 2016-2018.
+        General Fund Expenditures per Capita – Per capita expenditures in the General
+          Fund have risen slightly since the pandemic, but are overall in line with pre-2020
+          numbers. The graph is smooth, indicating stability; there are no high peaks,
+          valleys, or a significant upward or downward trend.
+        Employees per Capita – The pandemic years saw a small dip in FTE per capita,
+          as well as percent-filled positions compared to budgeted positions (partially due
+          to management decisions). The numbers have been relatively stable over the ten
+          years, and have been trending back toward pre-pandemic levels over the past
+          two to three years.
+        Personnel Expenditures as a Percentage of Operating Expenditures – This
+          metric has had a slight downward trend over the ten year, indicating that
+          employee salaries, wages, and benefits, have not increased, in relation to the
+          total operating expenditures of the County.
+        Employee Benefit Costs – When adjusting for inflation, the cost of benefits per
+          FTE has remained constant from 2016-2025, with a very slight trend downward.
+          The costs in 2016 were $40k and are $41k in 2025. The trend is still downward
+          due to higher costs per FTE in 2018-2021.
+o   Operating Position:
+        Unassigned Fund Balance – General Fund – Overall, General Fund (&
+          Permanent Reserve Fund) unassigned fund balance, taken as a percentage of
+          General Fund operating expenses, has trended slightly upward over the ten
+          years, indicating high flexibility in the County’s ability to manage cash flows.
+        Fund Balance – Road Fund – Fund balance in the road fund has steadily grown
+          since 2019. The past two years have shown a slight plateau in the graph. The
+          County has plans to utilize the funds for upcoming road projects.
+        Fund Liquidity – General Fund and Road Fund – There have been some peaks
+          and valleys in the ten years, in both the General Fund and Road Fund, but their
+          liquidity ratios continue to have an overall upward trend. A higher liquidity ratio
+          may indicate a greater ability to meet short-term obligations.
+o   Debt:
+        Long-term Debt – Governmental – The County has been strategic about issuing
+          debt. The recent increase in debt was for necessary capital improvements.
+          Current long-term debt remains lower than 2016-2019 amounts.
+        Debt Service Costs – Debt service costs in 2025 were 2.8% of governmental
+          fund revenues, lower than the ten-year average. County fiscal policy sets a 10%
+          guideline for debt service costs.
+
+
+                                        iii
+                     Overlapping Debt per Capita – The overlapping debt per capita reached a peak
+                      in 2020 at $3,137 and has decreased gradually to $2,761 in 2025.
+             o   Economic Base:
+                     Population of Cities and County – Population in unincorporated Clark County has
+                      grown 12.3% since 2016, and 22.5% in the cities and towns. The population has
+                      increased each year between 2016 and 2025.
+                     Median Household Income – The ten-year period has seen some years with
+                      small decreases in the inflation adjusted median household income within Clark
+                      County, but overall has increased 15% since 2016.
+                     Registered and Participating Voters – Registered voters continues to increase,
+                      and participation—particularly in presidential year elections—has been high. The
+                      year 2023 did see low turnout of registered voters (26.7%), but it is too early to
+                      tell if it is an outlier or the norm. Odd-year elections generally have lower turnout.
+                     Assessed Property Values – Assessed property values have increased 124.0%
+                      over the 2016 values. The county-wide, incorporated, and unincorporated
+                      assessed values have all trended upward in the ten years reported on here.
+                     Community Employment – The pandemic brought high unemployment rates in
+                      2020 (6.7%) due to the economic uncertainty; however, the unemployment rate
+                      in Clark County has been 5% or lower since 2021. Since 2023, there is a very
+                      slight trend of increasing unemployment, indicating that this metric is heading
+                      toward “mixed”.
+Summary
+In recent years, this report has reflected the effects of the COVID-19 pandemic and the County’s
+recovery. Certain tables within the report are presented with “normalized” data for 2020-2024; this data
+isolates and removes the non-recurring COVID-19 federal grant revenue and the related temporary
+expenditure increases associated.
+Inflation since 2020 has continued to be unstable, with several years above 3%. Many of the tables in
+this report contain data that has been adjusted for inflation, to see how the dollars of each year
+compare more accurately to the recent data.
+Throughout the 2025 fiscal year, the County has continued to find normalcy after the COVID-19
+pandemic and battled with the accumulating effects of high inflation. Despite these external pressures,
+the County’s commitment to sound fiscal governance has ensured financial strength and resilience, as
+evidenced within this report.
+
+
+
+Sincerely,
+
+
+
+
+Greg Kimsey
+Clark County Auditor
+
+
+
+
+                                                      iv
+                                 Clark County Fiscal Policies
+
+CLARK COUNTY FISCAL POLICIES
+As of December 31, 2025
+
+Background
+The Fiscal Policy Plan was first adopted by the Board of County Commissioners in 1982 and
+amended on August 2, 1994. Its purpose is to assist decision-makers by providing information
+and guidelines that cumulatively should ensure that Clark County continues to pursue a financially
+prudent course.
+
+In this document we quote the fiscal policies (in italics) and give a brief description of County
+practices that relate to that policy.
+
+Policies
+Policy 1
+The County shall calculate and compile financial indicators, consistent with this report, for each
+year. Any indicator showing a negative trend shall be analyzed to determine why the change has
+occurred. The County Manager is authorized to add or delete financial indicators to reflect the
+needs of the County and the availability of relevant information.
+
+  The Financial Trends Monitoring Report has been updated for the recent year, 2025.
+
+Policy 2
+Clark County shall annually forecast revenues and expenditures for the next three to five years
+for the General Fund and Road Fund. Forecasts should reflect the County’s multi-year capital
+improvement plans. Other funds should be forecast to the extent that they are material and can
+be reasonably predicted.
+
+  The Budget Office updates a 6-year forecast for all major funds, including General Fund and
+   Road Fund, as part of the annual budget process. Additionally, staff in the Public Works
+   department forecast expenditures for the Road Fund as part of the Six-Year Transportation
+   Improvement Plan.
+
+Policy 3
+Clark County shall proactively seek citizen involvement in evaluations of services and service
+levels.
+
+  Clark County’s budget process furnishes opportunities for citizen involvement in the
+   evaluation of programs and the allocation of resources. Budget meeting notices are published
+   in local newspapers and public hearings are held, at which time the County Council seeks
+   input from staff and citizens, as it considers and ultimately adopts the budget. The County
+   also has numerous advisory boards that provide citizen evaluation and advice on a
+   continuous basis over many program areas.
+
+Policy 4
+Clark County will accept State and Federal money to fund programs mandated by law; or to fund
+programs established as a local priority after taking local contributions into account.
+
+  The County Council approves grant-funded contracts. Most local matching for grant-funded
+   programs relate to infrastructure needs that are included in the County’s Comprehensive Plan
+   and the Six-Year Transportation Improvement Plan.
+
+
+
+
+                                                v
+                                  Clark County Fiscal Policies
+
+Policy 5
+Clark County will set charges for each enterprise fund (stormwater, solid waste, etc.) at a level
+which supports the direct and overhead costs of the enterprise, primarily by fees, grants, or other
+sources consistent with the direction of the County Council.
+
+  Net position for enterprise funds was positive at the end of 2025.
+
+Policy 6
+Clark County will pursue a fair and equitable process for the collection of property tax and all other
+revenues, with the goal of minimizing delinquencies.
+
+  On December 31, 2025, uncollected delinquent property tax amounted to $2.3 million.
+   Delinquencies are often paid in the following year.
+
+Policy 7
+Clark County management is required to comply with budgetary restrictions. The integrated
+Workday Human Capital Management and Financials ERP system is provided to help managers
+monitor and adhere to financial constraints.
+
+  The Auditor’s Office monitors compliance with budgetary restrictions and departments have
+   access to a variety of monthly reports to assist managers in monitoring their budgets and
+   controlling expenditures.
+
+Policy 8
+Clark County will provide for adequate maintenance of capital facilities and equipment, and for
+their orderly replacement, if necessary.
+
+  The County maintains three revolving funds that provide for maintenance, repair, and
+   replacement of heavy equipment, vehicles, servers, and personal computers. In addition, the
+   County has adopted long-term major maintenance programs for facilities, parks, and roads,
+   but has not yet established a program to fund significant system replacement for major
+   facilities maintenance. The County’s financial system was replaced in 2019. The latest
+   building upgrades include energy conservation and alternative energy technology. For 2025,
+   the roads pavement condition assessment was deemed to be 79.4% (target is 70.0%), with
+   10.9% of roads deemed in poor condition.
+
+Policy 9
+Clark County shall establish reserve funds to pay for needs caused by unforeseen events.
+Reserves shall be held to address the following circumstances: 1) Catastrophic reserves, to
+provide limited emergency funds in the event of natural or manmade disasters; 2) Operational
+reserves, to provide additional funds for limited, unexpected service needs; 3) Liquidity reserves,
+to provide funds sufficient to ensure smooth running of the County and pay current obligations;
+and 4) Capital reserves to facilitate the orderly replacement or acquisition of capital facilities and
+equipment. An amount equivalent to between 6% and 10% of the General Fund operating budget
+shall be held in a separate reserve. Individual fund managers shall maintain reserves to address
+operational and liquidity needs for the funds under their control.
+
+  The County has a Permanent Reserve Fund to provide for operational and catastrophic
+   needs. On December 31, 2025, the balance in the fund amounted to $13.0 million. Following
+   the application of GASB 54, the County reports the General Fund and Permanent Reserve
+   as one fiscal entity. Combined, the unassigned fund balance of the two is $52.7 million.
+
+  In 2025, the County Council assigned $45.6 million from the General Fund to provide for:
+       Capital facilities maintenance ..................................... $15.7 million
+
+                                                  vi
+                                       Clark County Fiscal Policies
+
+       Board approved projects ................................................ 8.2 million
+       Balance 2025 Budget ................................................... 16.5 million
+       Compensated absences (at 25%)................................ 5.1 million
+       Total Assigned Fund Balance ..................................... $45.6 million
+
+  More details may be found in the Annual Comprehensive Financial Report (ACFR), Note 13.
+
+Policy 10
+Capital improvements must be designed to provide sufficient benefits for the expected cost.
+Benefits can be economic or social values expressed in the capital improvement plan, or can be
+based on a cost benefit analysis.
+
+  Most capital expenditures are reflected in the County’s Comprehensive Plan and the Six-Year
+   Transportation Improvement Plan. The economic and social values of these projects are
+   expressed in these plans. Additional evaluation of capital improvements is performed at the
+   departmental level and examined by the Finance Team. Formal cost/benefit analysis is not
+   performed in all cases.
+
+Policy 11
+Clark County shall develop and adopt multi-year capital improvement plans to guide current and
+future major capital facility and equipment expenditures.
+
+  The capital facilities element of the Comprehensive Plan addresses infrastructure and utility
+   needs and is augmented by more detailed plans such as the Six-Year Transportation
+   Improvement Plan. The County also has open space acquisition programs supporting the
+   expenditure of Conservation Futures funds.
+
+  The County has formed a Finance Team made up of senior managers to review capital
+   spending plans. Capital spending plans should comply with the Board of County Councilors’
+   priorities: 1. Honor existing obligations (debt service), 2. Preserve existing assets, 3. Acquire
+   new assets based on greatest need and the ability to maintain them.
+
+Policy 12
+Clark County will develop investment strategies to maximize return on investments while
+protecting the public’s assets.
+
+  The County Treasurer’s Office performs various cash flow analyses to determine size and
+   duration of investments. The Treasurer’s Office established and implemented a local
+   government investment pool to maximize buying power and flexibility. Investment policies
+   and standards have been developed pursuant to State and County guidance and policies to
+   manage the County’s portfolio.
+
+Policy 13
+The County shall restrict direct debt to the limit identified in Article 8, Section 6 of the Washington
+State Constitution. In addition, the County will be prudent when considering appropriate levels of
+debt, limiting debt service to the County’s current and future ability to finance that service without
+diminishing core services. In recognition of the value of the County’s ability to raise money at
+competitive rates, the County will also consider the impact of any new debt on future bond ratings.
+Budget appropriations shall include debt service payments and reserve requirements identified in
+bond covenants for all outstanding debt.
+
+  The County’s non-voted debt legal limit was $1,609.9 million. Outstanding General Obligation
+   (GO) Bond Debt subject to this limit at the end of 2025 was $65.7 million, or 4.1% of the debt
+   limit. The remaining legal debt margin for non-voted debt is $1,544.2 million.
+
+                                                        vii
+                                 Clark County Fiscal Policies
+
+  Governmental debt not subject to the limit includes WA State Public Works Trust Fund loans
+   (due to other governments), unamortized premium on bonds, and contracts (including lessee
+   financing leases and subscription-based IT arrangements). Inclusive of these, total
+   governmental debt was $88.3 million on December 31, 2025.
+
+Policy 14
+Clark County recognizes that net direct debt service should be no more than ten percent (10%)
+of the operating revenues of the issuing fund and the General Fund combined.
+
+  Debt service in 2025, excluding enterprise funds, was $13.6 million. In 2025, total debt service
+   for governmental funds as a percentage of total revenues generated in all governmental funds
+   is 2.8%.
+
+Policy 15
+Where possible, Clark County will use revenue or other self-supporting bonds instead of general
+obligation bonds except where significant interest differences become a primary consideration.
+
+  The County has $6.0 million in outstanding Direct Placement loans (due to other
+   governmental units) issued at low interest rates where the debt service is paid by the
+   benefitting funds using restricted revenues. The majority of the $6.0 million is for
+   transportation capital improvements at 0.5% interest rate. A small amount of the debt is
+   secured by utility revenues and is used to support a Wetland Restoration Project at Heritage
+   Farm, which has an interest rate of 0.4%.
+
+Policy 16
+Clark County will not use long-term debt to finance current operations. Long-term borrowing will
+be confined to capital improvements or similar projects with an extended life which cannot be
+financed from current revenues.
+
+  Long-term debt has been used only to finance capital improvements or acquisitions.
+
+Policy 17
+Clark County will keep the maturity of general obligation bonds consistent with or less than the
+expected lifetime of the project, with a goal of amortizing at least an average of 5.0% of project
+costs per year. All future long-term debt will have prepayment options unless alternative debt
+structures are judged more advantageous to the County.
+
+  The general obligation debt issued by the County is for 20 years or less. In the past, the
+   County has taken advantage of periods of low interest rates to refinance bonds prior to
+   maturity with lower interest rates when financially prudent to do so. New debt is refinanced
+   with maturities that do not exceed the remaining life of the bonds being replaced.
+
+  In recent years, direct placement debt is increasingly being used to finance capital projects
+   instead of using traditional public placement debt, considering generally favorable interest
+   rates and prepayment options.
+
+
+
+
+                                               viii
+                                                               Clark County Financial Trends 2025
+
+Revenues
+Governmental Revenue per Capita
+Description:
+ Per capita revenue illustrates revenue changes relative to population size. As population increases, it may be
+ expected that the volume of services provided may increase proportionately. For a variety of reasons
+ including legal limits and the cyclical nature of certain revenues, the level of per capita revenue may not
+ directly correlate to population changes. Operating revenue per capita includes taxes, licenses & permits,
+ fines & forfeitures, grants, and other miscellaneous sources of funds. It does not include revenue from
+ proprietary activities.
+
+                         Clark County Trend: Mixed
+                         Warning Trend: Decreasing per capita operating revenue in adjusted dollars.
+                                          𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 (𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+                         Formula:
+                                                                  𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+
+Data:
+
+               Governmental Revenue Per Capita (Inflation Adjusted), $ millions
+      $1,100
+      $1,050
+      $1,000                                                                                                                                                                        Actual,
+        $950                                                                                                                                                                        Adjusted
+        $900
+        $850
+                                                                                                                                                                                    Normalized,
+        $800                                                                                                                                                                        Adjusted
+        $750
+        $700
+        $650
+
+
+
+                                                                                                                                                    2020,      2021,      2022,       2023,      2024,
+Gov. Revenue Per Capita                   2016       2017        2018        2019        2020        2021         2022    2023    2024    2025    Normalized Normalized Normalized Normalized Normalized
+
+Total Operating Revenue ($ millions)      312.1      317.8       339.0       347.3       407.4       426.3        451.9   478.8   486.8   476.5       354.5      381.5      394.3      423.9      460.7
+Per Capita Revenue-Actual ($)              677         675         707         711          816         831        868     908     908     879         710        743         757        804        859
+Total Operating Revenue (inflation
+adjusted) ($ millions)                    426.9      424.7       440.4       439.9       507.3       505.8        495.8   504.1   499.5   476.5       441.5      452.7      432.7      446.4      472.8
+Per Capita Revenue (inflation adjusted)
+($)                                        926         902         918         901       1,016          986        952     956     931     879         884        882         830        846        882
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Taking into account the COVID-19 federal grant revenues—“Normalized” values—the trend of per-capita
+ revenue adjusted for inflation has been somewhat consistent over the last 10 years. The revenue in nominal
+ terms was $878 in 2025 versus $677 in 2016, an increase of 29.7%. The inflation-adjusted figures were $878
+ in 2025 and $926 in 2016, a decrease of 5.2% over ten years.
+ Actual revenues in 2025 were $476.5 million and $312.1 million in 2016—representing an increase of 52.7%
+ over the 10-year period. Adjusted for inflation, the increase is 11.6%.
+                                                                                                         1
+                                                           Clark County Financial Trends 2025
+General Fund Revenue per Capita                                                                                                                                                   Revenues
+Description:
+ Per capita revenue illustrates revenue changes relative to population size. As population increases, it may be
+ expected that the need for services would increase proportionately and, therefore, the level of per capita
+ revenue should remain at least constant in real terms. General Fund revenue per capita includes taxes,
+ licenses & permits, fines & forfeitures, grants, and other miscellaneous sources of funds. General Fund
+ revenues are used primarily to fund Public Safety and General Government. General Fund revenues are also
+ used to support other funds that may be experiencing financial difficulties.
+
+                        Clark County Trend: Mixed
+                        Warning Trend: Decreasing per capita general fund revenue in adjusted dollars.
+                                      𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 (𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+                        Formula:
+                                                                𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+
+Data:
+
+                          General Fund Revenue Per Capita (Inflation Adjusted), ($ millions)
+     $550
+
+     $500
+
+     $450
+
+     $400
+
+     $350
+
+     $300
+
+
+                                                                                     Actual                         Normalized
+
+                                                                                                                                             2020,        2021,        2022,        2023,        2024,
+Gen Fund Revenue Per Capita         2016    2017        2018       2019       2020       2021       2022       2023        2024    2025    Normalized   Normalized   Normalized   Normalized   Normalized
+
+General Fund Revenue ($ millions)   153.4    155.8      160.5       166.2      205.2      182.4      185.6         199.7   210.0   214.6        174.2        182.1        185.5        199.3        209.9
+Per Capita Revenue ($)                333       331        335        340        411        355        356          379      392     396          349          355          356          378          391
+General Fund Revenue (inflation
+adjusted) ($ millions)              209.8    208.2      208.5       210.6      255.5      216.5      203.6         210.3   215.5   214.6        217.0        216.0        203.6        209.8        215.4
+Per Capita Revenue (inflation
+adjusted) ($)                         455       442        435        431        512        422        391          399      402     396          435          421          391          398          402
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ The average annual increase in General Fund revenue, in nominal dollars, from 2016 to 2025 has been 4.4%,
+ and adjusted for inflation the increase is 0.3%.
+ General fund per capita revenue, adjusted for inflation, in 2016 was $455, and was $396 in 2025, a 10-year
+ decrease of nearly 13%. Population growth has exceeded revenue growth, resulting in a decrease in per
+ capita revenues. See the “Economic Base” section of this report for details on population.
+
+
+
+                                                                                                     2
+                                                                  Clark County Financial Trends 2025
+Tax Revenue per Capita                                                                                                                                           Revenues
+Description:
+ Tax revenue includes current and delinquent real and personal property tax, as well as sales and use tax and
+ various excise taxes. Tax revenue represents the largest revenue source for the County. A decline or
+ diminished growth rate in tax revenue may indicate potential problems in the County’s revenue structure. Tax
+ revenue per capita is impacted by changes tax revenue and changes in population.
+
+                          Clark County Trend: Mixed
+                          Warning Trend: Decreasing per capita tax revenue in adjusted dollars.
+                                             𝑇𝑇𝑇𝑇𝑇𝑇 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 (𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+                          Formula:
+                                                               𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+
+Data:
+
+                                       Tax Revenue Per Capita (Inflation Adjusted), $ millions
+         $550
+         $525
+         $500
+         $475
+         $450
+         $425
+         $400
+         $375
+         $350
+
+
+
+ Tax Revenue Per Capita                                        2016            2017            2018          2019     2020     2021     2022     2023     2024     2025
+
+ Tax Revenue ($ millions)                                        161.3           168.9           177.3        185.2    195.6    216.2    223.1    229.4    236.7    245.3
+
+ Tax Revenue per Capita ($)                                        350             359             370         379      392      421      428      435      441      452
+
+ Tax Revenue per Capita (inflation adjusted) ($)                 478.4           479.3           480.4        480.4    487.8    500.1    469.8    457.9     452      452
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Inflation adjusted tax revenues remained consistent between 2024 and 2025. Nominally, tax revenues
+ increased $8.6 million in 2025 versus 2024. Property tax revenue makes up the largest share of tax revenue
+ at $142.7 million, about 58% of the overall tax revenue in 2025. Sales and use taxes were $89.6 million—
+ 36.5%—and excise and other taxes were the remaining $13 million, or 5.3%.
+ Tax revenues have remained fairly stable over the ten year period, with some instability after 2020 due to
+ three years of relatively high inflation (locally, 4.9% in 2021, 8.2% in 2022, and 4.2% in 2023). Adjusted for
+ inflation, total tax revenue has increased 11.2% since 2016.
+ Population growth has exceeded revenue growth, resulting in a 5.5% decrease in adjusted per capita tax
+ revenues. See the “Economic Base” section of this report for details on population.
+
+
+                                                                                                         3
+                                                                 Clark County Financial Trends 2025
+Intergovernmental Revenue                                                                                                                                                           Revenues
+Description:
+ Intergovernmental revenue is received from other governmental entities in the form of grants, and are
+ generally restricted to certain programs or have other stipulations in how they may be spent. They are a
+ measure of the County’s ability to attract funding from outside sources, including the state and federal
+ governments. A concern with intergovernmental revenues is that they are dependent on the financial
+ condition of the government transferring the revenue.
+
+                           Clark County Trend: Positive
+                           Warning Trend: Changing amount of intergovernmental revenues as a percent of total
+                           revenue.
+                                           𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅
+                           Formula:
+                                           𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅
+
+
+Data:
+
+                          Intergovernmental Revenue (IGR) and IGR as a % of Total Revenue
+                                                   $ millions
+    $180                                                                                                                                         50.0%
+                                                                                                                                                                        Intergov. Revenue,
+    $160                                                                                                                                         45.0%
+                                                                                                                                                                        Actual
+                                                                                                                                                 40.0%
+    $140
+                                                                                                                                                 35.0%                  Intergov. Revenue,
+    $120
+                                                                                                                                                 30.0%                  Normalized
+    $100
+                                                                                                                                                 25.0%
+     $80                                                                                                                                         20.0%                  % of Total Revenue,
+     $60                                                                                                                                         15.0%                  Actual
+     $40                                                                                                                                         10.0%
+     $20                                                                                                                                         5.0%                   % of Total Revenue,
+      $0                                                                                                                                         0.0%                   Normalized
+
+
+
+                                                                                                                                                   2020,      2021,      2022,       2023,     2024,
+Intergovernmental Revenue         2016       2017         2018        2019        2020        2021        2022        2023     2024     2025     Normalized Normalized Normalized Normalized Normalized
+Intergovernmental Revenue ($
+millions)                           58.3        53.2         62.4        62.9       115.0         114.6       144.4    137.4    111.5    102.4        62.2       69.7        86.9       83.0       85.5
+
+As % of Total Operating Revenue   18.7%       16.7%       18.4%        18.1%       28.2%          26.9%   32.0%       28.7%    22.9%    21.5%       17.5%       18.3%      22.0%      19.6%      18.6%
+
+Per Capita Revenue ($)              127          113         130          129         230           223        277      260      208      189          125        136        167         157       159
+Per Capita Revenue (inflation
+adjusted) ($)                       173          151         169          163         287           265        304      274      213      189          155        161        183         166       164
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Nominal intergovernmental revenues decreased $9.1 million in 2025 compared with 2024. Normalizing 2024
+ intergovernmental revenues by excluding COVID-19 federal revenues, there was an increase in revenues of
+ $16.9 million from 2024 to 2025. Federal COVID-19 grant revenue received for governmental expenditures
+ and lost revenue replacement totaled $26.0 million in 2024, $54.8 million in 2023, $57.6 million in 2022, $44.8
+ million in 2021, and $52.8 million in 2020.
+ Intergovernmental revenue, as a percentage of total revenue, has been relatively stable for years 2016
+ through 2025. Considering normalized values for 2020-2024, the intergovernmental revenues as a
+ percentage of total operating revenue has averaged 18.9% between 2016 and 2025.
+
+                                                                                                          4
+                                                   Clark County Financial Trends 2025
+Enterprise Operating Revenue and Expenses                                                                                                     Revenues
+Description:
+ Enterprise activities generate revenues by providing services to citizens, either directly or through another
+ agency. Charges for services are set to cover most costs including equipment repair and replacement and
+ debt service. Enterprise revenues do not include interest income, grant revenue, capital contributions or
+ transfers from other funds. Enterprise activities include Solid Waste, surface water, and a municipal golf
+ course.
+
+                        Clark County Trend: Positive
+                        Warning Trend: Expenses exceeding revenues.
+
+
+
+
+Data:
+
+                  Enterprise Revenues and Expenses (Inflation Adjusted), $ millions
+  $27
+  $24
+  $21
+  $18                                                                                                                                               Revenue
+  $15
+                                                                                                                                                    Adjusted
+  $12
+    $9
+                                                                                                                                                    Expense
+    $6                                                                                                                                              Adjusted
+    $3
+    $0
+
+
+
+ Enterprise Operating Revenue and Expenses         2016      2017       2018         2019     2020      2021       2022       2023         2024     2025
+ Operating Revenue-Actual ($ millions)               15.1       16.0      16.5         16.2     15.8      17.6       15.2       13.3         13.8     19.8
+ Operating Revenue-Adjusted ($ millions)             20.6       21.4      21.4         20.5     19.7      20.9       16.6       14.0         14.2     19.8
+ Operating Expense-Actual ($ millions)               10.5       14.2      15.4         13.8     15.2      14.3       13.3       12.9         14.4     16.9
+ Operating Expense-Adjusted ($ millions)             14.4       18.9      20.0         17.5     18.9      16.9       14.6       13.6         14.8     16.9
+       As of Jun 30, 2022, the Sewer Utility Treatment Plant was transferred from Clark County to Discovery Clean Water Alliance (DCWA).
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ The enterprise fund saw revenue increases totaling $6.0 million (43.1%), driven mostly by increased revenue
+ in the Clean Water fund ($14.0 million in 2025 versus $8.2 million in 2024).
+ Operating revenue adjusted for inflation has decreased slightly in the 10 year period, from $20.6 million in
+ 2016 to $19.8 million in 2025, a decrease of $0.8 million, or 3.9%. The Sewer Utility Treatment Plant, which
+ was transferred to DCWA in 2022, accounted for $3.8 million in 2016 nominal revenue.
+ Nominal revenue in the Clean Water Fund increased by $5.9 million, and nominal expenses increased $1.4
+ million, accounting for much of the gap between revenues and expenses in overall enterprise funds for 2025.
+
+
+                                                                                 5
+                                                                     Clark County Financial Trends 2025
+Elastic Revenue as Percent of Total Revenue                                                                                                                                                Revenues
+Description:
+ Elastic revenues are highly responsive to changes in the economic base and inflation. As the economic base
+ expands, or inflation goes up, elastic revenues rise roughly in proportion. A good example is sales tax
+ revenue that increases during good economic periods with increases in retail business and declines during
+ poor times, even though the tax rate remains the same. Other examples of elastic revenue include permit
+ and inspection fees, recording and licensing fees, and penalties and interest on delinquent taxes.
+
+                           Clark County Trend: Positive
+                           Warning Trend: Decreasing elastic operating revenues as a percentage of total operating
+                           revenues.
+                                                𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅
+                           Formula:
+                                                 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅
+
+
+
+Data:
+
+                                   Elastic Revenue as a % of Total Operating Revenue
+     30%
+     25%
+     20%
+     15%
+     10%
+       5%
+       0%
+
+
+
+                                                                                             Actual                       Normalized
+                                                                                                                                                      2020,        2021,        2022,        2023,        2024,
+Elastic Rev % of Total Op Rev            2016        2017        2018        2019        2020        2021     2022       2023     2024     2025     Normalized   Normalized   Normalized   Normalized   Normalized
+
+Elastic Operating Revenue ($ millions)     55.8         59.6        60.5        61.8        65.5       75.0       75.9     75.5     76.3     76.7         65.5         75.0         75.9         75.5         76.3
+
+Total Operating Revenue ($ millions)     312.1        317.8       339.0        347.3       407.4     426.3    451.9      478.8    486.8    476.5         354.5        381.5        394.3        423.9        460.7
+
+Elastic % of Total                       17.9%       18.8%       17.8%        17.8%       16.1%      17.6%    16.8%      15.8%    15.7%    16.1%        18.5%        19.7%        19.2%        17.8%        16.6%
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Elastic revenues have averaged 16.9% of total operating revenues over the last 10 years. In 2025, $54.5
+ million (71%) of revenues identified as elastic came from sales and use tax, and $8.4 million (11%) from
+ building permits—including commercial and residential. An additional $6.5 million (8.4%) came from motor
+ vehicle fuel taxes (MVFT).
+ Tax related elastic revenues were up $1.1 million year-over-year, while building permits and MVFT were down
+ $0.8 million and $0.4 million respectively.
+
+
+
+
+                                                                                                              6
+                                                                   Clark County Financial Trends 2025
+Expenditures
+Governmental Expenditures per Capita
+Description:
+ Per capita expenditures reflect changes in expenditures relative to changes in population. As population
+ increases, and the related expenses of providing services to a larger population increase, per capita
+ expenditures should remain relatively level in inflation-adjusted dollars. If the indicator is trending differently, it
+ may indicate that the cost of providing services is increasing in an unsustainable manner or that service levels
+ are declining.
+
+                            Clark County Trend: Positive
+                            Warning Trend: Increasing or decreasing per capita expenditures in adjusted dollars
+                                              𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 (𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+                            Formula:
+                                                                       𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+
+Data:
+
+                    Governmental Expenditures Per Capita (Inflation Adjusted)
+  $1,200
+
+  $1,000
+
+      $800                                                                                                                                                                               Actual
+
+      $600
+
+      $400                                                                                                                                                                               Normalized
+
+      $200
+
+          $0
+
+
+
+ Governmental Expenditures per                                                                                                                  2020,        2021,        2022,        2023,        2024,
+ Capita                               2016      2017       2018        2019        2020       2021        2022        2023    2024    2025    Normalized   Normalized   Normalized   Normalized   Normalized
+
+ Total Expenditures ($ millions)      307.4    315.1       327.6       325.0      348.3       366.3       408.7       412.3   437.0   489.1       312.5        324.3        363.3        375.8        422.1
+ Per Capita Expenditures ($)           667       669         683         665        698         714         785        782     815     902          626          632          697          713          787
+ Total Expenditures (inflation
+ adjusted) ($ millions)               420.5    421.2       425.6       411.8      433.8       434.7       448.5       434.1   448.4   489.1       389.1        384.8        398.6        395.7        433.2
+ Per Capita Expenditures (inflation
+ adjusted) ($)                         912       894         888         843        869         847         861        823     836     902          780          750          765          750          808
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Per capita governmental expenditures, in inflation adjusted dollars, have remained relatively stable in the past
+ 10 years. In 2025, Public Safety expenditures represented 25.0% of total expenditures, General Government
+ 21.5%, Transportation 15.6%, and Health and Human Services 12.4%.
+ Normalized expenditures, accounting for expenses associated with COVID-19, indicate lower per capita
+ governmental expenditures during 2020-2024, averaging $771. In 2025, the per capita governmental
+ expenditures are at $902, compared to $912 in 2016.
+
+                                                                                                               7
+                                                                    Clark County Financial Trends 2025
+Governmental Capital Project Expenditures per Capita                                                                                                                  Expenditures
+Description:
+ Per capita capital expenditures reflect changes in capital expenditures (land, buildings, infrastructure and
+ capital improvements assets) in governmental funds relative to changes in population. Capital expenditures
+ includes equipment that will last longer than one year. These assets may remain constant or even decline in
+ the short run. If the decline persists over 3 years, it can be an indicator that capital outlay needs are being
+ deferred, resulting in the use of obsolete equipment and forgoing needed maintenance on infrastructure.
+
+                           Clark County Trend: Positive
+                           Warning Trend: Increasing capital project expenditures per capita in adjusted dollars
+                                               𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 (𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+                           Formula:
+                                                                          𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+
+Data:
+                                     Capital Project Expenditures Per Capita (Inflation Adjusted)
+
+    $140
+    $120
+    $100
+      $80
+      $60
+      $40
+      $20
+        $0
+
+
+
+
+ Capital Project Expenditures Per Capita                             2016             2017            2018             2019       2020     2021     2022     2023      2024     2025
+ Capital Expenditures ($ millions)                                       38.8            40.1             34.4             24.6     16.5     15.0     33.4     25.1      33.3     44.0
+ Capital Expenditures per Capita ($)                                       84               85              72              50       33       29       64       48        62       81
+ Capital Expenditures (inflation adjusted) ($ millions)                  53.0            53.6             44.7             31.2     20.6     17.8     36.7     26.5      34.2     44.0
+ Capital Expenditures Per Capita (inflation adjusted) ($)                 115             114               93              64       41       35       70       50        64       81
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR); Clark County General Ledger
+
+Highlights:
+ The annual average amount of capital expenditures, adjusted for inflation, is $36.2 million over the last 10
+ years, averaging $73 per capita. Year 2025 capital expenditures of $44.0 million and capital expenditures per
+ capita of $81 are both slightly above the 10-year averages, but still below the 2016 expenditures ($53.0
+ million and $115 per capita).
+ The County had over $13.0 million in expenditures related to the District Court remodel in 2025.
+
+
+
+
+                                                                                                                 8
+                                                                 Clark County Financial Trends 2025
+General Fund Expenditures per Capita                                                                                                                                         Expenditures
+Description:
+ General Fund accounts for all financial resources and expenditures except those required to be accounted for
+ in another fund, and includes functional areas such as Clark County Sheriff’s Office, Jail Services, and the
+ Courts. As such, it is a barometer of general county government viability. Consistent levels of expenditures
+ per capita may mean that the county is managing resources to match the growing population.
+
+                           Clark County Trend: Positive
+                           Warning Trend: Increasing or decreasing per capita general fund expenditures in adjusted
+                           dollars
+                                            𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 (𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+                           Formula:
+                                                                          𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+Data:
+
+                                  General Fund Expenditures Per Capita (Inflation Adjusted)
+    $550
+    $500
+    $450
+    $400
+    $350
+    $300
+    $250
+    $200
+
+
+
+                                                                                         Total                                   Normalized
+                                                                                                                                                   2020,        2021,        2022,        2023,        2024,
+General Fund Expend. per Capita          2016     2017        2018       2019        2020       2021        2022       2023      2024    2025    Normalized   Normalized   Normalized   Normalized   Normalized
+
+General Fund Expenditures ($ millions)   142.2      148.8      147.6       151.5      163.7       159.2      171.0       187.2   196.5   216.6        149.8        158.9        171.0        186.8        196.4
+Per Capita General Fund Expenditures
+($)                                        308        316        308         310        328         310        328         355     366     399          300          310          328          354          366
+General Fund Expenditures (inflation
+adjusted) ($ millions)                   194.4      198.8      191.8       191.9      203.9       188.9      187.6       197.1   201.7   216.6        186.5        188.5        187.6        196.7        201.5
+Per Capita General Fund Expenditures
+(inflation adjusted) ($)                   422        422        400         393        408         368        360         374     376     399          374          367          360          373          376
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ General Fund expenditures per capita, adjusted for inflation, increased from $376 to $399 from 2024 to 2025.
+ The 2025 adjusted per-capita amount of $399 is just above the 10-year average of $389, when normalizing
+ 2020-2024 for COVID-19 related expenditures.
+ Nominal expenditures in Public Safety make up 47.5% of the General Fund expenditures, and General
+ Government makes up 43.3%.
+ Inflation adjusted expenditures have increased from $194.4 million in 2016 to $216.6 million in 2025, an
+ increase of 11.4%, while the per-capita adjusted expenditures are down $422 to $399, 5.5%, as shown in the
+ graph above.
+
+                                                                                                           9
+                                                        Clark County Financial Trends 2025
+Employees per Capita                                                                                                                        Expenditures
+Description:
+ Personnel costs are a major portion of the County’s operating budget. Tracking changes in the number of
+ employees to population is a means to measure changes in expenditures. An increase in employees to
+ population may indicate that expenditures are rising faster than revenues. An increase in employee per capita
+ is not negative if a direct correlation can be shown to increased services.
+
+                          Clark County Trend: Positive
+                          Warning Trend: Significant changes in number of employees per capita
+                                     𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 𝑜𝑜𝑜𝑜 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸
+                          Formula:
+                                            𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+
+Data:
+
+                                  Employees (FTEs) - Per 1,000 Capita
+                                                                                                                                     100.0%
+    4.0                                                                                                                              90.0%
+                                                                                                                                     80.0%
+                                                                                                                                                         FTE per
+    3.5                                                                                                                              70.0%               1,000
+                                                                                                                                     60.0%               Capita
+                                                                                                                                     50.0%
+    3.0
+                                                                                                                                     40.0%               Percent
+                                                                                                                                     30.0%               Filled vs
+    2.5                                                                                                                                                  Budget
+                                                                                                                                     20.0%
+                                                                                                                                     10.0%
+    2.0                                                                                                                              0.0%
+
+
+
+ Employees Per Capita                  2016            2017            2018         2019        2020      2021      2022      2023          2024      2025
+ Actual FTEs                             1,562            1,575             1,565     1,621       1,556     1,580     1,576     1,673         1,722     1,783
+ Actual FTEs per 1,000 Capita              3.39            3.34              3.26      3.32        3.12      3.08      3.03      3.17          3.21      3.29
+ Budgeted FTEs                           1,690            1,723             1,723     1,731       1,770     1,823     1,841     1,899         1,964     1,985
+ Budgeted FTEs per 1,000 Capita            3.67            3.66              3.59      3.54        3.55      3.55      3.53      3.60          3.66      3.66
+ Percent FTEs Filled                     92.4%           91.4%              90.8%    93.7%       87.9%     86.7%     85.6%     88.1%         87.7%     89.8%
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Economic uncertainty, high inflation, and budgetary constraints during the height of the COVID-19 pandemic
+ resulted in lower per-capita FTE for a period. Actual full-time equivalent (FTE) employees per 1,000 capita
+ has steadily risen since 2022. Filled budgeted positions have likewise been rising since a low point of 85.6%
+ in 2022. Overall, the 2025 FTE per 1,000 capita is down 3.0% and percentage of positions filled is down 2.6%
+ compared to 2016.
+ The number of budgeted positions has risen 17.4% from 2016 (1,690 FTE) to 2025 (1,985 FTE); the
+ population of Clark County has risen 17.7% in the same period.
+
+
+
+                                                                                           10
+                                                                     Clark County Financial Trends 2025
+Personnel Expenditures                                                                                                                                                                    Expenditures
+Description:
+ Personnel costs include salaries, wages and employee benefits (including clothing allowance, vehicle
+ allowance, and the employer portion of payroll taxes and retirement contributions). Some government
+ functions are labor intensive such as General Government. Others are more capital intensive, such as Public
+ Works. Personnel costs are related to total County operating expenditures, excluding depreciation.
+
+                              Clark County Trend: Positive
+                              Warning Trend: Increasing personnel expenditures as a percent of operating expenditures
+                                                                            𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸
+                              Formula:
+                                                𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 (𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+
+
+
+
+Data:
+
+                         Personnel Expenditures as a % of Operating Expenditures
+    54%
+                                                                                                                                                                                                       Actual
+    51%
+    48%
+    45%                                                                                                                                                                                                Normalized
+    42%
+    39%                                                                                                                                                                                                Trend on
+    36%                                                                                                                                                                                                Actual
+    33%                                                                                                                                                                                                (Linear)
+
+    30%
+
+
+
+                                                                                                                                                                  2020,        2021,        2022,        2023,        2024,
+ Personnel Expenditures                2016         2017        2018        2019        2020         2021        2022        2023         2024         2025     Normalized   Normalized   Normalized   Normalized   Normalized
+
+ Salaries and Wage Exp. ($ millions)    117.5       121.7       120.3        120.3       121.4       125.1       126.9        147.2       157.5         170.6       121.4        125.1        126.9        147.2        157.5
+
+ Benefits Expense ($ millions)           45.7        46.8         52.3        59.0        58.9        58.3         58.5        63.2        68.6          73.0        58.9         58.3         58.5         63.2         68.6
+
+ Total Personnel Costs ($ millions)     163.2       168.5       172.5        179.3       180.3       183.5       185.4        210.4       226.1         243.6       180.3        183.5        185.4        210.4        226.1
+
+ As % of Operating Expenditures        45.5%       45.2%       43.4%        45.8%       43.0%       42.0%        39.3%       43.4%       44.0%         43.8%       47.0%        46.5%        43.4%        46.9%        45.4%
+ Average Salary/Wages Costs per
+ FTE ($)                               75,219      77,300      76,865      74,223      77,996       79,201      80,530      87,981       91,446        95,675      77,996       79,201       80,530       87,981       91,446
+
+
+ Source: Clark County General Ledger
+
+Highlights:
+ Personnel expenses as a percentage of total operating expenditures have remained fairly stable over the 10
+ years covered by this report. The slight decrease in 2018 was the result of converting from accruing employee
+ leave expense when earned to expensing it when taken (a small expense reduction), coupled with higher
+ operating expenses in 2018 versus 2017.
+ Salaries and wages make up 70.0% of personnel costs in 2025, compared with 72.0% in 2016; benefits make
+ up the remaining 30.0% in 2025 and 28.0% in 2016.
+ The simple average annual growth in total salaries and wage expenditures has been 5% between 2016 and
+ 2025.
+
+                                                                                                               11
+                                                                         Clark County Financial Trends 2025
+Employee Benefit Costs                                                                                                                                Expenditures
+Description:
+ Employee benefits include health insurance, clothing allowance, vehicle allowance and the employer portion
+ of payroll taxes and retirement contributions. Increases in benefit costs may be a reflection of the economy in
+ general, such as the burgeoning cost of health care or attempts to manage an unfunded gap in pension
+ liability.
+
+                             Clark County Trend: Positive
+                             Warning Trend: Increasing benefit costs as a percentage of personnel costs
+                                                           𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶
+                             Formula:
+                                                   𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶
+
+
+
+
+Data:
+                                                         Benefit Costs per FTE (Inflation Adjusted)
+    $55,000
+
+    $50,000
+                                                                                                                                                             Benefit Costs
+    $45,000
+
+    $40,000
+                                                                                                                                                             Benefit Costs
+    $35,000
+                                                                                                                                                             Trend
+                                                                                                                                                             (Linear)
+    $30,000
+
+    $25,000
+
+
+
+ Employee Benefit Costs                                                             2016       2017     2018     2019     2020     2021     2022     2023     2024     2025
+ Total Benefit Costs ($ millions)                                                   45.7        46.8     52.3     59.0     58.9     58.3     58.5     63.2     68.6     73.0
+ Total Benefit Costs - Inflation Adjusted ($ millions)                              62.5        62.5     67.9     74.8     73.4     69.2     64.2     66.5     70.4     73.0
+ Benefits per FTE ($)                                                            29,235       29,692   33,387   36,398   37,885   36,912   37,117   37,772   39,836   40,935
+ Benefits per FTE - Inflation Adjusted ($)                                       39,987       39,686   43,373   46,114   47,176   43,802   40,724   39,769   40,881   40,935
+ Benefit Costs as % of Total Personnel Exp.                                       28.0%       27.8%    30.3%    32.9%    32.7%    31.8%    31.5%    30.0%    30.3%    30.0%
+
+
+ Source: Clark County Financial Management System
+
+Highlights:
+ Total employee benefit expenses as a percentage of total personnel expenses have increased from 28.0% in
+ 2016 to 30.0% in 2025.
+ Total benefit costs increased 6.4% from 2024 to 2025, due in part to an increase in filled positions. In
+ comparison, total salaries and wages increased 8.3% during this period.
+ Benefit cost per FTE increased by 2.8% year-over-year.
+ Since 2016, nominal benefit costs per FTE have risen 40.0%; adjusting for inflation, benefit costs have risen
+ 16.8%.
+
+
+
+                                                                                                       12
+                                                                        Clark County Financial Trends 2025
+Repair and Maintenance Expense - Governmental                                                                                                              Expenditures
+Description:
+ Repair and maintenance includes repair and maintenance expenditures for buildings, fleet and data
+ processing equipment and parks and road maintenance. This does not include major capital projects,
+ acquisitions, or activity in enterprise funds.
+
+                            Clark County Trend: Mixed
+                            Warning Trend: Rapidly increasing adjusted maintenance costs.
+                                                   𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶
+                            Formula:
+                                                                       𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇
+
+
+
+
+Data:
+
+                          Repair and Maintenance Expense - Governmental Activities, $ millions
+       50.0
+       45.0
+       40.0                                                                                                                                               Non-Road Assets,
+       35.0                                                                                                                                               Adjusted
+       30.0
+       25.0
+       20.0
+                                                                                                                                                          Roads Including
+       15.0                                                                                                                                               Overlays, Adjusted
+       10.0
+        5.0
+        0.0
+
+
+
+ Repair and Maintenance Expense                                          2016             2017          2018        2019     2020     2021     2022     2023     2024     2025
+ Non-Road Assets ($ millions)                                                24.3             26.9        32.2        32.2     35.5     32.0     35.7     40.0     46.2     39.0
+ Roads Including Overlays ($ millions)                                       13.8             13.2        15.0        16.1     15.1     16.5     18.5     19.4     21.6     27.0
+ Total Asset Maint. Exp. ($ millions)                                        38.1             40.1        47.2        48.3     50.6     48.5     54.2     59.5     67.7     66.0
+
+ Non-Road Assets ($ millions), Adjusted                                      33.2             35.9        41.8        40.9     44.2     38.0     39.2     42.2     47.4     39.0
+ Roads Including Overlays ($ millions), Adjusted                             18.9             17.7        19.5        20.4     18.8     19.6     20.3     20.5     22.1     27.0
+ Road Miles Maintained                                                      1,110           1,096        1,103       1,109    1,114    1,116    1,118    1,121    1,123    1,125
+ Roads Maintenance Cost, $ Per Road Mile                                  12,448           12,070       13,639      14,501   13,541   14,826   16,581   17,330   19,196   24,010
+ Non-Road As % of Non-Road Assets                                           7.0%             7.2%         8.0%        7.8%     8.5%     7.7%     8.6%     9.4%    10.7%     8.7%
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Non-road maintenance expenses, as a percentage of non-road capital assets, has varied throughout the ten-
+ year period, ranging from a low of 7.0% in 2016 to a high of 10.7% in 2024. Nominal expenses decreased
+ $7.2 million from 2024 to 2025.
+ Non-road assets increased from $429.8 million in 2024 to $446.3 million in 2025.
+ Maintenance cost per road mile increased significantly (25.1%) from $19.2k in 2024 to $24.0k in 2025.
+ For the year 2025, the road pavement condition index (PCI) for roads in “fair or better” condition is 79.4% -
+ above the County policy of 70%. In 2024, 77.5% of roads had a PCI of “fair or better”. More information can
+ be found in the Required Supplementary Information (RSI) section of the Annual Comprehensive Financial
+ Report (ACFR).
+                                                                                                               13
+                                                               Clark County Financial Trends 2025
+Operating Position
+General Fund Net Change in Fund Balance
+Description:
+ Consists of the annual change in fund balance for General Fund revenues and other resources, minus
+ general fund expenditures and other uses.
+
+                              Clark County Trend: Mixed
+                              Warning Trend: Repeated operating deficits may indicate an inability to sustain services long-
+                              term
+                                             𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑜𝑜𝑜𝑜 (𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷)
+                              Formula:
+                                           𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅
+
+
+Data:
+
+                                 General Fund Net Change In Fund Balance, $ millions
+         $30
+         $25                                                                                                                                                                   Net Change in
+         $20                                                                                                                                                                   Fund Balance-
+                                                                                                                                                                               Actual
+         $15
+         $10
+           $5
+           $0                                                                                                                                                                  Net Change in
+                                                                                                                                                                               Fund Balance-
+          ($5)
+                                                                                                                                                                               Normalized
+        ($10)
+        ($15)
+
+
+General Fund Net Change In Fund                                                                                                           2020,        2021,        2022,        2023,        2024,
+Balance                                   2016      2017       2018       2019      2020    2021     2022      2023    2024    2025     Normalized   Normalized   Normalized   Normalized   Normalized
+
+Operating Surplus ($ millions)             (0.9)      (4.5)       3.0        2.5     24.4    (3.0)      27.0    24.0    13.7    (3.9)          7.4         14.0         27.0         24.0         13.7
+
+Capital Outlay ($ millions)                 0.2        0.8        0.2        0.7      0.3     0.2        5.9     2.5     4.5     5.9           0.3          0.2          5.9          2.5          4.5
+
+Net Change In Fund Balance ($ millions)    (1.1)      (5.4)       2.8        1.8     24.1    (3.2)      21.1    21.5     9.2    (9.8)          7.1         13.8         21.1         21.5          9.2
+Operating Surplus (Deficit) as a % of
+Revenues                                  -0.7%     -3.4%       1.7%       1.1%     11.7%   -1.8%    11.4%     10.8%    4.4%   -4.6%         4.1%         7.6%        11.4%        10.8%         4.4%
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Operating Surplus (Deficit) is defined here as the net change in fund balance excluding capital outlay. Net
+ change in fund balance reflects all annual changes in account balances except prior period adjustments.
+ In 2025, the net change in General Fund balance was a decrease of $9.8 million. The decrease was primarily
+ due to transfers made to support countywide capital and operational activities. Details of transfers can be
+ found in the Annual Comprehensive Financial Report (ACFR), Note 9 – Interfund Balances and Transfers.
+
+
+
+
+                                                                                                   14
+                                                                       Clark County Financial Trends 2025
+Unassigned Fund Balance – General Fund                                                                                                                                  Operating Position
+Description:
+ The level of unassigned fund balance for the General Fund (which includes the Permanent Reserve Fund
+ Balance) may determine the County’s ability to withstand unexpected financial emergencies that may result
+ from natural disasters, revenue shortfalls, unexpected maintenance costs or steep rises in inflation. Fund
+ balances may also determine the County’s ability to manage monthly cash flows or accumulate funds for
+ large-scale purchases without having to borrow.
+
+                           Clark County Trend: Positive
+                           Warning Trend: Declining unassigned fund balance as a percentage of net operating revenue
+                                                 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 + 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈𝑈 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵
+                           Formula:
+                                                          𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 + 𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑂𝑂𝑂𝑂𝑂𝑂
+
+
+
+
+Data:
+           General Fund (& Permanent Reserve) Unassigned Fund Balance as a % of
+                              General Fund Operating Expense
+      35%
+                                                                                                                                                                                       General Fund (&
+      30%                                                                                                                                                                              Permanent Reserve)-
+                                                                                                                                                                                       Actual
+      25%
+      20%
+                                                                                                                                                                                       General Fund (&
+      15%                                                                                                                                                                              Permanent Reserve)-
+                                                                                                                                                                                       Normalized
+      10%
+        5%
+        0%
+
+
+                                                                                                                                                            2020,         2021,        2022,        2023,        2024,
+General Fund (& Permanent Reserve)                 2016      2017       2018      2019      2020       2021      2022      2023       2024      2025      Normalized    Normalized   Normalized   Normalized   Normalized
+General Fund Unassigned Fund Balance &
+Permanent Reserve ($ millions)                       29.4       28.2      28.5      28.1       29.8      44.2      44.1       42.4      57.4      52.7           29.8         44.2         44.1         42.4         57.4
+
+General Fund Assigned Fund Bal ($ millions)           6.4        2.3       4.6        7.0      29.7      11.4      34.4       57.5      50.8      45.6           12.7         11.4         34.4         57.5         50.8
+
+General Fund Unavailable Fund Bal ($ millions)        0.7        1.1       1.2        1.3       1.1       1.7        1.4       1.5       2.4        2.5           1.1          1.7          1.4          1.5          2.4
+
+General Fund Total Fund Balance ($ millions)         36.4       31.6      34.4      36.4       60.5      57.3      79.9     101.4      110.7     100.8           43.5         57.3         79.9       101.4        110.7
+Unassigned Fund Balance as % of General
+Fund Expenses & Transfers Out                       18.9%     17.2%     18.0%      16.9%     16.4%     22.9%      24.1%     21.5%     26.9%      23.3%          17.8%       25.1%        24.2%        21.5%        27.0%
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ General fund unassigned fund balance at the end of 2025 was $52.7 million and 23.3% of annual
+ expenditures and transfers out. Total fund balance decreased from $110.7 million to $100.8 million, but is still
+ well above the $36.4 million fund balance of 2016.
+
+
+
+
+                                                                                                          15
+                                                                 Clark County Financial Trends 2025
+Fund Balance – Road Fund                                                                                                                    Operating Position
+Description:
+ The level of fund balances in the Road Fund may determine the County’s ability to withstand unexpected
+ financial emergencies in this partially tax-supported fund that may result from natural disasters, revenue
+ shortfalls, unexpected maintenance costs or steep rises in inflation. Fund balances may also determine the
+ County’s ability to manage monthly cash flows or accumulate funds for large-scale purchase without having to
+ borrow.
+
+                        Clark County Trend: Positive
+                        Warning Trend: Declining fund balance.
+                                             𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 𝐹𝐹𝐹𝐹𝐹𝐹𝐹𝐹 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵
+                        Formula:
+                                             𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸
+
+
+
+
+Data:
+
+                                       Fund Balance - Road Fund, $ millions
+     $70
+
+     $60
+
+     $50                                                                                                                                                      Road Fund
+                                                                                                                                                              Balance
+     $40
+
+     $30
+
+     $20                                                                                                                                                      Linear Trend
+                                                                                                                                                              (Road Fund
+     $10                                                                                                                                                      Balance)
+
+      $0
+
+
+
+
+ Fund Balance - Road Fund                                      2016            2017        2018      2019        2020     2021     2022     2023     2024        2025
+ Road Fund Total Fund Balance ($ millions)                        20.2              19.9     14.5         13.4     19.3     28.2     36.1     45.1     49.3        50.9
+ As % of Operating Expenses                                     32.1%              29.0%   20.4%         21.3%   33.9%    51.4%    57.6%     68.8%   68.0%       68.8%
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ The road fund ended 2025 with a fund balance of $50.9 million, up from $49.3 million in 2024. The fund has
+ been steadily increasing since 2019. Over the last several years, there have been delays in certain capital
+ road projects and improvements due to the pandemic and delays in filling vacancies.
+ Staff anticipates a use of fund balance (decreasing the balance) in the near future, due to planned road
+ projects and meeting the necessary staffing levels to execute them.
+
+
+
+
+                                                                                                    16
+                                                                  Clark County Financial Trends 2025
+Fund Liquidity – General Fund and Road Fund                                                                                           Operating Position
+Description:
+ A measure of the County’s short-term financial condition is its cash position and liquidity. Cash position
+ includes cash and investments. Liquidity measures the County’s ability to pay its short-term obligations. Low
+ or declining liquidity can indicate that the County has overextended itself.
+
+                         Clark County Trend: Positive
+                         Warning Trend: A liquidity ratio below 1.0, or a persistently declining trend, may foretell a cash
+                         flow problem.
+                                               𝐶𝐶𝐶𝐶𝐶𝐶ℎ + 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼
+                         Formula:
+                                                      𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿
+
+
+Data:
+
+                                            General Fund & Road Fund - Liquidity Ratios
+    35
+    30
+    25
+    20
+    15
+    10
+      5
+      0
+
+
+
+                                                                 General Fund                                         Road Fund
+
+ Fund Liquidity General Fund and Road Fund                            2016        2017     2018     2019     2020     2021     2022      2023     2024     2025
+ Net Liquid Assets-General Fund ($ millions)                             30.5       24.8     27.1     31.8     52.7     50.0      72.0     91.7    101.8     89.7
+ Net Liquid Assets-Road Fund ($ millions)                                20.2       21.7     14.5     13.5     18.2     26.8      34.9     44.0     48.4     49.3
+ Ratio (to 1)-Cash & Investments to Liabilities-General Fund               8.3      11.8     10.8      5.2     23.7     14.2      30.0     16.8     18.9     22.0
+ Ratio (to 1)-Cash & Investments to Liabilities-Road Fund                10.7        5.8      5.6      9.1     12.3     19.6       9.0     15.8     16.5     25.8
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ At the end of 2025, the General Fund has $89.7 million in net liquid assets, a decrease of $12.1 million. The
+ liquidity ratio, however, has increased from 19-to-1 in 2024 to 22-to-1 in 2025, indicating a strong position of
+ liquid assets to short-term liabilities. The ten-year average ratio is 16-to-1.
+ The road fund has $49.3 million in net liquid assets in 2025, a modest increase of $0.9 million from $48.4
+ million the year prior. With a ten-year average ratio of 13-to-1, the road fund’s 2025 ratio of 26-to-1 indicates a
+ strong ability to pay short-term obligations.
+
+
+
+
+                                                                                              17
+                                                                 Clark County Financial Trends 2025
+Enterprise Fund Change in Net Position                                                                                        Operating Position
+Description:
+ Enterprise funds receive support from user fees and are intended to operate more like a business than a
+ public entity supported by taxes. User fees and charges are established in enterprise funds to promote
+ efficiency by shifting payment of costs to specific users of services and to avoid general taxation. The
+ increase/decrease in net position (revenue less expenses) is helpful in showing the health of the funds.
+
+                          Clark County Trend: Mixed
+                          Warning Trend: Continuous year-to-year decreases in net position.
+
+
+
+
+Data:
+
+                            Enterprise Funds - Change in Net Position, $ millions
+   $11
+   $10
+    $9
+    $8
+    $7                                                                                                                                         Change In Net
+    $6                                                                                                                                         Position
+    $5
+    $4                                                                                                                                         Trend, linear
+    $3
+    $2
+    $1
+    $0
+
+
+
+ Enterprise Funds Change in Net Position (N.P.)                         2016    2017         2018    2019    2020    2021    2022    2023    2024     2025
+ Change In Net Position (Excluding Special Items) ($ millions)            7.8     7.4          6.4     8.3     7.4     4.6     4.7     5.2     3.5      8.8
+ Operating Income Less Depreciation (inflation adjusted) ($ millions)     6.4     4.7          3.5     3.2     0.8     4.0     2.1     0.5     -0.5     2.9
+ Operating Income Less Depreciation-Actual ($ millions)                   4.7     3.5          2.7     2.5     0.7     3.4     1.9     0.5     -0.5     2.9
+        Change in Net Position excludes Special Items. See Clark County Annual Comprehensive Financial Report for Special Items.
+        Operating income excludes depreciation expenses in this analysis.
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Net position for enterprise funds increased overall by $8.8 million in 2025--$8.4 million attributable to the
+ Clean Water fund. The increase is primarily driven by higher cash and non-depreciable assets. The Clean
+ Water Fund also added $2.4 million in contributed infrastructure assets and $2.0 million in grant-funded
+ construction in progress (CIP) for the Heritage Farm wetland restoration project. There was also an increase
+ in charges-for-service revenue due to rate adjustments within the County’s utility operations.
+ 2017 change in net position excludes stormwater service area annexations to the City of Vancouver ($3.9
+ million). 2018 excludes $6.5 million for the same reason.
+ 2022 change in net position excludes $0.7 million for the transfer of the Sewer Utility capital assets to
+ Discovery Clean Water Alliance.
+
+
+                                                                                        18
+                                                         Clark County Financial Trends 2025
+Net Position – Insurance Reserves                                                                                           Operating Position
+Description:
+ Includes year-end net assets for the County’s insurance reserve funds (General Liability, Workers’
+ Compensation, Unemployment, and Healthcare Self-Insurance). Adequate reserves or insurance coverage
+ are necessary to meet claims as they may occur.
+
+                            Clark County Trend: Negative
+                            Warning Trend: Deficit net assets
+
+
+
+
+Data:
+
+                                         Net Position Self-Insurance Reserves, $ millions
+     $15
+
+     $10
+
+       $5
+
+       $0
+
+      ($5)
+
+    ($10)
+
+
+                                  General Liability            Unemployment              Workers Compensation             Employee Healthcare
+
+ Net Position Insurance Reserves                      2016       2017      2018     2019       2020     2021     2022       2023     2024     2025
+ General Liability ($ millions)                        (4.0)       (6.0)    (5.2)    (3.7)      (1.2)      9.7      8.8        9.1      6.2     (4.9)
+ Unemployment ($ millions)                               1.7        1.8       1.4        1.4      1.2      1.1      0.9        0.8      0.7      0.4
+ Workers Compensation ($ millions)                     (2.4)       (0.6)    (0.2)        0.7      1.9      1.7      1.5        1.0      1.7      1.7
+ Employee Healthcare ($ millions)                        3.6        4.3       4.9        5.4      5.9      5.8      6.1        5.8      5.8      2.2
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ General Liability net position (insurance reserves) has fluctuated over the ten years. The balance at year-end
+ 2021 reflects a one-time transfer-in of $10 million from the General Fund. The fund balance fell slowly at first,
+ but dropped significantly from 2024 to 2025, decreasing by $11 million from $6.2 million to -$4.9 million,
+ primarily due to substantial and unprecedented increases in liability claims in 2025.
+ The fund receives funding from other special revenue funds and General Fund and is expected to recover the
+ negative fund balance in future years.
+ Healthcare self-insurance net position decreased by $3.6 million, from $5.8 million in 2024 to $2.2 million in
+ 2025. The decrease is attributable to an exceptional increase in employee medical care utilization and dental
+ claims.
+
+
+
+                                                                                    19
+                                                               Clark County Financial Trends 2025
+Debt
+Long-Term Debt – Governmental
+Description:
+ Long term debt includes general obligation bonds, special assessment bonds, capital lease agreements, and
+ advances (loans) due to other governments. Special revenue bonds and enterprise fund debt is not included.
+
+                         Clark County Trend: Positive
+                         Warning Trend: High and increasing levels of debt may strain repayment options, affect future
+                         interest rates, and hinder future ability to borrow funds for capital repairs and improvements
+                                             𝐿𝐿𝐿𝐿𝐿𝐿𝐿𝐿−𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷
+                         Formula:
+                                                  𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+Data:
+
+                                                                      Long-Term Debt, $ millions
+   $140
+   $120
+   $100
+     $80
+     $60
+     $40
+     $20
+       $0
+
+
+
+ Long-Term Debt                                             2016          2017     2018      2019       2020     2021     2022     2023     2024     2025
+ Long-Term Debt ($ millions)                                 117.2         108.5    107.4        97.2     83.0     76.8     66.4     58.2     98.1     89.0
+ Long-Term Debt per Capita ($)                                 254          230      224          199     166      150      127      110      183      164
+ GO Bond Debt subject to statutory non-voted debt
+ limit ($ millions)                                            90.6         82.8     82.9        75.2     64.2     57.9     49.4     43.9     72.5     65.7
+ GO Bond Debt as % of non-voted debt limit                   13.0%        10.6%     9.7%         7.7%    6.2%     5.2%     4.0%     3.0%     4.6%     4.1%
+        Total debt excludes $24.0 million of cross-over debt issued in May 2017 to internally defease $25.3 million of debt in Jan 2018.
+        Total debt includes bonded debt and long-term contracts. Includes lessee financing leases (2021+) and SBITAs (2022+).
+        Non-voted GO debt represents all of the bonded debt outstanding, including public and direct placements. Excludes long-term contracts.
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)—Notes to the Financial Section
+
+Highlights:
+ Governmental long-term debt includes general bonded debt, capital leases, unamortized premium (discount)
+ on bonds, and long-term contracts. Beginning in 2021, long-term contracts include lessee financing leases
+ under GASB 87, and in 2022, subscription-based IT arrangements under GASB 96.
+ In 2024, Clark County issued $34.3 million in debt to fund capital projects for the Jail Work Center, the
+ elections building, and the district court building.
+ Total long-term governmental debt decreased by $9.1 million in 2025. See the Clark County ACFR, Note 12 –
+ Changes in Long-Term Liabilities
+
+                                                                                            20
+                                                      Clark County Financial Trends 2025
+Debt Service Costs                                                                                                                                                    Debt
+Description:
+ This includes expenditures for retirement of long-term debt from the governmental funds. This does not
+ include retirements of special assessment bonds, short term debt, or proprietary fund debt. High or
+ increasing amounts of debt service can become a factor in bond ratings and can also encumber cash
+ available for ongoing operating expenditures.
+
+                             Clark County Trend: Positive
+                             Warning Trend: High or increasing amounts of debt service
+
+
+
+
+Data:
+
+                                                           Debt Service Costs , $ millions
+     $21
+     $18
+     $15
+     $12
+        $9
+        $6
+        $3
+        $0
+
+
+                                                                                                                  2020,          2021,        2022,        2023,        2024,
+ Debt Service Costs                 2016    2017   2018   2019    2020    2021   2022    2023    2024    2025   Normalized     Normalized   Normalized   Normalized   Normalized
+
+ Debt Service ($ millions)           14.4   13.8   12.6    12.7    15.8   11.2    15.0    10.7    12.3   13.6           15.8        11.2         15.0         10.7         12.3
+
+ Debt Service as % of Revenue       4.6%    4.4%   3.7%   3.7%    3.9%    2.6%    3.3%   2.2%    2.5%    2.8%        4.5%           2.9%         4.1%         2.5%         2.7%
+        Excludes $24.0 million of cross-over debt issued in May 2017 to internally defease $25.3 million in Jan 2018.
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Debt service costs rose slightly in 2024, and again in 2025. Although the debt service costs increased in 2025
+ to $13.6 million, it is right in line with the ten-year annual average of $13.2 million.
+ As a percentage of revenues, debt service has hovered between 2.2 and 4.6% from 2016 and 2025. The
+ most recent 2025 amount of 2.8% is on the lower end of the ten-year range.
+
+ Debt service spiked in 2020 due in part to calling $3.1 million of general obligation debt pertaining to the Tri-
+ Mountain Golf Course. The increase in 2022 is related to changing reporting resultant from GASB 96 SBITAs.
+
+
+
+
+                                                                                  21
+                                                           Clark County Financial Trends 2025
+Overlapping Debt per Capita                                                                                                                     Debt
+Description:
+ This includes general obligation bonds for all taxing districts in Clark County. It does not include the County’s
+ proprietary fund debt or any other long-term liability. High levels of overlapping debt could strain taxpayers'
+ ability and willingness to pay more. This could result in difficulty in passing future levies and bonds that
+ require voter approval.
+
+                          Clark County Trend: Positive
+                          Warning Trend: Increasing overlapping debt
+                                      𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷
+                          Formula:
+                                           𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+
+
+Data:
+
+                                                            Overlapping Debt per Capita
+     $3,500
+     $3,250
+     $3,000
+     $2,750
+     $2,500
+     $2,250
+     $2,000
+     $1,750
+     $1,500
+     $1,250
+
+
+
+
+ Overlapping Debt Per Capita                 2016             2017       2018      2019      2020      2021      2022      2023      2024      2025
+
+ Total Overlapping Debt ($ million)            780.4             902.5   1,145.3   1,397.6   1,566.0   1,578.8   1,556.6   1,482.5   1,513.1   1,497.7
+
+ Overlapping Debt Per Capita ($)               1,693             1,916    2,388     2,861     3,137     3,077     2,988     2,811     2,821     2,761
+
+ County Debt as a % of Total Debt              15.0%            12.0%      9.4%      7.0%      5.3%      4.9%      4.3%      3.9%      6.5%      5.9%
+
+
+ Source: Clark County Annual Comprehensive Financial Report (ACFR)
+
+Highlights:
+ Over the ten years, overlapping debt per capita ranged from a low of $1,693 in 2016 to a high of $3,137 in
+ 2020.
+ At December 31, 2025, overlapping debt is attributable to:
+       School Districts ........... $ 1,110.0 million ................... 74.1%
+       Cities ................................. 166.0 million ................... 11.1%
+       Ports ................................. 108.2 million ..................... 7.2%
+       County ................................ 88.3 million ..................... 5.9%
+       Fire Districts and Libraries account for less than 2% of overlapping debt each.
+
+
+
+
+                                                                                    22
+                                                     Clark County Financial Trends 2025
+Economic Base
+Population of Cities and County
+Description:
+ Changes in population can directly affect the County’s revenues, such as property tax collections and cost of
+ services. Population level indirectly relates to such issues as employment, income, and property value. An
+ increasing population is generally considered positive. Fiscal hardship can occur as a result of rapid
+ increases or decreases in population. It may be fiscally difficult to react to service level changes as a result of
+ a sudden change in population.
+
+                         Clark County Trend: Positive
+                         Warning Trend: Rapid change in population
+
+
+
+
+Data:
+
+                                   Population of Cities and County
+   350,000
+   325,000
+   300,000
+                                                                                                                              Cities
+   275,000
+   250,000
+   225,000                                                                                                                    Unincorporated
+                                                                                                                              County
+   200,000
+   175,000
+   150,000
+
+
+
+ Population of Cities and County              2016      2017      2018       2019     2020      2021      2022      2023      2024      2025
+ Total Clark County                           461,010   471,000   479,500   488,500   499,200   513,100   520,900   527,400   536,300   542,400
+ Incorporated Cities & Towns                  242,260   247,840   257,080   261,610   269,100   276,900   283,250   287,245   292,470   296,650
+ Unincorporated County                        218,750   223,160   222,420   226,890   230,100   236,200   237,650   240,155   243,830   245,750
+ Unincorporated as a % of Total                47.5%     47.4%     46.4%      46.4%    46.1%     46.0%     45.6%     45.5%     45.5%     45.3%
+ Annual Change in Unincorporated Population    1.94%     2.02%    -0.33%      2.01%    1.41%     2.65%     0.61%     1.05%     1.53%     0.79%
+
+
+ Source: Washington Office of Financial Management (OFM)
+
+Highlights:
+ Population in unincorporated areas of Clark County has grown by 1.4% annually on average over the last ten
+ years. During the same period, the population of incorporated cities and towns grew by 2.5% annually on
+ average. Total county averaged 2.0% annual growth.
+ Overall growth from 2016 to 2025 was 12.3% in unincorporated areas, 22.5% in the cities and towns, and
+ 17.7% county-wide. As a comparison, nearby Oregon counties within the greater Portland Metro Area—
+ Washington County, Multnomah County, and Clackamas County—grew 6.0%, 1.9%, and 6.8% respectively.
+
+
+                                                                            23
+                                                         Clark County Financial Trends 2025
+Median Household Income                                                                                                              Economic Base
+Description:
+ Median household income is one measure of the County’s resident's ability to pay taxes. Generally, the
+ higher the median household income, the more sales taxes and business taxes the County generates. A
+ decline in median household income results in a loss of consumer purchasing power that can result in lower
+ sales taxes generated by the County.
+
+                         Clark County Trend: Positive
+                         Warning Trend: Decline in the level—or growth rate—of median household income adjusted
+                         for inflation
+                         Formula: For a geographic area, the “median” household income is determined by a standard distribution
+                         to be the income level at which one-half of all incomes are lower and one-half are greater.
+
+
+Data:
+
+                                  Median Household Income (Inflation Adjusted)
+    $115,000
+    $110,000
+    $105,000
+                                                                                                                                              Clark County
+    $100,000
+     $95,000
+     $90,000                                                                                                                                  Washington State
+     $85,000
+     $80,000
+     $75,000
+
+
+
+ Median Household Income                          2016       2017       2018        2019         2020        2021        2022        2023        2024        2025
+ Clark County Median Household Income ($)         66,782     71,922      71,659        80,407    76,929      83,790      91,149      94,198      103,738     105,087
+ Clark County Median Household Inc. - Inflation
+ Adjusted ($)                                     91,343     96,131      93,094     101,871      95,795      99,430     100,008      99,180      106,460     105,087
+ Washington State Median Household Income ($)     65,500     69,288      72,297        78,674    80,319      84,155      91,255      94,553       97,970      98,141
+ WA State Median Household Income ($) -
+ Inflation Adjusted                               89,590     92,610      93,922        99,675   100,016      99,863     100,124      99,554      100,540      98,141
+        Most recent year is a projection that is subject to change next year. Second most recent years is an estimate that may have changed from the prior year
+        report.
+
+
+ Source: Washington Office of Financial Management (OFM)
+
+Highlights:
+ Historically, the nominal median household income has decreased in periods following economic instability
+ (the early 2000s, the 2008/2009 housing market recession, the 2020 pandemic). Nominal household income
+ increased 1.3% from 2024 to 2025, but decreased 1.3% when adjusting for inflation.
+ Nominal median household income has increased 57.4% from 2016 to 2025. Adjusting for inflation, the ten-
+ year increase is 15.0%. The median household income in Washington State has increased 49.8% since 2016
+ (9.5%, inflation adjusted).
+
+
+
+                                                                                  24
+                                                                Clark County Financial Trends 2025
+Registered and Participating Voters                                                                                                                       Economic Base
+Description:
+ Electoral participation in the general election indicates the level of engagement and interest of the community
+ in the political process. Voter turnout is typically highest in the presidential election years.
+
+                         Clark County Trend: Positive
+                         Warning Trend: Decline in the percentage of votes cast in a general election compared to total
+                         registered voters, indicating low community engagement in the political process.
+                                              𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉 𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶
+                         Formula:
+                                          𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅𝑅 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉 𝑖𝑖𝑖𝑖 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸
+
+
+
+Data:
+
+                                                             Registered / Participating Voters
+    400,000                                                                                                                                                                      100%
+    350,000
+                                                                                                                                                                                 80%
+    300,000
+    250,000                                                                                                                                                                      60%
+    200,000
+    150,000                                                                                                                                                                      40%
+    100,000
+                                                                                                                                                                                 20%
+      50,000
+               0                                                                                                                                                                 0%
+
+
+                                 Registered Voters                                   Votes Cast in General Election                               Percent Participation
+
+ Registered/Participating Voters                        2016               2017              2018              2019        2020      2021      2022      2023      2024      2025
+ Registered Voters - General Election                   272,832           272,792           282,976            293,471     325,355   324,478   327,112   332,321   345,622   355,841
+ Votes Cast - General Election                          210,760             84,258          198,055            106,044     277,013   113,512   207,456    88,836   278,851   123,410
+ % of Registered Voters Casting Ballots                   77.2%             30.9%              70.0%               36.1%    85.1%     35.0%     63.4%     26.7%     80.7%     34.7%
+
+
+ Source: Clark County Elections Office
+
+Highlights:
+ Odd-year general elections (e.g. 2021, 2023, 2025) generally have a lower turnout than even-year elections,
+ because the latter have national candidates on the ballot. Presidential general elections (2016, 2020, 2024)
+ typically garner even greater participation. The 2020 presidential election year had a voter turnout of 85.1%,
+ and the 2024 election year saw eligible voter turnout of 80.7%.
+ The most recent election saw 34.7% voter participation, in line with 2021 and an improved turnout over the
+ 2023 election at 26.7%.
+ From 2016 to 2025, the number of registered voters in Clark County has increased 30.4%. The average
+ annual growth in voter rolls has been 3.4%, despite 2017 and 2021 seeing small (<1,000) decreases in
+ overall registered voter totals.
+
+
+
+
+                                                                                                            25
+                                                             Clark County Financial Trends 2025
+Assessed Property Values                                                                                                         Economic Base
+Description:
+ The valuation of all real and personal property located in Clark County as determined by the Clark County
+ Assessor. This does not include real property owned by state and local governments, schools, fire districts,
+ and other exempt organizations. A decline or diminished growth rate in real and personal property values
+ may indicate a potential reduction in property tax revenues.
+
+                          Clark County Trend: Positive
+                          Warning Trend: Decline in the assessed property values
+                          Formula: Total real and personal property tax assessments minus assessed valuations exempt
+                          from taxation
+
+
+
+Data:
+
+                       Assessed Real & Personal Property Values, $ billions
+   $140
+
+   $120
+                                                                                                                                        County-Wide
+   $100
+
+     $80                                                                                                                                Incorporated Area
+     $60
+                                                                                                                                        Unincorporated Area
+     $40
+
+     $20
+
+       $0
+
+
+
+ Assessed Property Values                                    2016     2017     2018        2019     2020     2021     2022     2023        2024     2025
+ Assess Property Values - Countywide ($ billions)              52.3     57.2     65.1        69.3     73.8     82.0     98.2    105.2       107.3    117.1
+ Assess Property Values - Incorporated Cities ($ billions)     27.5     30.8     34.8        37.3     39.8     44.3     52.8     56.9        58.3     63.6
+ Assess Property Values - Unicorp County ($ billions)          24.8     26.4     30.3        32.0     34.0     37.7     45.4     48.3        49.0     53.5
+
+
+ Source: Clark County Assessor’s Office
+
+Highlights:
+ The highest County total assessed real and personal property value was $117.1 billion in 2025, an increase of
+ $64.8 billion (124.0%) compared with 2016.
+ The annual increase in 2025 over 2024 was $9.8 billion, or 9.1%.
+ Assessed value of unincorporated Clark County properties increased at an average annual rate of 12.9%; the
+ average annual increase in assessed value within the incorporated cities was 14.6%.
+
+
+
+
+                                                                                      26
+                                                     Clark County Financial Trends 2025
+Residential & Commercial Development                                                                                     Economic Base
+Description:
+ Growth or decline of residential and commercial permits and the estimated value of the related residential or
+ commercial construction is an indication of the economic vitality of the construction sector of the County’s
+ economy.
+
+                        Clark County Trend: Mixed
+                        Warning Trend: Decline in residential and commercial development.
+                        Formula: The number and value of building permits issued by Clark County’s Building & Code
+                        Division. Includes estimated value of construction at the time of application.
+
+
+
+Data:
+
+                      Residential & Commercial Development Value, $ millions
+     $700
+
+     $600
+                                                                                                                                    Residential
+     $500                                                                                                                           Permit Values
+
+     $400
+
+     $300
+                                                                                                                                    Commercial
+     $200                                                                                                                           Permit Values
+     $100
+
+         $-
+
+
+
+ Development Value                                   2016     2017     2018        2019     2020     2021     2022     2023      2024     2025
+ Residential Development Dollar Value [SFR+MFR] ($
+ millions)                                            505.4    503.4    591.7       479.0    491.8    508.3    482.5    580.9     642.7    453.6
+   Residential Permits Processed                      1,535    1,586    1,667       1,353    1,281    1,200     965     1,077     1,024     786
+   Number of MFR Units Permitted                       207      370      330         214      745      404      412       354      690      201
+ Commercial Development Dollar Value ($ millions)     190.7    185.7    199.3       162.1    101.1    153.0    248.1    559.6     283.4    308.9
+   Commercial Permits Processed                        363      399      169          92       64      127      149       122       77      100
+ Combined Development Value ($ millions)              696.1    689.1    791.0       641.1    592.9    661.3    730.5   1,140.6    926.0    762.6
+
+
+ Source: Clark County Community Development Department
+
+Highlights:
+ The value of residential permits in 2025 was $453.6 million (Single-Family, 772 permits for $418.2 million;
+ Multi-Family, 14 permits for $35.4 million). This was a decrease in value of $189.1 million (29.4%).
+ The commercial permit value processed increased $25.5 million (9.0%) over 2024.
+
+
+
+
+                                                                              27
+                                               Clark County Financial Trends 2025
+Community Employment                                                                                           Economic Base
+Description:
+ The unemployment rate and number of jobs in the community make up the employment base. A strong
+ employment base may provide a cushion against economic downturn in individual business categories. A
+ decline in employment base can indicate the early signs of an overall decline in economic activities and a
+ decline in government revenues.
+
+                        Clark County Trend: Positive
+                        Warning Trend: Increasing rate of local unemployment.
+                        Formula: Local Unemployment Rate
+
+
+
+Data:
+
+                                           Community Unemployment, Average Annual
+ 10.0%
+  9.0%
+  8.0%
+  7.0%
+  6.0%
+  5.0%
+  4.0%
+  3.0%
+  2.0%
+  1.0%
+  0.0%
+
+
+                                            County                WA State                    Portland Metro
+
+ Community Unemployment (average annual)        2016    2017    2018        2019    2020    2021    2022    2023      2024    2025
+
+ Clark County Unemployment Rate                  6.1%    5.2%    4.9%        4.7%    6.7%    5.0%    3.9%      3.9%    4.3%    4.5%
+
+ WA State Unemployment Rate                      5.3%    4.7%    4.5%        4.3%    8.4%    5.2%    4.1%      4.2%    4.5%    4.7%
+
+ Portland Metro Unemployment Rate                4.6%    3.9%    3.8%        3.5%    7.5%    4.9%    3.6%      3.5%    4.0%    5.0%
+
+
+ Source: Washington Employment Security Department; United States Bureau of Labor Statistics
+
+Highlights:
+ From 2016 to 2025, unemployment in Clark County peaked at 6.7% in 2020 due to the COVID-19 pandemic.
+ Pandemic unemployment was at its highest in April 2020 at a rate of 14.8%. By December 2021, the monthly
+ unemployment rate dropped back down to 4.5%, indicating a quick recovery. Recovery from the Great
+ Recession was slower, causing higher unemployment as late as 2016.
+ The 2025 Clark County average unemployment rate of 4.5% is lower than the State of Washington and the
+ unemployment rate for the Portland Metro area.
+
+
+
+
+                                                                       28
+                                                       Clark County Financial Trends 2025
+Taxable Sales of Goods and Services                                                                                            Economic Base
+Description:
+ Taxable sales are highly responsive to economic conditions and are a direct reflection of consumer
+ confidence. When the economic base perceives a potential decline in the economy, consumer confidence
+ and spending trend down, which may result in a reduction in the generation of governmental revenues due to
+ lower taxable sales.
+
+                            Clark County Trend: Mixed
+                            Warning Trend: Decline in adjusted taxable sales of goods and services.
+                            Formula: The value of transactions involving the sale and purchase of taxable goods and services,
+                            including use-tax values. Excludes nontaxable transactions.
+
+Data:
+
+                                                Taxable Sales of Goods and Services, $ billions
+     $12                                                                                                                          Cities & Towns,
+                                                                                                                                  Actual
+     $10
+
+       $8                                                                                                                         Cities, Inflation
+                                                                                                                                  Adjusted
+       $6
+
+       $4                                                                                                                         Unincorporated,
+                                                                                                                                  Actual
+       $2
+                                                                                                                                  Unincorporated,
+       $0                                                                                                                         Inflation Adjusted
+
+
+
+
+ Sales & Use Taxes                                    2016     2017     2018      2019       2020     2021     2022     2023     2024      2025
+ Cities & Towns, Nominal ($ billions)                    4.8      5.3      5.9         6.3      6.7      8.2      8.7      8.9      9.1       9.3
+ Cities & Towns, Annual Growth %                       7.0%     9.9%    10.8%         7.2%    5.3%    22.8%     6.4%     2.6%     1.8%       2.3%
+ Cities & Towns, Adjusted ($ billions)                   6.6      7.1      7.7         8.0      8.3      9.7      9.5      9.4      9.3       9.3
+ Unincorporated County, Nominal ($ billions)             2.0      2.2      2.4         2.5      2.7      3.1      3.4      3.4      3.6       3.6
+ Unincorporated County, Growth %                       9.8%    10.5%     8.9%         4.1%   10.2%    13.6%     8.7%     1.5%     3.1%       2.2%
+ Unincorporated County, Adjusted ($ billions)            2.7      2.9      3.1         3.2      3.4      3.7      3.7      3.6      3.6       3.6
+ County-Wide, Nominal ($ billions)                       6.8      7.5      8.3         8.8      9.4     11.3     12.1     12.4     12.6      12.9
+ County-Wide, Adjusted ($ billions)                      9.3     10.0     10.8        11.2     11.7     13.4     13.3     13.0     13.0      12.9
+ Use Taxable as a % of Total Sales & Use Taxable       4.7%     4.2%     4.5%         3.6%    3.3%     3.2%     3.7%     3.5%     3.6%       4.0%
+
+
+ Source: Washington Department of Revenues
+
+Highlights:
+ In 2025, Sales & Use taxes in unincorporated areas of Clark County increased 2.2% over 2024, and
+ increased 2.3% in the incorporated cities/towns.
+ During the reporting period, county-wide taxable sales and use (adjusted for inflation) peaked in 2021 with
+ $13.4 billion but has remained stable around the $13 million mark since.
+ The growth rate of Sales and Use taxes in the County and Cities has been slow in recent years, below 5%
+ since 2023. Recent legislation widened the applicability of taxes to additional goods and services, which may
+ result in additional revenues in the coming years.
+
+                                                                                 29
+

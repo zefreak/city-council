@@ -23,7 +23,7 @@ deliverable is a recurring brief in `briefs/`, plus a rolling page of what is co
 | Publishing | GitHub Pages from `docs/` — the push is the publish |
 | Notifications | working — Taskwarrior task + desktop popup |
 | Cloud routine | disabled — sandbox egress blocks both councils |
-| Briefs written | 52 — through the 14 Oct evening run: **Clark adopted the comp plan 13 Oct, unanimously, adding a six-month rural cluster moratorium (Columbian; minutes unpublished), hearing due within 60 days. Clark Planning Commission 15 Oct takes TIP testimony to the end of the hearing (found by hand, not in the digest). Vancouver 19 Oct: MFTE ordinance text identical to first reading, none of the three flagged errors fixed; Q3 homelessness report has no Bridge Shelter bed-opening date ahead of the 1 Nov buffer.** No Clark 20 Oct agenda posted by 7pm 14 Oct. Earlier: comp plan ordinance 9 Oct; AMR +10%; eviction writ fees $55→$135 |
+| Briefs written | 57 — through the 16 Oct evening run: **Signed comp plan ordinance confirms 5–0, Exhibit 10 (resource-zone code) struck, emergency moratorium on resource-zone cluster divisions; hearing undated. Clark 20 Oct is a 6pm meeting (broad-scope comment), NCRTS Phase II $1.6M with the site cut by willing sellers and no siting hearing scheduled. 21 Oct: County forecast has unassigned General Fund going negative in 2028 (−$15.3M), −$82.3M by 2031; Council Time 8.3 may carry Yung's mobile home park rent-cap carve-out fix. Vancouver AAC 22 Oct: revised charter drops the manager veto and restores NPS/grants, keeps manager-set agendas, adds a cancellation power.** Earlier: Vancouver 19 Oct MFTE unchanged since first reading; eviction writ fees $55→$135 adopted 13 Oct |
 
 ## Layout
 

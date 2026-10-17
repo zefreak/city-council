@@ -373,3 +373,36 @@ reported rather than verified.
 
 Not established: whether the moratorium was adopted as part of the ordinance or by a separate
 motion; the final votes on items 7–9; and whether any other amendment was made.
+
+## Update, 16 October — the outcome, now from primary sources
+
+**The 14 October update above relied on *The Columbian*. The signed ordinance and the minutes are now
+published, and they confirm it, with one correction of detail.** Sources: the as-adopted Ordinance
+2026-10-01 (doc 239066, 269 pp., signed *"ADOPTED this 13th day of October, 2026"*), the signed staff
+report SR250-26 (doc 239061) and the 13 October minutes (doc 238921, on the 20 October consent agenda).
+All are cached at `data/clark-county/2026-10-13-adopted/` and `data/clark-county/2026-10-20/`.
+
+- **Vote: 5–0.** Yung, Belkot, Fuentes, Little and Marshall all voted in favour (ordinance §4). The
+  minutes record Separate Business 1 only as *"See Court Reporter Verbatim Minutes"*. That transcript
+  is not yet posted.
+- **What the Council changed on 13 October** (final recital, p. 2): *"1. Remove Exhibit 10 from the
+  ordinance, 2. Immediately adopt and impose an emergency development moratorium on all land divisions
+  allowed by the resource zone cluster provisions of CCC 40.210.010(E) … and 3. To hold a public
+  hearing on the moratorium within at least sixty days."* Exhibit 10 was the amendment to **CCC
+  40.210.010**, the forest and agriculture districts code, including the FR-40/AG-20 cluster tables.
+  Its page in the adopted ordinance now reads *"Do not apply Exhibit 10 per October 13, 2026, County
+  Council decision."*
+- **The correction.** The Columbian described it as a moratorium on *"rural cluster development"*. The
+  ordinance is narrower and more exact: it covers **land divisions under the resource-zone cluster
+  provisions**, which means forest and agricultural land, and it is an **emergency** moratorium under
+  RCW 36.70A.390. The new resource-zone rules were also dropped outright, rather than adopted and
+  then paused. The left read in the 14 October update stands: this protects farmland.
+- **Exhibit 3a (parcel details, 42 pp.) is now attached** (doc 238481). The 9 October update said it
+  was missing. It was downloaded but not read.
+- Same minutes: **the Sheriff's fee ordinance (2026-10-02) passed 5–0** after one public comment, so
+  eviction writ fees rise from $55 to $135 on 1 January 2027 unless the text was amended. The minutes
+  do not say. **The HB 2060 interlocal passed** (Yung/Little, all aye).
+
+Still not established: the moratorium hearing date; the published notice-of-adoption date, which
+starts the 60-day Hearings Board appeal clock; and whether anything else in the 269-page text differs
+from the 247-page draft (no full diff was run).

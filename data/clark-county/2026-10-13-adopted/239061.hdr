@@ -1,0 +1,45 @@
+HTTP/2 307 
+server: nginx
+date: Sat, 17 Oct 2026 02:08:20 GMT
+content-type: text/html; charset=utf-8
+content-length: 550
+location: https://clark.wa.gov/sites/default/files/media/document/2026-10/sr250-26.pdf
+cache-control: max-age=86400, public
+x-shield-status: disabled
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+vary: Cookie
+x-generator: Drupal 10 (https://www.drupal.org)
+content-security-policy: report-uri /report-csp-violation; upgrade-insecure-requests
+x-xss-protection: 1
+strict-transport-security: max-age=1000
+from-origin: same
+referrer-policy: no-referrer-when-downgrade
+expect-ct: max-age=86400
+x-drupal-cache: MISS
+last-modified: Sat, 17 Oct 2026 02:08:19 GMT
+etag: "1792202899"
+x-request-id: v-9fa343ce-c9cf-11f1-bcf8-0fbb9f5d7775
+x-ah-environment: prod
+age: 0
+via: varnish
+x-cache: MISS
+
+HTTP/2 200 
+server: nginx
+date: Sat, 17 Oct 2026 02:08:20 GMT
+content-type: application/pdf
+content-length: 261311
+x-content-type-options: nosniff
+last-modified: Fri, 16 Oct 2026 19:31:35 GMT
+accept-ranges: bytes
+cache-control: max-age=31536000
+expires: Sun, 17 Oct 2027 02:08:20 GMT
+x-request-id: v-9fb71ee4-c9cf-11f1-a1f6-8fa51bb63e06
+x-ah-environment: prod
+age: 0
+via: varnish
+x-cache: MISS
+
